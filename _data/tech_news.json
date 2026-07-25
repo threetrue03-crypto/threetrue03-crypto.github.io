@@ -1,5 +1,158 @@
 [
   {
+    "title": "Japanese Firm to Train Robot with AI to Reproduce Runners' Movements",
+    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260403-320199/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49043825",
+    "source": "japannews.yomiuri.co.jp",
+    "date": "2026-07-25T02:05:04Z",
+    "timestamp": 1784945104,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Bonsai – a toolkit for building AI chat apps with branchable conversations",
+    "url": "https://github.com/Joaoha/Bonsai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49043023",
+    "source": "github.com",
+    "date": "2026-07-24T23:52:26Z",
+    "timestamp": 1784937146,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "What Happened to WordPerfect? Why the Dominant Word Processor Disappeared",
+    "url": "https://www.youtube.com/watch?v=cMnjphv3DQo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49042941",
+    "source": "youtube.com",
+    "date": "2026-07-24T23:38:15Z",
+    "timestamp": 1784936295,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Open Weights and American AI Leadership",
+    "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49042884",
+    "source": "microsoft.com",
+    "date": "2026-07-24T23:29:30Z",
+    "timestamp": 1784935770,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Amazon cracks down on use of AI images by sellers after New York law",
+    "url": "https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49042870",
+    "source": "cnbc.com",
+    "date": "2026-07-24T23:28:18Z",
+    "timestamp": 1784935698,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ford Will Use Apple Maps in New Self-Driving System",
+    "url": "https://www.nytimes.com/2026/07/23/business/ford-apple-software-self-driving.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49042577",
+    "source": "nytimes.com",
+    "date": "2026-07-24T22:50:42Z",
+    "timestamp": 1784933442,
+    "category": "Physical AI"
+  },
+  {
+    "title": "The challenges companies face to launch robotaxis in Europe",
+    "url": "https://www.euronews.com/business/2026/07/24/the-challenges-companies-face-to-launch-robotaxis-in-europe",
+    "discussion_url": "https://news.ycombinator.com/item?id=49042518",
+    "source": "euronews.com",
+    "date": "2026-07-24T22:43:25Z",
+    "timestamp": 1784933005,
+    "category": "Physical AI"
+  },
+  {
+    "title": "GR: Ban LLM Contributions from Debian",
+    "url": "https://lists.debian.org/debian-vote/2026/07/msg00000.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49042516",
+    "source": "lists.debian.org",
+    "date": "2026-07-24T22:43:15Z",
+    "timestamp": 1784932995,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Bubble: 'The risk is everywhere' – Ed Zitron [video]",
+    "url": "https://www.youtube.com/watch?v=bTwnn-5TpmQ",
+    "discussion_url": "https://news.ycombinator.com/item?id=49042262",
+    "source": "youtube.com",
+    "date": "2026-07-24T22:14:26Z",
+    "timestamp": 1784931266,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI companies stripping universities of their best computer scientists",
+    "url": "https://www.theatlantic.com/technology/2026/07/ai-companies-hiring-academics/688002/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49042252",
+    "source": "theatlantic.com",
+    "date": "2026-07-24T22:13:20Z",
+    "timestamp": 1784931200,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
+    "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49042205",
+    "source": "bleepingcomputer.com",
+    "date": "2026-07-24T22:07:06Z",
+    "timestamp": 1784930826,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: KoIME – A BYOK voice-input keyboard for Android",
+    "url": "https://github.com/sakai-sktech/koime",
+    "discussion_url": "https://news.ycombinator.com/item?id=49042134",
+    "source": "github.com",
+    "date": "2026-07-24T22:00:34Z",
+    "timestamp": 1784930434,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "One ChatGPT link could smuggle a rogue AI agent into your company",
+    "url": "https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116",
+    "discussion_url": "https://news.ycombinator.com/item?id=49041967",
+    "source": "theregister.com",
+    "date": "2026-07-24T21:43:30Z",
+    "timestamp": 1784929410,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Canadian legislator's speech features telltale signs of LLM prompting",
+    "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49041941",
+    "source": "arstechnica.com",
+    "date": "2026-07-24T21:41:06Z",
+    "timestamp": 1784929266,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Network expert Glenn Fiedler warns game devs to fix game vulnerabilities with AI",
+    "url": "https://gamesbeat.com/network-expert-glenn-fiedler-warns-game-programmers-to-fix-game-code-vulnerabilities-that-ai-can-now-find-exclusive/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49041863",
+    "source": "gamesbeat.com",
+    "date": "2026-07-24T21:34:39Z",
+    "timestamp": 1784928879,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI in Linux",
+    "url": "https://drewdevault.com/blog/AI-in-Linux/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49041851",
+    "source": "drewdevault.com",
+    "date": "2026-07-24T21:33:34Z",
+    "timestamp": 1784928814,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI is giving software its quartz moment",
+    "url": "https://axiacore.com/blog/ai-is-giving-software-its-quartz-moment-1016/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49041745",
+    "source": "axiacore.com",
+    "date": "2026-07-24T21:24:04Z",
+    "timestamp": 1784928244,
+    "category": "Machine Learning"
+  },
+  {
     "title": "GitHub – makerspet/oomwoo: Open-source vacuum robot cleaner",
     "url": "https://github.com/makerspet/oomwoo",
     "discussion_url": "https://news.ycombinator.com/item?id=49040684",
@@ -9,120 +162,12 @@
     "category": "Physical AI"
   },
   {
-    "title": "Ask HN: What's the best AI coding tool today?",
-    "url": "https://news.ycombinator.com/item?id=49040025",
-    "discussion_url": "https://news.ycombinator.com/item?id=49040025",
-    "source": "news.ycombinator.com",
-    "date": "2026-07-24T18:49:35Z",
-    "timestamp": 1784918975,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "pixtuoid: AI coding agents, visualized as pixel-art coworkers in terminal office",
-    "url": "https://github.com/IvanWng97/pixtuoid",
-    "discussion_url": "https://news.ycombinator.com/item?id=49039960",
-    "source": "github.com",
-    "date": "2026-07-24T18:44:35Z",
-    "timestamp": 1784918675,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
-    "discussion_url": "https://news.ycombinator.com/item?id=49039831",
-    "source": "bloomberg.com",
-    "date": "2026-07-24T18:34:16Z",
-    "timestamp": 1784918056,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-    "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49039822",
-    "source": "arstechnica.com",
-    "date": "2026-07-24T18:33:21Z",
-    "timestamp": 1784918001,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Canada's Anti-AI Movement Is Powered by an AI News Aggregator",
-    "url": "https://ethanplant.ca/writing/stop-the-datacentre/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49039761",
-    "source": "ethanplant.ca",
-    "date": "2026-07-24T18:28:51Z",
-    "timestamp": 1784917731,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Zuckerberg's AI optimism blitz using nostalgia to sell AI future amid backlash",
-    "url": "https://fortune.com/2026/07/23/zuckerberg-ai-ad-optimism-backlash/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49039334",
-    "source": "fortune.com",
-    "date": "2026-07-24T17:54:11Z",
-    "timestamp": 1784915651,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Alphabet's $205B AI spending plan spooks investors",
-    "url": "https://www.latimes.com/business/story/2026-07-23/alphabets-205-billion-ai-spending-plan-spooks-investors",
-    "discussion_url": "https://news.ycombinator.com/item?id=49039297",
-    "source": "latimes.com",
-    "date": "2026-07-24T17:50:22Z",
-    "timestamp": 1784915422,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI has a weak spine. We proved it on R/AmIOverreacting",
-    "url": "https://modelsagree.com/labs/ai-judges-overreacting",
-    "discussion_url": "https://news.ycombinator.com/item?id=49039213",
-    "source": "modelsagree.com",
-    "date": "2026-07-24T17:44:15Z",
-    "timestamp": 1784915055,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Torchwright: Compile computation graphs into vanilla transformer weights",
-    "url": "https://ood.dev/posts/torchwright-intro/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49038788",
-    "source": "ood.dev",
-    "date": "2026-07-24T17:17:06Z",
-    "timestamp": 1784913426,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: Why call it \"inference\" instead of just \"model hosting\"?",
-    "url": "https://news.ycombinator.com/item?id=49038752",
-    "discussion_url": "https://news.ycombinator.com/item?id=49038752",
-    "source": "news.ycombinator.com",
-    "date": "2026-07-24T17:15:27Z",
-    "timestamp": 1784913327,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google Ordered to Face AI Defamation Lawsuit",
-    "url": "https://news.bloomberglaw.com/esg/google-ordered-to-face-robby-starbucks-ai-defamation-lawsuit",
-    "discussion_url": "https://news.ycombinator.com/item?id=49038628",
-    "source": "news.bloomberglaw.com",
-    "date": "2026-07-24T17:08:54Z",
-    "timestamp": 1784912934,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI forcing Big Tech to spend more than it earns; Wall Street hates it",
-    "url": "https://fortune.com/2026/07/23/ai-big-tech-never-spend-more-than-earns-wall-street-hates-it/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49038395",
-    "source": "fortune.com",
-    "date": "2026-07-24T16:55:43Z",
-    "timestamp": 1784912143,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A CPU Made of Atoms: IBM's Breakthrough 0.7nm Transistors [video]",
-    "url": "https://www.youtube.com/watch?v=_mRJw2F6j5Q",
-    "discussion_url": "https://news.ycombinator.com/item?id=49037197",
-    "source": "youtube.com",
-    "date": "2026-07-24T15:34:52Z",
-    "timestamp": 1784907292,
+    "title": "GFQL: Run Cypher on Polars, CPU and GPU, no database required",
+    "url": "https://www.graphistry.com/blog/cypher-on-polars-cpu-gpu-graph-engine",
+    "discussion_url": "https://news.ycombinator.com/item?id=49040527",
+    "source": "graphistry.com",
+    "date": "2026-07-24T19:25:47Z",
+    "timestamp": 1784921147,
     "category": "Computer Architecture"
   },
   {
