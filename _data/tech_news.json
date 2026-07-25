@@ -1,5 +1,122 @@
 [
   {
+    "title": "Show HN: TS Compiler Knowledge Graph reducing AI tokens about 90%",
+    "url": "https://github.com/samchon/ttsc/tree/master/packages/graph",
+    "discussion_url": "https://news.ycombinator.com/item?id=49045581",
+    "source": "github.com",
+    "date": "2026-07-25T08:13:38Z",
+    "timestamp": 1784967218,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Secretary Wright Announces First AI \"Genesis Mission\" Projects",
+    "url": "https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate",
+    "discussion_url": "https://news.ycombinator.com/item?id=49045445",
+    "source": "energy.gov",
+    "date": "2026-07-25T07:50:15Z",
+    "timestamp": 1784965815,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Library and the Librarian: Why AI Needs Two Different Brains",
+    "url": "https://www.innerkore.com/blog/library-and-librarian/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49045382",
+    "source": "innerkore.com",
+    "date": "2026-07-25T07:40:13Z",
+    "timestamp": 1784965213,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Instella-Moe: An Open Mixture-of-Experts Language Model",
+    "url": "https://rocm.blogs.amd.com/artificial-intelligence/instella-moe/README.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49045333",
+    "source": "rocm.blogs.amd.com",
+    "date": "2026-07-25T07:31:48Z",
+    "timestamp": 1784964708,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Substack adds AI text detection to all notes and posts",
+    "url": "https://post.substack.com/p/against-claudefishing",
+    "discussion_url": "https://news.ycombinator.com/item?id=49045198",
+    "source": "post.substack.com",
+    "date": "2026-07-25T07:04:43Z",
+    "timestamp": 1784963083,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Herv AI – Spatial Intelligence",
+    "url": "https://hervai.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49044905",
+    "source": "hervai.com",
+    "date": "2026-07-25T06:00:08Z",
+    "timestamp": 1784959208,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: AI Anime Finder – Natural language semantic search for AniList",
+    "url": "https://zlvox.com/tools/anime-finder",
+    "discussion_url": "https://news.ycombinator.com/item?id=49044883",
+    "source": "zlvox.com",
+    "date": "2026-07-25T05:52:29Z",
+    "timestamp": 1784958749,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Architecture of Deep Thought: Fight AI Speed with Cognitive Friction",
+    "url": "https://varnam.substack.com/p/the-architecture-of-deep-thought",
+    "discussion_url": "https://news.ycombinator.com/item?id=49044674",
+    "source": "varnam.substack.com",
+    "date": "2026-07-25T05:02:54Z",
+    "timestamp": 1784955774,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AWS announces AWS-bench, an open-source benchmark for AI agents on AWS",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49044597",
+    "source": "aws.amazon.com",
+    "date": "2026-07-25T04:42:35Z",
+    "timestamp": 1784954555,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Best Open-Weight LLMs by Memory Required (July 2026)",
+    "url": "https://claude.ai/public/artifacts/4b74e194-a4b2-414f-a313-8d4b98a92b0b",
+    "discussion_url": "https://news.ycombinator.com/item?id=49044520",
+    "source": "claude.ai",
+    "date": "2026-07-25T04:26:29Z",
+    "timestamp": 1784953589,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Coordination layer for AI coding agents, built on Git",
+    "url": "https://github.com/zyads/loom-vcs",
+    "discussion_url": "https://news.ycombinator.com/item?id=49044517",
+    "source": "github.com",
+    "date": "2026-07-25T04:25:57Z",
+    "timestamp": 1784953557,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+    "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+    "discussion_url": "https://news.ycombinator.com/item?id=49044400",
+    "source": "wsj.com",
+    "date": "2026-07-25T04:00:54Z",
+    "timestamp": 1784952054,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+    "url": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49044126",
+    "source": "arstechnica.com",
+    "date": "2026-07-25T03:05:55Z",
+    "timestamp": 1784948755,
+    "category": "Physical AI"
+  },
+  {
     "title": "Japanese Firm to Train Robot with AI to Reproduce Runners' Movements",
     "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260403-320199/",
     "discussion_url": "https://news.ycombinator.com/item?id=49043825",
@@ -9,15 +126,6 @@
     "category": "Physical AI"
   },
   {
-    "title": "Bonsai – a toolkit for building AI chat apps with branchable conversations",
-    "url": "https://github.com/Joaoha/Bonsai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49043023",
-    "source": "github.com",
-    "date": "2026-07-24T23:52:26Z",
-    "timestamp": 1784937146,
-    "category": "Machine Learning"
-  },
-  {
     "title": "What Happened to WordPerfect? Why the Dominant Word Processor Disappeared",
     "url": "https://www.youtube.com/watch?v=cMnjphv3DQo",
     "discussion_url": "https://news.ycombinator.com/item?id=49042941",
@@ -25,24 +133,6 @@
     "date": "2026-07-24T23:38:15Z",
     "timestamp": 1784936295,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Open Weights and American AI Leadership",
-    "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49042884",
-    "source": "microsoft.com",
-    "date": "2026-07-24T23:29:30Z",
-    "timestamp": 1784935770,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Amazon cracks down on use of AI images by sellers after New York law",
-    "url": "https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49042870",
-    "source": "cnbc.com",
-    "date": "2026-07-24T23:28:18Z",
-    "timestamp": 1784935698,
-    "category": "Machine Learning"
   },
   {
     "title": "Ford Will Use Apple Maps in New Self-Driving System",
@@ -63,42 +153,6 @@
     "category": "Physical AI"
   },
   {
-    "title": "GR: Ban LLM Contributions from Debian",
-    "url": "https://lists.debian.org/debian-vote/2026/07/msg00000.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49042516",
-    "source": "lists.debian.org",
-    "date": "2026-07-24T22:43:15Z",
-    "timestamp": 1784932995,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Bubble: 'The risk is everywhere' – Ed Zitron [video]",
-    "url": "https://www.youtube.com/watch?v=bTwnn-5TpmQ",
-    "discussion_url": "https://news.ycombinator.com/item?id=49042262",
-    "source": "youtube.com",
-    "date": "2026-07-24T22:14:26Z",
-    "timestamp": 1784931266,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI companies stripping universities of their best computer scientists",
-    "url": "https://www.theatlantic.com/technology/2026/07/ai-companies-hiring-academics/688002/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49042252",
-    "source": "theatlantic.com",
-    "date": "2026-07-24T22:13:20Z",
-    "timestamp": 1784931200,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
-    "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49042205",
-    "source": "bleepingcomputer.com",
-    "date": "2026-07-24T22:07:06Z",
-    "timestamp": 1784930826,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Show HN: KoIME – A BYOK voice-input keyboard for Android",
     "url": "https://github.com/sakai-sktech/koime",
     "discussion_url": "https://news.ycombinator.com/item?id=49042134",
@@ -108,67 +162,13 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "One ChatGPT link could smuggle a rogue AI agent into your company",
-    "url": "https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116",
-    "discussion_url": "https://news.ycombinator.com/item?id=49041967",
-    "source": "theregister.com",
-    "date": "2026-07-24T21:43:30Z",
-    "timestamp": 1784929410,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Canadian legislator's speech features telltale signs of LLM prompting",
-    "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49041941",
-    "source": "arstechnica.com",
-    "date": "2026-07-24T21:41:06Z",
-    "timestamp": 1784929266,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Network expert Glenn Fiedler warns game devs to fix game vulnerabilities with AI",
-    "url": "https://gamesbeat.com/network-expert-glenn-fiedler-warns-game-programmers-to-fix-game-code-vulnerabilities-that-ai-can-now-find-exclusive/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49041863",
-    "source": "gamesbeat.com",
-    "date": "2026-07-24T21:34:39Z",
-    "timestamp": 1784928879,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI in Linux",
-    "url": "https://drewdevault.com/blog/AI-in-Linux/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49041851",
-    "source": "drewdevault.com",
-    "date": "2026-07-24T21:33:34Z",
-    "timestamp": 1784928814,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI is giving software its quartz moment",
-    "url": "https://axiacore.com/blog/ai-is-giving-software-its-quartz-moment-1016/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49041745",
-    "source": "axiacore.com",
-    "date": "2026-07-24T21:24:04Z",
-    "timestamp": 1784928244,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "GitHub – makerspet/oomwoo: Open-source vacuum robot cleaner",
-    "url": "https://github.com/makerspet/oomwoo",
-    "discussion_url": "https://news.ycombinator.com/item?id=49040684",
-    "source": "github.com",
-    "date": "2026-07-24T19:40:30Z",
-    "timestamp": 1784922030,
+    "title": "Waymo explores split with Uber as robotaxi tensions deepen",
+    "url": "https://www.ft.com/content/9dcb5d72-13aa-4f9c-ac6d-e022860df5ea",
+    "discussion_url": "https://news.ycombinator.com/item?id=49041889",
+    "source": "ft.com",
+    "date": "2026-07-24T21:36:43Z",
+    "timestamp": 1784929003,
     "category": "Physical AI"
-  },
-  {
-    "title": "GFQL: Run Cypher on Polars, CPU and GPU, no database required",
-    "url": "https://www.graphistry.com/blog/cypher-on-polars-cpu-gpu-graph-engine",
-    "discussion_url": "https://news.ycombinator.com/item?id=49040527",
-    "source": "graphistry.com",
-    "date": "2026-07-24T19:25:47Z",
-    "timestamp": 1784921147,
-    "category": "Computer Architecture"
   },
   {
     "title": "WebGPU Unleashed: A Practical Tutorial",
@@ -178,15 +178,6 @@
     "date": "2026-07-24T14:04:50Z",
     "timestamp": 1784901890,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Japanese AI Robots Used to Replicate Skilled Confectioners' Abilities",
-    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260719-338181/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49031963",
-    "source": "japannews.yomiuri.co.jp",
-    "date": "2026-07-24T06:44:13Z",
-    "timestamp": 1784875453,
-    "category": "Physical AI"
   },
   {
     "title": "Learn WebGPU for C++",
