@@ -1,11 +1,92 @@
 [
   {
+    "title": "Codeberg is blocking LLM generated code",
+    "url": "https://codeberg.org/Codeberg/org/compare/17bdb39b0c1ecd0e423f3ba592650ce57fcdfbf5..71149c7fc95ccfeae36109b5cddca339e4aa1473?files=TermsOfUse.md",
+    "discussion_url": "https://news.ycombinator.com/item?id=49047431",
+    "source": "codeberg.org",
+    "date": "2026-07-25T13:30:00Z",
+    "timestamp": 1784986200,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The University After AI",
+    "url": "https://www.chronicle.com/article/the-university-after-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49046790",
+    "source": "chronicle.com",
+    "date": "2026-07-25T11:47:33Z",
+    "timestamp": 1784980053,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Saga: Source Attribution of Generative AI Videos (identifies the model used)",
+    "url": "https://arxiv.org/abs/2511.12834",
+    "discussion_url": "https://news.ycombinator.com/item?id=49046753",
+    "source": "arxiv.org",
+    "date": "2026-07-25T11:41:38Z",
+    "timestamp": 1784979698,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Give your AI ears – live meeting transcripts over MCP on macOS",
+    "url": "https://voxai.ethanflow.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49046664",
+    "source": "voxai.ethanflow.com",
+    "date": "2026-07-25T11:27:48Z",
+    "timestamp": 1784978868,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Agentreg – DNS for AI agents (self-hosted, single Go binary)",
+    "url": "https://github.com/mkk2026/agentreg",
+    "discussion_url": "https://news.ycombinator.com/item?id=49046554",
+    "source": "github.com",
+    "date": "2026-07-25T11:08:55Z",
+    "timestamp": 1784977735,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Has anyone figured out how to guard LLMs on kernel level?",
+    "url": "https://news.ycombinator.com/item?id=49046312",
+    "discussion_url": "https://news.ycombinator.com/item?id=49046312",
+    "source": "news.ycombinator.com",
+    "date": "2026-07-25T10:21:12Z",
+    "timestamp": 1784974872,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Case Study: AI Trainer Platform and Job Board [Months 1-6]",
+    "url": "https://www.indiehackers.com/post/case-study-ai-trainer-platform-and-job-board-months-1-6-fcb5f25d54",
+    "discussion_url": "https://news.ycombinator.com/item?id=49045840",
+    "source": "indiehackers.com",
+    "date": "2026-07-25T08:58:21Z",
+    "timestamp": 1784969901,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Sharecoin – GPU fork of Bitcoin with a randomness beacon",
+    "url": "https://github.com/TVHeroes/Sharecoin",
+    "discussion_url": "https://news.ycombinator.com/item?id=49045694",
+    "source": "github.com",
+    "date": "2026-07-25T08:30:28Z",
+    "timestamp": 1784968228,
+    "category": "Computer Architecture"
+  },
+  {
     "title": "Show HN: TS Compiler Knowledge Graph reducing AI tokens about 90%",
     "url": "https://github.com/samchon/ttsc/tree/master/packages/graph",
     "discussion_url": "https://news.ycombinator.com/item?id=49045581",
     "source": "github.com",
     "date": "2026-07-25T08:13:38Z",
     "timestamp": 1784967218,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "General Resolution: LLM Usage in Debian",
+    "url": "https://www.debian.org/vote/2026/vote_002",
+    "discussion_url": "https://news.ycombinator.com/item?id=49045540",
+    "source": "debian.org",
+    "date": "2026-07-25T08:06:30Z",
+    "timestamp": 1784966790,
     "category": "Machine Learning"
   },
   {
@@ -18,6 +99,15 @@
     "category": "Machine Learning"
   },
   {
+    "title": "At the altar of AI capex, Google is sacrificing the golden goose",
+    "url": "https://twitter.com/i/status/2080229375773941871",
+    "discussion_url": "https://news.ycombinator.com/item?id=49045443",
+    "source": "twitter.com",
+    "date": "2026-07-25T07:49:58Z",
+    "timestamp": 1784965798,
+    "category": "Machine Learning"
+  },
+  {
     "title": "The Library and the Librarian: Why AI Needs Two Different Brains",
     "url": "https://www.innerkore.com/blog/library-and-librarian/",
     "discussion_url": "https://news.ycombinator.com/item?id=49045382",
@@ -27,147 +117,12 @@
     "category": "Machine Learning"
   },
   {
-    "title": "Instella-Moe: An Open Mixture-of-Experts Language Model",
-    "url": "https://rocm.blogs.amd.com/artificial-intelligence/instella-moe/README.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49045333",
-    "source": "rocm.blogs.amd.com",
-    "date": "2026-07-25T07:31:48Z",
-    "timestamp": 1784964708,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Substack adds AI text detection to all notes and posts",
-    "url": "https://post.substack.com/p/against-claudefishing",
-    "discussion_url": "https://news.ycombinator.com/item?id=49045198",
-    "source": "post.substack.com",
-    "date": "2026-07-25T07:04:43Z",
-    "timestamp": 1784963083,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Herv AI – Spatial Intelligence",
-    "url": "https://hervai.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49044905",
-    "source": "hervai.com",
-    "date": "2026-07-25T06:00:08Z",
-    "timestamp": 1784959208,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: AI Anime Finder – Natural language semantic search for AniList",
-    "url": "https://zlvox.com/tools/anime-finder",
-    "discussion_url": "https://news.ycombinator.com/item?id=49044883",
-    "source": "zlvox.com",
-    "date": "2026-07-25T05:52:29Z",
-    "timestamp": 1784958749,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Architecture of Deep Thought: Fight AI Speed with Cognitive Friction",
-    "url": "https://varnam.substack.com/p/the-architecture-of-deep-thought",
-    "discussion_url": "https://news.ycombinator.com/item?id=49044674",
-    "source": "varnam.substack.com",
-    "date": "2026-07-25T05:02:54Z",
-    "timestamp": 1784955774,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AWS announces AWS-bench, an open-source benchmark for AI agents on AWS",
-    "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49044597",
-    "source": "aws.amazon.com",
-    "date": "2026-07-25T04:42:35Z",
-    "timestamp": 1784954555,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Best Open-Weight LLMs by Memory Required (July 2026)",
-    "url": "https://claude.ai/public/artifacts/4b74e194-a4b2-414f-a313-8d4b98a92b0b",
-    "discussion_url": "https://news.ycombinator.com/item?id=49044520",
-    "source": "claude.ai",
-    "date": "2026-07-25T04:26:29Z",
-    "timestamp": 1784953589,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Coordination layer for AI coding agents, built on Git",
-    "url": "https://github.com/zyads/loom-vcs",
-    "discussion_url": "https://news.ycombinator.com/item?id=49044517",
-    "source": "github.com",
-    "date": "2026-07-25T04:25:57Z",
-    "timestamp": 1784953557,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-    "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
-    "discussion_url": "https://news.ycombinator.com/item?id=49044400",
-    "source": "wsj.com",
-    "date": "2026-07-25T04:00:54Z",
-    "timestamp": 1784952054,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
     "url": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
     "discussion_url": "https://news.ycombinator.com/item?id=49044126",
     "source": "arstechnica.com",
     "date": "2026-07-25T03:05:55Z",
     "timestamp": 1784948755,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Japanese Firm to Train Robot with AI to Reproduce Runners' Movements",
-    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260403-320199/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49043825",
-    "source": "japannews.yomiuri.co.jp",
-    "date": "2026-07-25T02:05:04Z",
-    "timestamp": 1784945104,
-    "category": "Physical AI"
-  },
-  {
-    "title": "What Happened to WordPerfect? Why the Dominant Word Processor Disappeared",
-    "url": "https://www.youtube.com/watch?v=cMnjphv3DQo",
-    "discussion_url": "https://news.ycombinator.com/item?id=49042941",
-    "source": "youtube.com",
-    "date": "2026-07-24T23:38:15Z",
-    "timestamp": 1784936295,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Ford Will Use Apple Maps in New Self-Driving System",
-    "url": "https://www.nytimes.com/2026/07/23/business/ford-apple-software-self-driving.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49042577",
-    "source": "nytimes.com",
-    "date": "2026-07-24T22:50:42Z",
-    "timestamp": 1784933442,
-    "category": "Physical AI"
-  },
-  {
-    "title": "The challenges companies face to launch robotaxis in Europe",
-    "url": "https://www.euronews.com/business/2026/07/24/the-challenges-companies-face-to-launch-robotaxis-in-europe",
-    "discussion_url": "https://news.ycombinator.com/item?id=49042518",
-    "source": "euronews.com",
-    "date": "2026-07-24T22:43:25Z",
-    "timestamp": 1784933005,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: KoIME – A BYOK voice-input keyboard for Android",
-    "url": "https://github.com/sakai-sktech/koime",
-    "discussion_url": "https://news.ycombinator.com/item?id=49042134",
-    "source": "github.com",
-    "date": "2026-07-24T22:00:34Z",
-    "timestamp": 1784930434,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Waymo explores split with Uber as robotaxi tensions deepen",
-    "url": "https://www.ft.com/content/9dcb5d72-13aa-4f9c-ac6d-e022860df5ea",
-    "discussion_url": "https://news.ycombinator.com/item?id=49041889",
-    "source": "ft.com",
-    "date": "2026-07-24T21:36:43Z",
-    "timestamp": 1784929003,
     "category": "Physical AI"
   },
   {
