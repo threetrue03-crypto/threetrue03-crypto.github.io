@@ -1,5 +1,86 @@
 [
   {
+    "title": "Teachers decry plan for humanoid robot in New York high school",
+    "url": "https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school",
+    "discussion_url": "https://news.ycombinator.com/item?id=49055628",
+    "source": "theguardian.com",
+    "date": "2026-07-26T07:32:30Z",
+    "timestamp": 1785051150,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Let Local LLMs Search the Web Without Burning 100k+ Tokens",
+    "url": "https://medium.com/@marcbuilds/tinysearch-let-your-small-local-llm-search-the-web-without-burning-the-whole-context-window-759538cf59bf",
+    "discussion_url": "https://news.ycombinator.com/item?id=49055623",
+    "source": "medium.com",
+    "date": "2026-07-26T07:30:28Z",
+    "timestamp": 1785051028,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Mousecrack – Bypass agent mouse detection with deep learning",
+    "url": "https://github.com/puffinsoft/mousecrack",
+    "discussion_url": "https://news.ycombinator.com/item?id=49055418",
+    "source": "github.com",
+    "date": "2026-07-26T06:46:21Z",
+    "timestamp": 1785048381,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: I built an AI that roasts GitHub profiles",
+    "url": "https://gitroast-kappa.vercel.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49055342",
+    "source": "gitroast-kappa.vercel.app",
+    "date": "2026-07-26T06:28:24Z",
+    "timestamp": 1785047304,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Hans Moravec was right about AI",
+    "url": "https://nymag.com/intelligencer/article/hans-moravec-interview.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49055308",
+    "source": "nymag.com",
+    "date": "2026-07-26T06:22:05Z",
+    "timestamp": 1785046925,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Microsoft launches new in-house AI models. Cuts costs up to 89% versus OpenAI",
+    "url": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49055188",
+    "source": "venturebeat.com",
+    "date": "2026-07-26T05:59:36Z",
+    "timestamp": 1785045576,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Introduction to LLM Inference",
+    "url": "https://kraghavan.ca/llm-infrastructure/inference/2026/04/14/re-introduction-to-inference.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49054962",
+    "source": "kraghavan.ca",
+    "date": "2026-07-26T05:18:42Z",
+    "timestamp": 1785043122,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Now that Huang believes in open source, looking forward to CUDA open sourcing",
+    "url": "https://xcancel.com/Mononofu/status/2080937562739531837",
+    "discussion_url": "https://news.ycombinator.com/item?id=49054710",
+    "source": "xcancel.com",
+    "date": "2026-07-26T04:22:21Z",
+    "timestamp": 1785039741,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "MIT to become hotbed of AI video surveillance",
+    "url": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49054638",
+    "source": "schneier.com",
+    "date": "2026-07-26T04:07:54Z",
+    "timestamp": 1785038874,
+    "category": "Machine Learning"
+  },
+  {
     "title": "Lowest, real-time On-Demand and Spot GPU prices across every cloud provider",
     "url": "https://gpu.atarimae.dev/",
     "discussion_url": "https://news.ycombinator.com/item?id=49054386",
@@ -63,69 +144,6 @@
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Axtary – Content Authorization for AI Agents",
-    "url": "https://axtary.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49053543",
-    "source": "axtary.com",
-    "date": "2026-07-26T01:02:04Z",
-    "timestamp": 1785027724,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I scanned my AI agent framework for destructive/consequential actions, and wow",
-    "url": "https://www.actenon.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49053520",
-    "source": "actenon.com",
-    "date": "2026-07-26T00:58:07Z",
-    "timestamp": 1785027487,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Collective Intelligence: The Next Frontier of AI",
-    "url": "https://github.com/ailinone/collective-intelligence",
-    "discussion_url": "https://news.ycombinator.com/item?id=49053465",
-    "source": "github.com",
-    "date": "2026-07-26T00:49:55Z",
-    "timestamp": 1785026995,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "SEC acquiring AI agents to monitor phone locations, social media, credit headers",
-    "url": "https://jackpoulson.substack.com/p/securities-and-exchange-commission",
-    "discussion_url": "https://news.ycombinator.com/item?id=49053339",
-    "source": "jackpoulson.substack.com",
-    "date": "2026-07-26T00:31:44Z",
-    "timestamp": 1785025904,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "George Hotz talk at AMD Advancing AI 2026 [video]",
-    "url": "https://www.youtube.com/watch?v=QyrQeeDZUG4",
-    "discussion_url": "https://news.ycombinator.com/item?id=49053263",
-    "source": "youtube.com",
-    "date": "2026-07-26T00:20:31Z",
-    "timestamp": 1785025231,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Personal AI Assistant, Anywhere",
-    "url": "https://www.heysolin.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49053240",
-    "source": "heysolin.com",
-    "date": "2026-07-26T00:17:15Z",
-    "timestamp": 1785025035,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Should you use AI for a task? Here's a simple way to decide",
-    "url": "https://www.theguardian.com/commentisfree/2026/jul/24/should-you-use-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49053023",
-    "source": "theguardian.com",
-    "date": "2026-07-25T23:47:02Z",
-    "timestamp": 1785023222,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Nvprobe – Open-source, zero-setup CLI for CUDA benchmarks",
     "url": "https://github.com/SergioZ3R0/nvprobe",
     "discussion_url": "https://news.ycombinator.com/item?id=49052495",
@@ -159,24 +177,6 @@
     "source": "johnjeffers.com",
     "date": "2026-07-25T20:20:44Z",
     "timestamp": 1785010844,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Ask HN: HotPin – lossless 120B MoE inference on 24GB RAM (CPU, 50 loc)",
-    "url": "https://news.ycombinator.com/item?id=49050356",
-    "discussion_url": "https://news.ycombinator.com/item?id=49050356",
-    "source": "news.ycombinator.com",
-    "date": "2026-07-25T18:41:01Z",
-    "timestamp": 1785004861,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Robotics startups are hiring across several roles",
-    "url": "https://robotclub.substack.com/p/icymi-figure-hits-1000-humanoids",
-    "discussion_url": "https://news.ycombinator.com/item?id=49049977",
-    "source": "robotclub.substack.com",
-    "date": "2026-07-25T18:02:01Z",
-    "timestamp": 1785002521,
     "category": "Physical AI"
   },
   {
