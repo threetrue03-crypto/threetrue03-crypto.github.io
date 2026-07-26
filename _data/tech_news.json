@@ -1,147 +1,129 @@
 [
   {
-    "title": "Deadly storm in Chile disrupts copper mines and raises AI supply concerns",
-    "url": "https://www.ft.com/content/cd0b6148-a9a7-4763-b6d3-bb33e10b9899",
-    "discussion_url": "https://news.ycombinator.com/item?id=49058109",
-    "source": "ft.com",
-    "date": "2026-07-26T13:37:48Z",
-    "timestamp": 1785073068,
+    "title": "LLM Cliche Highlighter",
+    "url": "https://tools.simonwillison.net/llm-cliche-highlighter",
+    "discussion_url": "https://news.ycombinator.com/item?id=49061434",
+    "source": "tools.simonwillison.net",
+    "date": "2026-07-26T19:19:29Z",
+    "timestamp": 1785093569,
     "category": "Machine Learning"
   },
   {
-    "title": "Why workers are nostalgic for life before AI",
-    "url": "https://www.ft.com/content/2ddef625-df80-4690-9475-f3ce86171593",
-    "discussion_url": "https://news.ycombinator.com/item?id=49058024",
-    "source": "ft.com",
-    "date": "2026-07-26T13:29:55Z",
-    "timestamp": 1785072595,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Coinbase Switches to Chinese AI Models GLM and Kimi, Cuts AI Spending by 50%",
-    "url": "https://mlq.ai/news/coinbase-switches-to-chinese-ai-models-glm-and-kimi-cuts-ai-spending-by-50/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49057963",
-    "source": "mlq.ai",
-    "date": "2026-07-26T13:21:54Z",
-    "timestamp": 1785072114,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Cuts Long Horizon Inference Costs by 50% via external KV Cache Offload",
-    "url": "https://github.com/openlake-project/openlake",
-    "discussion_url": "https://news.ycombinator.com/item?id=49057767",
-    "source": "github.com",
-    "date": "2026-07-26T13:02:21Z",
-    "timestamp": 1785070941,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "US tech groups cut 140k jobs despite AI spending boom",
-    "url": "https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f",
-    "discussion_url": "https://news.ycombinator.com/item?id=49057704",
-    "source": "ft.com",
-    "date": "2026-07-26T12:54:10Z",
-    "timestamp": 1785070450,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Moody's says AI spending threatens credit of Amazon, Meta, Alphabet, others",
-    "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49057291",
-    "source": "cnbc.com",
-    "date": "2026-07-26T12:05:13Z",
-    "timestamp": 1785067513,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Bond market anxiety is growing over AI capex budgets",
-    "url": "https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49057254",
-    "source": "cnbc.com",
-    "date": "2026-07-26T12:02:29Z",
-    "timestamp": 1785067349,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I built a canvas where LLM chats become an editable map",
-    "url": "https://github.com/chenxiachan/thoughtdag",
-    "discussion_url": "https://news.ycombinator.com/item?id=49057101",
-    "source": "github.com",
-    "date": "2026-07-26T11:42:22Z",
-    "timestamp": 1785066142,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Tokenomics: What AI tokens cost and where they're wasted",
-    "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics",
-    "discussion_url": "https://news.ycombinator.com/item?id=49057082",
-    "source": "github.com",
-    "date": "2026-07-26T11:39:19Z",
-    "timestamp": 1785065959,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The perils of parsing type inference declarations in C",
-    "url": "https://sebsite.pw/w/20260725-auto.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49056892",
-    "source": "sebsite.pw",
-    "date": "2026-07-26T11:12:22Z",
-    "timestamp": 1785064342,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Chatbots Know How to Make Deadly Biological Weapons. Some Will Teach You",
-    "url": "https://www.wsj.com/tech/ai/openai-chatbot-biological-weapons-poison-3d808e6c",
-    "discussion_url": "https://news.ycombinator.com/item?id=49056855",
-    "source": "wsj.com",
-    "date": "2026-07-26T11:06:20Z",
-    "timestamp": 1785063980,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Wmux – A workspace multiplexer for AI agents",
-    "url": "https://github.com/openwong2kim/wmux",
-    "discussion_url": "https://news.ycombinator.com/item?id=49056854",
-    "source": "github.com",
-    "date": "2026-07-26T11:06:16Z",
-    "timestamp": 1785063976,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Robots programmed by kids to speak their Indigenous languages",
-    "url": "https://www.npr.org/2026/07/26/nx-s1-5825798/robot-speaks-endangered-native-american-languages",
-    "discussion_url": "https://news.ycombinator.com/item?id=49056286",
-    "source": "npr.org",
-    "date": "2026-07-26T09:33:24Z",
-    "timestamp": 1785058404,
+    "title": "Robotic Adaptation Suffers from Data Collection Bottleneck",
+    "url": "https://news.ycombinator.com/item?id=49061030",
+    "discussion_url": "https://news.ycombinator.com/item?id=49061030",
+    "source": "news.ycombinator.com",
+    "date": "2026-07-26T18:41:32Z",
+    "timestamp": 1785091292,
     "category": "Physical AI"
   },
   {
-    "title": "Teachers decry plan for humanoid robot in New York high school",
-    "url": "https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school",
-    "discussion_url": "https://news.ycombinator.com/item?id=49055628",
-    "source": "theguardian.com",
-    "date": "2026-07-26T07:32:30Z",
-    "timestamp": 1785051150,
+    "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+    "url": "https://github.com/hertz-ai/HARTOS",
+    "discussion_url": "https://news.ycombinator.com/item?id=49061015",
+    "source": "github.com",
+    "date": "2026-07-26T18:40:08Z",
+    "timestamp": 1785091208,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: ModelFuzz – Open-source runtime guardrails for AI agents",
+    "url": "https://www.modelfuzz.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49060845",
+    "source": "modelfuzz.com",
+    "date": "2026-07-26T18:22:24Z",
+    "timestamp": 1785090144,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Narcissism, Machiavellianism, and AI Use",
+    "url": "https://thenextweb.com/news/dark-traits-problematic-ai-use-psychology",
+    "discussion_url": "https://news.ycombinator.com/item?id=49060815",
+    "source": "thenextweb.com",
+    "date": "2026-07-26T18:19:57Z",
+    "timestamp": 1785089997,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Readability for web and PDFs with TTS and local AI summary",
+    "url": "https://github.com/ldenoue/readability-read-aloud-web-pdf-ai-summary",
+    "discussion_url": "https://news.ycombinator.com/item?id=49060794",
+    "source": "github.com",
+    "date": "2026-07-26T18:18:42Z",
+    "timestamp": 1785089922,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: An interactive way to exploit an LLM without going to jail",
+    "url": "https://github.com/joshfischer1108/jailbreak-lab",
+    "discussion_url": "https://news.ycombinator.com/item?id=49060776",
+    "source": "github.com",
+    "date": "2026-07-26T18:16:42Z",
+    "timestamp": 1785089802,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Boffin – Staff-engineer layer for AI coding agents",
+    "url": "https://github.com/MicSm/boffin",
+    "discussion_url": "https://news.ycombinator.com/item?id=49060279",
+    "source": "github.com",
+    "date": "2026-07-26T17:28:03Z",
+    "timestamp": 1785086883,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Karen Hao: AI Doesn't Have to Be Built This Way",
+    "url": "https://www.bloomberg.com/features/2026-karen-hao-weekend-interview/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49059995",
+    "source": "bloomberg.com",
+    "date": "2026-07-26T16:57:49Z",
+    "timestamp": 1785085069,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Prompt: The Next AI Challenge Isn't the Model. It's the Organization",
+    "url": "https://aibusiness.com/agentic-ai/next-challenge-scaling-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49059970",
+    "source": "aibusiness.com",
+    "date": "2026-07-26T16:55:13Z",
+    "timestamp": 1785084913,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "What if LLMs escape through inferences itself? This is fiction. For now",
+    "url": "https://www.agrillo.it/EvasionEn.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49059660",
+    "source": "agrillo.it",
+    "date": "2026-07-26T16:23:56Z",
+    "timestamp": 1785083036,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
+    "url": "https://andys.blog/this-july-i-was-fired-from-simple-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49059587",
+    "source": "andys.blog",
+    "date": "2026-07-26T16:14:46Z",
+    "timestamp": 1785082486,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN:Anyone know a good AI slop detection service.",
+    "url": "https://news.ycombinator.com/item?id=49059537",
+    "discussion_url": "https://news.ycombinator.com/item?id=49059537",
+    "source": "news.ycombinator.com",
+    "date": "2026-07-26T16:09:10Z",
+    "timestamp": 1785082150,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "London Gatwick has launched a robotic airport parking service",
+    "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49058669",
+    "source": "aerospaceglobalnews.com",
+    "date": "2026-07-26T14:40:27Z",
+    "timestamp": 1785076827,
     "category": "Physical AI"
-  },
-  {
-    "title": "Now that Huang believes in open source, looking forward to CUDA open sourcing",
-    "url": "https://xcancel.com/Mononofu/status/2080937562739531837",
-    "discussion_url": "https://news.ycombinator.com/item?id=49054710",
-    "source": "xcancel.com",
-    "date": "2026-07-26T04:22:21Z",
-    "timestamp": 1785039741,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Lowest, real-time On-Demand and Spot GPU prices across every cloud provider",
-    "url": "https://gpu.atarimae.dev/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49054386",
-    "source": "gpu.atarimae.dev",
-    "date": "2026-07-26T03:24:26Z",
-    "timestamp": 1785036266,
-    "category": "Computer Architecture"
   },
   {
     "title": "Bringing PyTorch Monarch to AMD GPUs",
