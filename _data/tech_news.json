@@ -1,120 +1,183 @@
 [
   {
-    "title": "True open-source LLM Apertus 1.5 released",
-    "url": "https://www.apertus-ai.org/articles/2026-07-apertus-1-5/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49050483",
-    "source": "apertus-ai.org",
-    "date": "2026-07-25T18:56:17Z",
-    "timestamp": 1785005777,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What is the status on continual learning for LLMs?",
-    "url": "https://news.ycombinator.com/item?id=49050360",
-    "discussion_url": "https://news.ycombinator.com/item?id=49050360",
-    "source": "news.ycombinator.com",
-    "date": "2026-07-25T18:41:27Z",
-    "timestamp": 1785004887,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI agent goes rogue, hacks AI community, left escape plans in infrastructure",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-goes-rogue-and-hacks-popular-ai-community-left-escape-plans-for-future-models-inside-the-companys-infrastructure",
-    "discussion_url": "https://news.ycombinator.com/item?id=49050034",
-    "source": "tomshardware.com",
-    "date": "2026-07-25T18:07:06Z",
-    "timestamp": 1785002826,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Pyshackle: A hard pre-execution gate for AI agent tool calls (open source)",
-    "url": "https://pypi.org/project/pyshackle/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49049995",
-    "source": "pypi.org",
-    "date": "2026-07-25T18:04:11Z",
-    "timestamp": 1785002651,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: What do you do when your AI agents are working?",
-    "url": "https://news.ycombinator.com/item?id=49049986",
-    "discussion_url": "https://news.ycombinator.com/item?id=49049986",
-    "source": "news.ycombinator.com",
-    "date": "2026-07-25T18:03:26Z",
-    "timestamp": 1785002606,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nvidia Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
-    "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49049622",
-    "source": "blogs.nvidia.com",
-    "date": "2026-07-25T17:28:39Z",
-    "timestamp": 1785000519,
+    "title": "Lowest, real-time On-Demand and Spot GPU prices across every cloud provider",
+    "url": "https://gpu.atarimae.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49054386",
+    "source": "gpu.atarimae.dev",
+    "date": "2026-07-26T03:24:26Z",
+    "timestamp": 1785036266,
     "category": "Computer Architecture"
   },
   {
-    "title": "A system prompt to get AI to stop pretending to be human",
-    "url": "https://swiftrocks.com/a-system-prompt-to-get-ai-to-stop-pretending-to-be-human",
-    "discussion_url": "https://news.ycombinator.com/item?id=49049304",
-    "source": "swiftrocks.com",
-    "date": "2026-07-25T17:01:05Z",
-    "timestamp": 1784998865,
+    "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding",
+    "url": "https://danluu.com/ai-coding/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49054268",
+    "source": "danluu.com",
+    "date": "2026-07-26T03:02:17Z",
+    "timestamp": 1785034937,
     "category": "Machine Learning"
   },
   {
-    "title": "Silicon Valley Is Completely Divided over Chinese AI",
-    "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49049301",
-    "source": "wired.com",
-    "date": "2026-07-25T17:00:53Z",
-    "timestamp": 1784998853,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Protoai – an open source peer-to-peer network for sharing AI contexts",
-    "url": "https://github.com/johndebord/protoai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49049253",
+    "title": "Show HN: Rules that stop AI coding agents from breaking working code",
+    "url": "https://github.com/avenna01-ceo/claude-code-survival-kr",
+    "discussion_url": "https://news.ycombinator.com/item?id=49054070",
     "source": "github.com",
-    "date": "2026-07-25T16:56:56Z",
-    "timestamp": 1784998616,
+    "date": "2026-07-26T02:30:44Z",
+    "timestamp": 1785033044,
     "category": "Machine Learning"
   },
   {
-    "title": "The one name LLMs fear",
-    "url": "https://ramblingafter.substack.com/p/the-one-name-llms-fear",
-    "discussion_url": "https://news.ycombinator.com/item?id=49049244",
-    "source": "ramblingafter.substack.com",
-    "date": "2026-07-25T16:56:18Z",
-    "timestamp": 1784998578,
+    "title": "Multiple LLMs trying to reach a consensus",
+    "url": "https://trekhleb.dev/blog/2026/yesbrainer/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49054011",
+    "source": "trekhleb.dev",
+    "date": "2026-07-26T02:22:35Z",
+    "timestamp": 1785032555,
     "category": "Machine Learning"
   },
   {
-    "title": "Apple Is the King of AI and Nobody Knows It",
-    "url": "https://limitededitionjonathan.substack.com/p/apple-is-the-king-of-ai-and-nobody",
-    "discussion_url": "https://news.ycombinator.com/item?id=49049241",
-    "source": "limitededitionjonathan.substack.com",
-    "date": "2026-07-25T16:55:45Z",
-    "timestamp": 1784998545,
+    "title": "Dartmouth Workshop on Artificial Intelligence (1956)",
+    "url": "https://en.wikipedia.org/wiki/Dartmouth_workshop",
+    "discussion_url": "https://news.ycombinator.com/item?id=49053891",
+    "source": "en.wikipedia.org",
+    "date": "2026-07-26T02:02:43Z",
+    "timestamp": 1785031363,
     "category": "Machine Learning"
   },
   {
-    "title": "Politician reads AI prompt during assembly",
-    "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-    "discussion_url": "https://news.ycombinator.com/item?id=49048996",
+    "title": "Sally the Robot Was Coming to a New York School. Then the Plug Was Pulled",
+    "url": "https://www.nytimes.com/2026/07/25/nyregion/robot-school-new-york-salamanca.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49053875",
+    "source": "nytimes.com",
+    "date": "2026-07-26T01:59:55Z",
+    "timestamp": 1785031195,
+    "category": "Physical AI"
+  },
+  {
+    "title": "AI Can Now Design Drugs in Seconds; We Still Can't Tell You If They Work",
+    "url": "https://philippdubach.com/posts/ai-can-now-design-drugs-in-seconds-we-still-cant-tell-you-if-they-work./",
+    "discussion_url": "https://news.ycombinator.com/item?id=49053679",
+    "source": "philippdubach.com",
+    "date": "2026-07-26T01:28:59Z",
+    "timestamp": 1785029339,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Axtary – Content Authorization for AI Agents",
+    "url": "https://axtary.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49053543",
+    "source": "axtary.com",
+    "date": "2026-07-26T01:02:04Z",
+    "timestamp": 1785027724,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I scanned my AI agent framework for destructive/consequential actions, and wow",
+    "url": "https://www.actenon.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49053520",
+    "source": "actenon.com",
+    "date": "2026-07-26T00:58:07Z",
+    "timestamp": 1785027487,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Collective Intelligence: The Next Frontier of AI",
+    "url": "https://github.com/ailinone/collective-intelligence",
+    "discussion_url": "https://news.ycombinator.com/item?id=49053465",
+    "source": "github.com",
+    "date": "2026-07-26T00:49:55Z",
+    "timestamp": 1785026995,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "SEC acquiring AI agents to monitor phone locations, social media, credit headers",
+    "url": "https://jackpoulson.substack.com/p/securities-and-exchange-commission",
+    "discussion_url": "https://news.ycombinator.com/item?id=49053339",
+    "source": "jackpoulson.substack.com",
+    "date": "2026-07-26T00:31:44Z",
+    "timestamp": 1785025904,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "George Hotz talk at AMD Advancing AI 2026 [video]",
+    "url": "https://www.youtube.com/watch?v=QyrQeeDZUG4",
+    "discussion_url": "https://news.ycombinator.com/item?id=49053263",
     "source": "youtube.com",
-    "date": "2026-07-25T16:31:15Z",
-    "timestamp": 1784997075,
+    "date": "2026-07-26T00:20:31Z",
+    "timestamp": 1785025231,
     "category": "Machine Learning"
   },
   {
-    "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
-    "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49048958",
-    "source": "bleepingcomputer.com",
-    "date": "2026-07-25T16:27:06Z",
-    "timestamp": 1784996826,
+    "title": "Personal AI Assistant, Anywhere",
+    "url": "https://www.heysolin.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49053240",
+    "source": "heysolin.com",
+    "date": "2026-07-26T00:17:15Z",
+    "timestamp": 1785025035,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Should you use AI for a task? Here's a simple way to decide",
+    "url": "https://www.theguardian.com/commentisfree/2026/jul/24/should-you-use-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49053023",
+    "source": "theguardian.com",
+    "date": "2026-07-25T23:47:02Z",
+    "timestamp": 1785023222,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nvprobe – Open-source, zero-setup CLI for CUDA benchmarks",
+    "url": "https://github.com/SergioZ3R0/nvprobe",
+    "discussion_url": "https://news.ycombinator.com/item?id=49052495",
+    "source": "github.com",
+    "date": "2026-07-25T22:43:21Z",
+    "timestamp": 1785019401,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Tesla's robotaxis are moving in reverse",
+    "url": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49051835",
+    "source": "techcrunch.com",
+    "date": "2026-07-25T21:34:53Z",
+    "timestamp": 1785015293,
+    "category": "Physical AI"
+  },
+  {
+    "title": "AMD publishes machine-readable ISA so frontier models can write its GPU kernels",
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/24/amd-vibe-codes-its-way-past-the-cuda-moat-with-rocmai/5278580",
+    "discussion_url": "https://news.ycombinator.com/item?id=49051720",
+    "source": "theregister.com",
+    "date": "2026-07-25T21:21:26Z",
+    "timestamp": 1785014486,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "How to Manage Your Robot",
+    "url": "https://johnjeffers.com/how-to-manage-your-robot/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49051146",
+    "source": "johnjeffers.com",
+    "date": "2026-07-25T20:20:44Z",
+    "timestamp": 1785010844,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Ask HN: HotPin – lossless 120B MoE inference on 24GB RAM (CPU, 50 loc)",
+    "url": "https://news.ycombinator.com/item?id=49050356",
+    "discussion_url": "https://news.ycombinator.com/item?id=49050356",
+    "source": "news.ycombinator.com",
+    "date": "2026-07-25T18:41:01Z",
+    "timestamp": 1785004861,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Robotics startups are hiring across several roles",
+    "url": "https://robotclub.substack.com/p/icymi-figure-hits-1000-humanoids",
+    "discussion_url": "https://news.ycombinator.com/item?id=49049977",
+    "source": "robotclub.substack.com",
+    "date": "2026-07-25T18:02:01Z",
+    "timestamp": 1785002521,
+    "category": "Physical AI"
   },
   {
     "title": "Bringing PyTorch Monarch to AMD GPUs",
@@ -126,24 +189,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "teachers decry plan for humanoid robot in New York high school",
-    "url": "https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school",
-    "discussion_url": "https://news.ycombinator.com/item?id=49048149",
-    "source": "theguardian.com",
-    "date": "2026-07-25T15:03:20Z",
-    "timestamp": 1784991800,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: Cubic Doggo 06R: 12-DOF 4-Legged Robot with IMU",
-    "url": "https://github.com/SphericalCowww/CubicDoggo_06R",
-    "discussion_url": "https://news.ycombinator.com/item?id=49048024",
-    "source": "github.com",
-    "date": "2026-07-25T14:48:24Z",
-    "timestamp": 1784990904,
-    "category": "Physical AI"
-  },
-  {
     "title": "What if the RAM/GPU shortage is deliberate?",
     "url": "https://xn--vk5b17r.online/posts/ram-gpu-consp/",
     "discussion_url": "https://news.ycombinator.com/item?id=49046917",
@@ -151,23 +196,5 @@
     "date": "2026-07-25T12:11:25Z",
     "timestamp": 1784981485,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "WebGPU Unleashed: A Practical Tutorial",
-    "url": "https://shi-yan.github.io/webgpuunleashed/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49035845",
-    "source": "shi-yan.github.io",
-    "date": "2026-07-24T14:04:50Z",
-    "timestamp": 1784901890,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "D-FINE-seg – detection, instance and semantic segmentation in one model",
-    "url": "https://github.com/ArgoHA/D-FINE-seg",
-    "discussion_url": "https://news.ycombinator.com/item?id=48984984",
-    "source": "github.com",
-    "date": "2026-07-20T21:16:11Z",
-    "timestamp": 1784582171,
-    "category": "Computer Vision"
   }
 ]
