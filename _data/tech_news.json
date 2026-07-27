@@ -1,48 +1,129 @@
 [
   {
-    "title": "The Future According to LLMs",
-    "url": "https://www.thefutureaccordingtoai.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49066933",
-    "source": "thefutureaccordingtoai.com",
-    "date": "2026-07-27T09:07:17Z",
-    "timestamp": 1785143237,
+    "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+    "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49070427",
+    "source": "macrumors.com",
+    "date": "2026-07-27T14:42:41Z",
+    "timestamp": 1785163361,
     "category": "Machine Learning"
   },
   {
-    "title": "China State Media Says Support for Open AI Models Has Limits",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-27/china-state-media-says-support-for-open-ai-models-has-limits",
-    "discussion_url": "https://news.ycombinator.com/item?id=49066793",
-    "source": "bloomberg.com",
-    "date": "2026-07-27T08:49:13Z",
-    "timestamp": 1785142153,
+    "title": "Can LLMs identify 16 cards in 45 bit-queries?",
+    "url": "https://snwagh.com/blog/2026/open-problem/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49070341",
+    "source": "snwagh.com",
+    "date": "2026-07-27T14:36:12Z",
+    "timestamp": 1785162972,
     "category": "Machine Learning"
   },
   {
-    "title": "Ask HN: Where do those LLM-generated outreach emails come from?",
-    "url": "https://news.ycombinator.com/item?id=49066659",
-    "discussion_url": "https://news.ycombinator.com/item?id=49066659",
+    "title": "Show HN: Pilot Protocol – a network where AI agents find tools and each other",
+    "url": "https://news.ycombinator.com/item?id=49070104",
+    "discussion_url": "https://news.ycombinator.com/item?id=49070104",
     "source": "news.ycombinator.com",
-    "date": "2026-07-27T08:29:50Z",
-    "timestamp": 1785140990,
+    "date": "2026-07-27T14:20:18Z",
+    "timestamp": 1785162018,
     "category": "Machine Learning"
   },
   {
-    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-    "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49066519",
-    "source": "techcrunch.com",
-    "date": "2026-07-27T08:09:32Z",
-    "timestamp": 1785139772,
+    "title": "Show HN: Tilde Pay – Give your AI agent a bank account to pay for things",
+    "url": "https://my.tildepay.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49070028",
+    "source": "my.tildepay.ai",
+    "date": "2026-07-27T14:13:55Z",
+    "timestamp": 1785161635,
     "category": "Machine Learning"
   },
   {
-    "title": "The AI bioweapon risk isn't jailbreaks",
-    "url": "https://point.free/blog/the-ai-bioweapon-risk-isnt-jailbreaks/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49066477",
-    "source": "point.free",
-    "date": "2026-07-27T08:04:59Z",
-    "timestamp": 1785139499,
+    "title": "AI companies spend record sums on Washington lobbying",
+    "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+    "discussion_url": "https://news.ycombinator.com/item?id=49069939",
+    "source": "ft.com",
+    "date": "2026-07-27T14:07:48Z",
+    "timestamp": 1785161268,
     "category": "Machine Learning"
+  },
+  {
+    "title": "What policy makers need to know about AI safety and security",
+    "url": "https://educatedguesswork.org/posts/ai-security-policymakers/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49069872",
+    "source": "educatedguesswork.org",
+    "date": "2026-07-27T14:03:08Z",
+    "timestamp": 1785160988,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Can't Do the Last 20%",
+    "url": "https://www.vincentschmalbach.com/ai-cant-do-last-20/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49069691",
+    "source": "vincentschmalbach.com",
+    "date": "2026-07-27T13:50:00Z",
+    "timestamp": 1785160200,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI doesn't get better at this board game with practice",
+    "url": "https://epoch.ai/publications/earthborne-rangers-benchmark",
+    "discussion_url": "https://news.ycombinator.com/item?id=49069571",
+    "source": "epoch.ai",
+    "date": "2026-07-27T13:39:19Z",
+    "timestamp": 1785159559,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How to answer ethical concerns about AI",
+    "url": "https://www.theaithinker.com/p/how-to-answer-ethical-concerns-about",
+    "discussion_url": "https://news.ycombinator.com/item?id=49069553",
+    "source": "theaithinker.com",
+    "date": "2026-07-27T13:37:41Z",
+    "timestamp": 1785159461,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How al-Qaida and IS are adopting AI",
+    "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663",
+    "discussion_url": "https://news.ycombinator.com/item?id=49069548",
+    "source": "theconversation.com",
+    "date": "2026-07-27T13:37:15Z",
+    "timestamp": 1785159435,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI as Normal Technology",
+    "url": "https://knightcolumbia.org/content/ai-as-normal-technology",
+    "discussion_url": "https://news.ycombinator.com/item?id=49069537",
+    "source": "knightcolumbia.org",
+    "date": "2026-07-27T13:36:29Z",
+    "timestamp": 1785159389,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Arcade.js – Decompiling MAME ROMs into Idiomatic JavaScript with LLMs",
+    "url": "https://github.com/qarl/arcade-js",
+    "discussion_url": "https://news.ycombinator.com/item?id=49069383",
+    "source": "github.com",
+    "date": "2026-07-27T13:23:48Z",
+    "timestamp": 1785158628,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Underwater robots can now track diver stress via exhaled bubbles",
+    "url": "https://cse.umn.edu/college/news/ai-underwater-robots-can-now-track-diver-stress-exhaled-bubbles",
+    "discussion_url": "https://news.ycombinator.com/item?id=49069063",
+    "source": "cse.umn.edu",
+    "date": "2026-07-27T12:58:58Z",
+    "timestamp": 1785157138,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
+    "url": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available",
+    "discussion_url": "https://news.ycombinator.com/item?id=49067919",
+    "source": "omgubuntu.co.uk",
+    "date": "2026-07-27T11:19:33Z",
+    "timestamp": 1785151173,
+    "category": "Computer Architecture"
   },
   {
     "title": "Could a Neuroscientist Understand a Microprocessor?(2017)",
@@ -54,87 +135,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Show HN: Watch 14-Byte AI \"brains\" attempt to solve a 2D maze (Its hard)",
-    "url": "https://con-dog.github.io/MINIMIO-PUBLIC-FRONTEND/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49066083",
-    "source": "con-dog.github.io",
-    "date": "2026-07-27T07:15:15Z",
-    "timestamp": 1785136515,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "China wants to end AI romances",
-    "url": "https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances",
-    "discussion_url": "https://news.ycombinator.com/item?id=49066049",
-    "source": "economist.com",
-    "date": "2026-07-27T07:07:55Z",
-    "timestamp": 1785136075,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "ASD-STE100 Simplified Technical English for LLMs",
-    "url": "https://github.com/woosal1337/blog/tree/main/videos/ep01-the-cure-for-ai-slop",
-    "discussion_url": "https://news.ycombinator.com/item?id=49065956",
-    "source": "github.com",
-    "date": "2026-07-27T06:52:01Z",
-    "timestamp": 1785135121,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: Are we having a substantial increase of \"Show HN\" since LLM aided coding",
-    "url": "https://news.ycombinator.com/item?id=49065810",
-    "discussion_url": "https://news.ycombinator.com/item?id=49065810",
-    "source": "news.ycombinator.com",
-    "date": "2026-07-27T06:27:38Z",
-    "timestamp": 1785133658,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "F-14A Central Air Data Computer (CADC) FPGA Reconstruction",
-    "url": "https://github.com/ATaylorCEngFIET/f14_CADC/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49065469",
-    "source": "github.com",
-    "date": "2026-07-27T05:26:03Z",
-    "timestamp": 1785129963,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Why AI Doesn't Replace Software Architecture – It Makes It More Valuable",
-    "url": "https://wilburhimself.github.io/blog/65-why-ai-doesnt-replace-software-architecture/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49065143",
-    "source": "wilburhimself.github.io",
-    "date": "2026-07-27T04:16:37Z",
-    "timestamp": 1785125797,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: ASL V6 – Open-source AST red-teaming engine for Python AI agents",
-    "url": "https://github.com/sivaadityacoder/asl-v6",
-    "discussion_url": "https://news.ycombinator.com/item?id=49065021",
-    "source": "github.com",
-    "date": "2026-07-27T03:50:55Z",
-    "timestamp": 1785124255,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What breaks in production AI workflows?",
-    "url": "https://www.indiehackers.com/post/weve-reproduced-30-real-ai-runtime-failures-over-the-past-week-here-s-the-pattern-we-keep-seeing-4570fe4242",
-    "discussion_url": "https://news.ycombinator.com/item?id=49064805",
-    "source": "indiehackers.com",
-    "date": "2026-07-27T03:11:51Z",
-    "timestamp": 1785121911,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Open coordination stack for lattice-building robot swarms",
-    "url": "https://github.com/jdyar/discrete-assembly-sim",
-    "discussion_url": "https://news.ycombinator.com/item?id=49063724",
-    "source": "github.com",
-    "date": "2026-07-27T00:14:24Z",
-    "timestamp": 1785111264,
-    "category": "Physical AI"
-  },
-  {
     "title": "London Gatwick has launched a robotic airport parking service",
     "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
     "discussion_url": "https://news.ycombinator.com/item?id=49058669",
@@ -144,12 +144,12 @@
     "category": "Physical AI"
   },
   {
-    "title": "Bringing PyTorch Monarch to AMD GPUs",
-    "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49048689",
-    "source": "pytorch.org",
-    "date": "2026-07-25T15:55:27Z",
-    "timestamp": 1784994927,
-    "category": "Computer Architecture"
+    "title": "First Robotic Satellite Servicer Launched",
+    "url": "https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49026755",
+    "source": "nrl.navy.mil",
+    "date": "2026-07-23T19:21:41Z",
+    "timestamp": 1784834501,
+    "category": "Physical AI"
   }
 ]
