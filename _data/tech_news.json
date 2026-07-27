@@ -1,120 +1,138 @@
 [
   {
-    "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-    "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49070427",
-    "source": "macrumors.com",
-    "date": "2026-07-27T14:42:41Z",
-    "timestamp": 1785163361,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Can LLMs identify 16 cards in 45 bit-queries?",
-    "url": "https://snwagh.com/blog/2026/open-problem/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49070341",
-    "source": "snwagh.com",
-    "date": "2026-07-27T14:36:12Z",
-    "timestamp": 1785162972,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Pilot Protocol – a network where AI agents find tools and each other",
-    "url": "https://news.ycombinator.com/item?id=49070104",
-    "discussion_url": "https://news.ycombinator.com/item?id=49070104",
-    "source": "news.ycombinator.com",
-    "date": "2026-07-27T14:20:18Z",
-    "timestamp": 1785162018,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Tilde Pay – Give your AI agent a bank account to pay for things",
-    "url": "https://my.tildepay.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49070028",
-    "source": "my.tildepay.ai",
-    "date": "2026-07-27T14:13:55Z",
-    "timestamp": 1785161635,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI companies spend record sums on Washington lobbying",
-    "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-    "discussion_url": "https://news.ycombinator.com/item?id=49069939",
+    "title": "Nvidia bets $5B on Ilya Sutskever's AI breakthrough",
+    "url": "https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146",
+    "discussion_url": "https://news.ycombinator.com/item?id=49074634",
     "source": "ft.com",
-    "date": "2026-07-27T14:07:48Z",
-    "timestamp": 1785161268,
+    "date": "2026-07-27T19:41:22Z",
+    "timestamp": 1785181282,
     "category": "Machine Learning"
   },
   {
-    "title": "What policy makers need to know about AI safety and security",
-    "url": "https://educatedguesswork.org/posts/ai-security-policymakers/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49069872",
-    "source": "educatedguesswork.org",
-    "date": "2026-07-27T14:03:08Z",
-    "timestamp": 1785160988,
+    "title": "Show HN: Artifacted – private URLs for the small tools your AI builds",
+    "url": "https://artifacted.cloud/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49074529",
+    "source": "artifacted.cloud",
+    "date": "2026-07-27T19:31:37Z",
+    "timestamp": 1785180697,
     "category": "Machine Learning"
   },
   {
-    "title": "AI Can't Do the Last 20%",
-    "url": "https://www.vincentschmalbach.com/ai-cant-do-last-20/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49069691",
-    "source": "vincentschmalbach.com",
-    "date": "2026-07-27T13:50:00Z",
-    "timestamp": 1785160200,
+    "title": "State of AI Assisted Workflows July 2026",
+    "url": "https://handmadeoasis.com/state-of-ai-assisted-workflows-july-2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49074509",
+    "source": "handmadeoasis.com",
+    "date": "2026-07-27T19:29:50Z",
+    "timestamp": 1785180590,
     "category": "Machine Learning"
   },
   {
-    "title": "AI doesn't get better at this board game with practice",
-    "url": "https://epoch.ai/publications/earthborne-rangers-benchmark",
-    "discussion_url": "https://news.ycombinator.com/item?id=49069571",
-    "source": "epoch.ai",
-    "date": "2026-07-27T13:39:19Z",
-    "timestamp": 1785159559,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How to answer ethical concerns about AI",
-    "url": "https://www.theaithinker.com/p/how-to-answer-ethical-concerns-about",
-    "discussion_url": "https://news.ycombinator.com/item?id=49069553",
-    "source": "theaithinker.com",
-    "date": "2026-07-27T13:37:41Z",
-    "timestamp": 1785159461,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How al-Qaida and IS are adopting AI",
-    "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663",
-    "discussion_url": "https://news.ycombinator.com/item?id=49069548",
-    "source": "theconversation.com",
-    "date": "2026-07-27T13:37:15Z",
-    "timestamp": 1785159435,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI as Normal Technology",
-    "url": "https://knightcolumbia.org/content/ai-as-normal-technology",
-    "discussion_url": "https://news.ycombinator.com/item?id=49069537",
-    "source": "knightcolumbia.org",
-    "date": "2026-07-27T13:36:29Z",
-    "timestamp": 1785159389,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Arcade.js – Decompiling MAME ROMs into Idiomatic JavaScript with LLMs",
-    "url": "https://github.com/qarl/arcade-js",
-    "discussion_url": "https://news.ycombinator.com/item?id=49069383",
+    "title": "ShadowGlass, find shadow AI in firewall logs on-device",
+    "url": "https://github.com/JustinNarracott/ShadowGlass",
+    "discussion_url": "https://news.ycombinator.com/item?id=49074478",
     "source": "github.com",
-    "date": "2026-07-27T13:23:48Z",
-    "timestamp": 1785158628,
+    "date": "2026-07-27T19:27:26Z",
+    "timestamp": 1785180446,
     "category": "Machine Learning"
   },
   {
-    "title": "Underwater robots can now track diver stress via exhaled bubbles",
-    "url": "https://cse.umn.edu/college/news/ai-underwater-robots-can-now-track-diver-stress-exhaled-bubbles",
-    "discussion_url": "https://news.ycombinator.com/item?id=49069063",
-    "source": "cse.umn.edu",
-    "date": "2026-07-27T12:58:58Z",
-    "timestamp": 1785157138,
+    "title": "Ask HN: Do you hide your AI behind a curtain?",
+    "url": "https://news.ycombinator.com/item?id=49074416",
+    "discussion_url": "https://news.ycombinator.com/item?id=49074416",
+    "source": "news.ycombinator.com",
+    "date": "2026-07-27T19:20:45Z",
+    "timestamp": 1785180045,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Is FiberFS an AI Project?",
+    "url": "https://fiberfs.io/blog/is_fiberfs_an_ai_project",
+    "discussion_url": "https://news.ycombinator.com/item?id=49074315",
+    "source": "fiberfs.io",
+    "date": "2026-07-27T19:12:09Z",
+    "timestamp": 1785179529,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OCR accuracy: 100% & Fraud: 100 % – AI vs. template based fraud",
+    "url": "https://idp-software.com/news/the-100-dollar-forgery/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49074159",
+    "source": "idp-software.com",
+    "date": "2026-07-27T19:00:00Z",
+    "timestamp": 1785178800,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI in the Linux Kernel",
+    "url": "https://drewdevault.com/blog/AI-in-Linux/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49073909",
+    "source": "drewdevault.com",
+    "date": "2026-07-27T18:41:27Z",
+    "timestamp": 1785177687,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Open Secure AI Alliance aims to open-source AI security defences",
+    "url": "https://www.developer-tech.com/news/open-secure-ai-alliance-open-source-ai-security-defences/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49073815",
+    "source": "developer-tech.com",
+    "date": "2026-07-27T18:34:18Z",
+    "timestamp": 1785177258,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why Lattice Semiconductor buying a x86_64 BIOS company shows engineer disrespect",
+    "url": "https://news.ycombinator.com/item?id=49073595",
+    "discussion_url": "https://news.ycombinator.com/item?id=49073595",
+    "source": "news.ycombinator.com",
+    "date": "2026-07-27T18:21:39Z",
+    "timestamp": 1785176499,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "The robots programmed by kids to speak their Indigenous languages",
+    "url": "https://text.npr.org/nx-s1-5825798",
+    "discussion_url": "https://news.ycombinator.com/item?id=49073497",
+    "source": "text.npr.org",
+    "date": "2026-07-27T18:14:48Z",
+    "timestamp": 1785176088,
     "category": "Physical AI"
+  },
+  {
+    "title": "Language model harnesses are compositional generalizers",
+    "url": "https://alexzhang13.github.io/blog/2026/harness/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49073407",
+    "source": "alexzhang13.github.io",
+    "date": "2026-07-27T18:07:57Z",
+    "timestamp": 1785175677,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "To prevent LLMs from destroying education, the work must happen in class",
+    "url": "https://blainehansen.me/post/learning-is-for-students-not-llms/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49073349",
+    "source": "blainehansen.me",
+    "date": "2026-07-27T18:03:34Z",
+    "timestamp": 1785175414,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Jensen Huang's first post on Twitter is in defense of open access to AI models",
+    "url": "https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49073267",
+    "source": "pcgamer.com",
+    "date": "2026-07-27T17:56:20Z",
+    "timestamp": 1785174980,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Hardware-Software Co-Design for Float16 On-Device Training on RISC-V Single-Core",
+    "url": "https://arxiv.org/abs/2607.21130",
+    "discussion_url": "https://news.ycombinator.com/item?id=49071617",
+    "source": "arxiv.org",
+    "date": "2026-07-27T16:08:36Z",
+    "timestamp": 1785168516,
+    "category": "Computer Architecture"
   },
   {
     "title": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
