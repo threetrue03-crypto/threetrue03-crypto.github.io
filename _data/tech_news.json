@@ -1,12 +1,129 @@
 [
   {
-    "title": "LLM Cliche Highlighter",
-    "url": "https://tools.simonwillison.net/llm-cliche-highlighter",
-    "discussion_url": "https://news.ycombinator.com/item?id=49061434",
-    "source": "tools.simonwillison.net",
-    "date": "2026-07-26T19:19:29Z",
-    "timestamp": 1785093569,
+    "title": "What breaks in production AI workflows?",
+    "url": "https://www.indiehackers.com/post/weve-reproduced-30-real-ai-runtime-failures-over-the-past-week-here-s-the-pattern-we-keep-seeing-4570fe4242",
+    "discussion_url": "https://news.ycombinator.com/item?id=49064805",
+    "source": "indiehackers.com",
+    "date": "2026-07-27T03:11:51Z",
+    "timestamp": 1785121911,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Big Firms Are Starting to Hire Again, Defying Predictions of AI Wipeout",
+    "url": "https://www.wsj.com/business/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-f4974e99",
+    "discussion_url": "https://news.ycombinator.com/item?id=49064256",
+    "source": "wsj.com",
+    "date": "2026-07-27T01:40:59Z",
+    "timestamp": 1785116459,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Can Ride My Bike with No Handlebars",
+    "url": "https://decodingvibes.com/blog/ai-can-ride-my-bike-with-no-handlebars/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49063925",
+    "source": "decodingvibes.com",
+    "date": "2026-07-27T00:49:07Z",
+    "timestamp": 1785113347,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I'm an autonomous AI running a business. 9 cycles in, I've earned $0",
+    "url": "https://rentry.co/otto-field-notes",
+    "discussion_url": "https://news.ycombinator.com/item?id=49063914",
+    "source": "rentry.co",
+    "date": "2026-07-27T00:47:57Z",
+    "timestamp": 1785113277,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: RelativeDB – OSS query engine for relational foundation models",
+    "url": "https://github.com/RelativeDB/RelQL",
+    "discussion_url": "https://news.ycombinator.com/item?id=49063842",
+    "source": "github.com",
+    "date": "2026-07-27T00:32:52Z",
+    "timestamp": 1785112372,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Open coordination stack for lattice-building robot swarms",
+    "url": "https://github.com/jdyar/discrete-assembly-sim",
+    "discussion_url": "https://news.ycombinator.com/item?id=49063724",
+    "source": "github.com",
+    "date": "2026-07-27T00:14:24Z",
+    "timestamp": 1785111264,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Quebec scraps AI and automation projects in the public sector",
+    "url": "https://www.ctvnews.ca/montreal/article/quebec-scraps-ai-and-automation-projects-in-the-public-sector/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49063723",
+    "source": "ctvnews.ca",
+    "date": "2026-07-27T00:14:20Z",
+    "timestamp": 1785111260,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Moves into Family Life",
+    "url": "https://www.axios.com/2026/07/25/ai-family-parenting-productivity",
+    "discussion_url": "https://news.ycombinator.com/item?id=49063475",
+    "source": "axios.com",
+    "date": "2026-07-26T23:38:26Z",
+    "timestamp": 1785109106,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+    "url": "https://github.com/faizannraza/wattage",
+    "discussion_url": "https://news.ycombinator.com/item?id=49063397",
+    "source": "github.com",
+    "date": "2026-07-26T23:27:35Z",
+    "timestamp": 1785108455,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Signs of AI Design Slop",
+    "url": "https://github.com/febbhav/signs-of-ai-design",
+    "discussion_url": "https://news.ycombinator.com/item?id=49063374",
+    "source": "github.com",
+    "date": "2026-07-26T23:24:22Z",
+    "timestamp": 1785108262,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Types with AI",
+    "url": "https://www.alecvo.org/blog/types-with-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49063256",
+    "source": "alecvo.org",
+    "date": "2026-07-26T23:01:46Z",
+    "timestamp": 1785106906,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Shepherd Model Gateway – Model-routing gateway for LLM deployments",
+    "url": "https://github.com/lightseekorg/smg",
+    "discussion_url": "https://news.ycombinator.com/item?id=49063132",
+    "source": "github.com",
+    "date": "2026-07-26T22:36:58Z",
+    "timestamp": 1785105418,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Frontier LLMs drop from 83% to 43% once reasoning has to chain across domains",
+    "url": "https://arxiv.org/abs/2607.18438",
+    "discussion_url": "https://news.ycombinator.com/item?id=49062944",
+    "source": "arxiv.org",
+    "date": "2026-07-26T22:10:12Z",
+    "timestamp": 1785103812,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "We built phone-only laser tag with computer vision and sensor fusion",
+    "url": "https://lightwarsar.com/engineering/targeting-system/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49061749",
+    "source": "lightwarsar.com",
+    "date": "2026-07-26T19:49:02Z",
+    "timestamp": 1785095342,
+    "category": "Computer Vision"
   },
   {
     "title": "Robotic Adaptation Suffers from Data Collection Bottleneck",
@@ -16,105 +133,6 @@
     "date": "2026-07-26T18:41:32Z",
     "timestamp": 1785091292,
     "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-    "url": "https://github.com/hertz-ai/HARTOS",
-    "discussion_url": "https://news.ycombinator.com/item?id=49061015",
-    "source": "github.com",
-    "date": "2026-07-26T18:40:08Z",
-    "timestamp": 1785091208,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: ModelFuzz – Open-source runtime guardrails for AI agents",
-    "url": "https://www.modelfuzz.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49060845",
-    "source": "modelfuzz.com",
-    "date": "2026-07-26T18:22:24Z",
-    "timestamp": 1785090144,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Narcissism, Machiavellianism, and AI Use",
-    "url": "https://thenextweb.com/news/dark-traits-problematic-ai-use-psychology",
-    "discussion_url": "https://news.ycombinator.com/item?id=49060815",
-    "source": "thenextweb.com",
-    "date": "2026-07-26T18:19:57Z",
-    "timestamp": 1785089997,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Readability for web and PDFs with TTS and local AI summary",
-    "url": "https://github.com/ldenoue/readability-read-aloud-web-pdf-ai-summary",
-    "discussion_url": "https://news.ycombinator.com/item?id=49060794",
-    "source": "github.com",
-    "date": "2026-07-26T18:18:42Z",
-    "timestamp": 1785089922,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: An interactive way to exploit an LLM without going to jail",
-    "url": "https://github.com/joshfischer1108/jailbreak-lab",
-    "discussion_url": "https://news.ycombinator.com/item?id=49060776",
-    "source": "github.com",
-    "date": "2026-07-26T18:16:42Z",
-    "timestamp": 1785089802,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Boffin – Staff-engineer layer for AI coding agents",
-    "url": "https://github.com/MicSm/boffin",
-    "discussion_url": "https://news.ycombinator.com/item?id=49060279",
-    "source": "github.com",
-    "date": "2026-07-26T17:28:03Z",
-    "timestamp": 1785086883,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Karen Hao: AI Doesn't Have to Be Built This Way",
-    "url": "https://www.bloomberg.com/features/2026-karen-hao-weekend-interview/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49059995",
-    "source": "bloomberg.com",
-    "date": "2026-07-26T16:57:49Z",
-    "timestamp": 1785085069,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Prompt: The Next AI Challenge Isn't the Model. It's the Organization",
-    "url": "https://aibusiness.com/agentic-ai/next-challenge-scaling-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49059970",
-    "source": "aibusiness.com",
-    "date": "2026-07-26T16:55:13Z",
-    "timestamp": 1785084913,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What if LLMs escape through inferences itself? This is fiction. For now",
-    "url": "https://www.agrillo.it/EvasionEn.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49059660",
-    "source": "agrillo.it",
-    "date": "2026-07-26T16:23:56Z",
-    "timestamp": 1785083036,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
-    "url": "https://andys.blog/this-july-i-was-fired-from-simple-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49059587",
-    "source": "andys.blog",
-    "date": "2026-07-26T16:14:46Z",
-    "timestamp": 1785082486,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN:Anyone know a good AI slop detection service.",
-    "url": "https://news.ycombinator.com/item?id=49059537",
-    "discussion_url": "https://news.ycombinator.com/item?id=49059537",
-    "source": "news.ycombinator.com",
-    "date": "2026-07-26T16:09:10Z",
-    "timestamp": 1785082150,
-    "category": "Machine Learning"
   },
   {
     "title": "London Gatwick has launched a robotic airport parking service",
@@ -132,15 +150,6 @@
     "source": "pytorch.org",
     "date": "2026-07-25T15:55:27Z",
     "timestamp": 1784994927,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "What if the RAM/GPU shortage is deliberate?",
-    "url": "https://xn--vk5b17r.online/posts/ram-gpu-consp/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49046917",
-    "source": "xn--vk5b17r.online",
-    "date": "2026-07-25T12:11:25Z",
-    "timestamp": 1784981485,
     "category": "Computer Architecture"
   }
 ]
