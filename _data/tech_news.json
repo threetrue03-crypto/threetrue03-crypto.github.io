@@ -1,5 +1,158 @@
 [
   {
+    "title": "Ninfer: High-performance single-GPU inference",
+    "url": "https://github.com/Neroued/ninfer",
+    "discussion_url": "https://news.ycombinator.com/item?id=49081189",
+    "source": "github.com",
+    "date": "2026-07-28T08:56:15Z",
+    "timestamp": 1785228975,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "AI writes code that breaks main half as often",
+    "url": "https://mergify.com/reports/state-of-merge-queues-2026",
+    "discussion_url": "https://news.ycombinator.com/item?id=49081167",
+    "source": "mergify.com",
+    "date": "2026-07-28T08:52:42Z",
+    "timestamp": 1785228762,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Hosts and Sandboxes Save Intel's Datacenter CPU Cookies",
+    "url": "https://www.nextplatform.com/compute/2026/07/28/ai-hosts-and-sandboxes-save-intels-datacenter-cpu-cookies/5279338",
+    "discussion_url": "https://news.ycombinator.com/item?id=49081091",
+    "source": "nextplatform.com",
+    "date": "2026-07-28T08:40:06Z",
+    "timestamp": 1785228006,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "If AI Writes All the Code, What Do the Programmers Do?",
+    "url": "https://probablydance.com/2026/07/27/if-ai-writes-all-the-code-what-do-the-programmers-do/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49080905",
+    "source": "probablydance.com",
+    "date": "2026-07-28T08:17:58Z",
+    "timestamp": 1785226678,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Some people's chats with Claude AI found to be publicly available online",
+    "url": "https://www.bbc.com/news/articles/cly5qgjk5ywo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49080823",
+    "source": "bbc.com",
+    "date": "2026-07-28T08:06:18Z",
+    "timestamp": 1785225978,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Tell HN: Our paid Claude AI subscription unavailable >1 week and no support",
+    "url": "https://news.ycombinator.com/item?id=49080775",
+    "discussion_url": "https://news.ycombinator.com/item?id=49080775",
+    "source": "news.ycombinator.com",
+    "date": "2026-07-28T08:00:19Z",
+    "timestamp": 1785225619,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Artificial Intelligence: Shades of Gray",
+    "url": "https://changelog.complete.org/archives/42503-artificial-intelligence-shades-of-gray",
+    "discussion_url": "https://news.ycombinator.com/item?id=49080612",
+    "source": "changelog.complete.org",
+    "date": "2026-07-28T07:38:06Z",
+    "timestamp": 1785224286,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49080345",
+    "source": "arstechnica.com",
+    "date": "2026-07-28T07:02:33Z",
+    "timestamp": 1785222153,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Cracking the code: can AI help us decipher ancient languages?",
+    "url": "https://theconversation.com/cracking-the-code-can-ai-help-us-decipher-ancient-languages-288238",
+    "discussion_url": "https://news.ycombinator.com/item?id=49080321",
+    "source": "theconversation.com",
+    "date": "2026-07-28T06:59:35Z",
+    "timestamp": 1785221975,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI 'tokenmaxxing' fades as workplaces look to cut tech spending",
+    "url": "https://apnews.com/article/ai-token-openai-anthropic-corporate-31bb80ac1cd7862d05f6397177d826b1",
+    "discussion_url": "https://news.ycombinator.com/item?id=49080248",
+    "source": "apnews.com",
+    "date": "2026-07-28T06:48:53Z",
+    "timestamp": 1785221333,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: AI Usage – Native macOS Menu Bar for Claude Code and Codex Limits",
+    "url": "https://github.com/burakgon/ai-usage-menubar",
+    "discussion_url": "https://news.ycombinator.com/item?id=49080227",
+    "source": "github.com",
+    "date": "2026-07-28T06:43:05Z",
+    "timestamp": 1785220985,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Makes Starting Games Easier. Finishing Is Still Hard",
+    "url": "https://twitter.com/robertvaradan/status/2078234518549311855",
+    "discussion_url": "https://news.ycombinator.com/item?id=49079827",
+    "source": "twitter.com",
+    "date": "2026-07-28T05:37:57Z",
+    "timestamp": 1785217077,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Vibotify – Talk to 300 AI experts, one for every profession",
+    "url": "https://vibotify.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49079729",
+    "source": "vibotify.com",
+    "date": "2026-07-28T05:25:43Z",
+    "timestamp": 1785216343,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How to choose an AI Agent platform for your team",
+    "url": "https://construct.computer/blog/how-to-choose-an-ai-agent-platform-for-your-team/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49079699",
+    "source": "construct.computer",
+    "date": "2026-07-28T05:22:03Z",
+    "timestamp": 1785216123,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Day 0 Kimi-K3 Inference Deployment with Atom on AMD Instinct MI355X GPUs",
+    "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/kimi-k3-on-amd-instinct-gpus.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49079363",
+    "source": "amd.com",
+    "date": "2026-07-28T04:29:17Z",
+    "timestamp": 1785212957,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: A 6M-token movable window on a single 46GB GPU",
+    "url": "https://arxiv.org/abs/2607.23806",
+    "discussion_url": "https://news.ycombinator.com/item?id=49079247",
+    "source": "arxiv.org",
+    "date": "2026-07-28T04:11:45Z",
+    "timestamp": 1785211905,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "39,535+ hours of open robot data",
+    "url": "https://datasets.bot/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49078866",
+    "source": "datasets.bot",
+    "date": "2026-07-28T03:18:41Z",
+    "timestamp": 1785208721,
+    "category": "Physical AI"
+  },
+  {
     "title": "Can AMD Break the CUDA Moat? AMD Advancing AI 2026",
     "url": "https://newsletter.semianalysis.com/p/can-amd-break-the-cuda-moat-amd-advancing",
     "discussion_url": "https://news.ycombinator.com/item?id=49078762",
@@ -9,42 +162,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Show HN: SeaTicket – AI agent that resolve GitHub and Discord issues",
-    "url": "https://news.ycombinator.com/item?id=49078625",
-    "discussion_url": "https://news.ycombinator.com/item?id=49078625",
-    "source": "news.ycombinator.com",
-    "date": "2026-07-28T02:43:40Z",
-    "timestamp": 1785206620,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Is This What Comes After AI Slop?",
-    "url": "https://www.theatlantic.com/technology/2026/07/daggermouth-novel-bestseller-ai/688067/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49078555",
-    "source": "theatlantic.com",
-    "date": "2026-07-28T02:33:29Z",
-    "timestamp": 1785206009,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: _done – Expanding AI Capabilities",
-    "url": "https://underscoredone.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49078096",
-    "source": "underscoredone.com",
-    "date": "2026-07-28T01:24:44Z",
-    "timestamp": 1785201884,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "S.Korea's KOSPI tumbles nearly 5% as chipmakers slump on AI worries",
-    "url": "https://www.reuters.com/world/asia-pacific/skoreas-kospi-tumbles-nearly-5-chipmakers-slump-ai-worries-2026-07-07/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49078092",
-    "source": "reuters.com",
-    "date": "2026-07-28T01:23:59Z",
-    "timestamp": 1785201839,
-    "category": "Machine Learning"
-  },
-  {
     "title": "QuickLogic eFPGA IP",
     "url": "https://www.quicklogic.com/efpga-ip/",
     "discussion_url": "https://news.ycombinator.com/item?id=49078071",
@@ -52,33 +169,6 @@
     "date": "2026-07-28T01:20:45Z",
     "timestamp": 1785201645,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Velonus – now in beta, with AI triage and one-click fix PRs",
-    "url": "https://www.velonus.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49078011",
-    "source": "velonus.com",
-    "date": "2026-07-28T01:14:31Z",
-    "timestamp": 1785201271,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Run the AI Studio deletion test to show the chat isn't deleted",
-    "url": "https://discuss.ai.google.dev/t/please-help-do-the-ai-studio-delete-test-so-we-can-prove-that-google-does-not-delete-the-chat/174376",
-    "discussion_url": "https://news.ycombinator.com/item?id=49077737",
-    "source": "discuss.ai.google.dev",
-    "date": "2026-07-28T00:37:10Z",
-    "timestamp": 1785199030,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Is human writing obsolete in the age of LLMs?",
-    "url": "http://gtowey.blogspot.com/2026/07/is-human-writing-obsolete-in-age-of-llms.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49077714",
-    "source": "gtowey.blogspot.com",
-    "date": "2026-07-28T00:34:44Z",
-    "timestamp": 1785198884,
-    "category": "Machine Learning"
   },
   {
     "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
@@ -99,84 +189,12 @@
     "category": "Physical AI"
   },
   {
-    "title": "Show HN: PromptTrace – Free hands-on labs to practice hacking LLMs",
-    "url": "https://prompttrace.airedlab.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49077514",
-    "source": "prompttrace.airedlab.com",
-    "date": "2026-07-28T00:13:23Z",
-    "timestamp": 1785197603,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Lattice Semiconductor Completes Acquisition of BIOS Maker AMI",
     "url": "https://www.techpowerup.com/351114/lattice-semiconductor-completes-acquisition-of-ami",
     "discussion_url": "https://news.ycombinator.com/item?id=49077478",
     "source": "techpowerup.com",
     "date": "2026-07-28T00:09:18Z",
     "timestamp": 1785197358,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "OpenAI, Google, and Anthropic Absent from Nvidia-Led Open Secure AI Alliance",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach",
-    "discussion_url": "https://news.ycombinator.com/item?id=49077447",
-    "source": "tomshardware.com",
-    "date": "2026-07-28T00:07:06Z",
-    "timestamp": 1785197226,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Don't ask an LLM for a confidence score",
-    "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49077443",
-    "source": "justinflick.com",
-    "date": "2026-07-28T00:06:53Z",
-    "timestamp": 1785197213,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Did an AI Really Hack Hugging Face? [video]",
-    "url": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
-    "discussion_url": "https://news.ycombinator.com/item?id=49077382",
-    "source": "youtube.com",
-    "date": "2026-07-28T00:00:48Z",
-    "timestamp": 1785196848,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Measured LLM inference speeds on Apple Silicon, with raw data (CC BY 4.0)",
-    "url": "https://macyou.co/benchmarks",
-    "discussion_url": "https://news.ycombinator.com/item?id=49077193",
-    "source": "macyou.co",
-    "date": "2026-07-27T23:45:05Z",
-    "timestamp": 1785195905,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "South Korea unveils $950B in semiconductor partnerships",
-    "url": "https://www.upi.com/Top_News/World-News/2026/07/26/ai-summit-semiconductor-partnerships/1621785093514/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49075975",
-    "source": "upi.com",
-    "date": "2026-07-27T21:54:40Z",
-    "timestamp": 1785189280,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Anthropic used robots.txt to hide shared Claude chats; the pages have no noindex",
-    "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49075745",
-    "source": "wired.com",
-    "date": "2026-07-27T21:27:45Z",
-    "timestamp": 1785187665,
-    "category": "Physical AI"
-  },
-  {
-    "title": "MLVC: An open-source real-time neural video codec for consumer NPUs",
-    "url": "https://github.com/microsoft/mlvc",
-    "discussion_url": "https://news.ycombinator.com/item?id=49070675",
-    "source": "github.com",
-    "date": "2026-07-27T15:01:06Z",
-    "timestamp": 1785164466,
     "category": "Computer Architecture"
   },
   {
@@ -196,23 +214,5 @@
     "date": "2026-07-27T07:30:48Z",
     "timestamp": 1785137448,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "London Gatwick has launched a robotic airport parking service",
-    "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49058669",
-    "source": "aerospaceglobalnews.com",
-    "date": "2026-07-26T14:40:27Z",
-    "timestamp": 1785076827,
-    "category": "Physical AI"
-  },
-  {
-    "title": "First Robotic Satellite Servicer Launched",
-    "url": "https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49026755",
-    "source": "nrl.navy.mil",
-    "date": "2026-07-23T19:21:41Z",
-    "timestamp": 1784834501,
-    "category": "Physical AI"
   }
 ]
