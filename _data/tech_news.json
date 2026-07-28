@@ -1,137 +1,182 @@
 [
   {
-    "title": "Nvidia bets $5B on Ilya Sutskever's AI breakthrough",
-    "url": "https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146",
-    "discussion_url": "https://news.ycombinator.com/item?id=49074634",
-    "source": "ft.com",
-    "date": "2026-07-27T19:41:22Z",
-    "timestamp": 1785181282,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Artifacted – private URLs for the small tools your AI builds",
-    "url": "https://artifacted.cloud/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49074529",
-    "source": "artifacted.cloud",
-    "date": "2026-07-27T19:31:37Z",
-    "timestamp": 1785180697,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "State of AI Assisted Workflows July 2026",
-    "url": "https://handmadeoasis.com/state-of-ai-assisted-workflows-july-2026/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49074509",
-    "source": "handmadeoasis.com",
-    "date": "2026-07-27T19:29:50Z",
-    "timestamp": 1785180590,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "ShadowGlass, find shadow AI in firewall logs on-device",
-    "url": "https://github.com/JustinNarracott/ShadowGlass",
-    "discussion_url": "https://news.ycombinator.com/item?id=49074478",
-    "source": "github.com",
-    "date": "2026-07-27T19:27:26Z",
-    "timestamp": 1785180446,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: Do you hide your AI behind a curtain?",
-    "url": "https://news.ycombinator.com/item?id=49074416",
-    "discussion_url": "https://news.ycombinator.com/item?id=49074416",
-    "source": "news.ycombinator.com",
-    "date": "2026-07-27T19:20:45Z",
-    "timestamp": 1785180045,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Is FiberFS an AI Project?",
-    "url": "https://fiberfs.io/blog/is_fiberfs_an_ai_project",
-    "discussion_url": "https://news.ycombinator.com/item?id=49074315",
-    "source": "fiberfs.io",
-    "date": "2026-07-27T19:12:09Z",
-    "timestamp": 1785179529,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OCR accuracy: 100% & Fraud: 100 % – AI vs. template based fraud",
-    "url": "https://idp-software.com/news/the-100-dollar-forgery/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49074159",
-    "source": "idp-software.com",
-    "date": "2026-07-27T19:00:00Z",
-    "timestamp": 1785178800,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI in the Linux Kernel",
-    "url": "https://drewdevault.com/blog/AI-in-Linux/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49073909",
-    "source": "drewdevault.com",
-    "date": "2026-07-27T18:41:27Z",
-    "timestamp": 1785177687,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Open Secure AI Alliance aims to open-source AI security defences",
-    "url": "https://www.developer-tech.com/news/open-secure-ai-alliance-open-source-ai-security-defences/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49073815",
-    "source": "developer-tech.com",
-    "date": "2026-07-27T18:34:18Z",
-    "timestamp": 1785177258,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Why Lattice Semiconductor buying a x86_64 BIOS company shows engineer disrespect",
-    "url": "https://news.ycombinator.com/item?id=49073595",
-    "discussion_url": "https://news.ycombinator.com/item?id=49073595",
-    "source": "news.ycombinator.com",
-    "date": "2026-07-27T18:21:39Z",
-    "timestamp": 1785176499,
+    "title": "Can AMD Break the CUDA Moat? AMD Advancing AI 2026",
+    "url": "https://newsletter.semianalysis.com/p/can-amd-break-the-cuda-moat-amd-advancing",
+    "discussion_url": "https://news.ycombinator.com/item?id=49078762",
+    "source": "newsletter.semianalysis.com",
+    "date": "2026-07-28T03:04:34Z",
+    "timestamp": 1785207874,
     "category": "Computer Architecture"
   },
   {
-    "title": "The robots programmed by kids to speak their Indigenous languages",
-    "url": "https://text.npr.org/nx-s1-5825798",
-    "discussion_url": "https://news.ycombinator.com/item?id=49073497",
-    "source": "text.npr.org",
-    "date": "2026-07-27T18:14:48Z",
-    "timestamp": 1785176088,
+    "title": "Show HN: SeaTicket – AI agent that resolve GitHub and Discord issues",
+    "url": "https://news.ycombinator.com/item?id=49078625",
+    "discussion_url": "https://news.ycombinator.com/item?id=49078625",
+    "source": "news.ycombinator.com",
+    "date": "2026-07-28T02:43:40Z",
+    "timestamp": 1785206620,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Is This What Comes After AI Slop?",
+    "url": "https://www.theatlantic.com/technology/2026/07/daggermouth-novel-bestseller-ai/688067/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49078555",
+    "source": "theatlantic.com",
+    "date": "2026-07-28T02:33:29Z",
+    "timestamp": 1785206009,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: _done – Expanding AI Capabilities",
+    "url": "https://underscoredone.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49078096",
+    "source": "underscoredone.com",
+    "date": "2026-07-28T01:24:44Z",
+    "timestamp": 1785201884,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "S.Korea's KOSPI tumbles nearly 5% as chipmakers slump on AI worries",
+    "url": "https://www.reuters.com/world/asia-pacific/skoreas-kospi-tumbles-nearly-5-chipmakers-slump-ai-worries-2026-07-07/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49078092",
+    "source": "reuters.com",
+    "date": "2026-07-28T01:23:59Z",
+    "timestamp": 1785201839,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "QuickLogic eFPGA IP",
+    "url": "https://www.quicklogic.com/efpga-ip/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49078071",
+    "source": "quicklogic.com",
+    "date": "2026-07-28T01:20:45Z",
+    "timestamp": 1785201645,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Velonus – now in beta, with AI triage and one-click fix PRs",
+    "url": "https://www.velonus.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49078011",
+    "source": "velonus.com",
+    "date": "2026-07-28T01:14:31Z",
+    "timestamp": 1785201271,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Run the AI Studio deletion test to show the chat isn't deleted",
+    "url": "https://discuss.ai.google.dev/t/please-help-do-the-ai-studio-delete-test-so-we-can-prove-that-google-does-not-delete-the-chat/174376",
+    "discussion_url": "https://news.ycombinator.com/item?id=49077737",
+    "source": "discuss.ai.google.dev",
+    "date": "2026-07-28T00:37:10Z",
+    "timestamp": 1785199030,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Is human writing obsolete in the age of LLMs?",
+    "url": "http://gtowey.blogspot.com/2026/07/is-human-writing-obsolete-in-age-of-llms.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49077714",
+    "source": "gtowey.blogspot.com",
+    "date": "2026-07-28T00:34:44Z",
+    "timestamp": 1785198884,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
+    "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49077646",
+    "source": "rocm.blogs.amd.com",
+    "date": "2026-07-28T00:26:45Z",
+    "timestamp": 1785198405,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49077565",
+    "source": "huggingface.co",
+    "date": "2026-07-28T00:17:49Z",
+    "timestamp": 1785197869,
     "category": "Physical AI"
   },
   {
-    "title": "Language model harnesses are compositional generalizers",
-    "url": "https://alexzhang13.github.io/blog/2026/harness/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49073407",
-    "source": "alexzhang13.github.io",
-    "date": "2026-07-27T18:07:57Z",
-    "timestamp": 1785175677,
+    "title": "Show HN: PromptTrace – Free hands-on labs to practice hacking LLMs",
+    "url": "https://prompttrace.airedlab.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49077514",
+    "source": "prompttrace.airedlab.com",
+    "date": "2026-07-28T00:13:23Z",
+    "timestamp": 1785197603,
     "category": "Machine Learning"
   },
   {
-    "title": "To prevent LLMs from destroying education, the work must happen in class",
-    "url": "https://blainehansen.me/post/learning-is-for-students-not-llms/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49073349",
-    "source": "blainehansen.me",
-    "date": "2026-07-27T18:03:34Z",
-    "timestamp": 1785175414,
+    "title": "Lattice Semiconductor Completes Acquisition of BIOS Maker AMI",
+    "url": "https://www.techpowerup.com/351114/lattice-semiconductor-completes-acquisition-of-ami",
+    "discussion_url": "https://news.ycombinator.com/item?id=49077478",
+    "source": "techpowerup.com",
+    "date": "2026-07-28T00:09:18Z",
+    "timestamp": 1785197358,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "OpenAI, Google, and Anthropic Absent from Nvidia-Led Open Secure AI Alliance",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach",
+    "discussion_url": "https://news.ycombinator.com/item?id=49077447",
+    "source": "tomshardware.com",
+    "date": "2026-07-28T00:07:06Z",
+    "timestamp": 1785197226,
     "category": "Machine Learning"
   },
   {
-    "title": "Jensen Huang's first post on Twitter is in defense of open access to AI models",
-    "url": "https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49073267",
-    "source": "pcgamer.com",
-    "date": "2026-07-27T17:56:20Z",
-    "timestamp": 1785174980,
+    "title": "Don't ask an LLM for a confidence score",
+    "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49077443",
+    "source": "justinflick.com",
+    "date": "2026-07-28T00:06:53Z",
+    "timestamp": 1785197213,
     "category": "Machine Learning"
   },
   {
-    "title": "Hardware-Software Co-Design for Float16 On-Device Training on RISC-V Single-Core",
-    "url": "https://arxiv.org/abs/2607.21130",
-    "discussion_url": "https://news.ycombinator.com/item?id=49071617",
-    "source": "arxiv.org",
-    "date": "2026-07-27T16:08:36Z",
-    "timestamp": 1785168516,
+    "title": "Did an AI Really Hack Hugging Face? [video]",
+    "url": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
+    "discussion_url": "https://news.ycombinator.com/item?id=49077382",
+    "source": "youtube.com",
+    "date": "2026-07-28T00:00:48Z",
+    "timestamp": 1785196848,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Measured LLM inference speeds on Apple Silicon, with raw data (CC BY 4.0)",
+    "url": "https://macyou.co/benchmarks",
+    "discussion_url": "https://news.ycombinator.com/item?id=49077193",
+    "source": "macyou.co",
+    "date": "2026-07-27T23:45:05Z",
+    "timestamp": 1785195905,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "South Korea unveils $950B in semiconductor partnerships",
+    "url": "https://www.upi.com/Top_News/World-News/2026/07/26/ai-summit-semiconductor-partnerships/1621785093514/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49075975",
+    "source": "upi.com",
+    "date": "2026-07-27T21:54:40Z",
+    "timestamp": 1785189280,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Anthropic used robots.txt to hide shared Claude chats; the pages have no noindex",
+    "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49075745",
+    "source": "wired.com",
+    "date": "2026-07-27T21:27:45Z",
+    "timestamp": 1785187665,
+    "category": "Physical AI"
+  },
+  {
+    "title": "MLVC: An open-source real-time neural video codec for consumer NPUs",
+    "url": "https://github.com/microsoft/mlvc",
+    "discussion_url": "https://news.ycombinator.com/item?id=49070675",
+    "source": "github.com",
+    "date": "2026-07-27T15:01:06Z",
+    "timestamp": 1785164466,
     "category": "Computer Architecture"
   },
   {
