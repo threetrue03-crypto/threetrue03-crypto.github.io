@@ -1,30 +1,138 @@
 [
   {
-    "title": "Doing Okay-ish with AI at the AI-proof competition",
-    "url": "https://blog.greg.technology/2026/07/26/doing-okayish-with-ai-at-the-ai-proof-competition.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49084395",
-    "source": "blog.greg.technology",
-    "date": "2026-07-28T14:25:00Z",
-    "timestamp": 1785248700,
+    "title": "Israel Paying Millions to Train AI Chatbots How to Talk About Gaza. It's Working",
+    "url": "https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza",
+    "discussion_url": "https://news.ycombinator.com/item?id=49088916",
+    "source": "dropsitenews.com",
+    "date": "2026-07-28T19:44:28Z",
+    "timestamp": 1785267868,
     "category": "Machine Learning"
   },
   {
-    "title": "Real AI changed the way I see fictional AI",
-    "url": "https://diels-daydreams.bearblog.dev/real-ai-changed-the-way-i-see-fictional-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49084035",
-    "source": "diels-daydreams.bearblog.dev",
-    "date": "2026-07-28T14:01:03Z",
-    "timestamp": 1785247263,
+    "title": "AI Chatbots Know How to Make Deadly Biological Weapons. Some Will Teach You.",
+    "url": "https://www.wsj.com/tech/ai/openai-chatbot-biological-weapons-poison-3d808e6c",
+    "discussion_url": "https://news.ycombinator.com/item?id=49088685",
+    "source": "wsj.com",
+    "date": "2026-07-28T19:24:11Z",
+    "timestamp": 1785266651,
     "category": "Machine Learning"
   },
   {
-    "title": "AI Engineers' Favourite AI Engineer",
-    "url": "https://www.mutagent.io/blog/were-your-ai-engineers-favorite-ai-engineer/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49083702",
-    "source": "mutagent.io",
-    "date": "2026-07-28T13:38:46Z",
-    "timestamp": 1785245926,
+    "title": "What if useful AI is a fantasy?",
+    "url": "https://lzon.ca/posts/other/llm-fantasy/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49088595",
+    "source": "lzon.ca",
+    "date": "2026-07-28T19:17:37Z",
+    "timestamp": 1785266257,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Big Tech's Debt Binge Raises Risk in Race to Create an AI World (2025)",
+    "url": "https://news.bloomberglaw.com/artificial-intelligence/big-techs-debt-binge-raises-risk-in-race-to-create-an-ai-world",
+    "discussion_url": "https://news.ycombinator.com/item?id=49088458",
+    "source": "news.bloomberglaw.com",
+    "date": "2026-07-28T19:06:28Z",
+    "timestamp": 1785265588,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why AI Agents Need Databases That Branch Like Git",
+    "url": "https://old.reddit.com/r/databasedevelopment/comments/1v8hbe0/why_fast_branching_is_key_to_ai_agentera_databases/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49088046",
+    "source": "old.reddit.com",
+    "date": "2026-07-28T18:34:21Z",
+    "timestamp": 1785263661,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI Future Is for Everyone",
+    "url": "https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20",
+    "discussion_url": "https://news.ycombinator.com/item?id=49087910",
+    "source": "wsj.com",
+    "date": "2026-07-28T18:24:37Z",
+    "timestamp": 1785263077,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Mousecrack – Bypass captcha mouse detection with deep learning",
+    "url": "https://github.com/puffinsoft/mousecrack",
+    "discussion_url": "https://news.ycombinator.com/item?id=49087675",
+    "source": "github.com",
+    "date": "2026-07-28T18:04:17Z",
+    "timestamp": 1785261857,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Doesn't Get Annoyed",
+    "url": "https://yadan.net/writing/ai-doesnt-get-annoyed/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49087598",
+    "source": "yadan.net",
+    "date": "2026-07-28T17:58:48Z",
+    "timestamp": 1785261528,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Microsoft's AI Security Leap Signals a New Era in Cyber Defense",
+    "url": "https://predx-article.fika.bar/microsoft-s-ai-security-leap-signals-a-new-era-in-cyber-defe-01KYKBWZ671C178665K5F7MEEF",
+    "discussion_url": "https://news.ycombinator.com/item?id=49087539",
+    "source": "predx-article.fika.bar",
+    "date": "2026-07-28T17:54:03Z",
+    "timestamp": 1785261243,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Chip stocks tumble as AI sell-off deepens",
+    "url": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae",
+    "discussion_url": "https://news.ycombinator.com/item?id=49087537",
+    "source": "ft.com",
+    "date": "2026-07-28T17:54:01Z",
+    "timestamp": 1785261241,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OpenAI, Anthropic Staff Share Letter Asking US to Help Pace AI Progress",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress",
+    "discussion_url": "https://news.ycombinator.com/item?id=49087442",
+    "source": "bloomberg.com",
+    "date": "2026-07-28T17:47:39Z",
+    "timestamp": 1785260859,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI value alignment for evolving social norms",
+    "url": "https://arxiv.org/abs/2607.18506",
+    "discussion_url": "https://news.ycombinator.com/item?id=49087205",
+    "source": "arxiv.org",
+    "date": "2026-07-28T17:30:55Z",
+    "timestamp": 1785259855,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "San Francisco mayor backs national robotaxi rules after Waymo meltdowns",
+    "url": "https://www.politico.com/news/2026/07/28/san-francisco-waymo-washington-01013227",
+    "discussion_url": "https://news.ycombinator.com/item?id=49086448",
+    "source": "politico.com",
+    "date": "2026-07-28T16:35:59Z",
+    "timestamp": 1785256559,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Show HN: DocSlicer – Structure-aware PDF/DOCX/PPTX parser, 31 pages/sec on CPU",
+    "url": "https://github.com/DocSlicer/DocSlicer",
+    "discussion_url": "https://news.ycombinator.com/item?id=49086175",
+    "source": "github.com",
+    "date": "2026-07-28T16:18:19Z",
+    "timestamp": 1785255499,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
+    "url": "https://github.com/reflex-dev/xy",
+    "discussion_url": "https://news.ycombinator.com/item?id=49085798",
+    "source": "github.com",
+    "date": "2026-07-28T15:54:55Z",
+    "timestamp": 1785254095,
+    "category": "Computer Architecture"
   },
   {
     "title": "Show HN: Base-GPUI: A GPUI port of Base UI headless components",
@@ -33,105 +141,6 @@
     "source": "github.com",
     "date": "2026-07-28T13:38:41Z",
     "timestamp": 1785245921,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "My local LLM scored 6/6. It was wrong every time",
-    "url": "https://markbhall.dev/writing/my-local-llm-scored-6-of-6/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49083385",
-    "source": "markbhall.dev",
-    "date": "2026-07-28T13:16:40Z",
-    "timestamp": 1785244600,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
-    "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
-    "discussion_url": "https://news.ycombinator.com/item?id=49083336",
-    "source": "github.com",
-    "date": "2026-07-28T13:13:35Z",
-    "timestamp": 1785244415,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Dinjure – Bulls and Cows in one HTML file, with a fallible AI",
-    "url": "https://dinjure.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49083293",
-    "source": "dinjure.com",
-    "date": "2026-07-28T13:10:44Z",
-    "timestamp": 1785244244,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-    "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-    "discussion_url": "https://news.ycombinator.com/item?id=49083239",
-    "source": "github.com",
-    "date": "2026-07-28T13:07:14Z",
-    "timestamp": 1785244034,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Securing the Future of AI Agents",
-    "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49083222",
-    "source": "deepmind.google",
-    "date": "2026-07-28T13:06:03Z",
-    "timestamp": 1785243963,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Tenir: A Counter-Pressure Architecture for Safe Agentic AI Under Irreversibly",
-    "url": "https://zenodo.org/records/21277138",
-    "discussion_url": "https://news.ycombinator.com/item?id=49083198",
-    "source": "zenodo.org",
-    "date": "2026-07-28T13:03:55Z",
-    "timestamp": 1785243835,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OptMem – Permanent memory for AI agents",
-    "url": "https://github.com/VictorTaelin/OptMem",
-    "discussion_url": "https://news.ycombinator.com/item?id=49083167",
-    "source": "github.com",
-    "date": "2026-07-28T13:02:31Z",
-    "timestamp": 1785243751,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Adaptive speculative decoding on a $300 GPU",
-    "url": "https://github.com/Gogo27Gallet/Fronde",
-    "discussion_url": "https://news.ycombinator.com/item?id=49083155",
-    "source": "github.com",
-    "date": "2026-07-28T13:01:43Z",
-    "timestamp": 1785243703,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Using AI for Automated Tasks",
-    "url": "https://visualgui.com/2026/07/28/using-ai-for-automated-tasks/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49083134",
-    "source": "visualgui.com",
-    "date": "2026-07-28T13:00:13Z",
-    "timestamp": 1785243613,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What AI developers could learn from Charles Bukowski?",
-    "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
-    "discussion_url": "https://news.ycombinator.com/item?id=49083132",
-    "source": "galjot.si",
-    "date": "2026-07-28T13:00:12Z",
-    "timestamp": 1785243612,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The User Is the Processor",
-    "url": "https://aito.ai/blog/the-predictive-application/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49082276",
-    "source": "aito.ai",
-    "date": "2026-07-28T11:27:50Z",
-    "timestamp": 1785238070,
     "category": "Computer Architecture"
   },
   {
@@ -144,30 +153,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
-    "url": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available",
-    "discussion_url": "https://news.ycombinator.com/item?id=49067919",
-    "source": "omgubuntu.co.uk",
-    "date": "2026-07-27T11:19:33Z",
-    "timestamp": 1785151173,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Could a Neuroscientist Understand a Microprocessor?(2017)",
-    "url": "http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005268",
-    "discussion_url": "https://news.ycombinator.com/item?id=49066187",
-    "source": "journals.plos.org",
-    "date": "2026-07-27T07:30:48Z",
-    "timestamp": 1785137448,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "First Robotic Satellite Servicer Launched",
-    "url": "https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49026755",
-    "source": "nrl.navy.mil",
-    "date": "2026-07-23T19:21:41Z",
-    "timestamp": 1784834501,
+    "title": "The most advanced robotic servicing satellite–that we know about",
+    "url": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49039904",
+    "source": "arstechnica.com",
+    "date": "2026-07-24T18:39:32Z",
+    "timestamp": 1784918372,
     "category": "Physical AI"
   }
 ]
