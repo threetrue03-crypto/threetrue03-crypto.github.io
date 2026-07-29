@@ -1,129 +1,165 @@
 [
   {
-    "title": "Israel Paying Millions to Train AI Chatbots How to Talk About Gaza. It's Working",
-    "url": "https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza",
-    "discussion_url": "https://news.ycombinator.com/item?id=49088916",
-    "source": "dropsitenews.com",
-    "date": "2026-07-28T19:44:28Z",
-    "timestamp": 1785267868,
+    "title": "GCC AI Policy",
+    "url": "https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49092816",
+    "source": "gcc.gnu.org",
+    "date": "2026-07-29T02:37:40Z",
+    "timestamp": 1785292660,
     "category": "Machine Learning"
   },
   {
-    "title": "AI Chatbots Know How to Make Deadly Biological Weapons. Some Will Teach You.",
-    "url": "https://www.wsj.com/tech/ai/openai-chatbot-biological-weapons-poison-3d808e6c",
-    "discussion_url": "https://news.ycombinator.com/item?id=49088685",
-    "source": "wsj.com",
-    "date": "2026-07-28T19:24:11Z",
-    "timestamp": 1785266651,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What if useful AI is a fantasy?",
-    "url": "https://lzon.ca/posts/other/llm-fantasy/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49088595",
-    "source": "lzon.ca",
-    "date": "2026-07-28T19:17:37Z",
-    "timestamp": 1785266257,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Big Tech's Debt Binge Raises Risk in Race to Create an AI World (2025)",
-    "url": "https://news.bloomberglaw.com/artificial-intelligence/big-techs-debt-binge-raises-risk-in-race-to-create-an-ai-world",
-    "discussion_url": "https://news.ycombinator.com/item?id=49088458",
-    "source": "news.bloomberglaw.com",
-    "date": "2026-07-28T19:06:28Z",
-    "timestamp": 1785265588,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Why AI Agents Need Databases That Branch Like Git",
-    "url": "https://old.reddit.com/r/databasedevelopment/comments/1v8hbe0/why_fast_branching_is_key_to_ai_agentera_databases/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49088046",
-    "source": "old.reddit.com",
-    "date": "2026-07-28T18:34:21Z",
-    "timestamp": 1785263661,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The AI Future Is for Everyone",
-    "url": "https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20",
-    "discussion_url": "https://news.ycombinator.com/item?id=49087910",
-    "source": "wsj.com",
-    "date": "2026-07-28T18:24:37Z",
-    "timestamp": 1785263077,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Mousecrack – Bypass captcha mouse detection with deep learning",
-    "url": "https://github.com/puffinsoft/mousecrack",
-    "discussion_url": "https://news.ycombinator.com/item?id=49087675",
+    "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+    "url": "https://github.com/jagg-ix/zil-lean",
+    "discussion_url": "https://news.ycombinator.com/item?id=49092730",
     "source": "github.com",
-    "date": "2026-07-28T18:04:17Z",
-    "timestamp": 1785261857,
+    "date": "2026-07-29T02:22:04Z",
+    "timestamp": 1785291724,
     "category": "Machine Learning"
   },
   {
-    "title": "AI Doesn't Get Annoyed",
-    "url": "https://yadan.net/writing/ai-doesnt-get-annoyed/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49087598",
-    "source": "yadan.net",
-    "date": "2026-07-28T17:58:48Z",
-    "timestamp": 1785261528,
+    "title": "Ask HN: What agentic AI ad optimization tool do you use?",
+    "url": "https://news.ycombinator.com/item?id=49092716",
+    "discussion_url": "https://news.ycombinator.com/item?id=49092716",
+    "source": "news.ycombinator.com",
+    "date": "2026-07-29T02:20:28Z",
+    "timestamp": 1785291628,
     "category": "Machine Learning"
   },
   {
-    "title": "Microsoft's AI Security Leap Signals a New Era in Cyber Defense",
-    "url": "https://predx-article.fika.bar/microsoft-s-ai-security-leap-signals-a-new-era-in-cyber-defe-01KYKBWZ671C178665K5F7MEEF",
-    "discussion_url": "https://news.ycombinator.com/item?id=49087539",
-    "source": "predx-article.fika.bar",
-    "date": "2026-07-28T17:54:03Z",
-    "timestamp": 1785261243,
+    "title": "Revealed: The Authors Whose Pirated Books Are Powering Generative AI (2023)",
+    "url": "https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49092595",
+    "source": "theatlantic.com",
+    "date": "2026-07-29T02:01:26Z",
+    "timestamp": 1785290486,
     "category": "Machine Learning"
   },
   {
-    "title": "Chip stocks tumble as AI sell-off deepens",
-    "url": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae",
-    "discussion_url": "https://news.ycombinator.com/item?id=49087537",
-    "source": "ft.com",
-    "date": "2026-07-28T17:54:01Z",
-    "timestamp": 1785261241,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI, Anthropic Staff Share Letter Asking US to Help Pace AI Progress",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress",
-    "discussion_url": "https://news.ycombinator.com/item?id=49087442",
-    "source": "bloomberg.com",
-    "date": "2026-07-28T17:47:39Z",
-    "timestamp": 1785260859,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI value alignment for evolving social norms",
-    "url": "https://arxiv.org/abs/2607.18506",
-    "discussion_url": "https://news.ycombinator.com/item?id=49087205",
-    "source": "arxiv.org",
-    "date": "2026-07-28T17:30:55Z",
-    "timestamp": 1785259855,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "San Francisco mayor backs national robotaxi rules after Waymo meltdowns",
-    "url": "https://www.politico.com/news/2026/07/28/san-francisco-waymo-washington-01013227",
-    "discussion_url": "https://news.ycombinator.com/item?id=49086448",
-    "source": "politico.com",
-    "date": "2026-07-28T16:35:59Z",
-    "timestamp": 1785256559,
+    "title": "Satyress \"Threehalves Superhumanoid General Purpose Robot\"",
+    "url": "https://www.satyress.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49092550",
+    "source": "satyress.com",
+    "date": "2026-07-29T01:56:02Z",
+    "timestamp": 1785290162,
     "category": "Physical AI"
   },
   {
-    "title": "Show HN: DocSlicer – Structure-aware PDF/DOCX/PPTX parser, 31 pages/sec on CPU",
-    "url": "https://github.com/DocSlicer/DocSlicer",
-    "discussion_url": "https://news.ycombinator.com/item?id=49086175",
+    "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+    "url": "https://www.bbc.com/news/articles/cly8zng43npo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49092549",
+    "source": "bbc.com",
+    "date": "2026-07-29T01:56:00Z",
+    "timestamp": 1785290160,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Trump administration bans new Chinese humanoid robots",
+    "url": "https://www.bbc.com/news/articles/cp9e2ex3ekyo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49092538",
+    "source": "bbc.com",
+    "date": "2026-07-29T01:54:07Z",
+    "timestamp": 1785290047,
+    "category": "Physical AI"
+  },
+  {
+    "title": "[NEW] A tool for SW Dev for safe AI architecting",
+    "url": "https://github.com/alexs60/safe-sde",
+    "discussion_url": "https://news.ycombinator.com/item?id=49092535",
     "source": "github.com",
-    "date": "2026-07-28T16:18:19Z",
-    "timestamp": 1785255499,
+    "date": "2026-07-29T01:53:45Z",
+    "timestamp": 1785290025,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Open AI announces two new models- GPT-transcribe and GPT-live-transcribe",
+    "url": "https://developers.openai.com/api/docs/models/gpt-transcribe",
+    "discussion_url": "https://news.ycombinator.com/item?id=49092525",
+    "source": "developers.openai.com",
+    "date": "2026-07-29T01:52:07Z",
+    "timestamp": 1785289927,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+    "url": "https://learnvector.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49092499",
+    "source": "learnvector.ai",
+    "date": "2026-07-29T01:49:19Z",
+    "timestamp": 1785289759,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I Built a Free AI Pain Point Miner",
+    "url": "https://github.com/joatsaint/pain-point-miner",
+    "discussion_url": "https://news.ycombinator.com/item?id=49092461",
+    "source": "github.com",
+    "date": "2026-07-29T01:45:40Z",
+    "timestamp": 1785289540,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: How many AI agents do you actively use?",
+    "url": "https://news.ycombinator.com/item?id=49092442",
+    "discussion_url": "https://news.ycombinator.com/item?id=49092442",
+    "source": "news.ycombinator.com",
+    "date": "2026-07-29T01:43:10Z",
+    "timestamp": 1785289390,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI systems out-persuade expert humans",
+    "url": "https://arxiv.org/abs/2606.16475",
+    "discussion_url": "https://news.ycombinator.com/item?id=49092092",
+    "source": "arxiv.org",
+    "date": "2026-07-29T00:57:00Z",
+    "timestamp": 1785286620,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "MVP for new AI interface for writing",
+    "url": "https://www.trymargin.org",
+    "discussion_url": "https://news.ycombinator.com/item?id=49091983",
+    "source": "trymargin.org",
+    "date": "2026-07-29T00:42:42Z",
+    "timestamp": 1785285762,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+    "url": "https://studio.academa.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49091703",
+    "source": "studio.academa.ai",
+    "date": "2026-07-29T00:07:43Z",
+    "timestamp": 1785283663,
     "category": "Computer Architecture"
+  },
+  {
+    "title": "Parallel JSON parsing on the GPU with compute shaders",
+    "url": "https://github.com/friendlymatthew/slurpjson",
+    "discussion_url": "https://news.ycombinator.com/item?id=49091063",
+    "source": "github.com",
+    "date": "2026-07-28T22:51:37Z",
+    "timestamp": 1785279097,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+    "url": "https://apnews.com/article/new-york-school-artificial-intelligence-robot-teacher-c2126c704104c4eb68b79738630b07df",
+    "discussion_url": "https://news.ycombinator.com/item?id=49090690",
+    "source": "apnews.com",
+    "date": "2026-07-28T22:15:02Z",
+    "timestamp": 1785276902,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Trump administration to ban new Chinese humanoid robots",
+    "url": "https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49089418",
+    "source": "reuters.com",
+    "date": "2026-07-28T20:21:40Z",
+    "timestamp": 1785270100,
+    "category": "Physical AI"
   },
   {
     "title": "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
@@ -135,22 +171,13 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Show HN: Base-GPUI: A GPUI port of Base UI headless components",
-    "url": "https://github.com/LukeTandjung/base-gpui",
-    "discussion_url": "https://news.ycombinator.com/item?id=49083700",
-    "source": "github.com",
-    "date": "2026-07-28T13:38:41Z",
-    "timestamp": 1785245921,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Kiln – a fast, native batch image processor",
-    "url": "https://kilnimage.app",
-    "discussion_url": "https://news.ycombinator.com/item?id=49081548",
-    "source": "kilnimage.app",
-    "date": "2026-07-28T09:45:06Z",
-    "timestamp": 1785231906,
-    "category": "Computer Architecture"
+    "title": "Robotics development made dead simple (open source)",
+    "url": "https://news.ycombinator.com/item?id=49058956",
+    "discussion_url": "https://news.ycombinator.com/item?id=49058956",
+    "source": "news.ycombinator.com",
+    "date": "2026-07-26T15:13:26Z",
+    "timestamp": 1785078806,
+    "category": "Physical AI"
   },
   {
     "title": "The most advanced robotic servicing satellite–that we know about",
