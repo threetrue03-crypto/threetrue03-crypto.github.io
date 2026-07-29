@@ -1,120 +1,156 @@
 [
   {
-    "title": "ChatGPT claims rogue AI attacked more companies",
-    "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
-    "discussion_url": "https://news.ycombinator.com/item?id=49094996",
-    "source": "bbc.co.uk",
-    "date": "2026-07-29T09:03:17Z",
-    "timestamp": 1785315797,
+    "title": "Show HN: A verification browser for AI agents – 13ms windows, one-call checks",
+    "url": "https://github.com/hongnoul/hwatu",
+    "discussion_url": "https://news.ycombinator.com/item?id=49097727",
+    "source": "github.com",
+    "date": "2026-07-29T14:05:30Z",
+    "timestamp": 1785333930,
     "category": "Machine Learning"
   },
   {
-    "title": "How Profitable Is LLM Inference? Doing the Math on Kimi K3",
-    "url": "https://cefboud.com/posts/ai-inference-costs-profit/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49094973",
-    "source": "cefboud.com",
-    "date": "2026-07-29T08:59:58Z",
-    "timestamp": 1785315598,
+    "title": "AI in Linux",
+    "url": "https://drewdevault.com/blog/AI-in-Linux/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49097649",
+    "source": "drewdevault.com",
+    "date": "2026-07-29T14:00:03Z",
+    "timestamp": 1785333603,
     "category": "Machine Learning"
   },
   {
-    "title": "Software companies face existential question as AI changes what customers buy",
-    "url": "https://www.bizjournals.com/sanjose/news/2026/07/27/ai-software-sell-outcomes-tools.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49094514",
-    "source": "bizjournals.com",
-    "date": "2026-07-29T07:44:04Z",
-    "timestamp": 1785311044,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Which mobile AI agent is the most powerful in 2026",
-    "url": "https://knightli.com/en/2026/05/29/mobile-gui-agent-projects-comparison/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49094476",
-    "source": "knightli.com",
-    "date": "2026-07-29T07:38:09Z",
-    "timestamp": 1785310689,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "We are surprisingly close to prompt-to-model in computer vision",
-    "url": "http://stefano.petrilli.xyz/prompt-to-model/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49094466",
-    "source": "stefano.petrilli.xyz",
-    "date": "2026-07-29T07:35:53Z",
-    "timestamp": 1785310553,
+    "title": "Visual prompt engineering for video models",
+    "url": "https://arxiv.org/abs/2607.25537",
+    "discussion_url": "https://news.ycombinator.com/item?id=49097221",
+    "source": "arxiv.org",
+    "date": "2026-07-29T13:25:55Z",
+    "timestamp": 1785331555,
     "category": "Computer Vision"
   },
   {
-    "title": "AI and democracy: the right to resist optimization",
-    "url": "https://humanistreview.ai/issue-1/tang-ai-democracy-optimization/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49094409",
-    "source": "humanistreview.ai",
-    "date": "2026-07-29T07:28:55Z",
-    "timestamp": 1785310135,
+    "title": "Show HN: Cadence Money – a budgeting app with no AI features, just an MCP server",
+    "url": "https://www.cadencemoney.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49097110",
+    "source": "cadencemoney.com",
+    "date": "2026-07-29T13:16:07Z",
+    "timestamp": 1785330967,
     "category": "Machine Learning"
   },
   {
-    "title": "Scientists at OpenAI and Anthropic ask U.S. for tools to pace AI development",
-    "url": "https://www.nbcnews.com/tech/security/openai-anthropic-scientists-ask-us-tools-ai-development-rcna589727",
-    "discussion_url": "https://news.ycombinator.com/item?id=49094372",
-    "source": "nbcnews.com",
-    "date": "2026-07-29T07:21:48Z",
-    "timestamp": 1785309708,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Is AI hype cooling down? I built a data-driven dashboard",
-    "url": "https://laurentiugabriel.github.io/is-ai-hype-cooling-down/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49094225",
-    "source": "laurentiugabriel.github.io",
-    "date": "2026-07-29T06:58:23Z",
-    "timestamp": 1785308303,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Sam Altman says people don't want an AI to act as CEO",
-    "url": "https://www.businessinsider.com/sam-altman-ai-ceo-humans-work-future-2026-7",
-    "discussion_url": "https://news.ycombinator.com/item?id=49094061",
-    "source": "businessinsider.com",
-    "date": "2026-07-29T06:31:43Z",
-    "timestamp": 1785306703,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Three big AI trends collide",
-    "url": "https://www.axios.com/2026/07/09/ai-trends-fable-5-sol-grok-china-us",
-    "discussion_url": "https://news.ycombinator.com/item?id=49093963",
-    "source": "axios.com",
-    "date": "2026-07-29T06:15:02Z",
-    "timestamp": 1785305702,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ran Moonshot's 2.8T-parameter Kimi K3 on a GPU-less mini-PC",
-    "url": "https://github.com/ferrumox/rabbit",
-    "discussion_url": "https://news.ycombinator.com/item?id=49093910",
+    "title": "Show HN: ButterClaw – AI agent runtime security, SIGKILL on breach, no cloud",
+    "url": "https://github.com/butterclaw-tech/butterclaw",
+    "discussion_url": "https://news.ycombinator.com/item?id=49097073",
     "source": "github.com",
-    "date": "2026-07-29T06:05:34Z",
-    "timestamp": 1785305134,
+    "date": "2026-07-29T13:12:47Z",
+    "timestamp": 1785330767,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Job Finder India – an honest job-fit tool that runs in your AI CLI",
+    "url": "https://github.com/harshgarg95/job-finder-india",
+    "discussion_url": "https://news.ycombinator.com/item?id=49097061",
+    "source": "github.com",
+    "date": "2026-07-29T13:11:07Z",
+    "timestamp": 1785330667,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Build AI Agents for Frontline Worker in Seconds",
+    "url": "https://www.dagploy.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49097042",
+    "source": "dagploy.com",
+    "date": "2026-07-29T13:09:03Z",
+    "timestamp": 1785330543,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "TokenTown: A visual way to understand how LLMs work",
+    "url": "https://laurentiugabriel.github.io/token-town/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49097003",
+    "source": "laurentiugabriel.github.io",
+    "date": "2026-07-29T13:05:17Z",
+    "timestamp": 1785330317,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "What AI developers could learn from Ernest Hemingway?",
+    "url": "https://galjot.si/what-ai-developers-could-learn-from-ernest-hemingway",
+    "discussion_url": "https://news.ycombinator.com/item?id=49096972",
+    "source": "galjot.si",
+    "date": "2026-07-29T13:02:16Z",
+    "timestamp": 1785330136,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "After the AI Crash",
+    "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49096953",
+    "source": "potsandpansbyccg.com",
+    "date": "2026-07-29T13:00:39Z",
+    "timestamp": 1785330039,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: A Persistent AI RPG Engine Built with React SPA and Supabase",
+    "url": "https://vampirolife.com/en",
+    "discussion_url": "https://news.ycombinator.com/item?id=49096914",
+    "source": "vampirolife.com",
+    "date": "2026-07-29T12:58:15Z",
+    "timestamp": 1785329895,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLMs Can't Jump",
+    "url": "https://philsci-archive.pitt.edu/28024/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49096837",
+    "source": "philsci-archive.pitt.edu",
+    "date": "2026-07-29T12:50:35Z",
+    "timestamp": 1785329435,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Echologue – the private AI voice journal I built for myself",
+    "url": "https://echologue.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49096767",
+    "source": "echologue.com",
+    "date": "2026-07-29T12:43:36Z",
+    "timestamp": 1785329016,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)",
+    "url": "https://jcgt.org/published/0015/02/01/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49096742",
+    "source": "jcgt.org",
+    "date": "2026-07-29T12:40:13Z",
+    "timestamp": 1785328813,
     "category": "Computer Architecture"
   },
   {
-    "title": "Israel Is Paying Millions to Train AI Chatbots How to Talk About Gaza",
-    "url": "https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza",
-    "discussion_url": "https://news.ycombinator.com/item?id=49093509",
-    "source": "dropsitenews.com",
-    "date": "2026-07-29T04:46:53Z",
-    "timestamp": 1785300413,
-    "category": "Machine Learning"
+    "title": "Show HN: Gpuinstances.net, historical tracking for GPU prices across providers",
+    "url": "https://gpuinstances.net/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49096514",
+    "source": "gpuinstances.net",
+    "date": "2026-07-29T12:21:16Z",
+    "timestamp": 1785327676,
+    "category": "Computer Architecture"
   },
   {
-    "title": "Cross-platform Shadow AI: Find, score, and report unmanaged AI",
-    "url": "https://www.npmjs.com/package/@guardion/shadow-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49093496",
-    "source": "npmjs.com",
-    "date": "2026-07-29T04:44:18Z",
-    "timestamp": 1785300258,
-    "category": "Machine Learning"
+    "title": "Show HN: I gave Fable a robot body",
+    "url": "https://www.talraviv.co/p/i-gave-claude-a-robot-body",
+    "discussion_url": "https://news.ycombinator.com/item?id=49096413",
+    "source": "talraviv.co",
+    "date": "2026-07-29T12:09:52Z",
+    "timestamp": 1785326992,
+    "category": "Physical AI"
+  },
+  {
+    "title": "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
+    "url": "https://www.fcc.gov/sites/default/files/robots-nsd.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=49095714",
+    "source": "fcc.gov",
+    "date": "2026-07-29T10:47:57Z",
+    "timestamp": 1785322077,
+    "category": "Physical AI"
   },
   {
     "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
@@ -126,42 +162,6 @@
     "category": "Physical AI"
   },
   {
-    "title": "Show HN: MetrIQ – An AI fitness coach who supports you",
-    "url": "https://metriq.fitness",
-    "discussion_url": "https://news.ycombinator.com/item?id=49093051",
-    "source": "metriq.fitness",
-    "date": "2026-07-29T03:19:19Z",
-    "timestamp": 1785295159,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Satyress \"Threehalves Superhumanoid General Purpose Robot\"",
-    "url": "https://www.satyress.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49092550",
-    "source": "satyress.com",
-    "date": "2026-07-29T01:56:02Z",
-    "timestamp": 1785290162,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Trump administration bans new Chinese humanoid robots",
-    "url": "https://www.bbc.com/news/articles/cp9e2ex3ekyo",
-    "discussion_url": "https://news.ycombinator.com/item?id=49092538",
-    "source": "bbc.com",
-    "date": "2026-07-29T01:54:07Z",
-    "timestamp": 1785290047,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
-    "url": "https://studio.academa.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49091703",
-    "source": "studio.academa.ai",
-    "date": "2026-07-29T00:07:43Z",
-    "timestamp": 1785283663,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
     "url": "https://github.com/reflex-dev/xy",
     "discussion_url": "https://news.ycombinator.com/item?id=49085798",
@@ -169,15 +169,6 @@
     "date": "2026-07-28T15:54:55Z",
     "timestamp": 1785254095,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Robotics development made dead simple (open source)",
-    "url": "https://news.ycombinator.com/item?id=49058956",
-    "discussion_url": "https://news.ycombinator.com/item?id=49058956",
-    "source": "news.ycombinator.com",
-    "date": "2026-07-26T15:13:26Z",
-    "timestamp": 1785078806,
-    "category": "Physical AI"
   },
   {
     "title": "The most advanced robotic servicing satellite–that we know about",
