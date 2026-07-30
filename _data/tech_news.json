@@ -1,156 +1,174 @@
 [
   {
-    "title": "Show HN: I audited my AI leaderboard scale – every score dropped 6-15 points",
-    "url": "https://agiranker.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49110215",
-    "source": "agiranker.com",
-    "date": "2026-07-30T14:04:18Z",
-    "timestamp": 1785420258,
+    "title": "DeepSeek Plans Gigawatt Scale AI Data Center in Inner Mongolia",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia",
+    "discussion_url": "https://news.ycombinator.com/item?id=49114675",
+    "source": "bloomberg.com",
+    "date": "2026-07-30T19:36:49Z",
+    "timestamp": 1785440209,
     "category": "Machine Learning"
   },
   {
-    "title": "A new inference engine to run Kimi K3 2.78T parameter with 29GB of RAM",
-    "url": "https://marcobambini.substack.com/p/the-waste-inference-engine",
-    "discussion_url": "https://news.ycombinator.com/item?id=49110183",
-    "source": "marcobambini.substack.com",
-    "date": "2026-07-30T14:01:44Z",
-    "timestamp": 1785420104,
+    "title": "LinkedIn Adds \"Seems Like AI Slop\" Button on Every Post",
+    "url": "https://futurism.com/artificial-intelligence/linkedin-adds-button-report-seems-like-ai-slop",
+    "discussion_url": "https://news.ycombinator.com/item?id=49114582",
+    "source": "futurism.com",
+    "date": "2026-07-30T19:29:56Z",
+    "timestamp": 1785439796,
     "category": "Machine Learning"
   },
   {
-    "title": "The 73,000-server market reselling Western frontier AI into China",
-    "url": "https://infrawatch.com/blog/73000-servers-selling-western-frontier-ai-into-china-transfer-stations",
-    "discussion_url": "https://news.ycombinator.com/item?id=49109964",
-    "source": "infrawatch.com",
-    "date": "2026-07-30T13:45:48Z",
-    "timestamp": 1785419148,
+    "title": "EU opens call for seven 'gigafactories' to train next-generation AI technologies",
+    "url": "https://www.euronews.com/my-europe/2026/07/30/eu-opens-call-for-seven-gigafactories-to-train-next-generation-ai-technologies",
+    "discussion_url": "https://news.ycombinator.com/item?id=49114356",
+    "source": "euronews.com",
+    "date": "2026-07-30T19:12:47Z",
+    "timestamp": 1785438767,
     "category": "Machine Learning"
   },
   {
-    "title": "The Dress Rehearsal of AI Killing Us All",
-    "url": "https://unchartedterritories.tomaspueyo.com/p/the-dress-rehearsal-of-ai-killing",
-    "discussion_url": "https://news.ycombinator.com/item?id=49109933",
-    "source": "unchartedterritories.tomaspueyo.com",
-    "date": "2026-07-30T13:44:24Z",
-    "timestamp": 1785419064,
+    "title": "Thieves Are Now Targeting AI Data Center Construction Sites",
+    "url": "https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49114292",
+    "source": "vice.com",
+    "date": "2026-07-30T19:09:10Z",
+    "timestamp": 1785438550,
     "category": "Machine Learning"
   },
   {
-    "title": "Smart contracts for AI agents: Centralized platforms->distributed control planes",
-    "url": "https://medium.com/quantumblack/smart-contracts-for-ai-agents-6122e0c7e2f3",
-    "discussion_url": "https://news.ycombinator.com/item?id=49109920",
-    "source": "medium.com",
-    "date": "2026-07-30T13:43:49Z",
-    "timestamp": 1785419029,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Adversarial Code Obfuscation for Defending Against LLM-Based Analysis",
-    "url": "https://arxiv.org/abs/2606.11755",
-    "discussion_url": "https://news.ycombinator.com/item?id=49109869",
-    "source": "arxiv.org",
-    "date": "2026-07-30T13:40:54Z",
-    "timestamp": 1785418854,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Meta shares tumble as Mark Zuckerberg tries to sell his vision for AI 'agents",
-    "url": "https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b",
-    "discussion_url": "https://news.ycombinator.com/item?id=49109802",
-    "source": "ft.com",
-    "date": "2026-07-30T13:35:54Z",
-    "timestamp": 1785418554,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: ABSL – 100% Integer-Only Neural Network Training in Rust",
-    "url": "https://github.com/Mojo0869/ABSL",
-    "discussion_url": "https://news.ycombinator.com/item?id=49109785",
-    "source": "github.com",
-    "date": "2026-07-30T13:34:24Z",
-    "timestamp": 1785418464,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Scammers Are Better at Building Trust Than Humans",
-    "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49109769",
-    "source": "wired.com",
-    "date": "2026-07-30T13:33:33Z",
-    "timestamp": 1785418413,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Percent of Leaders Regret AI Layoffs–and a Major Hiring Reversal Has Begun",
-    "url": "https://www.inc.com/bruce-crumley/55-percent-of-leaders-regret-ai-layoffs-and-a-major-hiring-reversal-has-begun/91380901",
-    "discussion_url": "https://news.ycombinator.com/item?id=49109657",
-    "source": "inc.com",
-    "date": "2026-07-30T13:24:40Z",
-    "timestamp": 1785417880,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "First Contact: The most important question in AI",
-    "url": "https://evolutionairy.ai/first-contact/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49109627",
-    "source": "evolutionairy.ai",
-    "date": "2026-07-30T13:22:19Z",
-    "timestamp": 1785417739,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Amazon's Zoox wins first US approval for paid robotaxis with no human controls",
-    "url": "https://www.reuters.com/world/amazons-zoox-wins-first-us-approval-paid-robotaxis-with-no-human-controls-2026-07-30/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49109581",
-    "source": "reuters.com",
-    "date": "2026-07-30T13:18:10Z",
-    "timestamp": 1785417490,
+    "title": "FCC Bans New Foreign-Made Robot Vacuums",
+    "url": "https://www.macrumors.com/2026/07/30/foreign-made-robot-vacuums-ban/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49114290",
+    "source": "macrumors.com",
+    "date": "2026-07-30T19:08:37Z",
+    "timestamp": 1785438517,
     "category": "Physical AI"
   },
   {
-    "title": "Can AI Agents Be Aligned with Human Rights?",
-    "url": "https://www.techpolicy.press/can-ai-agents-be-aligned-with-human-rights/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49109522",
-    "source": "techpolicy.press",
-    "date": "2026-07-30T13:11:58Z",
-    "timestamp": 1785417118,
+    "title": "Microsoft's AI Ambitions Put OpenAI and Anthropic on Notice",
+    "url": "https://predx-article.fika.bar/microsoft-s-ai-ambitions-put-openai-and-anthropic-on-notice-01KYRCW9T4AXTRP346SMDSAH4M",
+    "discussion_url": "https://news.ycombinator.com/item?id=49114209",
+    "source": "predx-article.fika.bar",
+    "date": "2026-07-30T19:01:33Z",
+    "timestamp": 1785438093,
     "category": "Machine Learning"
   },
   {
-    "title": "I made a game where you build a CPU from logic gates",
+    "title": "The Friend AI Pendant is not a product",
+    "url": "https://www.machinesociety.ai/p/the-friend-ai-pendant-is-not-a-product",
+    "discussion_url": "https://news.ycombinator.com/item?id=49114180",
+    "source": "machinesociety.ai",
+    "date": "2026-07-30T18:58:36Z",
+    "timestamp": 1785437916,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Citadel buys most of Situational's stock holdings after AI share rout",
+    "url": "https://www.reuters.com/technology/citadel-buys-most-situationals-stock-holdings-after-ai-share-rout-sources-say-2026-07-30/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49114131",
+    "source": "reuters.com",
+    "date": "2026-07-30T18:54:46Z",
+    "timestamp": 1785437686,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Star AI investor Leopold Aschenbrenner is unwinding trades after steep losses",
+    "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49114095",
+    "source": "cnbc.com",
+    "date": "2026-07-30T18:52:55Z",
+    "timestamp": 1785437575,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AMD Posts Linux Patches for HDMI 2.1 Auto Low-Latency Mode \"ALLM\" & VRR",
+    "url": "https://www.phoronix.com/news/AMDGPU-HDMI-2.1-ALLM",
+    "discussion_url": "https://news.ycombinator.com/item?id=49114072",
+    "source": "phoronix.com",
+    "date": "2026-07-30T18:50:49Z",
+    "timestamp": 1785437449,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "We're making Chrome and the web safer in the AI Era",
+    "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49114031",
+    "source": "blog.google",
+    "date": "2026-07-30T18:48:13Z",
+    "timestamp": 1785437293,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Zeno's Paradox of AI",
+    "url": "https://negativezone.github.io/2026/07/29/zeno.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49113814",
+    "source": "negativezone.github.io",
+    "date": "2026-07-30T18:32:08Z",
+    "timestamp": 1785436328,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLM re-reads the same text a thousand times. Here's what I measured",
+    "url": "https://swellweb.github.io/reame/bytes/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49113783",
+    "source": "swellweb.github.io",
+    "date": "2026-07-30T18:28:32Z",
+    "timestamp": 1785436112,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: An online Live face swap app, no GPU need",
+    "url": "https://livefaceswap.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49113397",
+    "source": "livefaceswap.ai",
+    "date": "2026-07-30T17:57:20Z",
+    "timestamp": 1785434240,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Satyress – Robots That Work",
+    "url": "https://www.satyress.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49113196",
+    "source": "satyress.com",
+    "date": "2026-07-30T17:41:02Z",
+    "timestamp": 1785433262,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Solving poker in custom WebGPU kernels",
+    "url": "https://phulin.me/blog/poker/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49111523",
+    "source": "phulin.me",
+    "date": "2026-07-30T15:38:54Z",
+    "timestamp": 1785425934,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49111237",
+    "source": "deepmind.google",
+    "date": "2026-07-30T15:15:48Z",
+    "timestamp": 1785424548,
+    "category": "Physical AI"
+  },
+  {
+    "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
+    "url": "https://github.com/n67094/sdl_gp",
+    "discussion_url": "https://news.ycombinator.com/item?id=49110655",
+    "source": "github.com",
+    "date": "2026-07-30T14:36:59Z",
+    "timestamp": 1785422219,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: I made a game where you build a CPU from logic gates",
     "url": "https://select.supply/game/chipbuilder",
     "discussion_url": "https://news.ycombinator.com/item?id=49108571",
     "source": "select.supply",
     "date": "2026-07-30T11:33:02Z",
     "timestamp": 1785411182,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "The Chinese robot army transforming the UK's retail industry",
-    "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo",
-    "discussion_url": "https://news.ycombinator.com/item?id=49108226",
-    "source": "bbc.co.uk",
-    "date": "2026-07-30T10:56:01Z",
-    "timestamp": 1785408961,
-    "category": "Physical AI"
-  },
-  {
-    "title": "I Got a Free Meal from a Private Chef–Who Filmed It All to Train Robots",
-    "url": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49107886",
-    "source": "wired.com",
-    "date": "2026-07-30T09:58:53Z",
-    "timestamp": 1785405533,
-    "category": "Physical AI"
-  },
-  {
-    "title": "OpenDerm – Open-source robotic 3D skin imaging",
-    "url": "https://openderm.github.io/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49104272",
-    "source": "openderm.github.io",
-    "date": "2026-07-29T23:09:14Z",
-    "timestamp": 1785366554,
-    "category": "Physical AI"
   },
   {
     "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
