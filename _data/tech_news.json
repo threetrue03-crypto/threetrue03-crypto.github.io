@@ -1,147 +1,120 @@
 [
   {
-    "title": "Chinese military researchers tap US AI models to train defence systems",
-    "url": "https://www.reuters.com/world/asia-pacific/chinese-military-researchers-tap-us-ai-models-train-defence-systems-2026-07-31/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49120711",
-    "source": "reuters.com",
-    "date": "2026-07-31T09:00:56Z",
-    "timestamp": 1785488456,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Yann LeCun's $1B Bet Against LLMs [Part 1] [video]",
-    "url": "https://www.youtube.com/watch?v=kYkIdXwW2AE",
-    "discussion_url": "https://news.ycombinator.com/item?id=49120682",
-    "source": "youtube.com",
-    "date": "2026-07-31T08:57:28Z",
-    "timestamp": 1785488248,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Role of Rigor in Artificial Intelligence",
-    "url": "https://twitter.com/iamtimnguyen/status/2077091364743807065",
-    "discussion_url": "https://news.ycombinator.com/item?id=49120609",
-    "source": "twitter.com",
-    "date": "2026-07-31T08:48:54Z",
-    "timestamp": 1785487734,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Anthropic's Claude AI models hack into 3 outside groups during testing",
-    "url": "https://www.ft.com/content/1a841f08-8e59-49d9-9561-0ed20e9190df",
-    "discussion_url": "https://news.ycombinator.com/item?id=49120363",
-    "source": "ft.com",
-    "date": "2026-07-31T08:10:08Z",
-    "timestamp": 1785485408,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49120097",
-    "source": "blog.google",
-    "date": "2026-07-31T07:29:22Z",
-    "timestamp": 1785482962,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Slaide, open-source Markdown slides AI writes and PowerPoint opens",
-    "url": "https://getslaide.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49120039",
-    "source": "getslaide.com",
-    "date": "2026-07-31T07:21:17Z",
-    "timestamp": 1785482477,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: I stopped babysitting my AI agents by pushing them to Telegram",
-    "url": "https://blackflare.dev/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49119935",
-    "source": "blackflare.dev",
-    "date": "2026-07-31T07:05:26Z",
-    "timestamp": 1785481526,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Benchmarking Guardrails for AI Agent Safety",
-    "url": "https://blog.mozilla.ai/can-open-source-guardrails-really-protect-ai-agents/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49119800",
-    "source": "blog.mozilla.ai",
-    "date": "2026-07-31T06:46:54Z",
-    "timestamp": 1785480414,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "HexCore: Low-Latency Paged KV Cache Allocator in C++20 and CUDA",
-    "url": "https://github.com/password162156/hexcore-llm",
-    "discussion_url": "https://news.ycombinator.com/item?id=49119763",
+    "title": "Show HN: Run manual QA test cases in a real browser with an AI agent",
+    "url": "https://github.com/broxhq/qpilot",
+    "discussion_url": "https://news.ycombinator.com/item?id=49123489",
     "source": "github.com",
-    "date": "2026-07-31T06:39:24Z",
-    "timestamp": 1785479964,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "'First tremors' of AI earthquake showing in digital revenue hit",
-    "url": "https://pressgazette.co.uk/publishers/digital-journalism/first-tremors-of-ai-earthquake-showing-in-digital-revenue-hit/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49119344",
-    "source": "pressgazette.co.uk",
-    "date": "2026-07-31T05:29:47Z",
-    "timestamp": 1785475787,
+    "date": "2026-07-31T14:19:43Z",
+    "timestamp": 1785507583,
     "category": "Machine Learning"
   },
   {
-    "title": "Nvidia's $750B AI bet deepens fears of a circular tech bubble",
-    "url": "https://www.latimes.com/business/story/2026-07-29/nvidias-750-billion-ai-bet-deepens-fears-of-circular-tech-bubble",
-    "discussion_url": "https://news.ycombinator.com/item?id=49119284",
-    "source": "latimes.com",
-    "date": "2026-07-31T05:19:46Z",
-    "timestamp": 1785475186,
+    "title": "Starbucks bet big on an AI tool; 9 months later, it pulled the plug",
+    "url": "https://www.fastcompany.com/91572019/starbucks-bet-big-ai-tool-national-scale-9-months-inventory-automated-counting-nomadgo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49123441",
+    "source": "fastcompany.com",
+    "date": "2026-07-31T14:15:58Z",
+    "timestamp": 1785507358,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: What should the GUI for AI agents look like?",
-    "url": "https://marbleos.com/demo",
-    "discussion_url": "https://news.ycombinator.com/item?id=49119274",
-    "source": "marbleos.com",
-    "date": "2026-07-31T05:17:29Z",
-    "timestamp": 1785475049,
+    "title": "Stealthy Concurrent Audio Prompt Injections Against Multimodal LLM Agents",
+    "url": "https://arxiv.org/abs/2607.28165",
+    "discussion_url": "https://news.ycombinator.com/item?id=49123267",
+    "source": "arxiv.org",
+    "date": "2026-07-31T14:02:19Z",
+    "timestamp": 1785506539,
     "category": "Machine Learning"
   },
   {
-    "title": "LinkedIn Introduces a 'Seems Like AI Slop' Button",
-    "url": "https://www.404media.co/linkedin-introduces-a-seems-like-ai-slop-button/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49119261",
-    "source": "404media.co",
-    "date": "2026-07-31T05:15:03Z",
-    "timestamp": 1785474903,
+    "title": "China's MiniMax releases H3 video model",
+    "url": "https://www.reuters.com/world/china/chinas-minimax-releases-h3-video-model-2026-07-31/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49123178",
+    "source": "reuters.com",
+    "date": "2026-07-31T13:54:31Z",
+    "timestamp": 1785506071,
+    "category": "Computer Vision"
+  },
+  {
+    "title": "Situational Awareness Down 67% in July in AI Stock Rout",
+    "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+    "discussion_url": "https://news.ycombinator.com/item?id=49122994",
+    "source": "wsj.com",
+    "date": "2026-07-31T13:37:36Z",
+    "timestamp": 1785505056,
     "category": "Machine Learning"
   },
   {
-    "title": "From CUDA to MLX: How K-Search Brings Kernel Expertise to Apple Silicon",
-    "url": "https://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49118363",
-    "source": "bair.berkeley.edu",
-    "date": "2026-07-31T02:31:18Z",
-    "timestamp": 1785465078,
-    "category": "Computer Architecture"
+    "title": "Citadel buys Situational Awareness equity holdings after steep AI losses",
+    "url": "https://www.ft.com/content/5fb44089-ecdf-4b48-bc14-1e8b4682b142",
+    "discussion_url": "https://news.ycombinator.com/item?id=49122857",
+    "source": "ft.com",
+    "date": "2026-07-31T13:25:57Z",
+    "timestamp": 1785504357,
+    "category": "Machine Learning"
   },
   {
-    "title": "DoC Announces LoIs With 7 Companies for $874M to Accelerate Semiconductor R&D",
-    "url": "https://www.nist.gov/news-events/news/2026/07/department-commerce-announces-letters-intent-7-companies-874-million",
-    "discussion_url": "https://news.ycombinator.com/item?id=49117588",
-    "source": "nist.gov",
-    "date": "2026-07-31T00:20:31Z",
-    "timestamp": 1785457231,
-    "category": "Computer Architecture"
+    "title": "Anthropic says its AI models hacked 3 organizations during testing",
+    "url": "https://apnews.com/article/anthropic-ai-models-hack-cybersecurity-b0a2c284b981de79c55e2a33712f4bec",
+    "discussion_url": "https://news.ycombinator.com/item?id=49122395",
+    "source": "apnews.com",
+    "date": "2026-07-31T12:43:13Z",
+    "timestamp": 1785501793,
+    "category": "Machine Learning"
   },
   {
-    "title": "Gemini Robotics",
-    "url": "https://deepmind.google/models/gemini-robotics/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49117178",
-    "source": "deepmind.google",
-    "date": "2026-07-30T23:30:44Z",
-    "timestamp": 1785454244,
-    "category": "Physical AI"
+    "title": "Guardrails Hub – Guardrails AI",
+    "url": "https://guardrailsai.com/hub",
+    "discussion_url": "https://news.ycombinator.com/item?id=49122241",
+    "source": "guardrailsai.com",
+    "date": "2026-07-31T12:27:34Z",
+    "timestamp": 1785500854,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A dystopian world where LLMs can't code but can generate software binaries",
+    "url": "https://twitter.com/random_walker/status/2082163285588107752",
+    "discussion_url": "https://news.ycombinator.com/item?id=49121968",
+    "source": "twitter.com",
+    "date": "2026-07-31T11:50:13Z",
+    "timestamp": 1785498613,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Companies Mass Shredding Rare Books [video]",
+    "url": "https://www.youtube.com/watch?v=8c8pmp_OC2s",
+    "discussion_url": "https://news.ycombinator.com/item?id=49121930",
+    "source": "youtube.com",
+    "date": "2026-07-31T11:45:33Z",
+    "timestamp": 1785498333,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LinkedIn adds a 'Seems like AI slop' button",
+    "url": "https://thenextweb.com/news/linkedin-seems-like-ai-slop-button",
+    "discussion_url": "https://news.ycombinator.com/item?id=49121840",
+    "source": "thenextweb.com",
+    "date": "2026-07-31T11:33:24Z",
+    "timestamp": 1785497604,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Microsoft blinked a little in the AI capex race. Wall Street loved it",
+    "url": "https://www.businessinsider.com/microsoft-blinked-ai-capex-data-centers-wall-street-cheered-2026-7",
+    "discussion_url": "https://news.ycombinator.com/item?id=49121830",
+    "source": "businessinsider.com",
+    "date": "2026-07-31T11:31:21Z",
+    "timestamp": 1785497481,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Decoy Font protects messages from being read by AI",
+    "url": "https://www.dezeen.com/2026/07/31/decoy-font-ai-mixfont/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49121788",
+    "source": "dezeen.com",
+    "date": "2026-07-31T11:25:48Z",
+    "timestamp": 1785497148,
+    "category": "Machine Learning"
   },
   {
     "title": "Solving poker in custom WebGPU kernels",
