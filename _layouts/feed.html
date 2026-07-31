@@ -251,7 +251,15 @@
       history.replaceState(null, '', url);
     }
 
-    search.addEventListener('input', filterEntries);
+    function debounce(callback, delay) {
+      let timeoutId;
+      return (...args) => {
+        clearTimeout(timeoutId);
+        timeoutId = setTimeout(() => callback(...args), delay);
+      };
+    }
+
+    search.addEventListener('input', debounce(filterEntries, 250));
     topicButtons.forEach(button => button.addEventListener('click', () => {
       topicButtons.forEach(item => item.classList.remove('active'));
       button.classList.add('active');

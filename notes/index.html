@@ -159,7 +159,15 @@ permalink: /notes/
       empty.classList.toggle('visible', visible === 0);
     }
 
-    search.addEventListener('input', applyFilters);
+    function debounce(callback, delay) {
+      let timeoutId;
+      return (...args) => {
+        clearTimeout(timeoutId);
+        timeoutId = setTimeout(() => callback(...args), delay);
+      };
+    }
+
+    search.addEventListener('input', debounce(applyFilters, 250));
 
     topicButtons.forEach(button => {
       button.addEventListener('click', () => {
