@@ -1,56 +1,110 @@
 [
   {
-    "title": "Google kills Earth AI generator after one day",
-    "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
-    "discussion_url": "https://news.ycombinator.com/item?id=49134079",
-    "source": "twitter.com",
-    "date": "2026-08-01T13:02:44Z",
-    "timestamp": 1785589364,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Charlie Stross – On the non-use of AI in my writing process",
-    "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49134038",
-    "source": "antipope.org",
-    "date": "2026-08-01T12:56:54Z",
-    "timestamp": 1785589014,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A Field Guide to the AI Security Market",
-    "url": "https://zeltser.com/ai-security-market-field-guide",
-    "discussion_url": "https://news.ycombinator.com/item?id=49133934",
-    "source": "zeltser.com",
-    "date": "2026-08-01T12:39:39Z",
-    "timestamp": 1785587979,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "July 2026 in AI",
-    "url": "https://howmachinesthink.substack.com/p/july-2026-in-ai-what-actually-mattered",
-    "discussion_url": "https://news.ycombinator.com/item?id=49133917",
-    "source": "howmachinesthink.substack.com",
-    "date": "2026-08-01T12:38:04Z",
-    "timestamp": 1785587884,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google AI Overviews have gone from appearing in 15% of searches to 43% now",
-    "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49133906",
-    "source": "techcrunch.com",
-    "date": "2026-08-01T12:36:37Z",
-    "timestamp": 1785587797,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Integrate LLM into your Python runtime",
-    "url": "https://github.com/MiskaKan/thinair",
-    "discussion_url": "https://news.ycombinator.com/item?id=49133864",
+    "title": "Chess Engine Dev Community Openly Hostile to AI Assisted Development",
+    "url": "https://github.com/adamtwiss/coda/issues/15",
+    "discussion_url": "https://news.ycombinator.com/item?id=49137303",
     "source": "github.com",
-    "date": "2026-08-01T12:31:52Z",
-    "timestamp": 1785587512,
+    "date": "2026-08-01T18:57:54Z",
+    "timestamp": 1785610674,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Google cancels AI Studio app after 800k preorders",
+    "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
+    "discussion_url": "https://news.ycombinator.com/item?id=49137268",
+    "source": "twitter.com",
+    "date": "2026-08-01T18:55:13Z",
+    "timestamp": 1785610513,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "House Committees Investigate DoorDash's Use of Chinese AI",
+    "url": "https://chinaselectcommittee.house.gov/media/press-releases/house-committees-investigate-doordash-s-use-of-chinese-ai-a-recipe-for-risk",
+    "discussion_url": "https://news.ycombinator.com/item?id=49137046",
+    "source": "chinaselectcommittee.house.gov",
+    "date": "2026-08-01T18:30:43Z",
+    "timestamp": 1785609043,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I Stop LLMs Drifting in Production Codebases",
+    "url": "https://scottspence.com/posts/how-i-stop-llms-drifting-in-production-codebases",
+    "discussion_url": "https://news.ycombinator.com/item?id=49137000",
+    "source": "scottspence.com",
+    "date": "2026-08-01T18:25:46Z",
+    "timestamp": 1785608746,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
+    "url": "https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth",
+    "discussion_url": "https://news.ycombinator.com/item?id=49136787",
+    "source": "barchart.com",
+    "date": "2026-08-01T18:03:08Z",
+    "timestamp": 1785607388,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
+    "url": "https://freeaipromptgen.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49136591",
+    "source": "freeaipromptgen.com",
+    "date": "2026-08-01T17:40:52Z",
+    "timestamp": 1785606052,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Has Passed Every Exam. It Has Never Had an Idea",
+    "url": "https://manasbihani.substack.com/p/ai-has-passed-every-exam-it-has-never",
+    "discussion_url": "https://news.ycombinator.com/item?id=49136457",
+    "source": "manasbihani.substack.com",
+    "date": "2026-08-01T17:26:54Z",
+    "timestamp": 1785605214,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Assessment of open AI math results",
+    "url": "https://twitter.com/stalkermustang/status/2083485500250198453",
+    "discussion_url": "https://news.ycombinator.com/item?id=49136236",
+    "source": "twitter.com",
+    "date": "2026-08-01T17:08:03Z",
+    "timestamp": 1785604083,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Type designers have created a free font that \"poisons\" AI",
+    "url": "https://www.creativebloq.com/design/fonts-typography/type-designers-have-created-a-free-font-that-poisons-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49136234",
+    "source": "creativebloq.com",
+    "date": "2026-08-01T17:07:51Z",
+    "timestamp": 1785604071,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+    "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49136168",
+    "source": "wired.com",
+    "date": "2026-08-01T17:01:17Z",
+    "timestamp": 1785603677,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "IssueTrojanBench: Benchmarking AI Coding Agents Against Malicious Issue Requests",
+    "url": "https://arxiv.org/abs/2607.20759",
+    "discussion_url": "https://news.ycombinator.com/item?id=49136144",
+    "source": "arxiv.org",
+    "date": "2026-08-01T16:59:18Z",
+    "timestamp": 1785603558,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Kotlin Benchmark for AI Coding Agents",
+    "url": "https://blog.jetbrains.com/kotlin/2026/07/introducing-the-kotlin-benchmark-evaluate-ai-coding-agents-on-real-world-kotlin-tasks/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49136137",
+    "source": "blog.jetbrains.com",
+    "date": "2026-08-01T16:58:42Z",
+    "timestamp": 1785603522,
     "category": "Machine Learning"
   },
   {
@@ -60,87 +114,6 @@
     "source": "github.com",
     "date": "2026-08-01T12:30:32Z",
     "timestamp": 1785587432,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Building biology AI models autonomously",
-    "url": "https://phylo.bio/blog/biomni-tuso",
-    "discussion_url": "https://news.ycombinator.com/item?id=49133734",
-    "source": "phylo.bio",
-    "date": "2026-08-01T12:11:32Z",
-    "timestamp": 1785586292,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Is Superhuman Wherever the Scoreboard Is Cheap",
-    "url": "https://future.lulzx.space/blog/cheap-scoreboard.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49133120",
-    "source": "future.lulzx.space",
-    "date": "2026-08-01T10:43:18Z",
-    "timestamp": 1785580998,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How OpenAI Lost Its AI Crown–and the Fight to Win It Back",
-    "url": "https://www.wsj.com/tech/ai/how-openai-lost-its-ai-crownand-the-fight-to-win-it-back-7d069695",
-    "discussion_url": "https://news.ycombinator.com/item?id=49132983",
-    "source": "wsj.com",
-    "date": "2026-08-01T10:15:00Z",
-    "timestamp": 1785579300,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Anthropic says its AI models also hacked three organizations on their own",
-    "url": "https://www.engadget.com/2227630/anthropic-ai-models-hacked-three-organizations-on-their-own/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49132942",
-    "source": "engadget.com",
-    "date": "2026-08-01T10:10:15Z",
-    "timestamp": 1785579015,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI labels to be compulsory on authentic-looking content under EU rules",
-    "url": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules",
-    "discussion_url": "https://news.ycombinator.com/item?id=49132822",
-    "source": "theguardian.com",
-    "date": "2026-08-01T09:49:14Z",
-    "timestamp": 1785577754,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Kill Chain: How AI Is Transforming Modern Warfare [video]",
-    "url": "https://www.youtube.com/watch?v=xjhywQlzJYo",
-    "discussion_url": "https://news.ycombinator.com/item?id=49132788",
-    "source": "youtube.com",
-    "date": "2026-08-01T09:43:37Z",
-    "timestamp": 1785577417,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Virtual accelerated GPU device for macOS VMs",
-    "url": "https://reims-vgpu.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49131200",
-    "source": "reims-vgpu.com",
-    "date": "2026-08-01T05:02:54Z",
-    "timestamp": 1785560574,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "What Is MiniMax H3? Everything You Need to Know About the Hailuo 3.0 Video Model",
-    "url": "https://minimaxh3.art/blog/what-is-minimax-h3",
-    "discussion_url": "https://news.ycombinator.com/item?id=49130723",
-    "source": "minimaxh3.art",
-    "date": "2026-08-01T03:15:09Z",
-    "timestamp": 1785554109,
-    "category": "Computer Vision"
-  },
-  {
-    "title": "Hygon Reveals 512-Thread CPU and AI GPU to Rival Intel Xeon and Nvidia",
-    "url": "https://www.ubergizmo.com/2026/06/hygon-512-thread-cpu/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49125140",
-    "source": "ubergizmo.com",
-    "date": "2026-07-31T16:21:11Z",
-    "timestamp": 1785514871,
     "category": "Computer Architecture"
   },
   {
