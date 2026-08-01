@@ -1,47 +1,119 @@
 [
   {
-    "title": "AI doesn't generate working products, that's still your job",
-    "url": "https://weeraman.com/the-prototype-isnt-the-product/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49132130",
-    "source": "weeraman.com",
-    "date": "2026-08-01T07:52:10Z",
-    "timestamp": 1785570730,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Is AI Conscious? [video]",
-    "url": "https://www.youtube.com/watch?v=DRbZyuY8EN8",
-    "discussion_url": "https://news.ycombinator.com/item?id=49132014",
-    "source": "youtube.com",
-    "date": "2026-08-01T07:31:13Z",
-    "timestamp": 1785569473,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Chinese AI Researchers Are Finding Their Voice on X",
-    "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49131855",
-    "source": "wired.com",
-    "date": "2026-08-01T07:02:03Z",
-    "timestamp": 1785567723,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "LLMs can't trade and higher reasoning doesn't help",
-    "url": "https://twitter.com/RRicefan/status/2082513323489202664",
-    "discussion_url": "https://news.ycombinator.com/item?id=49131364",
+    "title": "Google kills Earth AI generator after one day",
+    "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+    "discussion_url": "https://news.ycombinator.com/item?id=49134079",
     "source": "twitter.com",
-    "date": "2026-08-01T05:37:48Z",
-    "timestamp": 1785562668,
+    "date": "2026-08-01T13:02:44Z",
+    "timestamp": 1785589364,
     "category": "Machine Learning"
   },
   {
-    "title": "The Four Horsemen of the AI Bubble Apocalypse",
-    "url": "https://www.derekthompson.org/p/the-four-horsemen-of-the-ai-bubble",
-    "discussion_url": "https://news.ycombinator.com/item?id=49131316",
-    "source": "derekthompson.org",
-    "date": "2026-08-01T05:30:26Z",
-    "timestamp": 1785562226,
+    "title": "Charlie Stross – On the non-use of AI in my writing process",
+    "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49134038",
+    "source": "antipope.org",
+    "date": "2026-08-01T12:56:54Z",
+    "timestamp": 1785589014,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A Field Guide to the AI Security Market",
+    "url": "https://zeltser.com/ai-security-market-field-guide",
+    "discussion_url": "https://news.ycombinator.com/item?id=49133934",
+    "source": "zeltser.com",
+    "date": "2026-08-01T12:39:39Z",
+    "timestamp": 1785587979,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "July 2026 in AI",
+    "url": "https://howmachinesthink.substack.com/p/july-2026-in-ai-what-actually-mattered",
+    "discussion_url": "https://news.ycombinator.com/item?id=49133917",
+    "source": "howmachinesthink.substack.com",
+    "date": "2026-08-01T12:38:04Z",
+    "timestamp": 1785587884,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Google AI Overviews have gone from appearing in 15% of searches to 43% now",
+    "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49133906",
+    "source": "techcrunch.com",
+    "date": "2026-08-01T12:36:37Z",
+    "timestamp": 1785587797,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Integrate LLM into your Python runtime",
+    "url": "https://github.com/MiskaKan/thinair",
+    "discussion_url": "https://news.ycombinator.com/item?id=49133864",
+    "source": "github.com",
+    "date": "2026-08-01T12:31:52Z",
+    "timestamp": 1785587512,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
+    "url": "https://github.com/pochenai/nano-llm-posttraining",
+    "discussion_url": "https://news.ycombinator.com/item?id=49133851",
+    "source": "github.com",
+    "date": "2026-08-01T12:30:32Z",
+    "timestamp": 1785587432,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Building biology AI models autonomously",
+    "url": "https://phylo.bio/blog/biomni-tuso",
+    "discussion_url": "https://news.ycombinator.com/item?id=49133734",
+    "source": "phylo.bio",
+    "date": "2026-08-01T12:11:32Z",
+    "timestamp": 1785586292,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Is Superhuman Wherever the Scoreboard Is Cheap",
+    "url": "https://future.lulzx.space/blog/cheap-scoreboard.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49133120",
+    "source": "future.lulzx.space",
+    "date": "2026-08-01T10:43:18Z",
+    "timestamp": 1785580998,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How OpenAI Lost Its AI Crown–and the Fight to Win It Back",
+    "url": "https://www.wsj.com/tech/ai/how-openai-lost-its-ai-crownand-the-fight-to-win-it-back-7d069695",
+    "discussion_url": "https://news.ycombinator.com/item?id=49132983",
+    "source": "wsj.com",
+    "date": "2026-08-01T10:15:00Z",
+    "timestamp": 1785579300,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic says its AI models also hacked three organizations on their own",
+    "url": "https://www.engadget.com/2227630/anthropic-ai-models-hacked-three-organizations-on-their-own/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49132942",
+    "source": "engadget.com",
+    "date": "2026-08-01T10:10:15Z",
+    "timestamp": 1785579015,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI labels to be compulsory on authentic-looking content under EU rules",
+    "url": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules",
+    "discussion_url": "https://news.ycombinator.com/item?id=49132822",
+    "source": "theguardian.com",
+    "date": "2026-08-01T09:49:14Z",
+    "timestamp": 1785577754,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Kill Chain: How AI Is Transforming Modern Warfare [video]",
+    "url": "https://www.youtube.com/watch?v=xjhywQlzJYo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49132788",
+    "source": "youtube.com",
+    "date": "2026-08-01T09:43:37Z",
+    "timestamp": 1785577417,
     "category": "Machine Learning"
   },
   {
@@ -54,15 +126,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Last 30 Days (Skill) – AI Agent for Reddit, X, YT, HN, Web and Polymarket",
-    "url": "https://github.com/mvanhorn/last30days-skill",
-    "discussion_url": "https://news.ycombinator.com/item?id=49130905",
-    "source": "github.com",
-    "date": "2026-08-01T04:00:39Z",
-    "timestamp": 1785556839,
-    "category": "Machine Learning"
-  },
-  {
     "title": "What Is MiniMax H3? Everything You Need to Know About the Hailuo 3.0 Video Model",
     "url": "https://minimaxh3.art/blog/what-is-minimax-h3",
     "discussion_url": "https://news.ycombinator.com/item?id=49130723",
@@ -70,87 +133,6 @@
     "date": "2026-08-01T03:15:09Z",
     "timestamp": 1785554109,
     "category": "Computer Vision"
-  },
-  {
-    "title": "AI broke writing as proof-of-thought",
-    "url": "https://hereisyourbrain.substack.com/p/ai-generated-content-mind-virus",
-    "discussion_url": "https://news.ycombinator.com/item?id=49130644",
-    "source": "hereisyourbrain.substack.com",
-    "date": "2026-08-01T02:55:00Z",
-    "timestamp": 1785552900,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Flint: A Visualization Language for the AI Era",
-    "url": "https://microsoft.github.io/flint-chart/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49130604",
-    "source": "microsoft.github.io",
-    "date": "2026-08-01T02:45:09Z",
-    "timestamp": 1785552309,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Leopold Aschenbrenner built a $45B AI hedge fund – and lost most of it in days",
-    "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49130576",
-    "source": "cnbc.com",
-    "date": "2026-08-01T02:39:33Z",
-    "timestamp": 1785551973,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Sanitizer – Strip sensitive data from documents locally before an LLM",
-    "url": "https://provexar.ai/sanitizer",
-    "discussion_url": "https://news.ycombinator.com/item?id=49130329",
-    "source": "provexar.ai",
-    "date": "2026-08-01T01:42:54Z",
-    "timestamp": 1785548574,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Cdbx – an AI coding IDE where you can bring your own API key and own the code",
-    "url": "https://cdbx.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49130307",
-    "source": "cdbx.ai",
-    "date": "2026-08-01T01:37:31Z",
-    "timestamp": 1785548251,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Urldn – A URL shortener with analytics and an AI data analyst",
-    "url": "https://waitlist.urldn.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49130273",
-    "source": "waitlist.urldn.com",
-    "date": "2026-08-01T01:31:48Z",
-    "timestamp": 1785547908,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Bend – A high-level language running on GPUs",
-    "url": "https://xcancel.com/antibot/captcha",
-    "discussion_url": "https://news.ycombinator.com/item?id=49129150",
-    "source": "xcancel.com",
-    "date": "2026-07-31T22:15:18Z",
-    "timestamp": 1785536118,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "The Nix sandbox is a hidden input",
-    "url": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
-    "discussion_url": "https://news.ycombinator.com/item?id=49128901",
-    "source": "fzakaria.com",
-    "date": "2026-07-31T21:46:22Z",
-    "timestamp": 1785534382,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Can AMD Break the CUDA Moat? AMD Advancing AI 2026",
-    "url": "https://newsletter.semianalysis.com/p/can-amd-break-the-cuda-moat-amd-advancing",
-    "discussion_url": "https://news.ycombinator.com/item?id=49128814",
-    "source": "newsletter.semianalysis.com",
-    "date": "2026-07-31T21:39:05Z",
-    "timestamp": 1785533945,
-    "category": "Computer Architecture"
   },
   {
     "title": "Hygon Reveals 512-Thread CPU and AI GPU to Rival Intel Xeon and Nvidia",
