@@ -1,66 +1,147 @@
 [
   {
-    "title": "Apple struggles to keep pace with AI 'bug' hunters",
-    "url": "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2",
-    "discussion_url": "https://news.ycombinator.com/item?id=49142179",
-    "source": "ft.com",
-    "date": "2026-08-02T08:07:05Z",
-    "timestamp": 1785658025,
+    "title": "Ask HN: When will the AI version of 911 happen?",
+    "url": "https://news.ycombinator.com/item?id=49144182",
+    "discussion_url": "https://news.ycombinator.com/item?id=49144182",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-02T12:57:12Z",
+    "timestamp": 1785675432,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: TamedTable, AI ETL in Natural Language",
-    "url": "https://www.tamedtable.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49142102",
-    "source": "tamedtable.com",
-    "date": "2026-08-02T07:51:37Z",
-    "timestamp": 1785657097,
+    "title": "China's free Kimi K3 AI model shakes up global tech market",
+    "url": "https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49144128",
+    "source": "restofworld.org",
+    "date": "2026-08-02T12:50:38Z",
+    "timestamp": 1785675038,
     "category": "Machine Learning"
   },
   {
-    "title": "DeepSeek's Theory of the AI Gap",
-    "url": "https://hellochinatech.com/p/deepseek-liang-wenfeng-transcript",
-    "discussion_url": "https://news.ycombinator.com/item?id=49141929",
-    "source": "hellochinatech.com",
-    "date": "2026-08-02T07:16:07Z",
-    "timestamp": 1785654967,
+    "title": "An AI TikTok Shop Slop Factory That Shills Supplements the FDA Recalled",
+    "url": "https://www.404media.co/inside-an-ai-tiktok-shop-slop-factory-that-shills-supplements-recalled-by-the-fda/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49143808",
+    "source": "404media.co",
+    "date": "2026-08-02T12:16:57Z",
+    "timestamp": 1785673017,
     "category": "Machine Learning"
   },
   {
-    "title": "AI labels to be compulsory on authentic-looking content under EU rules",
-    "url": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules",
-    "discussion_url": "https://news.ycombinator.com/item?id=49141912",
-    "source": "theguardian.com",
-    "date": "2026-08-02T07:13:50Z",
-    "timestamp": 1785654830,
+    "title": "GPUs could explode to multiple TB with new storage-inspired memory tech",
+    "url": "https://www.theregister.com/storage/2026/07/30/gpus-could-explode-to-multiple-tb-with-new-storage-inspired-memory-tech/5281363",
+    "discussion_url": "https://news.ycombinator.com/item?id=49143719",
+    "source": "theregister.com",
+    "date": "2026-08-02T12:06:23Z",
+    "timestamp": 1785672383,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "BroMetal: Typed shaders compiled at build time to WebGPU",
+    "url": "https://brometal.dev",
+    "discussion_url": "https://news.ycombinator.com/item?id=49143644",
+    "source": "brometal.dev",
+    "date": "2026-08-02T11:55:59Z",
+    "timestamp": 1785671759,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+    "url": "https://website-auditor.io/ai-visibility-index",
+    "discussion_url": "https://news.ycombinator.com/item?id=49143630",
+    "source": "website-auditor.io",
+    "date": "2026-08-02T11:53:52Z",
+    "timestamp": 1785671632,
     "category": "Machine Learning"
   },
   {
-    "title": "MUD as AI Evaluation and LLM-judge distortion in ways aggregate κ misses",
-    "url": "https://www.lesswrong.com/posts/GPbWyHgx9hCLMdAjc/mud-as-ai-evaluation-and-llm-judge-distortion-in-ways",
-    "discussion_url": "https://news.ycombinator.com/item?id=49141862",
-    "source": "lesswrong.com",
-    "date": "2026-08-02T07:02:18Z",
-    "timestamp": 1785654138,
+    "title": "Best way to avoid bloat and AI – selfcontaining OS",
+    "url": "https://news.ycombinator.com/item?id=49143571",
+    "discussion_url": "https://news.ycombinator.com/item?id=49143571",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-02T11:47:09Z",
+    "timestamp": 1785671229,
     "category": "Machine Learning"
   },
   {
-    "title": "Agent-Browser – Browser Automation for AI",
-    "url": "https://agent-browser.dev/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49141627",
-    "source": "agent-browser.dev",
-    "date": "2026-08-02T06:15:23Z",
-    "timestamp": 1785651323,
+    "title": "LLMs Discover P=NP (Comic)",
+    "url": "https://chatgpt.com/s/m_6a6f252612a08191b4081f60a92bceba",
+    "discussion_url": "https://news.ycombinator.com/item?id=49143315",
+    "source": "chatgpt.com",
+    "date": "2026-08-02T11:09:27Z",
+    "timestamp": 1785668967,
     "category": "Machine Learning"
   },
   {
-    "title": "JobRadar: Open-source job search agent that scores listings with a local LLM",
-    "url": "https://github.com/ANIRudH-lab-life/job-radar",
-    "discussion_url": "https://news.ycombinator.com/item?id=49141408",
+    "title": "Generative AI floods and dilutes the market for books",
+    "url": "https://arxiv.org/abs/2607.20349",
+    "discussion_url": "https://news.ycombinator.com/item?id=49143289",
+    "source": "arxiv.org",
+    "date": "2026-08-02T11:06:07Z",
+    "timestamp": 1785668767,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+    "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49143271",
+    "source": "wired.com",
+    "date": "2026-08-02T11:02:38Z",
+    "timestamp": 1785668558,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLM Counter-Defaults",
+    "url": "https://counterdefaults.aixdesign.co/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49143203",
+    "source": "counterdefaults.aixdesign.co",
+    "date": "2026-08-02T10:49:23Z",
+    "timestamp": 1785667763,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Damned if you do and damned if you don't: Can NOT using AI amount to negligence?",
+    "url": "https://www.judiciary.uk/speech-by-the-master-of-the-rolls-to-the-professional-negligence-bar-association/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49143201",
+    "source": "judiciary.uk",
+    "date": "2026-08-02T10:48:46Z",
+    "timestamp": 1785667726,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: CaLLMar – play a text-based adventure game in an LLM chat",
+    "url": "https://github.com/lascauje/callmar",
+    "discussion_url": "https://news.ycombinator.com/item?id=49143176",
     "source": "github.com",
-    "date": "2026-08-02T05:30:33Z",
-    "timestamp": 1785648633,
+    "date": "2026-08-02T10:45:02Z",
+    "timestamp": 1785667502,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Documan – AI Powered Requirement Management Workspace",
+    "url": "https://github.com/bbayer/DocuMan",
+    "discussion_url": "https://news.ycombinator.com/item?id=49143132",
+    "source": "github.com",
+    "date": "2026-08-02T10:38:26Z",
+    "timestamp": 1785667106,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AirLLM: Inference 2.8T Kimi K3 on a single 4GB GPU",
+    "url": "https://github.com/lyogavin/airllm",
+    "discussion_url": "https://news.ycombinator.com/item?id=49142538",
+    "source": "github.com",
+    "date": "2026-08-02T09:02:00Z",
+    "timestamp": 1785661320,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
+    "url": "https://www.theregister.com/systems/2026/08/01/nvidias-vera-cpu-and-the-olympus-cores-that-power-it-deep-dive/5282056",
+    "discussion_url": "https://news.ycombinator.com/item?id=49142099",
+    "source": "theregister.com",
+    "date": "2026-08-02T07:50:29Z",
+    "timestamp": 1785657029,
+    "category": "Computer Architecture"
   },
   {
     "title": "Booting Fuchsia's Zircon on a Homebrew RISC-V SoC, on an Artix-7 FPGA",
@@ -70,51 +151,6 @@
     "date": "2026-08-02T04:19:10Z",
     "timestamp": 1785644350,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Don't credit the LLM",
-    "url": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49141008",
-    "source": "isaacsu.com",
-    "date": "2026-08-02T04:07:46Z",
-    "timestamp": 1785643666,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Models as Commodities",
-    "url": "https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war",
-    "discussion_url": "https://news.ycombinator.com/item?id=49140923",
-    "source": "axios.com",
-    "date": "2026-08-02T03:51:00Z",
-    "timestamp": 1785642660,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The world first agentic AI radio",
-    "url": "https://www.twitch.tv/newsmyimaginationai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49140554",
-    "source": "twitch.tv",
-    "date": "2026-08-02T02:42:49Z",
-    "timestamp": 1785638569,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-    "url": "https://costperprompt.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49140340",
-    "source": "costperprompt.com",
-    "date": "2026-08-02T01:56:44Z",
-    "timestamp": 1785635804,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Hiring FDE's (full stack software eng) // 100K+ & equity // AI for Manufacturing",
-    "url": "https://www.tryharmony.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49140319",
-    "source": "tryharmony.ai",
-    "date": "2026-08-02T01:53:49Z",
-    "timestamp": 1785635629,
-    "category": "Machine Learning"
   },
   {
     "title": "How to Model the True Cost per Token Across GPU Architectures",
@@ -133,15 +169,6 @@
     "date": "2026-08-02T01:26:12Z",
     "timestamp": 1785633972,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "AMD's physical AI plans come into focus as company launch Ryzen embedded AI X100",
-    "url": "https://www.servethehome.com/amds-physical-ai-plans-come-into-focus-as-company-launches-ryzen-embedded-ai-x100/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49140039",
-    "source": "servethehome.com",
-    "date": "2026-08-02T00:49:36Z",
-    "timestamp": 1785631776,
-    "category": "Physical AI"
   },
   {
     "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
