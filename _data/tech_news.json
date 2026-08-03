@@ -1,128 +1,146 @@
 [
   {
-    "title": "Apple struggles to keep pace with AI 'bug' hunters",
-    "url": "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2",
-    "discussion_url": "https://news.ycombinator.com/item?id=49147483",
-    "source": "ft.com",
-    "date": "2026-08-02T19:24:59Z",
-    "timestamp": 1785698699,
+    "title": "Ask HN: Have LLMs Plateaued?",
+    "url": "https://news.ycombinator.com/item?id=49150433",
+    "discussion_url": "https://news.ycombinator.com/item?id=49150433",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-03T02:09:36Z",
+    "timestamp": 1785722976,
     "category": "Machine Learning"
   },
   {
-    "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
-    "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49147181",
-    "source": "wired.com",
-    "date": "2026-08-02T18:47:46Z",
-    "timestamp": 1785696466,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "KotlinLLM",
-    "url": "https://github.com/JetBrains-Research/kotlinllm-plugin",
-    "discussion_url": "https://news.ycombinator.com/item?id=49147170",
+    "title": "Show HN: A company brain AI agents check before acting",
+    "url": "https://github.com/gnt-ai/gnt",
+    "discussion_url": "https://news.ycombinator.com/item?id=49150247",
     "source": "github.com",
-    "date": "2026-08-02T18:45:30Z",
-    "timestamp": 1785696330,
+    "date": "2026-08-03T01:35:11Z",
+    "timestamp": 1785720911,
     "category": "Machine Learning"
   },
   {
-    "title": "YouTuber Hank Green says his AI usage is 'not healthy'",
-    "url": "https://old.reddit.com/r/nerdfighters/comments/1vbmoj5/on_hank_admitting_he_used_chatgpt_for_his_latest/p0vzmog/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49146757",
-    "source": "old.reddit.com",
-    "date": "2026-08-02T18:00:27Z",
-    "timestamp": 1785693627,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
-    "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-    "discussion_url": "https://news.ycombinator.com/item?id=49146751",
-    "source": "netflixtechblog.com",
-    "date": "2026-08-02T18:00:10Z",
-    "timestamp": 1785693610,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Adopt AI or Die? \"The God Test\" proposes AI is an opportunity and epochal threat",
-    "url": "https://newrepublic.com/article/213738/artificial-intelligence-god-test-adopt-ai-die",
-    "discussion_url": "https://news.ycombinator.com/item?id=49146676",
-    "source": "newrepublic.com",
-    "date": "2026-08-02T17:54:04Z",
-    "timestamp": 1785693244,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Mexico became a surprise cornerstone of America's AI boom",
-    "url": "https://www.ft.com/content/ac3274ac-86ca-46ac-bc7b-029fb9dcd173",
-    "discussion_url": "https://news.ycombinator.com/item?id=49146547",
-    "source": "ft.com",
-    "date": "2026-08-02T17:39:09Z",
-    "timestamp": 1785692349,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI is getting better at writing. Humans must get better at editing",
-    "url": "https://economist.com/leaders/2026/07/30/ai-is-getting-better-at-writing-humans-must-get-better-at-editing",
-    "discussion_url": "https://news.ycombinator.com/item?id=49146498",
-    "source": "economist.com",
-    "date": "2026-08-02T17:34:10Z",
-    "timestamp": 1785692050,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Everyone is so annoying about AI",
-    "url": "https://cailinpitt.com/blog/2026/8/01/everyone-is-so-annoying-about-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49146425",
-    "source": "cailinpitt.com",
-    "date": "2026-08-02T17:27:21Z",
-    "timestamp": 1785691641,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-    "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49146214",
-    "source": "ankursethi.com",
-    "date": "2026-08-02T17:00:36Z",
-    "timestamp": 1785690036,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
-    "url": "https://sprocket-demo.spikonado.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49145934",
-    "source": "sprocket-demo.spikonado.com",
-    "date": "2026-08-02T16:26:19Z",
-    "timestamp": 1785687979,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "From now on, companies across the EU must be clear about their use of AI",
-    "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49145873",
-    "source": "digital-strategy.ec.europa.eu",
-    "date": "2026-08-02T16:18:14Z",
-    "timestamp": 1785687494,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "GPU Accelerated Genetic Programming for Symbolic Regression – Beagle Framework",
-    "url": "https://arxiv.org/abs/2603.12292",
-    "discussion_url": "https://news.ycombinator.com/item?id=49145872",
-    "source": "arxiv.org",
-    "date": "2026-08-02T16:18:12Z",
-    "timestamp": 1785687492,
+    "title": "Egpu for Mac",
+    "url": "https://docs.tinygrad.org/tinygpu/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49150168",
+    "source": "docs.tinygrad.org",
+    "date": "2026-08-03T01:20:21Z",
+    "timestamp": 1785720021,
     "category": "Computer Architecture"
   },
   {
-    "title": "GPUs could explode to multiple TB with new storage-inspired memory tech",
-    "url": "https://www.theregister.com/storage/2026/07/30/gpus-could-explode-to-multiple-tb-with-new-storage-inspired-memory-tech/5281363",
-    "discussion_url": "https://news.ycombinator.com/item?id=49143719",
-    "source": "theregister.com",
-    "date": "2026-08-02T12:06:23Z",
-    "timestamp": 1785672383,
+    "title": "Show HN: mlxsh A lightweight CLI to serve multiple local LLMs on Apple",
+    "url": "https://github.com/ansnadeem/mlxsh",
+    "discussion_url": "https://news.ycombinator.com/item?id=49149682",
+    "source": "github.com",
+    "date": "2026-08-03T00:03:17Z",
+    "timestamp": 1785715397,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "NF humanoid disarm protocol: Fire-alarm protocol to stop humanoid robots",
+    "url": "https://github.com/humblelistener/NF_HDP",
+    "discussion_url": "https://news.ycombinator.com/item?id=49149625",
+    "source": "github.com",
+    "date": "2026-08-02T23:56:48Z",
+    "timestamp": 1785715008,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Ask HN: What's Next for LLMs?",
+    "url": "https://news.ycombinator.com/item?id=49149599",
+    "discussion_url": "https://news.ycombinator.com/item?id=49149599",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-02T23:51:52Z",
+    "timestamp": 1785714712,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Atomadic- Zero-LLM Sub-200us MCP Action Interlock (Storefront Restored)",
+    "url": "https://atomadic.tech/orchard.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49149580",
+    "source": "atomadic.tech",
+    "date": "2026-08-02T23:49:40Z",
+    "timestamp": 1785714580,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The diabolical world of convincing AI thirst traps",
+    "url": "https://www.vox.com/culture/492604/ai-deepfake-gay-influencers-tiktok-thirst-traps",
+    "discussion_url": "https://news.ycombinator.com/item?id=49149429",
+    "source": "vox.com",
+    "date": "2026-08-02T23:24:09Z",
+    "timestamp": 1785713049,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: I'm 16 y/o and Built the only AI Agent for Hardware and Software Dev",
+    "url": "https://github.com/spikonado/sprocket",
+    "discussion_url": "https://news.ycombinator.com/item?id=49149322",
+    "source": "github.com",
+    "date": "2026-08-02T23:04:53Z",
+    "timestamp": 1785711893,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI poster wins Ohio State Fair contest",
+    "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+    "discussion_url": "https://news.ycombinator.com/item?id=49149188",
+    "source": "ohiostatefair.com",
+    "date": "2026-08-02T22:43:47Z",
+    "timestamp": 1785710627,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Teaching an AI to know itself: Building a local LLM agent in D",
+    "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49149134",
+    "source": "blog.dlang.org",
+    "date": "2026-08-02T22:36:31Z",
+    "timestamp": 1785710191,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Reviewing the Arch User Repository with AI",
+    "url": "https://cretezy.com/2026/aur-ai-security/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49149119",
+    "source": "cretezy.com",
+    "date": "2026-08-02T22:35:13Z",
+    "timestamp": 1785710113,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Cl33-opLM, a 236M language model with a reversible operator bottleneck",
+    "url": "https://cl33.t3atlas.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49148932",
+    "source": "cl33.t3atlas.dev",
+    "date": "2026-08-02T22:10:42Z",
+    "timestamp": 1785708642,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Tlbic: Expanded appendix on AI dialogue, plus a note on shared human wisdom",
+    "url": "https://drive.google.com/file/d/14IKYzJavvzvbCL8GR0SkjzRmroMAaboN/view?usp=drive_link",
+    "discussion_url": "https://news.ycombinator.com/item?id=49148777",
+    "source": "drive.google.com",
+    "date": "2026-08-02T21:54:50Z",
+    "timestamp": 1785707690,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I built a non-physical GPU that does 194,396 yottaflops on one CPU core",
+    "url": "https://github.com/pluscoder30-cpu/Omega_Field_GPU_Ultimate",
+    "discussion_url": "https://news.ycombinator.com/item?id=49147756",
+    "source": "github.com",
+    "date": "2026-08-02T20:01:15Z",
+    "timestamp": 1785700875,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "A fresh look at CPU silent data corruption in modern data centers",
+    "url": "https://cacm.acm.org/research/revisiting-cpu-silent-data-corruptions-in-modern-datacenters/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49147029",
+    "source": "cacm.acm.org",
+    "date": "2026-08-02T18:29:45Z",
+    "timestamp": 1785695385,
     "category": "Computer Architecture"
   },
   {
@@ -135,21 +153,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Solving poker in custom WebGPU kernels",
-    "url": "https://phulin.me/blog/poker/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49111523",
-    "source": "phulin.me",
-    "date": "2026-07-30T15:38:54Z",
-    "timestamp": 1785425934,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
-    "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49077646",
-    "source": "rocm.blogs.amd.com",
-    "date": "2026-07-28T00:26:45Z",
-    "timestamp": 1785198405,
+    "title": "Autoregressive Language Model on the 6502 Processor",
+    "url": "https://mattbeton.com/blog/bitnet-6502.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49122655",
+    "source": "mattbeton.com",
+    "date": "2026-07-31T13:08:30Z",
+    "timestamp": 1785503310,
     "category": "Computer Architecture"
   }
 ]
