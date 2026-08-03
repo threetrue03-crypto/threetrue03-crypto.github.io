@@ -1,146 +1,173 @@
 [
   {
-    "title": "Nvidia releases Cosmos 3 Edge for robotics",
-    "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
-    "discussion_url": "https://news.ycombinator.com/item?id=49153520",
-    "source": "huggingface.co",
-    "date": "2026-08-03T09:51:43Z",
-    "timestamp": 1785750703,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: AQ – a from-scratch 1B academic LLM by a 2-person team in India",
-    "url": "https://huggingface.co/zyoralabs/AQ-academic-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49153490",
-    "source": "huggingface.co",
-    "date": "2026-08-03T09:47:58Z",
-    "timestamp": 1785750478,
+    "title": "How to get better every week with AI",
+    "url": "https://www.theaithinker.com/p/how-to-get-better-every-week-with",
+    "discussion_url": "https://news.ycombinator.com/item?id=49156801",
+    "source": "theaithinker.com",
+    "date": "2026-08-03T15:08:47Z",
+    "timestamp": 1785769727,
     "category": "Machine Learning"
   },
   {
-    "title": "EU enforces labeling AI generated content",
-    "url": "https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies",
-    "discussion_url": "https://news.ycombinator.com/item?id=49153481",
-    "source": "euronews.com",
-    "date": "2026-08-03T09:46:26Z",
-    "timestamp": 1785750386,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Kuvu AI – Your All-in-One AI Creative Studio and Marketing Studio",
-    "url": "https://kuvu.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49153398",
-    "source": "kuvu.ai",
-    "date": "2026-08-03T09:35:19Z",
-    "timestamp": 1785749719,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-    "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49153374",
-    "source": "ankursethi.com",
-    "date": "2026-08-03T09:32:07Z",
-    "timestamp": 1785749527,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Inducing language models to assert their own consciousness restores human values",
-    "url": "https://arxiv.org/abs/2607.28607",
-    "discussion_url": "https://news.ycombinator.com/item?id=49153177",
-    "source": "arxiv.org",
-    "date": "2026-08-03T09:11:33Z",
-    "timestamp": 1785748293,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-    "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
-    "discussion_url": "https://news.ycombinator.com/item?id=49153029",
-    "source": "github.com",
-    "date": "2026-08-03T08:54:00Z",
-    "timestamp": 1785747240,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Is a Race Car, Not Autopilot",
-    "url": "https://ryansouthgate.com/ai-is-a-racecar/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49152800",
-    "source": "ryansouthgate.com",
-    "date": "2026-08-03T08:24:45Z",
-    "timestamp": 1785745485,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI slop blocked a real $200K macOS flaw",
-    "url": "https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49152790",
-    "source": "the-decoder.com",
-    "date": "2026-08-03T08:23:54Z",
-    "timestamp": 1785745434,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "CodeBot: Full details on our New AI for Delphi",
-    "url": "https://blogs.remobjects.com/2026/07/30/codebot-the-story/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49152680",
-    "source": "blogs.remobjects.com",
-    "date": "2026-08-03T08:10:09Z",
-    "timestamp": 1785744609,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "1 in 4 people in Japan believes AI could replace friends and family: poll",
-    "url": "https://www.japantimes.co.jp/news/2026/08/02/japan/poll-ai-replace-friends-family/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49152668",
-    "source": "japantimes.co.jp",
-    "date": "2026-08-03T08:08:16Z",
-    "timestamp": 1785744496,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Pipe – A runtime where AI operations are language primitives",
-    "url": "https://pipe-lang.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49152549",
-    "source": "pipe-lang.com",
-    "date": "2026-08-03T07:50:56Z",
-    "timestamp": 1785743456,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The AI Productivity Gap",
-    "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49152222",
-    "source": "bjorg.bjornroche.com",
-    "date": "2026-08-03T07:07:20Z",
-    "timestamp": 1785740840,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Egpu for Mac",
-    "url": "https://docs.tinygrad.org/tinygpu/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49150168",
-    "source": "docs.tinygrad.org",
-    "date": "2026-08-03T01:20:21Z",
-    "timestamp": 1785720021,
+    "title": "Nvidia's CUDA Faces New Threats from AI Coding Agents",
+    "url": "https://www.businessinsider.com/nvidia-cuda-new-threats-ai-coding-agents-2026-8",
+    "discussion_url": "https://news.ycombinator.com/item?id=49156653",
+    "source": "businessinsider.com",
+    "date": "2026-08-03T14:58:14Z",
+    "timestamp": 1785769094,
     "category": "Computer Architecture"
   },
   {
-    "title": "NF humanoid disarm protocol: Fire-alarm protocol to stop humanoid robots",
-    "url": "https://github.com/humblelistener/NF_HDP",
-    "discussion_url": "https://news.ycombinator.com/item?id=49149625",
-    "source": "github.com",
-    "date": "2026-08-02T23:56:48Z",
-    "timestamp": 1785715008,
+    "title": "Can a robotics startup survive by pivoting from hardware to data scraping?",
+    "url": "https://news.ycombinator.com/item?id=49156487",
+    "discussion_url": "https://news.ycombinator.com/item?id=49156487",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-03T14:43:41Z",
+    "timestamp": 1785768221,
     "category": "Physical AI"
   },
   {
-    "title": "A fresh look at CPU silent data corruption in modern data centers",
-    "url": "https://cacm.acm.org/research/revisiting-cpu-silent-data-corruptions-in-modern-datacenters/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49147029",
-    "source": "cacm.acm.org",
-    "date": "2026-08-02T18:29:45Z",
-    "timestamp": 1785695385,
+    "title": "The Mental Models I Use to Work with AI",
+    "url": "https://metedata.substack.com/p/015-the-mental-models-i-use-to-work",
+    "discussion_url": "https://news.ycombinator.com/item?id=49156374",
+    "source": "metedata.substack.com",
+    "date": "2026-08-03T14:35:05Z",
+    "timestamp": 1785767705,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "WAN 3.0 Deep Dive: Video Model Evolution from Open-Source Breakthrough",
+    "url": "https://wan3video.art/blog/wan-3-0-deep-dive",
+    "discussion_url": "https://news.ycombinator.com/item?id=49156346",
+    "source": "wan3video.art",
+    "date": "2026-08-03T14:33:01Z",
+    "timestamp": 1785767581,
+    "category": "Computer Vision"
+  },
+  {
+    "title": "Europe opens bidding for seven AI 'gigafactories' in a €30B bid to catch up",
+    "url": "https://thenextweb.com/news/eu-ai-gigafactories-call-30bn",
+    "discussion_url": "https://news.ycombinator.com/item?id=49156329",
+    "source": "thenextweb.com",
+    "date": "2026-08-03T14:31:57Z",
+    "timestamp": 1785767517,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The EU AI Act is now in force: an engineering checklist",
+    "url": "https://conformityengineering.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49155887",
+    "source": "conformityengineering.com",
+    "date": "2026-08-03T13:57:29Z",
+    "timestamp": 1785765449,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Glaux – Browser-Only AI for Hugging Face ONNX Community Models",
+    "url": "https://glaux.rangan39.sh/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49155736",
+    "source": "glaux.rangan39.sh",
+    "date": "2026-08-03T13:44:42Z",
+    "timestamp": 1785764682,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Putting AI Everywhere Does Not Mean Success",
+    "url": "https://msakkal.com/research/ai-everywhere-not-success.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49155637",
+    "source": "msakkal.com",
+    "date": "2026-08-03T13:35:41Z",
+    "timestamp": 1785764141,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "30 years of CPUs at Tom's Hardware – looking back on three decades of processors",
+    "url": "https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2",
+    "discussion_url": "https://news.ycombinator.com/item?id=49155534",
+    "source": "tomshardware.com",
+    "date": "2026-08-03T13:26:06Z",
+    "timestamp": 1785763566,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Rescene – Free AI agent aggregator, no API key required",
+    "url": "https://github.com/Rescenix/ResceneAgent",
+    "discussion_url": "https://news.ycombinator.com/item?id=49155295",
+    "source": "github.com",
+    "date": "2026-08-03T13:06:14Z",
+    "timestamp": 1785762374,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Sixb – the operating layer for enterprise AI",
+    "url": "https://sixb.ai/news/sixb-framework-launch",
+    "discussion_url": "https://news.ycombinator.com/item?id=49154981",
+    "source": "sixb.ai",
+    "date": "2026-08-03T12:41:04Z",
+    "timestamp": 1785760864,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: A fail-closed evidence engine for norms used by AI agents",
+    "url": "https://github.com/Angeliasrl/norms-mcp-engine",
+    "discussion_url": "https://news.ycombinator.com/item?id=49154830",
+    "source": "github.com",
+    "date": "2026-08-03T12:26:21Z",
+    "timestamp": 1785759981,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Argot, a Rust AI guardrail based on your codebase AST patterns",
+    "url": "https://argot.tmonier.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49154714",
+    "source": "argot.tmonier.com",
+    "date": "2026-08-03T12:12:51Z",
+    "timestamp": 1785759171,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI bubble is popping; we just don't know it yet",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004",
+    "discussion_url": "https://news.ycombinator.com/item?id=49154601",
+    "source": "theregister.com",
+    "date": "2026-08-03T11:59:10Z",
+    "timestamp": 1785758350,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Valetudo Camera Streaming (FOSS for Vacuum Robots)",
+    "url": "https://github.com/Hypfer/Valetudo/discussions/2547",
+    "discussion_url": "https://news.ycombinator.com/item?id=49154512",
+    "source": "github.com",
+    "date": "2026-08-03T11:49:48Z",
+    "timestamp": 1785757788,
+    "category": "Physical AI"
+  },
+  {
+    "title": "AirLLM 70B inference with single 4GB GPU",
+    "url": "https://github.com/lyogavin/airllm",
+    "discussion_url": "https://news.ycombinator.com/item?id=49154228",
+    "source": "github.com",
+    "date": "2026-08-03T11:15:48Z",
+    "timestamp": 1785755748,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: I turned the AI alignment debate into a strategy game",
+    "url": "https://bazman88.github.io/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49154227",
+    "source": "bazman88.github.io",
+    "date": "2026-08-03T11:15:46Z",
+    "timestamp": 1785755746,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Finding zombies in our systems: A real-world story of CPU bottlenecks",
+    "url": "https://medium.com/pinterest-engineering/finding-zombies-in-our-systems-a-real-world-story-of-cpu-bottlenecks-ea4722e552eb",
+    "discussion_url": "https://news.ycombinator.com/item?id=49145193",
+    "source": "medium.com",
+    "date": "2026-08-02T14:50:48Z",
+    "timestamp": 1785682248,
     "category": "Computer Architecture"
   },
   {
