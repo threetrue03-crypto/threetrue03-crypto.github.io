@@ -1,20 +1,119 @@
 [
   {
-    "title": "Ask HN: Have LLMs Plateaued?",
-    "url": "https://news.ycombinator.com/item?id=49150433",
-    "discussion_url": "https://news.ycombinator.com/item?id=49150433",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-03T02:09:36Z",
-    "timestamp": 1785722976,
+    "title": "Nvidia releases Cosmos 3 Edge for robotics",
+    "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "discussion_url": "https://news.ycombinator.com/item?id=49153520",
+    "source": "huggingface.co",
+    "date": "2026-08-03T09:51:43Z",
+    "timestamp": 1785750703,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Show HN: AQ – a from-scratch 1B academic LLM by a 2-person team in India",
+    "url": "https://huggingface.co/zyoralabs/AQ-academic-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49153490",
+    "source": "huggingface.co",
+    "date": "2026-08-03T09:47:58Z",
+    "timestamp": 1785750478,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: A company brain AI agents check before acting",
-    "url": "https://github.com/gnt-ai/gnt",
-    "discussion_url": "https://news.ycombinator.com/item?id=49150247",
+    "title": "EU enforces labeling AI generated content",
+    "url": "https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies",
+    "discussion_url": "https://news.ycombinator.com/item?id=49153481",
+    "source": "euronews.com",
+    "date": "2026-08-03T09:46:26Z",
+    "timestamp": 1785750386,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Kuvu AI – Your All-in-One AI Creative Studio and Marketing Studio",
+    "url": "https://kuvu.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49153398",
+    "source": "kuvu.ai",
+    "date": "2026-08-03T09:35:19Z",
+    "timestamp": 1785749719,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+    "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49153374",
+    "source": "ankursethi.com",
+    "date": "2026-08-03T09:32:07Z",
+    "timestamp": 1785749527,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Inducing language models to assert their own consciousness restores human values",
+    "url": "https://arxiv.org/abs/2607.28607",
+    "discussion_url": "https://news.ycombinator.com/item?id=49153177",
+    "source": "arxiv.org",
+    "date": "2026-08-03T09:11:33Z",
+    "timestamp": 1785748293,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+    "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+    "discussion_url": "https://news.ycombinator.com/item?id=49153029",
     "source": "github.com",
-    "date": "2026-08-03T01:35:11Z",
-    "timestamp": 1785720911,
+    "date": "2026-08-03T08:54:00Z",
+    "timestamp": 1785747240,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Is a Race Car, Not Autopilot",
+    "url": "https://ryansouthgate.com/ai-is-a-racecar/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49152800",
+    "source": "ryansouthgate.com",
+    "date": "2026-08-03T08:24:45Z",
+    "timestamp": 1785745485,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI slop blocked a real $200K macOS flaw",
+    "url": "https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49152790",
+    "source": "the-decoder.com",
+    "date": "2026-08-03T08:23:54Z",
+    "timestamp": 1785745434,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "CodeBot: Full details on our New AI for Delphi",
+    "url": "https://blogs.remobjects.com/2026/07/30/codebot-the-story/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49152680",
+    "source": "blogs.remobjects.com",
+    "date": "2026-08-03T08:10:09Z",
+    "timestamp": 1785744609,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "1 in 4 people in Japan believes AI could replace friends and family: poll",
+    "url": "https://www.japantimes.co.jp/news/2026/08/02/japan/poll-ai-replace-friends-family/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49152668",
+    "source": "japantimes.co.jp",
+    "date": "2026-08-03T08:08:16Z",
+    "timestamp": 1785744496,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Pipe – A runtime where AI operations are language primitives",
+    "url": "https://pipe-lang.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49152549",
+    "source": "pipe-lang.com",
+    "date": "2026-08-03T07:50:56Z",
+    "timestamp": 1785743456,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI Productivity Gap",
+    "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49152222",
+    "source": "bjorg.bjornroche.com",
+    "date": "2026-08-03T07:07:20Z",
+    "timestamp": 1785740840,
     "category": "Machine Learning"
   },
   {
@@ -27,15 +126,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Show HN: mlxsh A lightweight CLI to serve multiple local LLMs on Apple",
-    "url": "https://github.com/ansnadeem/mlxsh",
-    "discussion_url": "https://news.ycombinator.com/item?id=49149682",
-    "source": "github.com",
-    "date": "2026-08-03T00:03:17Z",
-    "timestamp": 1785715397,
-    "category": "Machine Learning"
-  },
-  {
     "title": "NF humanoid disarm protocol: Fire-alarm protocol to stop humanoid robots",
     "url": "https://github.com/humblelistener/NF_HDP",
     "discussion_url": "https://news.ycombinator.com/item?id=49149625",
@@ -43,96 +133,6 @@
     "date": "2026-08-02T23:56:48Z",
     "timestamp": 1785715008,
     "category": "Physical AI"
-  },
-  {
-    "title": "Ask HN: What's Next for LLMs?",
-    "url": "https://news.ycombinator.com/item?id=49149599",
-    "discussion_url": "https://news.ycombinator.com/item?id=49149599",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-02T23:51:52Z",
-    "timestamp": 1785714712,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Atomadic- Zero-LLM Sub-200us MCP Action Interlock (Storefront Restored)",
-    "url": "https://atomadic.tech/orchard.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49149580",
-    "source": "atomadic.tech",
-    "date": "2026-08-02T23:49:40Z",
-    "timestamp": 1785714580,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The diabolical world of convincing AI thirst traps",
-    "url": "https://www.vox.com/culture/492604/ai-deepfake-gay-influencers-tiktok-thirst-traps",
-    "discussion_url": "https://news.ycombinator.com/item?id=49149429",
-    "source": "vox.com",
-    "date": "2026-08-02T23:24:09Z",
-    "timestamp": 1785713049,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: I'm 16 y/o and Built the only AI Agent for Hardware and Software Dev",
-    "url": "https://github.com/spikonado/sprocket",
-    "discussion_url": "https://news.ycombinator.com/item?id=49149322",
-    "source": "github.com",
-    "date": "2026-08-02T23:04:53Z",
-    "timestamp": 1785711893,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI poster wins Ohio State Fair contest",
-    "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-    "discussion_url": "https://news.ycombinator.com/item?id=49149188",
-    "source": "ohiostatefair.com",
-    "date": "2026-08-02T22:43:47Z",
-    "timestamp": 1785710627,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Teaching an AI to know itself: Building a local LLM agent in D",
-    "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49149134",
-    "source": "blog.dlang.org",
-    "date": "2026-08-02T22:36:31Z",
-    "timestamp": 1785710191,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Reviewing the Arch User Repository with AI",
-    "url": "https://cretezy.com/2026/aur-ai-security/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49149119",
-    "source": "cretezy.com",
-    "date": "2026-08-02T22:35:13Z",
-    "timestamp": 1785710113,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Cl33-opLM, a 236M language model with a reversible operator bottleneck",
-    "url": "https://cl33.t3atlas.dev/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49148932",
-    "source": "cl33.t3atlas.dev",
-    "date": "2026-08-02T22:10:42Z",
-    "timestamp": 1785708642,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Tlbic: Expanded appendix on AI dialogue, plus a note on shared human wisdom",
-    "url": "https://drive.google.com/file/d/14IKYzJavvzvbCL8GR0SkjzRmroMAaboN/view?usp=drive_link",
-    "discussion_url": "https://news.ycombinator.com/item?id=49148777",
-    "source": "drive.google.com",
-    "date": "2026-08-02T21:54:50Z",
-    "timestamp": 1785707690,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I built a non-physical GPU that does 194,396 yottaflops on one CPU core",
-    "url": "https://github.com/pluscoder30-cpu/Omega_Field_GPU_Ultimate",
-    "discussion_url": "https://news.ycombinator.com/item?id=49147756",
-    "source": "github.com",
-    "date": "2026-08-02T20:01:15Z",
-    "timestamp": 1785700875,
-    "category": "Computer Architecture"
   },
   {
     "title": "A fresh look at CPU silent data corruption in modern data centers",
