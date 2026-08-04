@@ -1,120 +1,165 @@
 [
   {
-    "title": "Computer Anthology: A continuously evolving benchmark family for AI agents",
-    "url": "https://vetto.ai/companies/computer-anthology-terminal-tasks.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49169641",
-    "source": "vetto.ai",
-    "date": "2026-08-04T14:38:41Z",
-    "timestamp": 1785854321,
-    "category": "Machine Learning"
+    "title": "Pokee-Isaac 28B",
+    "url": "https://console.pokee.ai/model",
+    "discussion_url": "https://news.ycombinator.com/item?id=49173780",
+    "source": "console.pokee.ai",
+    "date": "2026-08-04T19:32:39Z",
+    "timestamp": 1785871959,
+    "category": "Physical AI"
   },
   {
-    "title": "EFF Joins Call for FTC to Drop Its Disastrous AI Policy Proposal",
-    "url": "https://www.eff.org/deeplinks/2026/08/eff-joins-comments-calling-ftc-drop-its-ai-policy-proposal",
-    "discussion_url": "https://news.ycombinator.com/item?id=49169390",
-    "source": "eff.org",
-    "date": "2026-08-04T14:19:54Z",
-    "timestamp": 1785853194,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Youth AI Privacy Act's Privacy Paradox",
-    "url": "https://www.eff.org/deeplinks/2026/08/youth-ai-privacy-acts-privacy-paradox",
-    "discussion_url": "https://news.ycombinator.com/item?id=49169293",
-    "source": "eff.org",
-    "date": "2026-08-04T14:13:12Z",
-    "timestamp": 1785852792,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Lossless Inference",
-    "url": "https://runinfra.ai/news/lossless-inference",
-    "discussion_url": "https://news.ycombinator.com/item?id=49169093",
-    "source": "runinfra.ai",
-    "date": "2026-08-04T13:57:44Z",
-    "timestamp": 1785851864,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI slop pollutes the CVE pipeline with fake vulns",
-    "url": "https://www.theregister.com/security/2026/08/03/ai-slop-pollutes-the-cve-pipeline-with-fake-vulns/5282462",
-    "discussion_url": "https://news.ycombinator.com/item?id=49168899",
-    "source": "theregister.com",
-    "date": "2026-08-04T13:43:52Z",
-    "timestamp": 1785851032,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I built an LLM debugger for fine-tuning failures",
-    "url": "https://github.com/gradian-ai/gradian",
-    "discussion_url": "https://news.ycombinator.com/item?id=49168696",
+    "title": "AI Escape Room – Docker CTF Recreating the 2026 HF Intrusion",
+    "url": "https://github.com/an4kronism/ai-escape-room",
+    "discussion_url": "https://news.ycombinator.com/item?id=49173685",
     "source": "github.com",
-    "date": "2026-08-04T13:27:56Z",
-    "timestamp": 1785850076,
+    "date": "2026-08-04T19:27:11Z",
+    "timestamp": 1785871631,
     "category": "Machine Learning"
   },
   {
-    "title": "vLLM Recipes",
-    "url": "https://recipes.vllm.ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49168522",
-    "source": "recipes.vllm.ai",
-    "date": "2026-08-04T13:15:47Z",
-    "timestamp": 1785849347,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Entangle, hand a live AI coding session to anyone with three words",
-    "url": "https://github.com/gowtham-sai-yadav/entangle",
-    "discussion_url": "https://news.ycombinator.com/item?id=49168465",
-    "source": "github.com",
-    "date": "2026-08-04T13:12:22Z",
-    "timestamp": 1785849142,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Observability Turns Vibe Coding into AI Engineering",
-    "url": "https://www.dynatrace.com/news/blog/how-observability-transforms-vibe-coding-into-ai-engineering/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49168370",
-    "source": "dynatrace.com",
-    "date": "2026-08-04T13:06:09Z",
-    "timestamp": 1785848769,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Aligning 800 audiobooks (8k hours) to text in 6 days, no LLM in the loop",
-    "url": "https://tale.fyi/@sam/aligning-800-audiobooks-8-000-hours-to-text-in-6-days-no-llm-in-the-loop?from=hn",
-    "discussion_url": "https://news.ycombinator.com/item?id=49168259",
-    "source": "tale.fyi",
-    "date": "2026-08-04T12:58:58Z",
-    "timestamp": 1785848338,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Kimi-k3-in-C, 2.78T-parameter model, one CPU, 8GB RAM",
-    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "discussion_url": "https://news.ycombinator.com/item?id=49167975",
-    "source": "github.com",
-    "date": "2026-08-04T12:40:52Z",
-    "timestamp": 1785847252,
+    "title": "The CPU Cost of Protobuf Varints in Go",
+    "url": "https://kmcd.dev/posts/protobuf-varint-vs-fixed/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49173535",
+    "source": "kmcd.dev",
+    "date": "2026-08-04T19:15:42Z",
+    "timestamp": 1785870942,
     "category": "Computer Architecture"
   },
   {
-    "title": "Show HN: Vultrino – Credential proxy so AI agents never see the keys",
-    "url": "https://github.com/FeirAI/vultrino",
-    "discussion_url": "https://news.ycombinator.com/item?id=49167812",
-    "source": "github.com",
-    "date": "2026-08-04T12:29:07Z",
-    "timestamp": 1785846547,
+    "title": "White House plans to keep AI framework under wraps",
+    "url": "https://www.axios.com/2026/08/04/white-house-ai-framework-under-wraps",
+    "discussion_url": "https://news.ycombinator.com/item?id=49173495",
+    "source": "axios.com",
+    "date": "2026-08-04T19:13:20Z",
+    "timestamp": 1785870800,
     "category": "Machine Learning"
   },
   {
-    "title": "We built a realtime system for responsive voice AI in six months",
-    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49167707",
-    "source": "openai.com",
-    "date": "2026-08-04T12:21:17Z",
-    "timestamp": 1785846077,
+    "title": "Design by Contract and Effects for LLMs",
+    "url": "https://gavinray97.github.io/blog/design-by-contract-and-effects-for-llms",
+    "discussion_url": "https://news.ycombinator.com/item?id=49173377",
+    "source": "gavinray97.github.io",
+    "date": "2026-08-04T19:04:40Z",
+    "timestamp": 1785870280,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Can Reddit fend off a new wave of AI SEO spam?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+    "discussion_url": "https://news.ycombinator.com/item?id=49173229",
+    "source": "theverge.com",
+    "date": "2026-08-04T18:55:27Z",
+    "timestamp": 1785869727,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI demand to keep near-term inflation high, says investment strategist",
+    "url": "https://www.cnbc.com/video/2026/08/04/ai-demand-ai-data-center-inflation-pressures-ai-debt-bonds-yen.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49173141",
+    "source": "cnbc.com",
+    "date": "2026-08-04T18:50:19Z",
+    "timestamp": 1785869419,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+    "url": "https://edotenv.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49172936",
+    "source": "edotenv.com",
+    "date": "2026-08-04T18:36:02Z",
+    "timestamp": 1785868562,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLM Arena",
+    "url": "https://arena.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49172913",
+    "source": "arena.ai",
+    "date": "2026-08-04T18:34:19Z",
+    "timestamp": 1785868459,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Creating, Copying, and Remixing in the Age of AI",
+    "url": "https://molochinations.substack.com/p/creating-copying-and-remixing-in",
+    "discussion_url": "https://news.ycombinator.com/item?id=49172880",
+    "source": "molochinations.substack.com",
+    "date": "2026-08-04T18:32:18Z",
+    "timestamp": 1785868338,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI data-centre race builds $1T lease burden for Big Tech",
+    "url": "https://www.reuters.com/business/retail-consumer/ai-data-centre-race-builds-1-trillion-lease-burden-big-tech-2026-08-04/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49172865",
+    "source": "reuters.com",
+    "date": "2026-08-04T18:31:11Z",
+    "timestamp": 1785868271,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Elon Musk: In 36 months, the cheapest place to put AI will be space [video]",
+    "url": "https://www.youtube.com/watch?v=BYXbuik3dgA",
+    "discussion_url": "https://news.ycombinator.com/item?id=49172693",
+    "source": "youtube.com",
+    "date": "2026-08-04T18:18:32Z",
+    "timestamp": 1785867512,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Privacy risks from medical AI tools are not shared equally",
+    "url": "https://www.nature.com/articles/d41586-026-02288-9",
+    "discussion_url": "https://news.ycombinator.com/item?id=49172558",
+    "source": "nature.com",
+    "date": "2026-08-04T18:07:07Z",
+    "timestamp": 1785866827,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: cMCP, deny an AI agent's tool call and get a signed receipt",
+    "url": "https://github.com/agentrust-io/cmcp",
+    "discussion_url": "https://news.ycombinator.com/item?id=49172545",
+    "source": "github.com",
+    "date": "2026-08-04T18:06:08Z",
+    "timestamp": 1785866768,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Alpamayo 2 Super, Nvidia frontier open reasoning model for autonomous vehicles",
+    "url": "https://twitter.com/JensenHuang/status/2084656303046332747",
+    "discussion_url": "https://news.ycombinator.com/item?id=49171694",
+    "source": "twitter.com",
+    "date": "2026-08-04T17:03:03Z",
+    "timestamp": 1785862983,
+    "category": "Physical AI"
+  },
+  {
+    "title": "The Download: US robot restrictions, and ICE's DNA grab",
+    "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49171688",
+    "source": "technologyreview.com",
+    "date": "2026-08-04T17:02:18Z",
+    "timestamp": 1785862938,
+    "category": "Physical AI"
+  },
+  {
+    "title": "ChatGPT Dreaming: Reverse-engineering how its new memory system works",
+    "url": "https://husain-zaidi.com/chatgpt-dreaming/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49171360",
+    "source": "husain-zaidi.com",
+    "date": "2026-08-04T16:42:04Z",
+    "timestamp": 1785861724,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Get a macOS notification when Codex CLI needs input",
+    "url": "https://github.com/foxtrotdev/codex-butler-bell",
+    "discussion_url": "https://news.ycombinator.com/item?id=49171044",
+    "source": "github.com",
+    "date": "2026-08-04T16:19:45Z",
+    "timestamp": 1785860385,
+    "category": "Computer Architecture"
   },
   {
     "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
@@ -123,42 +168,6 @@
     "source": "github.com",
     "date": "2026-08-04T11:17:57Z",
     "timestamp": 1785842277,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Incus 7.3 adds easy GPU virtualization",
-    "url": "https://discuss.linuxcontainers.org/t/incus-7-3-has-been-released/27033",
-    "discussion_url": "https://news.ycombinator.com/item?id=49162104",
-    "source": "discuss.linuxcontainers.org",
-    "date": "2026-08-03T22:07:03Z",
-    "timestamp": 1785794823,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "AirLLM 70B inference with single 4GB GPU",
-    "url": "https://github.com/lyogavin/airllm",
-    "discussion_url": "https://news.ycombinator.com/item?id=49154228",
-    "source": "github.com",
-    "date": "2026-08-03T11:15:48Z",
-    "timestamp": 1785755748,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Finding zombies in our systems: A real-world story of CPU bottlenecks",
-    "url": "https://medium.com/pinterest-engineering/finding-zombies-in-our-systems-a-real-world-story-of-cpu-bottlenecks-ea4722e552eb",
-    "discussion_url": "https://news.ycombinator.com/item?id=49145193",
-    "source": "medium.com",
-    "date": "2026-08-02T14:50:48Z",
-    "timestamp": 1785682248,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Autoregressive Language Model on the 6502 Processor",
-    "url": "https://mattbeton.com/blog/bitnet-6502.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49122655",
-    "source": "mattbeton.com",
-    "date": "2026-07-31T13:08:30Z",
-    "timestamp": 1785503310,
     "category": "Computer Architecture"
   }
 ]
