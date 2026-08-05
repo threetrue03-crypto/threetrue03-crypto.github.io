@@ -61,7 +61,7 @@ TOPICS: tuple[tuple[str, tuple[str, ...]], ...] = (
 def fetch_json(url: str, timeout: int = 12):
     request = urllib.request.Request(
         url,
-        headers={"User-Agent": "sejin.dev-tech-news/1.0 (+https://threetrue03-crypto.github.io/)"},
+        headers={"User-Agent": "sejin.dev-tech-news/1.0 (+https://threetrue03.kro.kr/)"},
     )
     with urllib.request.urlopen(request, timeout=timeout) as response:
         return json.load(response)

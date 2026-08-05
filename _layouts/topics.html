@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.seo_title | default: page.title }} — {{ site.title }}</title>
+  {% include seo-head.html %}
+  <style>
+    :root{--paper:#f7f4ed;--surface:#fbfaf7;--ink:#242424;--muted:#6b6b6b;--line:#d9d4c9;--accent:#1a6b4b;--accent-soft:#e3eee7;--serif:Georgia,"Noto Serif KR","Nanum Myeongjo",serif;--sans:Pretendard,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;--mono:"SFMono-Regular",Consolas,"Liberation Mono",monospace}
+    *{box-sizing:border-box}html,body{max-width:100%;overflow-x:hidden}body{margin:0;color:var(--ink);background:var(--paper);font-family:var(--sans);-webkit-font-smoothing:antialiased}a{color:inherit;text-decoration:none}.page-head{border-bottom:1px solid var(--line)}.page-head-inner,main,.footer-inner{width:min(1040px,calc(100% - 40px));margin:auto}.page-head-inner{padding:74px 0 60px}.eyebrow{margin:0 0 16px;color:var(--accent);font:700 10px var(--mono);letter-spacing:.1em;text-transform:uppercase}.page-head h1{margin:0;font:500 clamp(44px,7vw,70px)/1.08 var(--serif);letter-spacing:-2.5px}.intro{max-width:720px;margin:24px 0 0;color:var(--muted);font-size:17px;line-height:1.8}.topic-nav{display:flex;flex-wrap:wrap;gap:9px;padding:30px 0;border-bottom:1px solid var(--line)}.topic-link{padding:9px 13px;border:1px solid var(--line);border-radius:999px;color:var(--muted);font-size:12px}.topic-link:hover,.topic-link[aria-current="page"]{color:var(--paper);background:var(--ink);border-color:var(--ink)}.topic-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;padding:42px 0 90px}.topic-card{min-height:190px;padding:28px;border:1px solid var(--line);background:var(--surface)}.topic-card:hover{border-color:var(--accent)}.topic-card span{display:block;margin-bottom:18px;color:var(--accent);font:10px var(--mono);text-transform:uppercase}.topic-card h2{margin:0 0 14px;font:500 27px/1.3 var(--serif)}.topic-card p{margin:0;color:var(--muted);font-size:14px;line-height:1.75}.records{padding:10px 0 90px}.record{display:block;padding:30px 0;border-bottom:1px solid var(--line)}.record time{display:block;margin-bottom:10px;color:var(--muted);font:11px var(--mono)}.record h2{margin:0 0 10px;font:500 25px/1.35 var(--serif)}.record p{max-width:760px;margin:0;color:var(--muted);font-size:14px;line-height:1.7}.record:hover h2{color:var(--accent)}.empty{padding:70px 0;color:var(--muted)}footer{border-top:1px solid var(--line)}.footer-inner{display:flex;min-height:120px;align-items:center;justify-content:space-between;color:var(--muted);font-size:12px}.footer-inner a:hover{color:var(--accent)}
+    @media(max-width:700px){.page-head-inner,main,.footer-inner{width:calc(100% - 32px)}.page-head-inner{padding:52px 0 44px}.page-head h1{font-size:42px;letter-spacing:-1.8px}.intro{font-size:15px}.topic-grid{grid-template-columns:1fr;padding-top:28px}.topic-card{min-height:auto}.record h2{font-size:22px}.footer-inner{align-items:flex-start;flex-direction:column;justify-content:center;gap:10px}}
+  </style>
+  {% include theme-head.html %}
+</head>
+<body>
+  {% include site-header.html %}
+  {% if page.topic_key %}{% assign topic_posts = site.posts | where: "type", "note" | where: "category", page.topic_key %}{% endif %}
+  <header class="page-head"><div class="page-head-inner"><p class="eyebrow">sejin.dev topics</p><h1>{{ page.heading | default: page.title }}</h1><p class="intro">{{ page.description }}</p></div></header>
+  <main>
+    <nav class="topic-nav" aria-label="기술 주제"><a class="topic-link" href="{{ '/topics/' | relative_url }}"{% unless page.topic_key %} aria-current="page"{% endunless %}>전체 주제</a>{% for topic in site.data.topics %}<a class="topic-link" href="{{ '/topics/' | append: topic.slug | append: '/' | relative_url }}"{% if page.topic_key == topic.key %} aria-current="page"{% endif %}>{{ topic.title }}</a>{% endfor %}</nav>
+    {% if page.topic_key %}
+    <section class="records" aria-label="{{ page.heading }} 목록">{% for post in topic_posts %}<a class="record" href="{{ post.url | relative_url }}"><time>{{ post.date | date: '%Y. %m. %d' }}</time><h2>{{ post.title }}</h2><p>{{ post.description | default: post.excerpt | strip_html | strip_newlines | truncate: 180 }}</p></a>{% else %}<p class="empty">아직 이 주제로 작성한 기록이 없습니다.</p>{% endfor %}</section>
+    {% else %}
+    <section class="topic-grid" aria-label="기술 주제 목록">{% for topic in site.data.topics %}{% assign topic_count = site.posts | where: "type", "note" | where: "category", topic.key | size %}<a class="topic-card" href="{{ '/topics/' | append: topic.slug | append: '/' | relative_url }}"><span>{{ topic_count }} records</span><h2>{{ topic.heading }}</h2><p>{{ topic.description }}</p></a>{% endfor %}</section>
+    {% endif %}
+  </main>
+  <footer><div class="footer-inner"><span>© 2026 sejin.dev</span><a href="{{ '/notes/' | relative_url }}">Notes로 돌아가기 ↑</a></div></footer>
+  {% include mobile-menu.html %}
+</body>
+</html>

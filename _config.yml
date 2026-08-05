@@ -1,7 +1,12 @@
 title: sejin.dev
-description: 조세진의 기술 블로그
-url: "threetrue03.kro.kr"
+description: 조세진이 Python, OpenCV, RP2040, MicroPython, 컴퓨터 구조와 머신러닝을 공부하며 정리하는 기술 블로그입니다.
+url: "https://threetrue03.kro.kr"
 lang: ko-KR
+google_site_verification: "slvFy21vGIs1hw7EO-zlE1KmzfJEnZDpjvqM332lmfM"
+author:
+  name: 조세진
+  url: "https://threetrue03.kro.kr/about/"
+  github: "https://github.com/threetrue03-crypto"
 markdown: kramdown
 permalink: /posts/:title/
 exclude:

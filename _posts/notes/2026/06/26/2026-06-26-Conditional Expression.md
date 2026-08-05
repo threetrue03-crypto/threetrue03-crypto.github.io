@@ -3,6 +3,7 @@ layout: post
 title: "Conditional Expression"
 description: "Conditional Expreesion에 대해서 설명하고, if문과의 차이도 본다. 결국 분기의 본질은 무엇인가?"
 category: Python
+tags: [Python, Control Flow, Conditional Expression]
 ---
 
 # Conditional Expression

@@ -5,6 +5,7 @@ title: "Exception"
 description: "프로그램 실행 중 발생하는 오류 상황들을 정리하였다."
 date: 2026-06-25
 category: Python
+tags: [Python, Exception Handling, Error]
 ---
 
 # Exception

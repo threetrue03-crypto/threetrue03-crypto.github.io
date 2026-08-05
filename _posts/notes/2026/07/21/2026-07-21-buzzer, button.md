@@ -5,6 +5,7 @@ title: "buzzer, button"
 description: "부저를 작동하는 방법과 버튼을 작동하는 방법 그리고 읽을 시 풀업, 풀다운 저항에 대해서 깊게 다루었다."
 date: 2026-07-21
 category: AI-mobility
+tags: [MicroPython, RP2040, GPIO, Electronics]
 ---
 
 # buzzer, button
@@ -79,7 +80,7 @@ buzzer.duty_u16(32768)   # 약 50%
 
 Pin class 글에서 입력 상태에 대해 자세하게 설명했듯이, 버튼처럼 핀의 모드가 입력인 상황에서 아무 행위를 하지 않으면 플로팅 상태가 될 수 있다고 하였다.
 
-<a href="https://threetrue03-crypto.github.io/posts/Pin-Class/" target="_blank">
+<a href="https://threetrue03.kro.kr/posts/Pin-Class/" target="_blank">
   Pin class 글로 가기
 </a>
 

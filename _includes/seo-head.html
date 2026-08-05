@@ -1,8 +1,14 @@
-<meta name="google-site-verification" content="slvFy21vGIs1hw7EO-zlE1KmzfJEnZDpjvqM332lmfM" />
-
-{% assign seo_title = page.title | default: site.title %}
-{% assign seo_description = page.description | default: site.description | strip_html | strip_newlines %}
+{% assign seo_title = page.seo_title | default: page.title | default: site.title %}
+{% assign seo_description = page.seo_description | default: page.description | default: site.description | strip_html | strip_newlines %}
 {% assign canonical_url = page.url | absolute_url %}
+{% assign seo_collection_name = 'Notes' %}
+{% assign seo_collection_url = '/notes/' %}
+{% if page.type == 'news' %}{% assign seo_collection_name = 'News' %}{% assign seo_collection_url = '/news/' %}{% elsif page.type == 'paper' %}{% assign seo_collection_name = 'Papers' %}{% assign seo_collection_url = '/papers/' %}{% elsif page.type == 'book' %}{% assign seo_collection_name = 'Books' %}{% assign seo_collection_url = '/books/' %}{% endif %}
+<meta name="description" content="{{ seo_description | escape }}">
+<meta name="theme-color" content="#1a6b4b">
+{% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification | escape }}">{% endif %}
+{% if site.naver_site_verification %}<meta name="naver-site-verification" content="{{ site.naver_site_verification | escape }}">{% endif %}
+<link rel="icon" href="{{ '/favicon.svg' | relative_url }}" type="image/svg+xml">
 <link rel="canonical" href="{{ canonical_url }}">
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="{{ '/feed.xml' | absolute_url }}">
 <meta property="og:locale" content="ko_KR">
@@ -17,7 +23,13 @@
 {% if page.layout == 'post' %}
 <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
 {% if page.last_modified_at %}<meta property="article:modified_time" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":{{ page.title | jsonify }},"description":{{ seo_description | jsonify }},"datePublished":"{{ page.date | date_to_xmlschema }}","{% if page.last_modified_at %}dateModified":"{{ page.last_modified_at | date_to_xmlschema }}",{% endif %}"mainEntityOfPage":{{ canonical_url | jsonify }},"author":{"@type":"Person","name":"Sejin"},"publisher":{"@type":"Person","name":"Sejin"}}</script>
+<meta property="article:section" content="{{ page.category | default: '기술 기록' | escape }}">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":{{ page.title | jsonify }},"description":{{ seo_description | jsonify }},"url":{{ canonical_url | jsonify }},"datePublished":"{{ page.date | date_to_xmlschema }}","dateModified":"{{ page.last_modified_at | default: page.date | date_to_xmlschema }}","inLanguage":"ko-KR","mainEntityOfPage":{"@type":"WebPage","@id":{{ canonical_url | jsonify }}},"articleSection":{{ page.category | default: '기술 기록' | jsonify }},"keywords":{{ page.tags | default: page.category | jsonify }},"author":{"@type":"Person","@id":"{{ '/about/#sejin' | absolute_url }}","name":{{ site.author.name | jsonify }},"url":{{ site.author.url | jsonify }},"sameAs":[{{ site.author.github | jsonify }}]},"publisher":{"@type":"Person","@id":"{{ '/about/#sejin' | absolute_url }}","name":{{ site.author.name | jsonify }}}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"sejin.dev","item":{{ site.url | jsonify }}},{"@type":"ListItem","position":2,"name":{{ seo_collection_name | jsonify }},"item":{{ seo_collection_url | absolute_url | jsonify }}},{"@type":"ListItem","position":3,"name":{{ page.title | jsonify }},"item":{{ canonical_url | jsonify }}}]}</script>
+{% elsif page.url == '/about/' %}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"ProfilePage","name":{{ seo_title | jsonify }},"description":{{ seo_description | jsonify }},"url":{{ canonical_url | jsonify }},"inLanguage":"ko-KR","mainEntity":{"@type":"Person","@id":"{{ '/about/#sejin' | absolute_url }}","name":{{ site.author.name | jsonify }},"url":{{ site.author.url | jsonify }},"sameAs":[{{ site.author.github | jsonify }}],"description":"Python, OpenCV, RP2040, MicroPython, 컴퓨터 구조, 컴퓨터비전과 머신러닝을 공부하며 기록합니다."}}</script>
+{% elsif page.url == '/' %}
+<script type="application/ld+json">[{"@context":"https://schema.org","@type":"WebSite","@id":"{{ site.url }}/#website","name":{{ site.title | jsonify }},"alternateName":"조세진 기술 블로그","description":{{ site.description | jsonify }},"url":{{ site.url | jsonify }},"inLanguage":"ko-KR","publisher":{"@id":"{{ '/about/#sejin' | absolute_url }}"}},{"@context":"https://schema.org","@type":"Blog","@id":"{{ site.url }}/#blog","name":"sejin.dev 기술 기록","description":{{ site.description | jsonify }},"url":{{ site.url | jsonify }},"inLanguage":"ko-KR","author":{"@type":"Person","@id":"{{ '/about/#sejin' | absolute_url }}","name":{{ site.author.name | jsonify }},"url":{{ site.author.url | jsonify }},"sameAs":[{{ site.author.github | jsonify }}]}}]</script>
 {% else %}
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":{{ site.title | jsonify }},"description":{{ site.description | jsonify }},"url":{{ site.url | jsonify }},"potentialAction":{"@type":"SearchAction","target":"{{ site.url }}/?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":{{ seo_title | jsonify }},"description":{{ seo_description | jsonify }},"url":{{ canonical_url | jsonify }},"inLanguage":"ko-KR","isPartOf":{"@type":"WebSite","@id":"{{ site.url }}/#website","name":{{ site.title | jsonify }},"url":{{ site.url | jsonify }}}}</script>
 {% endif %}

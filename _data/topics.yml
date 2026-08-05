@@ -1,0 +1,23 @@
+- key: Python
+  slug: python
+  title: Python
+  heading: Python 기술 노트
+  description: Python 문법, 표준 라이브러리, 예외 처리와 코드 구조를 공부하며 정리한 기술 노트입니다.
+
+- key: OpenCV
+  slug: opencv
+  title: OpenCV
+  heading: OpenCV·컴퓨터비전 기술 노트
+  description: OpenCV의 영상 입력, 프레임, 코덱과 컴퓨터비전 기초를 직접 실습하며 정리한 기록입니다.
+
+- key: FFmpeg
+  slug: ffmpeg
+  title: FFmpeg
+  heading: FFmpeg·영상 처리 기술 노트
+  description: 코덱, 컨테이너, 트랜스코딩과 리먹싱 등 FFmpeg 기반 영상 처리 개념을 정리한 기록입니다.
+
+- key: AI-mobility
+  slug: physical-ai
+  title: Physical AI · MicroPython
+  heading: Physical AI·MicroPython 기술 노트
+  description: RP2040, MicroPython, GPIO, ADC, PWM과 센서 제어를 공부하며 정리한 Physical AI 기술 기록입니다.

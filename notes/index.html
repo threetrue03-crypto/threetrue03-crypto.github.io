@@ -1,5 +1,7 @@
 ---
 title: Notes
+seo_title: 기술 노트 | Python·OpenCV·MicroPython | sejin.dev
+description: 조세진이 Python, OpenCV, MicroPython, RP2040과 영상 처리 학습 내용을 직접 정리한 기술 노트입니다.
 permalink: /notes/
 ---
 <!doctype html>
@@ -7,8 +9,7 @@ permalink: /notes/
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="sejin.dev에 기록한 모든 기술 노트">
-  <title>Notes — {{ site.title }}</title>
+  <title>{{ page.seo_title }}</title>
   {% include seo-head.html %}
   <style>
     :root {
@@ -65,12 +66,12 @@ permalink: /notes/
     <div class="content">
       <aside class="filters" aria-label="노트 필터">
         <section class="filter-section">
-          <h2 class="filter-title">Topics</h2>
+          <h2 class="filter-title"><a href="{{ '/topics/' | relative_url }}">Topics →</a></h2>
           <div class="filter-list">
             <button class="filter-button active" type="button" data-topic="all"><span>전체</span><span class="filter-count">{{ note_posts | size }}</span></button>
             {% assign note_groups = note_posts | group_by: "category" %}
             {% for category in note_groups %}
-              {% if category.name != "" %}<button class="filter-button" type="button" data-topic="{{ category.name | downcase | escape }}"><span>{{ category.name }}</span><span class="filter-count">{{ category.items | size }}</span></button>{% endif %}
+              {% if category.name != "" %}{% assign topic_meta = site.data.topics | where: "key", category.name | first %}<button class="filter-button" type="button" data-topic="{{ category.name | downcase | escape }}"><span>{{ topic_meta.title | default: category.name }}</span><span class="filter-count">{{ category.items | size }}</span></button>{% endif %}
             {% endfor %}
           </div>
         </section>

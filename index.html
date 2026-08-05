@@ -1,12 +1,14 @@
 ---
+title: sejin.dev
+seo_title: sejin.dev | 조세진의 Python·임베디드 기술 블로그
+description: 조세진이 Python, OpenCV, RP2040, MicroPython, 컴퓨터 구조와 머신러닝을 공부하며 정리하는 기술 블로그입니다.
 ---
 <!doctype html>
 <html lang="ko">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="기술 기록과 관심 분야의 최신 뉴스·논문을 모아보는 개발 블로그">
-  <title>{{ site.title | default: "sejin.dev" }} — 기술 기록</title>
+  <title>{{ page.seo_title }}</title>
   {% include seo-head.html %}
   <style>
     :root {
@@ -357,8 +359,8 @@
     <div class="briefing-inner">
       <header class="briefing-header">
         <div>
-          <h1 class="briefing-title" id="briefing-title">기술 브리핑</h1>
-          <p class="briefing-updated">관심 분야의 최신 기술 뉴스와 직접 읽고 정리한 자료를 모았습니다.</p>
+          <h1 class="briefing-title" id="briefing-title">기술 기록과 브리핑</h1>
+          <p class="briefing-updated">조세진이 Python, OpenCV, RP2040, MicroPython과 관심 분야의 자료를 공부하며 정리합니다.</p>
         </div>
         <div class="briefing-tabs" role="tablist" aria-label="브리핑 종류">
           <button class="briefing-tab{% if default_briefing == 'news' %} active{% endif %}" type="button" role="tab" aria-selected="{% if default_briefing == 'news' %}true{% else %}false{% endif %}" data-briefing-target="news">News</button>
@@ -465,7 +467,7 @@
           <a class="topic-button active" href="{{ '/notes/' | relative_url }}">전체</a>
           {% assign note_groups = note_posts | group_by: "category" %}
           {% for category in note_groups %}
-            {% if category.name != "" %}<a class="topic-button" href="{{ '/notes/' | relative_url }}?topic={{ category.name | downcase | uri_escape }}">{{ category.name }}</a>{% endif %}
+            {% if category.name != "" %}{% assign topic_meta = site.data.topics | where: "key", category.name | first %}<a class="topic-button" href="{% if topic_meta %}{{ '/topics/' | append: topic_meta.slug | append: '/' | relative_url }}{% else %}{{ '/notes/' | relative_url }}?topic={{ category.name | downcase | uri_escape }}{% endif %}">{{ topic_meta.title | default: category.name }}</a>{% endif %}
           {% endfor %}
         </div>
       </section>

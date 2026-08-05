@@ -4,6 +4,7 @@ title: "math.floor()"
 description: "math.floor()에 대해서 설명한다."
 date: 2026-06-25
 category: Python
+tags: [Python, math, Rounding]
 ---
 
 # math.floor() 란?
