@@ -1,5 +1,50 @@
 [
   {
+    "title": "Anxious Chinese students are trusting AI to help pick colleges and majors",
+    "url": "https://restofworld.org/2026/china-ai-bot-college-advice/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49178780",
+    "source": "restofworld.org",
+    "date": "2026-08-05T05:08:52Z",
+    "timestamp": 1785906532,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Compass, a local-first code graph built in Rust for humans and AI agents",
+    "url": "https://github.com/crabbuild/compass",
+    "discussion_url": "https://news.ycombinator.com/item?id=49178759",
+    "source": "github.com",
+    "date": "2026-08-05T05:05:09Z",
+    "timestamp": 1785906309,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+    "url": "https://arxiv.org/abs/2607.29377",
+    "discussion_url": "https://news.ycombinator.com/item?id=49178608",
+    "source": "arxiv.org",
+    "date": "2026-08-05T04:36:44Z",
+    "timestamp": 1785904604,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "White House AI Guidelines Exempt U.S. Open Models from Government Review",
+    "url": "https://www.wsj.com/tech/ai/white-houses-ai-guidelines-exempt-u-s-open-models-from-government-review-74924eb8",
+    "discussion_url": "https://news.ycombinator.com/item?id=49178500",
+    "source": "wsj.com",
+    "date": "2026-08-05T04:16:20Z",
+    "timestamp": 1785903380,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "America's Bet on AI – The winner takes it all. What if we lose?",
+    "url": "https://foreignpolicy.com/2026/08/04/united-states-artificial-intelligence-race-china-openai-anthropic-donald-trump-elon-musk/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49178246",
+    "source": "foreignpolicy.com",
+    "date": "2026-08-05T03:24:25Z",
+    "timestamp": 1785900265,
+    "category": "Machine Learning"
+  },
+  {
     "title": "SpaceX hit by surging AI costs as insiders prepare to sell their shares",
     "url": "https://www.nbcnews.com/business/business-news/spacex-earnings-surging-ai-costs-rcna590682",
     "discussion_url": "https://news.ycombinator.com/item?id=49177798",
@@ -36,6 +81,15 @@
     "category": "Machine Learning"
   },
   {
+    "title": "Show HN: Hubmesh – Multi-hop RAG retrieval with zero LLM calls in the query path",
+    "url": "https://github.com/DemigodDSK/hubmesh",
+    "discussion_url": "https://news.ycombinator.com/item?id=49177513",
+    "source": "github.com",
+    "date": "2026-08-05T01:27:25Z",
+    "timestamp": 1785893245,
+    "category": "Machine Learning"
+  },
+  {
     "title": "CrewAI in Python: Coordinating Teams of AI Agents",
     "url": "https://realpython.com/crewai-python/",
     "discussion_url": "https://news.ycombinator.com/item?id=49177458",
@@ -51,60 +105,6 @@
     "source": "routerfuel.com",
     "date": "2026-08-05T01:18:34Z",
     "timestamp": 1785892714,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: A terminal AI coding agent that compiles natively on Termux – no root",
-    "url": "https://www.reddit.com/r/termux/s/FqS76rc2z3",
-    "discussion_url": "https://news.ycombinator.com/item?id=49177151",
-    "source": "reddit.com",
-    "date": "2026-08-05T00:33:11Z",
-    "timestamp": 1785889991,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Misalignments when using AI for hacking",
-    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
-    "discussion_url": "https://news.ycombinator.com/item?id=49177018",
-    "source": "blog.vulnetic.ai",
-    "date": "2026-08-05T00:15:03Z",
-    "timestamp": 1785888903,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A Lightweight Open-Source LLM Benchmark Tool – Compare Any Model on OpenRouter",
-    "url": "https://cheikhhseck.medium.com/i-built-a-llm-benchmark-tool-and-tested-it-on-free-models-heres-what-i-found-5a4c4a8eee4d",
-    "discussion_url": "https://news.ycombinator.com/item?id=49176987",
-    "source": "cheikhhseck.medium.com",
-    "date": "2026-08-05T00:11:22Z",
-    "timestamp": 1785888682,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "White House excludes open models from framework to test advanced AI capabilities",
-    "url": "https://www.axios.com/2026/08/04/trump-ai-framework-open-models",
-    "discussion_url": "https://news.ycombinator.com/item?id=49176826",
-    "source": "axios.com",
-    "date": "2026-08-04T23:50:34Z",
-    "timestamp": 1785887434,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "World's First AI Consumer Twin Marketplace for Research",
-    "url": "https://blue-pill.ai/marketplace",
-    "discussion_url": "https://news.ycombinator.com/item?id=49176499",
-    "source": "blue-pill.ai",
-    "date": "2026-08-04T23:03:50Z",
-    "timestamp": 1785884630,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: What is a good format for a tool to report data to a LLM?",
-    "url": "https://news.ycombinator.com/item?id=49176440",
-    "discussion_url": "https://news.ycombinator.com/item?id=49176440",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-04T22:57:28Z",
-    "timestamp": 1785884248,
     "category": "Machine Learning"
   },
   {
@@ -135,12 +135,12 @@
     "category": "Physical AI"
   },
   {
-    "title": "Waymo CEO explains why Tesla’s camera-only self-driving falls short",
-    "url": "https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49174369",
-    "source": "electrek.co",
-    "date": "2026-08-04T20:11:15Z",
-    "timestamp": 1785874275,
+    "title": "Driving an 80s robot with a 90s OS at VCF West 2026",
+    "url": "https://jfloren.net/b/2026/8/4/0",
+    "discussion_url": "https://news.ycombinator.com/item?id=49175057",
+    "source": "jfloren.net",
+    "date": "2026-08-04T20:58:32Z",
+    "timestamp": 1785877112,
     "category": "Physical AI"
   },
   {
