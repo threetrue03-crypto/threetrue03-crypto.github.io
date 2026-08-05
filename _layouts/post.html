@@ -3,7 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>{{ page.seo_title | default: page.title }}{% if page.category %} | {{ page.category }}{% endif %} — {{ site.title }}</title>
+  {% assign seo_category_title = page.category %}{% if page.type == 'note' and page.category %}{% assign seo_topic_meta = site.data.topics | where: 'key', page.category | first %}{% if seo_topic_meta %}{% assign seo_category_title = seo_topic_meta.title %}{% endif %}{% endif %}
+  <title>{{ page.seo_title | default: page.title }}{% if seo_category_title %} | {{ seo_category_title }}{% endif %} — {{ site.title }}</title>
   {% include seo-head.html %}
   <style>
     :root{--paper:#f7f4ed;--surface:#fbfaf7;--ink:#242424;--muted:#6b6b6b;--line:#d9d4c9;--accent:#1a6b4b;--accent-soft:#e3eee7;--code:#202522;--serif:Georgia,"Noto Serif KR","Nanum Myeongjo",serif;--sans:Pretendard,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;--mono:"SFMono-Regular",Consolas,"Liberation Mono",monospace}
