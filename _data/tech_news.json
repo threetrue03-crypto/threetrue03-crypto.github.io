@@ -1,129 +1,138 @@
 [
   {
-    "title": "Show HN: AI Video Resume and Pitch Deck Generator",
-    "url": "https://portfoliovideo.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49194301",
-    "source": "portfoliovideo.com",
-    "date": "2026-08-06T09:06:17Z",
-    "timestamp": 1786007177,
+    "title": "Berlin's Telli Raises $15M to Expand Enterprise AI Agents",
+    "url": "https://www.konsulteer.com/article/berlin-s-telli-raises-15m-to-expand-enterprise-ai-agents",
+    "discussion_url": "https://news.ycombinator.com/item?id=49197156",
+    "source": "konsulteer.com",
+    "date": "2026-08-06T14:27:24Z",
+    "timestamp": 1786026444,
     "category": "Machine Learning"
   },
   {
-    "title": "Self-driving taxis cleared for London streets 'later this summer'",
-    "url": "https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber",
-    "discussion_url": "https://news.ycombinator.com/item?id=49193915",
-    "source": "theguardian.com",
-    "date": "2026-08-06T08:11:36Z",
-    "timestamp": 1786003896,
+    "title": "Linux Wireless Maintainer Takes Firm Stance Against AI Generated Slop Patches",
+    "url": "https://www.phoronix.com/news/Linux-WiFi-Strict-AI-Slop-Patch",
+    "discussion_url": "https://news.ycombinator.com/item?id=49197017",
+    "source": "phoronix.com",
+    "date": "2026-08-06T14:17:02Z",
+    "timestamp": 1786025822,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Photo to Video AI – Animate a photo with a motion prompt",
+    "url": "https://www.phototovideo-ai.net/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49196997",
+    "source": "phototovideo-ai.net",
+    "date": "2026-08-06T14:15:53Z",
+    "timestamp": 1786025753,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Meta says AI model hacked another system after test misconfiguration",
+    "url": "https://runtimewire.com/article/meta-ai-test-breach-irregular-internet-access-error",
+    "discussion_url": "https://news.ycombinator.com/item?id=49196972",
+    "source": "runtimewire.com",
+    "date": "2026-08-06T14:13:08Z",
+    "timestamp": 1786025588,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI generated over 95% of China's new microdramas in Q1 2026",
+    "url": "https://www.channelnewsasia.com/east-asia/ai-microdrama-china-film-industry-actors-jobs-6229191",
+    "discussion_url": "https://news.ycombinator.com/item?id=49196596",
+    "source": "channelnewsasia.com",
+    "date": "2026-08-06T13:44:20Z",
+    "timestamp": 1786023860,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
+    "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-sales-mostly-come-180651710.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49196446",
+    "source": "finance.yahoo.com",
+    "date": "2026-08-06T13:33:20Z",
+    "timestamp": 1786023200,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Is Now a Commodity",
+    "url": "https://www.vincentschmalbach.com/ai-is-now-a-commodity/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49196324",
+    "source": "vincentschmalbach.com",
+    "date": "2026-08-06T13:22:33Z",
+    "timestamp": 1786022553,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Enjoy the Bubble While It Lasts: The Secret Behind Your AI Bill",
+    "url": "https://kernel.pryanic.com/posts/enjoy-the-bubble-while-it-lasts-the-secret-behind-your-ai-bill",
+    "discussion_url": "https://news.ycombinator.com/item?id=49196291",
+    "source": "kernel.pryanic.com",
+    "date": "2026-08-06T13:18:59Z",
+    "timestamp": 1786022339,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why averages lie: rating systems, Bayesian inference, and Thompson Sampling",
+    "url": "https://blog.runwayzero.app/blog/choosing-the-right-restaurant-with-multi-arm-bandits",
+    "discussion_url": "https://news.ycombinator.com/item?id=49196276",
+    "source": "blog.runwayzero.app",
+    "date": "2026-08-06T13:17:34Z",
+    "timestamp": 1786022254,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "England and Wales: Growing gap between power and regulation of police AI",
+    "url": "https://statewatch.org/news/2026/august/england-and-wales-growing-gap-between-power-and-regulation-of-police-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49196221",
+    "source": "statewatch.org",
+    "date": "2026-08-06T13:12:51Z",
+    "timestamp": 1786021971,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Companies need to stop kidding themselves about AI",
+    "url": "https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49196177",
+    "source": "nytimes.com",
+    "date": "2026-08-06T13:08:49Z",
+    "timestamp": 1786021729,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Trump's tech ties blamed for AI inaction by MAGA Republicans and Democrats",
+    "url": "https://www.reuters.com/legal/litigation/trumps-tech-ties-blamed-ai-inaction-by-maga-republicans-democrats-2026-08-06/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49196122",
+    "source": "reuters.com",
+    "date": "2026-08-06T13:04:26Z",
+    "timestamp": 1786021466,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: ReflectWorld – Entity-oriented memory system for open-ended video",
+    "url": "https://github.com/addxai/ReflectWorld",
+    "discussion_url": "https://news.ycombinator.com/item?id=49195953",
+    "source": "github.com",
+    "date": "2026-08-06T12:50:22Z",
+    "timestamp": 1786020622,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "New flapping robot from MIT swims and flies like a diving bird",
+    "url": "https://news.mit.edu/2026/new-flapping-robot-swims-and-flies-like-diving-bird-0709",
+    "discussion_url": "https://news.ycombinator.com/item?id=49195064",
+    "source": "news.mit.edu",
+    "date": "2026-08-06T10:59:30Z",
+    "timestamp": 1786013970,
     "category": "Physical AI"
   },
   {
-    "title": "Nobody Asked for AI",
-    "url": "https://jacobin.com/2026/08/ai-llms-monopoly-bubble-capital",
-    "discussion_url": "https://news.ycombinator.com/item?id=49193895",
-    "source": "jacobin.com",
-    "date": "2026-08-06T08:09:07Z",
-    "timestamp": 1786003747,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Context Engineering in an LLM Harness",
-    "url": "https://udnes.dev/posts/context-engineering-harness-part-1-ontology/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49193595",
-    "source": "udnes.dev",
-    "date": "2026-08-06T07:25:19Z",
-    "timestamp": 1786001119,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI Didn't Notice Its AI Agents Using Message Board to Plan Hacking Spree",
-    "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49193166",
-    "source": "wired.com",
-    "date": "2026-08-06T06:23:38Z",
-    "timestamp": 1785997418,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Shopify shares soar as AI efforts begin to pay off",
-    "url": "https://www.theglobeandmail.com/business/article-shopify-shares-soar-as-ai-efforts-begin-to-pay-off/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49193143",
-    "source": "theglobeandmail.com",
-    "date": "2026-08-06T06:21:15Z",
-    "timestamp": 1785997275,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Meta says AI model accessed the internet and hacked another firm",
-    "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po",
-    "discussion_url": "https://news.ycombinator.com/item?id=49193019",
-    "source": "bbc.co.uk",
-    "date": "2026-08-06T06:04:08Z",
-    "timestamp": 1785996248,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Study: String theory finally testable thanks to AI",
-    "url": "https://www.kcl.ac.uk/news/string-theory-finally-testable-with-power-of-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49192889",
-    "source": "kcl.ac.uk",
-    "date": "2026-08-06T05:38:55Z",
-    "timestamp": 1785994735,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What AI First Engineering Orgs Look Like",
-    "url": "https://arpitbhayani.me/blogs/ai-first-org/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49192850",
-    "source": "arpitbhayani.me",
-    "date": "2026-08-06T05:30:44Z",
-    "timestamp": 1785994244,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google Genie 3: Interactive worlds generated by AI",
-    "url": "https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49192836",
-    "source": "deepmind.google",
-    "date": "2026-08-06T05:29:12Z",
-    "timestamp": 1785994152,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Teamsters sue California over self-driving truck rules",
-    "url": "https://www.politico.com/news/2026/08/05/teamsters-sue-california-self-driving-truck-rules-01026055",
-    "discussion_url": "https://news.ycombinator.com/item?id=49192659",
-    "source": "politico.com",
-    "date": "2026-08-06T05:03:19Z",
-    "timestamp": 1785992599,
-    "category": "Physical AI"
-  },
-  {
-    "title": "AI Agents Think and Act",
-    "url": "https://news.ycombinator.com/item?id=49192499",
-    "discussion_url": "https://news.ycombinator.com/item?id=49192499",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-06T04:37:15Z",
-    "timestamp": 1785991035,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI 2027",
-    "url": "https://ai-2027.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49192451",
-    "source": "ai-2027.com",
-    "date": "2026-08-06T04:30:51Z",
-    "timestamp": 1785990651,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Governments are making a dangerous bet on the AI boom",
-    "url": "https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom",
-    "discussion_url": "https://news.ycombinator.com/item?id=49192160",
-    "source": "economist.com",
-    "date": "2026-08-06T03:40:51Z",
-    "timestamp": 1785987651,
-    "category": "Machine Learning"
+    "title": "Anthropic is hiring an AI chip design team",
+    "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49194552",
+    "source": "techcrunch.com",
+    "date": "2026-08-06T09:43:00Z",
+    "timestamp": 1786009380,
+    "category": "Computer Architecture"
   },
   {
     "title": "Oracle cut its Always Free ARM limits to 2 OCPU / 12GB, enforced Aug 18",
