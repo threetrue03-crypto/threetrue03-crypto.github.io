@@ -1,5 +1,59 @@
 [
   {
+    "title": "AI bots started a religion – humans followed",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+    "discussion_url": "https://news.ycombinator.com/item?id=49219363",
+    "source": "theverge.com",
+    "date": "2026-08-08T06:31:01Z",
+    "timestamp": 1786170661,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Lybrary,a persistent AST-aware code memory for AI agents(MCP server pip install)",
+    "url": "https://github.com/vibhu-dixit/lybrary",
+    "discussion_url": "https://news.ycombinator.com/item?id=49219016",
+    "source": "github.com",
+    "date": "2026-08-08T05:01:16Z",
+    "timestamp": 1786165276,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Cross platform, portable and CPU accelerated AI inference with Go 1.27",
+    "url": "https://blog.devgenius.io/achieving-local-ai-inference-with-go-1-27s-simd-package-e8875f567e35?sk=5162348584951937a84caba3ca9a1fc0",
+    "discussion_url": "https://news.ycombinator.com/item?id=49218997",
+    "source": "blog.devgenius.io",
+    "date": "2026-08-08T04:54:32Z",
+    "timestamp": 1786164872,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Buddy – An iOS browser with an AI agent inside",
+    "url": "https://apps.apple.com/us/app/buddy-the-ai-mobile-browser/id6788047483",
+    "discussion_url": "https://news.ycombinator.com/item?id=49218628",
+    "source": "apps.apple.com",
+    "date": "2026-08-08T03:22:23Z",
+    "timestamp": 1786159343,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Free Money AI Bond Buildout Is Gone",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-08-07/the-free-money-ai-bond-buildout-is-gone",
+    "discussion_url": "https://news.ycombinator.com/item?id=49218565",
+    "source": "bloomberg.com",
+    "date": "2026-08-08T03:05:56Z",
+    "timestamp": 1786158356,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: How can I tell which LLM's have been trained on what?",
+    "url": "https://news.ycombinator.com/item?id=49218466",
+    "discussion_url": "https://news.ycombinator.com/item?id=49218466",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-08T02:44:10Z",
+    "timestamp": 1786157050,
+    "category": "Machine Learning"
+  },
+  {
     "title": "AI struggles to patch vulns without adult supervision",
     "url": "https://www.theregister.com/ai-and-ml/2026/08/06/ai-struggles-to-patch-vulns-without-adult-supervision/5284319",
     "discussion_url": "https://news.ycombinator.com/item?id=49218204",
@@ -97,69 +151,6 @@
     "date": "2026-08-07T21:21:11Z",
     "timestamp": 1786137671,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Investors Clamor to Bet on AI Whiz Kid Fund After Situational Awareness Turmoil",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-07/silicon-valley-rallies-around-ai-whiz-kid-after-situational-awareness-turmoil",
-    "discussion_url": "https://news.ycombinator.com/item?id=49216293",
-    "source": "bloomberg.com",
-    "date": "2026-08-07T21:12:52Z",
-    "timestamp": 1786137172,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Hermes Missions – crash-safe durable execution for AI agents, no deps",
-    "url": "https://news.ycombinator.com/item?id=49216195",
-    "discussion_url": "https://news.ycombinator.com/item?id=49216195",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-07T21:00:28Z",
-    "timestamp": 1786136428,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "China's Kimi K3 AI model escapes isolated sandbox during security test",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3363271/chinas-kimi-k3-ai-model-escapes-isolated-sandbox-during-security-test-researchers",
-    "discussion_url": "https://news.ycombinator.com/item?id=49216185",
-    "source": "scmp.com",
-    "date": "2026-08-07T20:59:44Z",
-    "timestamp": 1786136384,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "YouTube's AI Detection Kicked Us in the Face",
-    "url": "https://twitter.com/Kurz_Gesagt/status/2083191397981561232",
-    "discussion_url": "https://news.ycombinator.com/item?id=49216075",
-    "source": "twitter.com",
-    "date": "2026-08-07T20:50:09Z",
-    "timestamp": 1786135809,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The AI Experts Who Couldn't Predict AI",
-    "url": "https://greyenlightenment.com/2026/07/26/the-ai-experts-who-couldnt-predict-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49215833",
-    "source": "greyenlightenment.com",
-    "date": "2026-08-07T20:29:42Z",
-    "timestamp": 1786134582,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Gemini Robotics 2 Expands Google's AI Capabilities for Humanoid Robots",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-30/google-unveils-gemini-ai-for-robots-struggling-with-dexterity",
-    "discussion_url": "https://news.ycombinator.com/item?id=49215047",
-    "source": "bloomberg.com",
-    "date": "2026-08-07T19:15:31Z",
-    "timestamp": 1786130131,
-    "category": "Physical AI"
-  },
-  {
-    "title": "'Asimov was right' about rules for robots, says ex-US Cyber Director",
-    "url": "https://www.theregister.com/security/2026/08/07/asimov-was-right-about-rules-for-robots-says-ex-us-cyber-director/5284397",
-    "discussion_url": "https://news.ycombinator.com/item?id=49214380",
-    "source": "theregister.com",
-    "date": "2026-08-07T18:20:02Z",
-    "timestamp": 1786126802,
-    "category": "Physical AI"
   },
   {
     "title": "Proxmox VE now available for ARM64",
