@@ -1,20 +1,128 @@
 [
   {
+    "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+    "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
+    "discussion_url": "https://news.ycombinator.com/item?id=49221089",
+    "source": "redhat.com",
+    "date": "2026-08-08T12:16:03Z",
+    "timestamp": 1786191363,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "A Chinese AI model stopped OpenAI's 'unprecedented' cyber attack",
+    "url": "https://www.cnbc.com/2026/07/24/chinese-ai-model-openai-cyber-attack.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49221002",
+    "source": "cnbc.com",
+    "date": "2026-08-08T12:01:17Z",
+    "timestamp": 1786190477,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49220996",
+    "source": "techcrunch.com",
+    "date": "2026-08-08T12:00:41Z",
+    "timestamp": 1786190441,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Safety fears as scientists make first viruses designed by AI",
+    "url": "https://www.theguardian.com/science/2026/aug/06/safety-fears-as-scientists-make-first-viruses-designed-by-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49220870",
+    "source": "theguardian.com",
+    "date": "2026-08-08T11:42:19Z",
+    "timestamp": 1786189339,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why AI has brought nothing more than the conceit of wisdom",
+    "url": "https://hedgehogreview.com/web-features/thr/posts/platos-warning-has-been-vindicated",
+    "discussion_url": "https://news.ycombinator.com/item?id=49220854",
+    "source": "hedgehogreview.com",
+    "date": "2026-08-08T11:39:00Z",
+    "timestamp": 1786189140,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "'I hate what AI is doing to the minds and happiness of the young'",
+    "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-what-ai-is-doing-to-the-minds-and-happiness-of-the-young-katherine-rundell-on-the-view-from-the-classroom",
+    "discussion_url": "https://news.ycombinator.com/item?id=49220685",
+    "source": "theguardian.com",
+    "date": "2026-08-08T11:08:31Z",
+    "timestamp": 1786187311,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I built AI at Amazon, then got laid off",
+    "url": "https://www.youtube.com/watch?v=ZAom6f4-vh0",
+    "discussion_url": "https://news.ycombinator.com/item?id=49220642",
+    "source": "youtube.com",
+    "date": "2026-08-08T11:03:13Z",
+    "timestamp": 1786186993,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Do you think AI governance should be technically rather than paper policy?",
+    "url": "https://news.ycombinator.com/item?id=49220465",
+    "discussion_url": "https://news.ycombinator.com/item?id=49220465",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-08T10:31:08Z",
+    "timestamp": 1786185068,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Making an AI bid writer refuse to lie",
+    "url": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie",
+    "discussion_url": "https://news.ycombinator.com/item?id=49220378",
+    "source": "ailucius.com",
+    "date": "2026-08-08T10:13:31Z",
+    "timestamp": 1786184011,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Hosted LLM Wiki",
+    "url": "https://getmana.md/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49219987",
+    "source": "getmana.md",
+    "date": "2026-08-08T08:48:57Z",
+    "timestamp": 1786178937,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Grindr CEO Says AI Is Doing the Work of 200 Engineers",
+    "url": "https://ai-updates.net/grindr-ceo-says-ai-is-doing-the-work-of-200-engineers/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49219775",
+    "source": "ai-updates.net",
+    "date": "2026-08-08T07:58:36Z",
+    "timestamp": 1786175916,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Roku now has a 24/7 AI slop channel",
+    "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+    "discussion_url": "https://news.ycombinator.com/item?id=49219662",
+    "source": "theverge.com",
+    "date": "2026-08-08T07:33:48Z",
+    "timestamp": 1786174428,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Hardware backdoors in some x86 CPUs",
+    "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+    "discussion_url": "https://news.ycombinator.com/item?id=49219508",
+    "source": "github.com",
+    "date": "2026-08-08T07:04:51Z",
+    "timestamp": 1786172691,
+    "category": "Computer Architecture"
+  },
+  {
     "title": "AI bots started a religion – humans followed",
     "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
     "discussion_url": "https://news.ycombinator.com/item?id=49219363",
     "source": "theverge.com",
     "date": "2026-08-08T06:31:01Z",
     "timestamp": 1786170661,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Lybrary,a persistent AST-aware code memory for AI agents(MCP server pip install)",
-    "url": "https://github.com/vibhu-dixit/lybrary",
-    "discussion_url": "https://news.ycombinator.com/item?id=49219016",
-    "source": "github.com",
-    "date": "2026-08-08T05:01:16Z",
-    "timestamp": 1786165276,
     "category": "Machine Learning"
   },
   {
@@ -27,42 +135,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Show HN: Buddy – An iOS browser with an AI agent inside",
-    "url": "https://apps.apple.com/us/app/buddy-the-ai-mobile-browser/id6788047483",
-    "discussion_url": "https://news.ycombinator.com/item?id=49218628",
-    "source": "apps.apple.com",
-    "date": "2026-08-08T03:22:23Z",
-    "timestamp": 1786159343,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Free Money AI Bond Buildout Is Gone",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-08-07/the-free-money-ai-bond-buildout-is-gone",
-    "discussion_url": "https://news.ycombinator.com/item?id=49218565",
-    "source": "bloomberg.com",
-    "date": "2026-08-08T03:05:56Z",
-    "timestamp": 1786158356,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: How can I tell which LLM's have been trained on what?",
-    "url": "https://news.ycombinator.com/item?id=49218466",
-    "discussion_url": "https://news.ycombinator.com/item?id=49218466",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-08T02:44:10Z",
-    "timestamp": 1786157050,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI struggles to patch vulns without adult supervision",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/06/ai-struggles-to-patch-vulns-without-adult-supervision/5284319",
-    "discussion_url": "https://news.ycombinator.com/item?id=49218204",
-    "source": "theregister.com",
-    "date": "2026-08-08T01:53:44Z",
-    "timestamp": 1786154024,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Mitsubishi joins the humanoid robot race, at a 1k unit per month pace",
     "url": "https://electrek.co/2026/08/07/mitsubishi-joins-the-humanoid-robot-race-at-a-1000-unit-per-month-pace/",
     "discussion_url": "https://news.ycombinator.com/item?id=49217973",
@@ -70,87 +142,6 @@
     "date": "2026-08-08T01:09:03Z",
     "timestamp": 1786151343,
     "category": "Physical AI"
-  },
-  {
-    "title": "Robust AI Security and Alignment: A Sisyphean Endeavor?",
-    "url": "https://arxiv.org/abs/2512.10100",
-    "discussion_url": "https://news.ycombinator.com/item?id=49217892",
-    "source": "arxiv.org",
-    "date": "2026-08-08T00:55:36Z",
-    "timestamp": 1786150536,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49217687",
-    "source": "techcrunch.com",
-    "date": "2026-08-08T00:16:18Z",
-    "timestamp": 1786148178,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Should AI labs be treated like the owners of dangerous animals?",
-    "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-    "discussion_url": "https://news.ycombinator.com/item?id=49217629",
-    "source": "economist.com",
-    "date": "2026-08-08T00:03:31Z",
-    "timestamp": 1786147411,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Energy-Based Models Explained: The AI Beyond Next-Token [video]",
-    "url": "https://www.youtube.com/watch?v=NYmXYF8A3Q4",
-    "discussion_url": "https://news.ycombinator.com/item?id=49217331",
-    "source": "youtube.com",
-    "date": "2026-08-07T23:12:16Z",
-    "timestamp": 1786144336,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Chernobyl's Robots, or the Hackathon from Hell",
-    "url": "https://hackaday.com/2026/08/07/chernobyls-robots-or-the-hackathon-from-hell/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49216998",
-    "source": "hackaday.com",
-    "date": "2026-08-07T22:29:36Z",
-    "timestamp": 1786141776,
-    "category": "Physical AI"
-  },
-  {
-    "title": "If AI Is Taking Jobs, Your HR People May Be First to Go",
-    "url": "https://news.bloomberglaw.com/daily-labor-report/if-ai-is-really-taking-jobs-your-hr-people-may-be-first-to-go",
-    "discussion_url": "https://news.ycombinator.com/item?id=49216701",
-    "source": "news.bloomberglaw.com",
-    "date": "2026-08-07T21:57:19Z",
-    "timestamp": 1786139839,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Tyler Cowen: You'll Learn to Love AI Writing",
-    "url": "https://www.thefp.com/p/tyler-cowen-youll-learn-to-love-ai-writing",
-    "discussion_url": "https://news.ycombinator.com/item?id=49216584",
-    "source": "thefp.com",
-    "date": "2026-08-07T21:43:57Z",
-    "timestamp": 1786139037,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Will Your First Home Robot Have Legs or Wheels?",
-    "url": "https://itcanthink.substack.com/p/will-your-first-home-robot-have-legs",
-    "discussion_url": "https://news.ycombinator.com/item?id=49216483",
-    "source": "itcanthink.substack.com",
-    "date": "2026-08-07T21:32:19Z",
-    "timestamp": 1786138339,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Chip design from the bottom up – Reiner Pope [video]",
-    "url": "https://www.youtube.com/watch?v=oIk3R-sMX5o",
-    "discussion_url": "https://news.ycombinator.com/item?id=49216374",
-    "source": "youtube.com",
-    "date": "2026-08-07T21:21:11Z",
-    "timestamp": 1786137671,
-    "category": "Computer Architecture"
   },
   {
     "title": "Proxmox VE now available for ARM64",
