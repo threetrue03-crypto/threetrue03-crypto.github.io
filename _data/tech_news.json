@@ -1,111 +1,147 @@
 [
   {
-    "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-    "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
-    "discussion_url": "https://news.ycombinator.com/item?id=49221089",
-    "source": "redhat.com",
-    "date": "2026-08-08T12:16:03Z",
-    "timestamp": 1786191363,
+    "title": "AI Adoption Is a Myth",
+    "url": "https://twitter.com/vasuman/status/2085806422072418632",
+    "discussion_url": "https://news.ycombinator.com/item?id=49224570",
+    "source": "twitter.com",
+    "date": "2026-08-08T18:37:32Z",
+    "timestamp": 1786214252,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "What Is Spiralism? The AI Chatbot Religion",
+    "url": "https://www.techrepublic.com/article/news-ai-chatbot-spiralism-movement/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49224345",
+    "source": "techrepublic.com",
+    "date": "2026-08-08T18:15:17Z",
+    "timestamp": 1786212917,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Video Taking over YouTube",
+    "url": "https://news.ycombinator.com/item?id=49224311",
+    "discussion_url": "https://news.ycombinator.com/item?id=49224311",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-08T18:11:11Z",
+    "timestamp": 1786212671,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Mycelium AI Policy",
+    "url": "https://github.com/hawkw/mycelium/commit/b77e854bcbbe7c64f644e4c6ceeaebb74c80c79a",
+    "discussion_url": "https://news.ycombinator.com/item?id=49224303",
+    "source": "github.com",
+    "date": "2026-08-08T18:10:22Z",
+    "timestamp": 1786212622,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "1mongpt: A large language model, except it's one guy",
+    "url": "https://iwanttochee.se",
+    "discussion_url": "https://news.ycombinator.com/item?id=49224296",
+    "source": "iwanttochee.se",
+    "date": "2026-08-08T18:09:43Z",
+    "timestamp": 1786212583,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+    "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49224294",
+    "source": "mezha.net",
+    "date": "2026-08-08T18:09:31Z",
+    "timestamp": 1786212571,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+    "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49224266",
+    "source": "arstechnica.com",
+    "date": "2026-08-08T18:06:27Z",
+    "timestamp": 1786212387,
+    "category": "Physical AI"
+  },
+  {
+    "title": "How to Detect AI Slop",
+    "url": "https://www.youtube.com/watch?v=ORgKY9AlybA",
+    "discussion_url": "https://news.ycombinator.com/item?id=49224168",
+    "source": "youtube.com",
+    "date": "2026-08-08T17:57:44Z",
+    "timestamp": 1786211864,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Layoffs at Oracle, Amazon, and Cloudflare All Have One Thing in Common",
+    "url": "https://www.inc.com/scott-hutcheson/ai-layoffs-amazon-cloudflare/91386604",
+    "discussion_url": "https://news.ycombinator.com/item?id=49223549",
+    "source": "inc.com",
+    "date": "2026-08-08T16:56:16Z",
+    "timestamp": 1786208176,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AMD Instinct Coder Puts 8 MI325X GPUs Behind Local AI Coding, Claiming 70% Lower",
+    "url": "https://www.storagereview.com/news/amd-instinct-coder-puts-8-mi325x-gpus-behind-local-ai-coding-claiming-70-lower-token-costs",
+    "discussion_url": "https://news.ycombinator.com/item?id=49223512",
+    "source": "storagereview.com",
+    "date": "2026-08-08T16:52:44Z",
+    "timestamp": 1786207964,
     "category": "Computer Architecture"
   },
   {
-    "title": "A Chinese AI model stopped OpenAI's 'unprecedented' cyber attack",
-    "url": "https://www.cnbc.com/2026/07/24/chinese-ai-model-openai-cyber-attack.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49221002",
-    "source": "cnbc.com",
-    "date": "2026-08-08T12:01:17Z",
-    "timestamp": 1786190477,
+    "title": "The Artificial Intelligence Revolution (2015)",
+    "url": "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49223413",
+    "source": "waitbutwhy.com",
+    "date": "2026-08-08T16:41:26Z",
+    "timestamp": 1786207286,
     "category": "Machine Learning"
   },
   {
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49220996",
-    "source": "techcrunch.com",
-    "date": "2026-08-08T12:00:41Z",
-    "timestamp": 1786190441,
+    "title": "Why every AI model tells Japanese voters to vote for the Communist Party",
+    "url": "https://twitter.com/MTSlive/status/2085842125464457722",
+    "discussion_url": "https://news.ycombinator.com/item?id=49223376",
+    "source": "twitter.com",
+    "date": "2026-08-08T16:37:00Z",
+    "timestamp": 1786207020,
     "category": "Machine Learning"
   },
   {
-    "title": "Safety fears as scientists make first viruses designed by AI",
-    "url": "https://www.theguardian.com/science/2026/aug/06/safety-fears-as-scientists-make-first-viruses-designed-by-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49220870",
-    "source": "theguardian.com",
-    "date": "2026-08-08T11:42:19Z",
-    "timestamp": 1786189339,
+    "title": "Prompt Privacy from LLMs",
+    "url": "https://snwagh.com/blog/2026/stained-glass-transform/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49223345",
+    "source": "snwagh.com",
+    "date": "2026-08-08T16:34:42Z",
+    "timestamp": 1786206882,
     "category": "Machine Learning"
   },
   {
-    "title": "Why AI has brought nothing more than the conceit of wisdom",
-    "url": "https://hedgehogreview.com/web-features/thr/posts/platos-warning-has-been-vindicated",
-    "discussion_url": "https://news.ycombinator.com/item?id=49220854",
-    "source": "hedgehogreview.com",
-    "date": "2026-08-08T11:39:00Z",
-    "timestamp": 1786189140,
+    "title": "AI alignment is a red herring",
+    "url": "https://interconnected.org/home/2026/08/08/alignment",
+    "discussion_url": "https://news.ycombinator.com/item?id=49223330",
+    "source": "interconnected.org",
+    "date": "2026-08-08T16:32:53Z",
+    "timestamp": 1786206773,
     "category": "Machine Learning"
   },
   {
-    "title": "'I hate what AI is doing to the minds and happiness of the young'",
-    "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-what-ai-is-doing-to-the-minds-and-happiness-of-the-young-katherine-rundell-on-the-view-from-the-classroom",
-    "discussion_url": "https://news.ycombinator.com/item?id=49220685",
-    "source": "theguardian.com",
-    "date": "2026-08-08T11:08:31Z",
-    "timestamp": 1786187311,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I built AI at Amazon, then got laid off",
-    "url": "https://www.youtube.com/watch?v=ZAom6f4-vh0",
-    "discussion_url": "https://news.ycombinator.com/item?id=49220642",
+    "title": "Reducing Graphics API Complexity: A Clean Slate Design for Modern GPUs [video]",
+    "url": "https://www.youtube.com/watch?v=aQv9pUl9PBM",
+    "discussion_url": "https://news.ycombinator.com/item?id=49223158",
     "source": "youtube.com",
-    "date": "2026-08-08T11:03:13Z",
-    "timestamp": 1786186993,
-    "category": "Machine Learning"
+    "date": "2026-08-08T16:13:43Z",
+    "timestamp": 1786205623,
+    "category": "Computer Architecture"
   },
   {
-    "title": "Do you think AI governance should be technically rather than paper policy?",
-    "url": "https://news.ycombinator.com/item?id=49220465",
-    "discussion_url": "https://news.ycombinator.com/item?id=49220465",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-08T10:31:08Z",
-    "timestamp": 1786185068,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Making an AI bid writer refuse to lie",
-    "url": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie",
-    "discussion_url": "https://news.ycombinator.com/item?id=49220378",
-    "source": "ailucius.com",
-    "date": "2026-08-08T10:13:31Z",
-    "timestamp": 1786184011,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Hosted LLM Wiki",
-    "url": "https://getmana.md/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49219987",
-    "source": "getmana.md",
-    "date": "2026-08-08T08:48:57Z",
-    "timestamp": 1786178937,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Grindr CEO Says AI Is Doing the Work of 200 Engineers",
-    "url": "https://ai-updates.net/grindr-ceo-says-ai-is-doing-the-work-of-200-engineers/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49219775",
-    "source": "ai-updates.net",
-    "date": "2026-08-08T07:58:36Z",
-    "timestamp": 1786175916,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Roku now has a 24/7 AI slop channel",
-    "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-    "discussion_url": "https://news.ycombinator.com/item?id=49219662",
-    "source": "theverge.com",
-    "date": "2026-08-08T07:33:48Z",
-    "timestamp": 1786174428,
-    "category": "Machine Learning"
+    "title": "'CPU deoptimization' project to find the slowest single x86 instruction",
+    "url": "https://www.tomshardware.com/pc-components/cpus/hardware-researcher-spins-up-cpu-deoptimization-project-to-find-the-slowest-machine-code-worst-offender-takes-198-billion-cycles-to-execute",
+    "discussion_url": "https://news.ycombinator.com/item?id=49223038",
+    "source": "tomshardware.com",
+    "date": "2026-08-08T16:00:46Z",
+    "timestamp": 1786204846,
+    "category": "Computer Architecture"
   },
   {
     "title": "Hardware backdoors in some x86 CPUs",
@@ -114,42 +150,6 @@
     "source": "github.com",
     "date": "2026-08-08T07:04:51Z",
     "timestamp": 1786172691,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "AI bots started a religion – humans followed",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-    "discussion_url": "https://news.ycombinator.com/item?id=49219363",
-    "source": "theverge.com",
-    "date": "2026-08-08T06:31:01Z",
-    "timestamp": 1786170661,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Cross platform, portable and CPU accelerated AI inference with Go 1.27",
-    "url": "https://blog.devgenius.io/achieving-local-ai-inference-with-go-1-27s-simd-package-e8875f567e35?sk=5162348584951937a84caba3ca9a1fc0",
-    "discussion_url": "https://news.ycombinator.com/item?id=49218997",
-    "source": "blog.devgenius.io",
-    "date": "2026-08-08T04:54:32Z",
-    "timestamp": 1786164872,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Mitsubishi joins the humanoid robot race, at a 1k unit per month pace",
-    "url": "https://electrek.co/2026/08/07/mitsubishi-joins-the-humanoid-robot-race-at-a-1000-unit-per-month-pace/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49217973",
-    "source": "electrek.co",
-    "date": "2026-08-08T01:09:03Z",
-    "timestamp": 1786151343,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Proxmox VE now available for ARM64",
-    "url": "https://forum.proxmox.com/threads/proxmox-virtual-environment-now-available-for-64-bit-arm-arm64.185527/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49183714",
-    "source": "forum.proxmox.com",
-    "date": "2026-08-05T14:42:09Z",
-    "timestamp": 1785940929,
     "category": "Computer Architecture"
   }
 ]
