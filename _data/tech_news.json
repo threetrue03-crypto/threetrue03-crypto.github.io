@@ -1,39 +1,156 @@
 [
   {
-    "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-    "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49231022",
-    "source": "cnbc.com",
-    "date": "2026-08-09T13:03:49Z",
-    "timestamp": 1786280629,
+    "title": "Google doesn't need the LLM crown",
+    "url": "https://www.semafor.com/article/08/07/2026/google-doesnt-need-the-llm-crown",
+    "discussion_url": "https://news.ycombinator.com/item?id=49234190",
+    "source": "semafor.com",
+    "date": "2026-08-09T18:34:19Z",
+    "timestamp": 1786300459,
     "category": "Machine Learning"
   },
   {
-    "title": "Amazon circumvents Gilroy community vote for AI data center",
-    "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
-    "discussion_url": "https://news.ycombinator.com/item?id=49230954",
-    "source": "tomshardware.com",
-    "date": "2026-08-09T12:52:10Z",
-    "timestamp": 1786279930,
+    "title": "As AI guzzles water and energy, we are facing a choice: datacentres or homes?",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/09/slough-famous-the-office-datacentres-locals-hub-europe",
+    "discussion_url": "https://news.ycombinator.com/item?id=49234126",
+    "source": "theguardian.com",
+    "date": "2026-08-09T18:27:52Z",
+    "timestamp": 1786300072,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: FAIth – a syntax-free JVM language, compiled by an LLM front-end",
-    "url": "https://github.com/krossovochkin/faith",
-    "discussion_url": "https://news.ycombinator.com/item?id=49230939",
+    "title": "AI Is on Its Last Legs [video]",
+    "url": "https://www.youtube.com/watch?v=zdsoe_OsnHw",
+    "discussion_url": "https://news.ycombinator.com/item?id=49233669",
+    "source": "youtube.com",
+    "date": "2026-08-09T17:50:35Z",
+    "timestamp": 1786297835,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Workers Ask U.S. Government for Tools to Slow AI Before a Crisis",
+    "url": "https://www.ainews.com/p/ai-workers-us-government-tools-slow-ai-before-crisis",
+    "discussion_url": "https://news.ycombinator.com/item?id=49233593",
+    "source": "ainews.com",
+    "date": "2026-08-09T17:42:59Z",
+    "timestamp": 1786297379,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Semiconductor Fabs IV: The Safety",
+    "url": "https://nomagicpill.substack.com/p/semiconductor-fabs-iv-the-safety",
+    "discussion_url": "https://news.ycombinator.com/item?id=49233534",
+    "source": "nomagicpill.substack.com",
+    "date": "2026-08-09T17:36:40Z",
+    "timestamp": 1786297000,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "A Philosophy for AI Agents",
+    "url": "https://ideal.iroha1203.dev/a-philosophy-for-ai-agents-1d743e970853",
+    "discussion_url": "https://news.ycombinator.com/item?id=49233533",
+    "source": "ideal.iroha1203.dev",
+    "date": "2026-08-09T17:36:27Z",
+    "timestamp": 1786296987,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Browser's new page that shows quotes inspired by your AI chats history",
+    "url": "https://musing.wiki",
+    "discussion_url": "https://news.ycombinator.com/item?id=49233447",
+    "source": "musing.wiki",
+    "date": "2026-08-09T17:26:58Z",
+    "timestamp": 1786296418,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Open-source playground to red-team AI agents against public prompts",
+    "url": "https://playground.fabraix.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49233442",
+    "source": "playground.fabraix.com",
+    "date": "2026-08-09T17:26:32Z",
+    "timestamp": 1786296392,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Google Caught AI Faking Creativity in Every Office in America [video]",
+    "url": "https://www.youtube.com/watch?v=Z_O6Lwj1yjQ",
+    "discussion_url": "https://news.ycombinator.com/item?id=49233415",
+    "source": "youtube.com",
+    "date": "2026-08-09T17:22:53Z",
+    "timestamp": 1786296173,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Move 37 Is the Moment AI Changes Everything. It's Suddenly Happening Everywhere",
+    "url": "https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41",
+    "discussion_url": "https://news.ycombinator.com/item?id=49233330",
+    "source": "wsj.com",
+    "date": "2026-08-09T17:13:06Z",
+    "timestamp": 1786295586,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: RunOnMine – local policy and approvals for AI access to your machine",
+    "url": "https://github.com/ademisler/RunOnMine",
+    "discussion_url": "https://news.ycombinator.com/item?id=49233245",
     "source": "github.com",
-    "date": "2026-08-09T12:49:36Z",
-    "timestamp": 1786279776,
+    "date": "2026-08-09T17:05:08Z",
+    "timestamp": 1786295108,
     "category": "Machine Learning"
   },
   {
-    "title": "Self Hosting Coding LLMs",
-    "url": "https://blog.samibadawi.com/2026/08/self-hosting-coding-llms.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49230906",
-    "source": "blog.samibadawi.com",
-    "date": "2026-08-09T12:44:51Z",
-    "timestamp": 1786279491,
+    "title": "AI Barons Are Ready to Give Away Their Fortunes",
+    "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49233211",
+    "source": "wired.com",
+    "date": "2026-08-09T17:00:58Z",
+    "timestamp": 1786294858,
     "category": "Machine Learning"
+  },
+  {
+    "title": "DeepMind AI gives an extra day of warning ahead of deadly cyclones",
+    "url": "https://www.newscientist.com/article/2583547-deepmind-ai-gives-an-extra-day-of-warning-ahead-of-deadly-cyclones/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49233162",
+    "source": "newscientist.com",
+    "date": "2026-08-09T16:56:47Z",
+    "timestamp": 1786294607,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "PALcode for Alpha Microprocessors System Design Guide (1996) [pdf]",
+    "url": "https://download.majix.org/dec/palcode_dsgn_gde.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=49232367",
+    "source": "download.majix.org",
+    "date": "2026-08-09T15:30:58Z",
+    "timestamp": 1786289458,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Exploring input-output segmented algorithms",
+    "url": "https://boostedcpp.net/2026/08/06/neoclassical-c-2-exploring-input-output-segmented-algorithms/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49232171",
+    "source": "boostedcpp.net",
+    "date": "2026-08-09T15:13:50Z",
+    "timestamp": 1786288430,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "RunSnack – Share your GPU with a link. P2P, no accounts, no cloud",
+    "url": "https://runsnack.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49232062",
+    "source": "runsnack.com",
+    "date": "2026-08-09T15:03:25Z",
+    "timestamp": 1786287805,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Waymo opens up robotaxi service in Dallas to everyone",
+    "url": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49231624",
+    "source": "techcrunch.com",
+    "date": "2026-08-09T14:14:20Z",
+    "timestamp": 1786284860,
+    "category": "Physical AI"
   },
   {
     "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
@@ -45,78 +162,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Making AI Smarter with AI",
-    "url": "https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49230801",
-    "source": "math.andrej.com",
-    "date": "2026-08-09T12:27:50Z",
-    "timestamp": 1786278470,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Advanced AI Sycophancy",
-    "url": "https://www.seangoedecke.com/advanced-ai-sycophancy/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49230800",
-    "source": "seangoedecke.com",
-    "date": "2026-08-09T12:27:42Z",
-    "timestamp": 1786278462,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What LLMs Should Do",
-    "url": "https://adamperesztegi.com/posts/what-llms-should-do/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49230778",
-    "source": "adamperesztegi.com",
-    "date": "2026-08-09T12:23:29Z",
-    "timestamp": 1786278209,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "China created a system that simulates the Earth with billions of AI agents",
-    "url": "https://twitter.com/howtoprompt__/status/2086110097663795365",
-    "discussion_url": "https://news.ycombinator.com/item?id=49230759",
-    "source": "twitter.com",
-    "date": "2026-08-09T12:20:52Z",
-    "timestamp": 1786278052,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Generative AI threatens to upend citizen science records",
-    "url": "https://phys.org/news/2026-08-creatures-born-code-generative-ai.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49230757",
-    "source": "phys.org",
-    "date": "2026-08-09T12:20:48Z",
-    "timestamp": 1786278048,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "70% of AI revenue comes from OpenAI and Anthropic",
-    "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-    "discussion_url": "https://news.ycombinator.com/item?id=49230605",
-    "source": "youtube.com",
-    "date": "2026-08-09T11:56:16Z",
-    "timestamp": 1786276576,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Reducing Hallucinations in LLM-Gen. Code via Semantic Triangulation (OOPSLA 26)",
-    "url": "https://github.com/msv-lab/just-tri-it",
-    "discussion_url": "https://news.ycombinator.com/item?id=49230199",
-    "source": "github.com",
-    "date": "2026-08-09T10:42:39Z",
-    "timestamp": 1786272159,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Forecasting the AI Bubble",
-    "url": "https://siliconangle.com/2026/08/08/forecasting-ai-bubble-scarcity-turns-surplus/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49230190",
-    "source": "siliconangle.com",
-    "date": "2026-08-09T10:41:32Z",
-    "timestamp": 1786272092,
-    "category": "Machine Learning"
-  },
-  {
     "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
     "url": "https://halfhill.com/byte/1998-12_alpha.html",
     "discussion_url": "https://news.ycombinator.com/item?id=49230022",
@@ -126,39 +171,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-    "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49228967",
-    "source": "arstechnica.com",
-    "date": "2026-08-09T06:38:42Z",
-    "timestamp": 1786257522,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Reducing Graphics API Complexity: A Clean Slate Design for Modern GPUs [video]",
-    "url": "https://www.youtube.com/watch?v=aQv9pUl9PBM",
-    "discussion_url": "https://news.ycombinator.com/item?id=49228688",
-    "source": "youtube.com",
-    "date": "2026-08-09T05:29:22Z",
-    "timestamp": 1786253362,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "Hardware backdoors in some x86 CPUs",
     "url": "https://github.com/xoreaxeaxeax/rosenbridge",
     "discussion_url": "https://news.ycombinator.com/item?id=49219508",
     "source": "github.com",
     "date": "2026-08-08T07:04:51Z",
     "timestamp": 1786172691,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Finding zombies in our systems: A real-world story of CPU bottlenecks",
-    "url": "https://medium.com/pinterest-engineering/finding-zombies-in-our-systems-a-real-world-story-of-cpu-bottlenecks-ea4722e552eb",
-    "discussion_url": "https://news.ycombinator.com/item?id=49145193",
-    "source": "medium.com",
-    "date": "2026-08-02T14:50:48Z",
-    "timestamp": 1785682248,
     "category": "Computer Architecture"
   }
 ]
