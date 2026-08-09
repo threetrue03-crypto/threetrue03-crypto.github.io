@@ -1,56 +1,110 @@
 [
   {
-    "title": "AI Adoption Is a Myth",
-    "url": "https://twitter.com/vasuman/status/2085806422072418632",
-    "discussion_url": "https://news.ycombinator.com/item?id=49224570",
-    "source": "twitter.com",
-    "date": "2026-08-08T18:37:32Z",
-    "timestamp": 1786214252,
+    "title": "Turn messy AliExpress dropshipping listings into clean products with AI",
+    "url": "https://importer.omniicore.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49227757",
+    "source": "importer.omniicore.com",
+    "date": "2026-08-09T02:10:42Z",
+    "timestamp": 1786241442,
     "category": "Machine Learning"
   },
   {
-    "title": "What Is Spiralism? The AI Chatbot Religion",
-    "url": "https://www.techrepublic.com/article/news-ai-chatbot-spiralism-movement/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49224345",
-    "source": "techrepublic.com",
-    "date": "2026-08-08T18:15:17Z",
-    "timestamp": 1786212917,
+    "title": "Model Genome: Fingerprinting Whether an LLM Was Trained from Scratch or Derived",
+    "url": "https://huggingface.co/blog/mayafree/model-dna",
+    "discussion_url": "https://news.ycombinator.com/item?id=49227675",
+    "source": "huggingface.co",
+    "date": "2026-08-09T01:54:24Z",
+    "timestamp": 1786240464,
     "category": "Machine Learning"
   },
   {
-    "title": "AI Video Taking over YouTube",
-    "url": "https://news.ycombinator.com/item?id=49224311",
-    "discussion_url": "https://news.ycombinator.com/item?id=49224311",
+    "title": "The AI Apocalypse Is Here",
+    "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49227521",
+    "source": "compactmag.com",
+    "date": "2026-08-09T01:28:36Z",
+    "timestamp": 1786238916,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "What it was like working on LLMs and security at Meta (2022-2026)",
+    "url": "https://joshuasaxe181906.substack.com/p/what-it-was-like-working-on-llms",
+    "discussion_url": "https://news.ycombinator.com/item?id=49227467",
+    "source": "joshuasaxe181906.substack.com",
+    "date": "2026-08-09T01:16:36Z",
+    "timestamp": 1786238196,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A Man Who Invented Modern AI (Before Everyone Else) – Jürgen Schmidhuber [video]",
+    "url": "https://www.youtube.com/watch?v=DP454c1K_vQ",
+    "discussion_url": "https://news.ycombinator.com/item?id=49227342",
+    "source": "youtube.com",
+    "date": "2026-08-09T00:56:23Z",
+    "timestamp": 1786236983,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Is Conscious Under a Behavioral Definition (43,590 Frozen Trials)",
+    "url": "https://zenodo.org/records/21855824",
+    "discussion_url": "https://news.ycombinator.com/item?id=49227170",
+    "source": "zenodo.org",
+    "date": "2026-08-09T00:23:41Z",
+    "timestamp": 1786235021,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Answer First, Reason Later: Commitment Order in Diffusion LLMs",
+    "url": "https://arxiv.org/abs/2608.05687",
+    "discussion_url": "https://news.ycombinator.com/item?id=49227083",
+    "source": "arxiv.org",
+    "date": "2026-08-09T00:07:07Z",
+    "timestamp": 1786234027,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Teaching Coding When AI Can Write the Code",
+    "url": "https://www.oreilly.com/radar/teaching-coding-when-ai-can-write-the-code/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49227028",
+    "source": "oreilly.com",
+    "date": "2026-08-08T23:55:37Z",
+    "timestamp": 1786233337,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Things I learned about how people use AI after 1800 people",
+    "url": "https://news.ycombinator.com/item?id=49226913",
+    "discussion_url": "https://news.ycombinator.com/item?id=49226913",
     "source": "news.ycombinator.com",
-    "date": "2026-08-08T18:11:11Z",
-    "timestamp": 1786212671,
+    "date": "2026-08-08T23:35:27Z",
+    "timestamp": 1786232127,
     "category": "Machine Learning"
   },
   {
-    "title": "Mycelium AI Policy",
-    "url": "https://github.com/hawkw/mycelium/commit/b77e854bcbbe7c64f644e4c6ceeaebb74c80c79a",
-    "discussion_url": "https://news.ycombinator.com/item?id=49224303",
+    "title": "Show HN: Faaah – Filesystem as an AI Handler",
+    "url": "https://github.com/sebastiancarlos/faaah",
+    "discussion_url": "https://news.ycombinator.com/item?id=49226789",
     "source": "github.com",
-    "date": "2026-08-08T18:10:22Z",
-    "timestamp": 1786212622,
+    "date": "2026-08-08T23:13:46Z",
+    "timestamp": 1786230826,
     "category": "Machine Learning"
   },
   {
-    "title": "1mongpt: A large language model, except it's one guy",
-    "url": "https://iwanttochee.se",
-    "discussion_url": "https://news.ycombinator.com/item?id=49224296",
-    "source": "iwanttochee.se",
-    "date": "2026-08-08T18:09:43Z",
-    "timestamp": 1786212583,
+    "title": "How AI is breaking the British State",
+    "url": "https://news.ycombinator.com/item?id=49226649",
+    "discussion_url": "https://news.ycombinator.com/item?id=49226649",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-08T22:50:11Z",
+    "timestamp": 1786229411,
     "category": "Machine Learning"
   },
   {
-    "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-    "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49224294",
-    "source": "mezha.net",
-    "date": "2026-08-08T18:09:31Z",
-    "timestamp": 1786212571,
+    "title": "You can build an AI agent's memory layer with only Go's standard library",
+    "url": "https://towardsdev.com/the-memory-efficient-ai-agent-building-a-context-engine-in-go-d4b7557c44d8?sk=22b2ffc30beac55a6f47841eb4df980b",
+    "discussion_url": "https://news.ycombinator.com/item?id=49226647",
+    "source": "towardsdev.com",
+    "date": "2026-08-08T22:50:06Z",
+    "timestamp": 1786229406,
     "category": "Machine Learning"
   },
   {
@@ -63,84 +117,12 @@
     "category": "Physical AI"
   },
   {
-    "title": "How to Detect AI Slop",
-    "url": "https://www.youtube.com/watch?v=ORgKY9AlybA",
-    "discussion_url": "https://news.ycombinator.com/item?id=49224168",
-    "source": "youtube.com",
-    "date": "2026-08-08T17:57:44Z",
-    "timestamp": 1786211864,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Layoffs at Oracle, Amazon, and Cloudflare All Have One Thing in Common",
-    "url": "https://www.inc.com/scott-hutcheson/ai-layoffs-amazon-cloudflare/91386604",
-    "discussion_url": "https://news.ycombinator.com/item?id=49223549",
-    "source": "inc.com",
-    "date": "2026-08-08T16:56:16Z",
-    "timestamp": 1786208176,
-    "category": "Machine Learning"
-  },
-  {
     "title": "AMD Instinct Coder Puts 8 MI325X GPUs Behind Local AI Coding, Claiming 70% Lower",
     "url": "https://www.storagereview.com/news/amd-instinct-coder-puts-8-mi325x-gpus-behind-local-ai-coding-claiming-70-lower-token-costs",
     "discussion_url": "https://news.ycombinator.com/item?id=49223512",
     "source": "storagereview.com",
     "date": "2026-08-08T16:52:44Z",
     "timestamp": 1786207964,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "The Artificial Intelligence Revolution (2015)",
-    "url": "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49223413",
-    "source": "waitbutwhy.com",
-    "date": "2026-08-08T16:41:26Z",
-    "timestamp": 1786207286,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Why every AI model tells Japanese voters to vote for the Communist Party",
-    "url": "https://twitter.com/MTSlive/status/2085842125464457722",
-    "discussion_url": "https://news.ycombinator.com/item?id=49223376",
-    "source": "twitter.com",
-    "date": "2026-08-08T16:37:00Z",
-    "timestamp": 1786207020,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Prompt Privacy from LLMs",
-    "url": "https://snwagh.com/blog/2026/stained-glass-transform/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49223345",
-    "source": "snwagh.com",
-    "date": "2026-08-08T16:34:42Z",
-    "timestamp": 1786206882,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI alignment is a red herring",
-    "url": "https://interconnected.org/home/2026/08/08/alignment",
-    "discussion_url": "https://news.ycombinator.com/item?id=49223330",
-    "source": "interconnected.org",
-    "date": "2026-08-08T16:32:53Z",
-    "timestamp": 1786206773,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Reducing Graphics API Complexity: A Clean Slate Design for Modern GPUs [video]",
-    "url": "https://www.youtube.com/watch?v=aQv9pUl9PBM",
-    "discussion_url": "https://news.ycombinator.com/item?id=49223158",
-    "source": "youtube.com",
-    "date": "2026-08-08T16:13:43Z",
-    "timestamp": 1786205623,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "'CPU deoptimization' project to find the slowest single x86 instruction",
-    "url": "https://www.tomshardware.com/pc-components/cpus/hardware-researcher-spins-up-cpu-deoptimization-project-to-find-the-slowest-machine-code-worst-offender-takes-198-billion-cycles-to-execute",
-    "discussion_url": "https://news.ycombinator.com/item?id=49223038",
-    "source": "tomshardware.com",
-    "date": "2026-08-08T16:00:46Z",
-    "timestamp": 1786204846,
     "category": "Computer Architecture"
   },
   {
