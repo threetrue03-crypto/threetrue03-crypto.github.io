@@ -1,5 +1,86 @@
 [
   {
+    "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
+    "url": "https://www.reuters.com/business/retail-consumer/apple-says-mac-users-china-can-connect-alibabas-qwen-ai-service-2026-08-08/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49229032",
+    "source": "reuters.com",
+    "date": "2026-08-09T06:51:10Z",
+    "timestamp": 1786258270,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+    "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49228967",
+    "source": "arstechnica.com",
+    "date": "2026-08-09T06:38:42Z",
+    "timestamp": 1786257522,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Agentcn – Installable AI Agents",
+    "url": "https://news.ycombinator.com/item?id=49228902",
+    "discussion_url": "https://news.ycombinator.com/item?id=49228902",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-09T06:21:13Z",
+    "timestamp": 1786256473,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Leopold Aschenbrenner Turned $100M into $45B Betting on AI – It Almost Blew Up [video]",
+    "url": "https://www.youtube.com/watch?v=mJhGRim2MWY",
+    "discussion_url": "https://news.ycombinator.com/item?id=49228779",
+    "source": "youtube.com",
+    "date": "2026-08-09T05:51:39Z",
+    "timestamp": 1786254699,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Meta CTO told employees AI gains should go into more work",
+    "url": "https://thenextweb.com/news/meta-bosworth-ai-productivity-more-work-not-time-off",
+    "discussion_url": "https://news.ycombinator.com/item?id=49228648",
+    "source": "thenextweb.com",
+    "date": "2026-08-09T05:19:14Z",
+    "timestamp": 1786252754,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Open Source, third-party auditing for AI Agents",
+    "url": "https://github.com/ifixai-ai/iFixAi",
+    "discussion_url": "https://news.ycombinator.com/item?id=49228582",
+    "source": "github.com",
+    "date": "2026-08-09T05:02:15Z",
+    "timestamp": 1786251735,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI creates 16 new viruses from scratch after training on 9T nucleotides",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-creates-16-new-viruses-that-never-existed-in-nature-after-learning-dnas-pattern-from-9-trillion-nucleotides-experts-warn-such-applications-are-way-ahead-of-necessary-guardrails",
+    "discussion_url": "https://news.ycombinator.com/item?id=49228364",
+    "source": "tomshardware.com",
+    "date": "2026-08-09T04:07:06Z",
+    "timestamp": 1786248426,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I asked 4 AI companions what they were. They lied, then texted me the next day",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7244220",
+    "discussion_url": "https://news.ycombinator.com/item?id=49228137",
+    "source": "papers.ssrn.com",
+    "date": "2026-08-09T03:21:10Z",
+    "timestamp": 1786245670,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Suggest some uncensored AI for photo genaration?",
+    "url": "https://news.ycombinator.com/item?id=49227939",
+    "discussion_url": "https://news.ycombinator.com/item?id=49227939",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-09T02:43:25Z",
+    "timestamp": 1786243405,
+    "category": "Machine Learning"
+  },
+  {
     "title": "Turn messy AliExpress dropshipping listings into clean products with AI",
     "url": "https://importer.omniicore.com/",
     "discussion_url": "https://news.ycombinator.com/item?id=49227757",
@@ -36,102 +117,21 @@
     "category": "Machine Learning"
   },
   {
-    "title": "A Man Who Invented Modern AI (Before Everyone Else) – Jürgen Schmidhuber [video]",
-    "url": "https://www.youtube.com/watch?v=DP454c1K_vQ",
-    "discussion_url": "https://news.ycombinator.com/item?id=49227342",
-    "source": "youtube.com",
-    "date": "2026-08-09T00:56:23Z",
-    "timestamp": 1786236983,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Is Conscious Under a Behavioral Definition (43,590 Frozen Trials)",
-    "url": "https://zenodo.org/records/21855824",
-    "discussion_url": "https://news.ycombinator.com/item?id=49227170",
-    "source": "zenodo.org",
-    "date": "2026-08-09T00:23:41Z",
-    "timestamp": 1786235021,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Answer First, Reason Later: Commitment Order in Diffusion LLMs",
-    "url": "https://arxiv.org/abs/2608.05687",
-    "discussion_url": "https://news.ycombinator.com/item?id=49227083",
-    "source": "arxiv.org",
-    "date": "2026-08-09T00:07:07Z",
-    "timestamp": 1786234027,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Teaching Coding When AI Can Write the Code",
-    "url": "https://www.oreilly.com/radar/teaching-coding-when-ai-can-write-the-code/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49227028",
-    "source": "oreilly.com",
-    "date": "2026-08-08T23:55:37Z",
-    "timestamp": 1786233337,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Things I learned about how people use AI after 1800 people",
-    "url": "https://news.ycombinator.com/item?id=49226913",
-    "discussion_url": "https://news.ycombinator.com/item?id=49226913",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-08T23:35:27Z",
-    "timestamp": 1786232127,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Faaah – Filesystem as an AI Handler",
-    "url": "https://github.com/sebastiancarlos/faaah",
-    "discussion_url": "https://news.ycombinator.com/item?id=49226789",
-    "source": "github.com",
-    "date": "2026-08-08T23:13:46Z",
-    "timestamp": 1786230826,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How AI is breaking the British State",
-    "url": "https://news.ycombinator.com/item?id=49226649",
-    "discussion_url": "https://news.ycombinator.com/item?id=49226649",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-08T22:50:11Z",
-    "timestamp": 1786229411,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "You can build an AI agent's memory layer with only Go's standard library",
-    "url": "https://towardsdev.com/the-memory-efficient-ai-agent-building-a-context-engine-in-go-d4b7557c44d8?sk=22b2ffc30beac55a6f47841eb4df980b",
-    "discussion_url": "https://news.ycombinator.com/item?id=49226647",
-    "source": "towardsdev.com",
-    "date": "2026-08-08T22:50:06Z",
-    "timestamp": 1786229406,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-    "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49224266",
-    "source": "arstechnica.com",
-    "date": "2026-08-08T18:06:27Z",
-    "timestamp": 1786212387,
-    "category": "Physical AI"
-  },
-  {
-    "title": "AMD Instinct Coder Puts 8 MI325X GPUs Behind Local AI Coding, Claiming 70% Lower",
-    "url": "https://www.storagereview.com/news/amd-instinct-coder-puts-8-mi325x-gpus-behind-local-ai-coding-claiming-70-lower-token-costs",
-    "discussion_url": "https://news.ycombinator.com/item?id=49223512",
-    "source": "storagereview.com",
-    "date": "2026-08-08T16:52:44Z",
-    "timestamp": 1786207964,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "Hardware backdoors in some x86 CPUs",
     "url": "https://github.com/xoreaxeaxeax/rosenbridge",
     "discussion_url": "https://news.ycombinator.com/item?id=49219508",
     "source": "github.com",
     "date": "2026-08-08T07:04:51Z",
     "timestamp": 1786172691,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Finding zombies in our systems: A real-world story of CPU bottlenecks",
+    "url": "https://medium.com/pinterest-engineering/finding-zombies-in-our-systems-a-real-world-story-of-cpu-bottlenecks-ea4722e552eb",
+    "discussion_url": "https://news.ycombinator.com/item?id=49145193",
+    "source": "medium.com",
+    "date": "2026-08-02T14:50:48Z",
+    "timestamp": 1785682248,
     "category": "Computer Architecture"
   }
 ]
