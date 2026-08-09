@@ -1,12 +1,129 @@
 [
   {
-    "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
-    "url": "https://www.reuters.com/business/retail-consumer/apple-says-mac-users-china-can-connect-alibabas-qwen-ai-service-2026-08-08/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49229032",
-    "source": "reuters.com",
-    "date": "2026-08-09T06:51:10Z",
-    "timestamp": 1786258270,
+    "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+    "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49231022",
+    "source": "cnbc.com",
+    "date": "2026-08-09T13:03:49Z",
+    "timestamp": 1786280629,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Amazon circumvents Gilroy community vote for AI data center",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
+    "discussion_url": "https://news.ycombinator.com/item?id=49230954",
+    "source": "tomshardware.com",
+    "date": "2026-08-09T12:52:10Z",
+    "timestamp": 1786279930,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: FAIth – a syntax-free JVM language, compiled by an LLM front-end",
+    "url": "https://github.com/krossovochkin/faith",
+    "discussion_url": "https://news.ycombinator.com/item?id=49230939",
+    "source": "github.com",
+    "date": "2026-08-09T12:49:36Z",
+    "timestamp": 1786279776,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Self Hosting Coding LLMs",
+    "url": "https://blog.samibadawi.com/2026/08/self-hosting-coding-llms.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49230906",
+    "source": "blog.samibadawi.com",
+    "date": "2026-08-09T12:44:51Z",
+    "timestamp": 1786279491,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+    "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+    "discussion_url": "https://news.ycombinator.com/item?id=49230891",
+    "source": "github.com",
+    "date": "2026-08-09T12:43:16Z",
+    "timestamp": 1786279396,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Making AI Smarter with AI",
+    "url": "https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49230801",
+    "source": "math.andrej.com",
+    "date": "2026-08-09T12:27:50Z",
+    "timestamp": 1786278470,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Advanced AI Sycophancy",
+    "url": "https://www.seangoedecke.com/advanced-ai-sycophancy/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49230800",
+    "source": "seangoedecke.com",
+    "date": "2026-08-09T12:27:42Z",
+    "timestamp": 1786278462,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "What LLMs Should Do",
+    "url": "https://adamperesztegi.com/posts/what-llms-should-do/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49230778",
+    "source": "adamperesztegi.com",
+    "date": "2026-08-09T12:23:29Z",
+    "timestamp": 1786278209,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "China created a system that simulates the Earth with billions of AI agents",
+    "url": "https://twitter.com/howtoprompt__/status/2086110097663795365",
+    "discussion_url": "https://news.ycombinator.com/item?id=49230759",
+    "source": "twitter.com",
+    "date": "2026-08-09T12:20:52Z",
+    "timestamp": 1786278052,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Generative AI threatens to upend citizen science records",
+    "url": "https://phys.org/news/2026-08-creatures-born-code-generative-ai.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49230757",
+    "source": "phys.org",
+    "date": "2026-08-09T12:20:48Z",
+    "timestamp": 1786278048,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "70% of AI revenue comes from OpenAI and Anthropic",
+    "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+    "discussion_url": "https://news.ycombinator.com/item?id=49230605",
+    "source": "youtube.com",
+    "date": "2026-08-09T11:56:16Z",
+    "timestamp": 1786276576,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Reducing Hallucinations in LLM-Gen. Code via Semantic Triangulation (OOPSLA 26)",
+    "url": "https://github.com/msv-lab/just-tri-it",
+    "discussion_url": "https://news.ycombinator.com/item?id=49230199",
+    "source": "github.com",
+    "date": "2026-08-09T10:42:39Z",
+    "timestamp": 1786272159,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Forecasting the AI Bubble",
+    "url": "https://siliconangle.com/2026/08/08/forecasting-ai-bubble-scarcity-turns-surplus/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49230190",
+    "source": "siliconangle.com",
+    "date": "2026-08-09T10:41:32Z",
+    "timestamp": 1786272092,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
+    "url": "https://halfhill.com/byte/1998-12_alpha.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49230022",
+    "source": "halfhill.com",
+    "date": "2026-08-09T10:06:37Z",
+    "timestamp": 1786269997,
+    "category": "Computer Architecture"
   },
   {
     "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
@@ -18,103 +135,13 @@
     "category": "Physical AI"
   },
   {
-    "title": "Agentcn – Installable AI Agents",
-    "url": "https://news.ycombinator.com/item?id=49228902",
-    "discussion_url": "https://news.ycombinator.com/item?id=49228902",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-09T06:21:13Z",
-    "timestamp": 1786256473,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Leopold Aschenbrenner Turned $100M into $45B Betting on AI – It Almost Blew Up [video]",
-    "url": "https://www.youtube.com/watch?v=mJhGRim2MWY",
-    "discussion_url": "https://news.ycombinator.com/item?id=49228779",
+    "title": "Reducing Graphics API Complexity: A Clean Slate Design for Modern GPUs [video]",
+    "url": "https://www.youtube.com/watch?v=aQv9pUl9PBM",
+    "discussion_url": "https://news.ycombinator.com/item?id=49228688",
     "source": "youtube.com",
-    "date": "2026-08-09T05:51:39Z",
-    "timestamp": 1786254699,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Meta CTO told employees AI gains should go into more work",
-    "url": "https://thenextweb.com/news/meta-bosworth-ai-productivity-more-work-not-time-off",
-    "discussion_url": "https://news.ycombinator.com/item?id=49228648",
-    "source": "thenextweb.com",
-    "date": "2026-08-09T05:19:14Z",
-    "timestamp": 1786252754,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Open Source, third-party auditing for AI Agents",
-    "url": "https://github.com/ifixai-ai/iFixAi",
-    "discussion_url": "https://news.ycombinator.com/item?id=49228582",
-    "source": "github.com",
-    "date": "2026-08-09T05:02:15Z",
-    "timestamp": 1786251735,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI creates 16 new viruses from scratch after training on 9T nucleotides",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-creates-16-new-viruses-that-never-existed-in-nature-after-learning-dnas-pattern-from-9-trillion-nucleotides-experts-warn-such-applications-are-way-ahead-of-necessary-guardrails",
-    "discussion_url": "https://news.ycombinator.com/item?id=49228364",
-    "source": "tomshardware.com",
-    "date": "2026-08-09T04:07:06Z",
-    "timestamp": 1786248426,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I asked 4 AI companions what they were. They lied, then texted me the next day",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7244220",
-    "discussion_url": "https://news.ycombinator.com/item?id=49228137",
-    "source": "papers.ssrn.com",
-    "date": "2026-08-09T03:21:10Z",
-    "timestamp": 1786245670,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Suggest some uncensored AI for photo genaration?",
-    "url": "https://news.ycombinator.com/item?id=49227939",
-    "discussion_url": "https://news.ycombinator.com/item?id=49227939",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-09T02:43:25Z",
-    "timestamp": 1786243405,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Turn messy AliExpress dropshipping listings into clean products with AI",
-    "url": "https://importer.omniicore.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49227757",
-    "source": "importer.omniicore.com",
-    "date": "2026-08-09T02:10:42Z",
-    "timestamp": 1786241442,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Model Genome: Fingerprinting Whether an LLM Was Trained from Scratch or Derived",
-    "url": "https://huggingface.co/blog/mayafree/model-dna",
-    "discussion_url": "https://news.ycombinator.com/item?id=49227675",
-    "source": "huggingface.co",
-    "date": "2026-08-09T01:54:24Z",
-    "timestamp": 1786240464,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The AI Apocalypse Is Here",
-    "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49227521",
-    "source": "compactmag.com",
-    "date": "2026-08-09T01:28:36Z",
-    "timestamp": 1786238916,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What it was like working on LLMs and security at Meta (2022-2026)",
-    "url": "https://joshuasaxe181906.substack.com/p/what-it-was-like-working-on-llms",
-    "discussion_url": "https://news.ycombinator.com/item?id=49227467",
-    "source": "joshuasaxe181906.substack.com",
-    "date": "2026-08-09T01:16:36Z",
-    "timestamp": 1786238196,
-    "category": "Machine Learning"
+    "date": "2026-08-09T05:29:22Z",
+    "timestamp": 1786253362,
+    "category": "Computer Architecture"
   },
   {
     "title": "Hardware backdoors in some x86 CPUs",
