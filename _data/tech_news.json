@@ -1,12 +1,147 @@
 [
   {
-    "title": "LLMs Get Lost in Evolving User Intent",
-    "url": "https://arxiv.org/abs/2607.20734",
-    "discussion_url": "https://news.ycombinator.com/item?id=49238094",
-    "source": "arxiv.org",
-    "date": "2026-08-10T01:07:50Z",
-    "timestamp": 1786324070,
+    "title": "Hetzner Experiments Platform: Inference API",
+    "url": "https://experiments.hetzner.com/docs/inference",
+    "discussion_url": "https://news.ycombinator.com/item?id=49240718",
+    "source": "experiments.hetzner.com",
+    "date": "2026-08-10T08:02:48Z",
+    "timestamp": 1786348968,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Wan 3.0 AI – multimodal video generation",
+    "url": "https://wan3.io/wan-3-0",
+    "discussion_url": "https://news.ycombinator.com/item?id=49240673",
+    "source": "wan3.io",
+    "date": "2026-08-10T07:57:55Z",
+    "timestamp": 1786348675,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Are AI agents our industry's industrial robots?",
+    "url": "https://www.marcusoft.net/2026/08/ai-robots.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49240341",
+    "source": "marcusoft.net",
+    "date": "2026-08-10T07:13:26Z",
+    "timestamp": 1786346006,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Diffusion LLMs as Targets and Adversaries: Mechanistic Safety Exploits",
+    "url": "https://arxiv.org/abs/2608.07430",
+    "discussion_url": "https://news.ycombinator.com/item?id=49240309",
+    "source": "arxiv.org",
+    "date": "2026-08-10T07:07:06Z",
+    "timestamp": 1786345626,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+    "url": "https://www.rnz.co.nz/news/world/952663/ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack",
+    "discussion_url": "https://news.ycombinator.com/item?id=49240128",
+    "source": "rnz.co.nz",
+    "date": "2026-08-10T06:46:28Z",
+    "timestamp": 1786344388,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: NexusMem – Local context memory engine for AI coding agents",
+    "url": "https://github.com/yaminbakoh4-dot/NexusMem",
+    "discussion_url": "https://news.ycombinator.com/item?id=49240020",
+    "source": "github.com",
+    "date": "2026-08-10T06:34:23Z",
+    "timestamp": 1786343663,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+    "url": "https://annas-archive.gl/blog/physical-destruction.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49240005",
+    "source": "annas-archive.gl",
+    "date": "2026-08-10T06:33:07Z",
+    "timestamp": 1786343587,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+    "url": "https://www.docker.com/products/docker-sandboxes/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49239751",
+    "source": "docker.com",
+    "date": "2026-08-10T06:02:38Z",
+    "timestamp": 1786341758,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Memcode AI goes open source with Claude Code inspired coding agent",
+    "url": "https://github.com/memcode-ai/memcode",
+    "discussion_url": "https://news.ycombinator.com/item?id=49239401",
+    "source": "github.com",
+    "date": "2026-08-10T05:06:05Z",
+    "timestamp": 1786338365,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Coding Clients Are Reading Each Other's Personal Instructions",
+    "url": "https://runtimewire.com/article/ai-coding-clients-are-reading-each-other-s-personal-instructions",
+    "discussion_url": "https://news.ycombinator.com/item?id=49239299",
+    "source": "runtimewire.com",
+    "date": "2026-08-10T04:48:43Z",
+    "timestamp": 1786337323,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Philippines' big offshoring industry is growing despite AI",
+    "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49239226",
+    "source": "economist.com",
+    "date": "2026-08-10T04:35:24Z",
+    "timestamp": 1786336524,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "As AI grips world, the thrill of collecting vintage computers is growing",
+    "url": "https://apnews.com/article/vintage-computers-silicon-valley-technology-apple-history-43d28a08d77cc477cdcd6951315d2f2d",
+    "discussion_url": "https://news.ycombinator.com/item?id=49239179",
+    "source": "apnews.com",
+    "date": "2026-08-10T04:22:15Z",
+    "timestamp": 1786335735,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "New AI models still reproduce racial and gender stereotypes in medicine",
+    "url": "https://news.flinders.edu.au/blog/2026/08/09/new-ai-models-still-reproduce-racial-and-gender-stereotypes-in-medicine/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49239129",
+    "source": "news.flinders.edu.au",
+    "date": "2026-08-10T04:12:06Z",
+    "timestamp": 1786335126,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A deep dive on humanoid hardware",
+    "url": "https://www.humanityslastmachine.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49238925",
+    "source": "humanityslastmachine.com",
+    "date": "2026-08-10T03:32:53Z",
+    "timestamp": 1786332773,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+    "url": "https://github.com/shinyquagsire23/Klepton",
+    "discussion_url": "https://news.ycombinator.com/item?id=49238818",
+    "source": "github.com",
+    "date": "2026-08-10T03:12:48Z",
+    "timestamp": 1786331568,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Taming the Steam ARM64 client on PostmarketOS",
+    "url": "https://blog.drakulix.de/taming-the-steam-arm64-client-on-pmos/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49238637",
+    "source": "blog.drakulix.de",
+    "date": "2026-08-10T02:38:19Z",
+    "timestamp": 1786329499,
+    "category": "Computer Architecture"
   },
   {
     "title": "Optimizing a GPT-2-Class Transformer on a GPU",
@@ -18,129 +153,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "What if we let AI govern us?",
-    "url": "https://inevolin.substack.com/p/what-if-we-let-ai-govern-us",
-    "discussion_url": "https://news.ycombinator.com/item?id=49237226",
-    "source": "inevolin.substack.com",
-    "date": "2026-08-09T23:15:02Z",
-    "timestamp": 1786317302,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A startup is able to detect fires within minutes using satellites and AI",
-    "url": "https://netbajura.blogspot.com/2026/08/ororatech-startup-that-detects.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49236903",
-    "source": "netbajura.blogspot.com",
-    "date": "2026-08-09T22:35:56Z",
-    "timestamp": 1786314956,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Lumabri – What if LLMs worked like Napster?",
-    "url": "https://github.com/JustVugg/lumabri",
-    "discussion_url": "https://news.ycombinator.com/item?id=49236781",
-    "source": "github.com",
-    "date": "2026-08-09T22:24:24Z",
-    "timestamp": 1786314264,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Quoted $1M for AI code review. Built it for free",
-    "url": "https://sagivo.com/blog/i-was-quoted-1m-to-get-ai-diff-review-tool",
-    "discussion_url": "https://news.ycombinator.com/item?id=49236612",
-    "source": "sagivo.com",
-    "date": "2026-08-09T22:07:22Z",
-    "timestamp": 1786313242,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I got 30% better AI coding results",
-    "url": "https://github.com/akasula09/CodeSlimmer",
-    "discussion_url": "https://news.ycombinator.com/item?id=49236555",
-    "source": "github.com",
-    "date": "2026-08-09T22:01:47Z",
-    "timestamp": 1786312907,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-    "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
-    "discussion_url": "https://news.ycombinator.com/item?id=49236439",
-    "source": "abc.net.au",
-    "date": "2026-08-09T21:52:23Z",
-    "timestamp": 1786312343,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Agent Qubitz",
-    "url": "https://github.com/Gabrieliam42/AI-Agent-Qubitz",
-    "discussion_url": "https://news.ycombinator.com/item?id=49236318",
-    "source": "github.com",
-    "date": "2026-08-09T21:42:27Z",
-    "timestamp": 1786311747,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: How has AI helped your personal algorithmic trading strategy?",
-    "url": "https://news.ycombinator.com/item?id=49236035",
-    "discussion_url": "https://news.ycombinator.com/item?id=49236035",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-09T21:20:29Z",
-    "timestamp": 1786310429,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
-    "url": "https://pacslate.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49235865",
-    "source": "pacslate.com",
-    "date": "2026-08-09T21:04:02Z",
-    "timestamp": 1786309442,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Wardline, a Go proxy that auto-blocks compromised AI agents",
-    "url": "https://github.com/kabirnarang39/wardline",
-    "discussion_url": "https://news.ycombinator.com/item?id=49235863",
-    "source": "github.com",
-    "date": "2026-08-09T21:03:50Z",
-    "timestamp": 1786309430,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-    "url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
-    "discussion_url": "https://news.ycombinator.com/item?id=49235836",
-    "source": "mastodon.neilzone.co.uk",
-    "date": "2026-08-09T21:01:31Z",
-    "timestamp": 1786309291,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "LLM Scaler – LLM Support for Intel's Arc Pro B60 and B70 GPUs",
-    "url": "https://github.com/intel/llm-scaler",
-    "discussion_url": "https://news.ycombinator.com/item?id=49234677",
-    "source": "github.com",
-    "date": "2026-08-09T19:17:00Z",
-    "timestamp": 1786303020,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "Noctua finds more than half of PC cases misstate CPU cooler clearances",
     "url": "https://www.tomshardware.com/pc-components/pc-cases/noctua-finds-more-than-half-of-tested-pc-cases-misstate-cpu-cooler-clearances-hands-on-checks-reveal-errors-ranging-from-3-5mm-to-10mm-internal-compatibility-team-conducted-measurements-of-more-than-a-hundred-cases",
     "discussion_url": "https://news.ycombinator.com/item?id=49234579",
     "source": "tomshardware.com",
     "date": "2026-08-09T19:07:08Z",
     "timestamp": 1786302428,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Semiconductor Fabs IV: The Safety",
-    "url": "https://nomagicpill.substack.com/p/semiconductor-fabs-iv-the-safety",
-    "discussion_url": "https://news.ycombinator.com/item?id=49233534",
-    "source": "nomagicpill.substack.com",
-    "date": "2026-08-09T17:36:40Z",
-    "timestamp": 1786297000,
     "category": "Computer Architecture"
   },
   {
