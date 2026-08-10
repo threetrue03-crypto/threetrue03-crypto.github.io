@@ -1,21 +1,129 @@
 [
   {
-    "title": "Hetzner Experiments Platform: Inference API",
-    "url": "https://experiments.hetzner.com/docs/inference",
-    "discussion_url": "https://news.ycombinator.com/item?id=49240718",
-    "source": "experiments.hetzner.com",
-    "date": "2026-08-10T08:02:48Z",
-    "timestamp": 1786348968,
+    "title": "Humanising LLM Outputs Is Dumb",
+    "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+    "discussion_url": "https://news.ycombinator.com/item?id=49243474",
+    "source": "kuber.studio",
+    "date": "2026-08-10T13:35:40Z",
+    "timestamp": 1786368940,
     "category": "Machine Learning"
   },
   {
-    "title": "Wan 3.0 AI – multimodal video generation",
-    "url": "https://wan3.io/wan-3-0",
-    "discussion_url": "https://news.ycombinator.com/item?id=49240673",
-    "source": "wan3.io",
-    "date": "2026-08-10T07:57:55Z",
-    "timestamp": 1786348675,
+    "title": "LLM Rewrite of the TerminalTextEffects Python",
+    "url": "https://github.com/omacom-io/ttfx",
+    "discussion_url": "https://news.ycombinator.com/item?id=49243229",
+    "source": "github.com",
+    "date": "2026-08-10T13:17:16Z",
+    "timestamp": 1786367836,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Sanders urges OpenAI, Anthropic, Meta to pause AI develpmnt amid regulatory push",
+    "url": "https://cryptobriefing.com/sanders-urges-openai-anthropic-meta-to-pause-ai-development-amid-regulatory-push/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49243219",
+    "source": "cryptobriefing.com",
+    "date": "2026-08-10T13:16:02Z",
+    "timestamp": 1786367762,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Intel plans $15B stock offering as AI demand accelerates",
+    "url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49243075",
+    "source": "cnbc.com",
+    "date": "2026-08-10T13:02:49Z",
+    "timestamp": 1786366969,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Apple Briefly Posts China Guide for Connecting Siri to Qwen AI",
+    "url": "https://www.macrumors.com/2026/08/10/apple-posts-guide-for-connecting-siri-to-qwen-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49242974",
+    "source": "macrumors.com",
+    "date": "2026-08-10T12:52:01Z",
+    "timestamp": 1786366321,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Banking AI XSS: The exploit is in the payment reference",
+    "url": "https://positive.security/blog/banking-ai-xss",
+    "discussion_url": "https://news.ycombinator.com/item?id=49242966",
+    "source": "positive.security",
+    "date": "2026-08-10T12:51:14Z",
+    "timestamp": 1786366274,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+    "url": "https://bobdahacker.com/blog/tldv-hack",
+    "discussion_url": "https://news.ycombinator.com/item?id=49242739",
+    "source": "bobdahacker.com",
+    "date": "2026-08-10T12:26:05Z",
+    "timestamp": 1786364765,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Farmer kills 25 acres of crops after following AI weed and pest control advice",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-farmer-kills-25-acres-of-crops-after-following-ai-generated-weed-and-pest-control-advice-farmer-trusted-pesticide-recipe-after-months-of-successful-advice",
+    "discussion_url": "https://news.ycombinator.com/item?id=49242721",
+    "source": "tomshardware.com",
+    "date": "2026-08-10T12:24:28Z",
+    "timestamp": 1786364668,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI Slop Backlash Is Having an Impact",
+    "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49242714",
+    "source": "wired.com",
+    "date": "2026-08-10T12:24:18Z",
+    "timestamp": 1786364658,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Coding and Its Discontents",
+    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49242660",
+    "source": "calnewport.com",
+    "date": "2026-08-10T12:17:26Z",
+    "timestamp": 1786364246,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI coding got faster. Why didn't engineering?",
+    "url": "https://thenewstack.io/ai-productivity-measurement-gap/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49242523",
+    "source": "thenewstack.io",
+    "date": "2026-08-10T11:58:48Z",
+    "timestamp": 1786363128,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)",
+    "url": "https://www.mikeayles.com/blog/on-chip-llm-kv260/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49242475",
+    "source": "mikeayles.com",
+    "date": "2026-08-10T11:52:07Z",
+    "timestamp": 1786362727,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Beijing is forcing a mass breakup with AI lovers",
+    "url": "https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49242418",
+    "source": "restofworld.org",
+    "date": "2026-08-10T11:46:33Z",
+    "timestamp": 1786362393,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How do you sell a CPU design when the instruction set is free?",
+    "url": "https://www.siliconimist.com/p/credibility-is-the-barrier-to-entry",
+    "discussion_url": "https://news.ycombinator.com/item?id=49242287",
+    "source": "siliconimist.com",
+    "date": "2026-08-10T11:32:55Z",
+    "timestamp": 1786361575,
+    "category": "Computer Architecture"
   },
   {
     "title": "Are AI agents our industry's industrial robots?",
@@ -27,129 +135,12 @@
     "category": "Physical AI"
   },
   {
-    "title": "Diffusion LLMs as Targets and Adversaries: Mechanistic Safety Exploits",
-    "url": "https://arxiv.org/abs/2608.07430",
-    "discussion_url": "https://news.ycombinator.com/item?id=49240309",
-    "source": "arxiv.org",
-    "date": "2026-08-10T07:07:06Z",
-    "timestamp": 1786345626,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-    "url": "https://www.rnz.co.nz/news/world/952663/ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack",
-    "discussion_url": "https://news.ycombinator.com/item?id=49240128",
-    "source": "rnz.co.nz",
-    "date": "2026-08-10T06:46:28Z",
-    "timestamp": 1786344388,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: NexusMem – Local context memory engine for AI coding agents",
-    "url": "https://github.com/yaminbakoh4-dot/NexusMem",
-    "discussion_url": "https://news.ycombinator.com/item?id=49240020",
-    "source": "github.com",
-    "date": "2026-08-10T06:34:23Z",
-    "timestamp": 1786343663,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-    "url": "https://annas-archive.gl/blog/physical-destruction.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49240005",
-    "source": "annas-archive.gl",
-    "date": "2026-08-10T06:33:07Z",
-    "timestamp": 1786343587,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-    "url": "https://www.docker.com/products/docker-sandboxes/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49239751",
-    "source": "docker.com",
-    "date": "2026-08-10T06:02:38Z",
-    "timestamp": 1786341758,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Memcode AI goes open source with Claude Code inspired coding agent",
-    "url": "https://github.com/memcode-ai/memcode",
-    "discussion_url": "https://news.ycombinator.com/item?id=49239401",
-    "source": "github.com",
-    "date": "2026-08-10T05:06:05Z",
-    "timestamp": 1786338365,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Coding Clients Are Reading Each Other's Personal Instructions",
-    "url": "https://runtimewire.com/article/ai-coding-clients-are-reading-each-other-s-personal-instructions",
-    "discussion_url": "https://news.ycombinator.com/item?id=49239299",
-    "source": "runtimewire.com",
-    "date": "2026-08-10T04:48:43Z",
-    "timestamp": 1786337323,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Philippines' big offshoring industry is growing despite AI",
-    "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49239226",
-    "source": "economist.com",
-    "date": "2026-08-10T04:35:24Z",
-    "timestamp": 1786336524,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "As AI grips world, the thrill of collecting vintage computers is growing",
-    "url": "https://apnews.com/article/vintage-computers-silicon-valley-technology-apple-history-43d28a08d77cc477cdcd6951315d2f2d",
-    "discussion_url": "https://news.ycombinator.com/item?id=49239179",
-    "source": "apnews.com",
-    "date": "2026-08-10T04:22:15Z",
-    "timestamp": 1786335735,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "New AI models still reproduce racial and gender stereotypes in medicine",
-    "url": "https://news.flinders.edu.au/blog/2026/08/09/new-ai-models-still-reproduce-racial-and-gender-stereotypes-in-medicine/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49239129",
-    "source": "news.flinders.edu.au",
-    "date": "2026-08-10T04:12:06Z",
-    "timestamp": 1786335126,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A deep dive on humanoid hardware",
-    "url": "https://www.humanityslastmachine.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49238925",
-    "source": "humanityslastmachine.com",
-    "date": "2026-08-10T03:32:53Z",
-    "timestamp": 1786332773,
-    "category": "Physical AI"
-  },
-  {
     "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
     "url": "https://github.com/shinyquagsire23/Klepton",
     "discussion_url": "https://news.ycombinator.com/item?id=49238818",
     "source": "github.com",
     "date": "2026-08-10T03:12:48Z",
     "timestamp": 1786331568,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Taming the Steam ARM64 client on PostmarketOS",
-    "url": "https://blog.drakulix.de/taming-the-steam-arm64-client-on-pmos/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49238637",
-    "source": "blog.drakulix.de",
-    "date": "2026-08-10T02:38:19Z",
-    "timestamp": 1786329499,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Optimizing a GPT-2-Class Transformer on a GPU",
-    "url": "http://martinkristiansen.com/llm-gpu-optimization/index.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49237616",
-    "source": "martinkristiansen.com",
-    "date": "2026-08-10T00:02:42Z",
-    "timestamp": 1786320162,
     "category": "Computer Architecture"
   },
   {
