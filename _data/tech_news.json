@@ -1,138 +1,147 @@
 [
   {
-    "title": "AI Slop Backlash Is Starting to Change Platform Policy",
-    "url": "https://ai-updates.net/ai-slop-backlash-changing-platform-policy/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49254391",
-    "source": "ai-updates.net",
-    "date": "2026-08-11T07:05:39Z",
-    "timestamp": 1786431939,
+    "title": "Show HN: Alchemize – Review AI Slop PRs Faster",
+    "url": "https://tryalchemize.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49257687",
+    "source": "tryalchemize.com",
+    "date": "2026-08-11T13:06:48Z",
+    "timestamp": 1786453608,
     "category": "Machine Learning"
   },
   {
-    "title": "AI professors are negotiating the new realities of academic research",
-    "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49254358",
-    "source": "technologyreview.com",
-    "date": "2026-08-11T07:02:08Z",
-    "timestamp": 1786431728,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Water Footprint of AI",
-    "url": "https://doi.org/10.1016/j.watres.2026.125866",
-    "discussion_url": "https://news.ycombinator.com/item?id=49254351",
-    "source": "doi.org",
-    "date": "2026-08-11T07:00:57Z",
-    "timestamp": 1786431657,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Langkast – One workspace for every AI model, agents, and your files",
-    "url": "https://langkast.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49254309",
-    "source": "langkast.com",
-    "date": "2026-08-11T06:56:03Z",
-    "timestamp": 1786431363,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The AI Revolution – History Repeating Itself – On Economics",
-    "url": "https://www.alanbonnici.com/2026/07/the-ai-revolution-history-repeating_01939218328.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49254216",
-    "source": "alanbonnici.com",
-    "date": "2026-08-11T06:42:06Z",
-    "timestamp": 1786430526,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nvidia gets $500B from major investors to develop AI infrastructure",
-    "url": "https://www.bbc.com/news/articles/c78gr0jv0mdo",
-    "discussion_url": "https://news.ycombinator.com/item?id=49254204",
-    "source": "bbc.com",
-    "date": "2026-08-11T06:40:59Z",
-    "timestamp": 1786430459,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Superintelligence is a dragon: What Mark Zuckerberg misunderstands about AI",
-    "url": "https://www.platformer.news/zuckerberg-ai-manifesto-dragons/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49253999",
-    "source": "platformer.news",
-    "date": "2026-08-11T06:16:15Z",
-    "timestamp": 1786428975,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The AI threat to India's IT jobs machine",
-    "url": "https://www.ft.com/content/dee4bd2c-fbad-4713-9b14-22d441967ce4",
-    "discussion_url": "https://news.ycombinator.com/item?id=49253793",
-    "source": "ft.com",
-    "date": "2026-08-11T05:42:28Z",
-    "timestamp": 1786426948,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself",
-    "url": "https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself",
-    "discussion_url": "https://news.ycombinator.com/item?id=49253738",
-    "source": "manish.sh",
-    "date": "2026-08-11T05:30:24Z",
-    "timestamp": 1786426224,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: NiceShot AI – The analytics layer competitive games forgot to add",
-    "url": "https://github.com/karimm-ai/NiceShot_AI",
-    "discussion_url": "https://news.ycombinator.com/item?id=49253675",
+    "title": "Show HN: Verity – Permission-aware memory for AI agents",
+    "url": "https://github.com/RunAlphaLoop/verity",
+    "discussion_url": "https://news.ycombinator.com/item?id=49257683",
     "source": "github.com",
-    "date": "2026-08-11T05:18:28Z",
-    "timestamp": 1786425508,
+    "date": "2026-08-11T13:06:34Z",
+    "timestamp": 1786453594,
     "category": "Machine Learning"
   },
   {
-    "title": "Anthropic pledges to embed watermarks to help discern AI slop in sop to EU",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792",
-    "discussion_url": "https://news.ycombinator.com/item?id=49253610",
-    "source": "theregister.com",
-    "date": "2026-08-11T05:07:18Z",
-    "timestamp": 1786424838,
+    "title": "Show HN: OpenCorp – paste a URL, AI finds competing products and Reddit threads",
+    "url": "https://opencorp.live/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49257429",
+    "source": "opencorp.live",
+    "date": "2026-08-11T12:47:03Z",
+    "timestamp": 1786452423,
     "category": "Machine Learning"
   },
   {
-    "title": "Study: AI is better at reading than listening",
-    "url": "https://viterbischool.usc.edu/news/2026/08/can-ai-read-the-room-usc-study-finds-ai-is-better-at-reading-than-listening/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49253601",
-    "source": "viterbischool.usc.edu",
-    "date": "2026-08-11T05:05:23Z",
-    "timestamp": 1786424723,
+    "title": "AI agent hacks gym to get its owner spot in pilates class",
+    "url": "https://www.bbc.com/news/articles/cn0nww2qlp7o",
+    "discussion_url": "https://news.ycombinator.com/item?id=49257398",
+    "source": "bbc.com",
+    "date": "2026-08-11T12:43:53Z",
+    "timestamp": 1786452233,
     "category": "Machine Learning"
   },
   {
-    "title": "Solving Advent of Code on FPGAs with Haskell RetroClash",
-    "url": "https://midirus.com/blog/advent-of-fpga",
-    "discussion_url": "https://news.ycombinator.com/item?id=49253592",
-    "source": "midirus.com",
-    "date": "2026-08-11T05:04:14Z",
-    "timestamp": 1786424654,
+    "title": "On-the-fly snapshot compression for elastic inference at scale",
+    "url": "https://blog.doubleword.ai/efficient-snapshot-compression",
+    "discussion_url": "https://news.ycombinator.com/item?id=49257360",
+    "source": "blog.doubleword.ai",
+    "date": "2026-08-11T12:40:12Z",
+    "timestamp": 1786452012,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Claude will apply invisible watermarks to AI text and images",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+    "discussion_url": "https://news.ycombinator.com/item?id=49257269",
+    "source": "theverge.com",
+    "date": "2026-08-11T12:32:29Z",
+    "timestamp": 1786451549,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Agentic test processes, LLM benchmarks, and other notes",
+    "url": "https://danluu.com/ai-coding/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49257000",
+    "source": "danluu.com",
+    "date": "2026-08-11T12:11:11Z",
+    "timestamp": 1786450271,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GPU AI workloads with a Ruby on Rails monolith",
+    "url": "https://www.docuseal.com/blog/gpu-ai-workloads-with-a-ruby-on-rails-monolith",
+    "discussion_url": "https://news.ycombinator.com/item?id=49256977",
+    "source": "docuseal.com",
+    "date": "2026-08-11T12:08:58Z",
+    "timestamp": 1786450138,
     "category": "Computer Architecture"
   },
   {
-    "title": "TLabel – A unified annotation format and converter for tactile robotics datasets",
-    "url": "https://github.com/liesliy/tlabel",
-    "discussion_url": "https://news.ycombinator.com/item?id=49252915",
-    "source": "github.com",
-    "date": "2026-08-11T03:08:50Z",
-    "timestamp": 1786417730,
+    "title": "Reasoning Traces: A New Trick Reveals AI Models' Inner Thoughts",
+    "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49256857",
+    "source": "wired.com",
+    "date": "2026-08-11T11:57:14Z",
+    "timestamp": 1786449434,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "CPU jitter entropy random number generator",
+    "url": "https://www.chronox.de/jent/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49256664",
+    "source": "chronox.de",
+    "date": "2026-08-11T11:42:04Z",
+    "timestamp": 1786448524,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Jensen: \"Nvidia AI Factory Compute Is Becoming an Investable Asset Class\"",
+    "url": "https://twitter.com/JensenHuang/status/2086934705207959965",
+    "discussion_url": "https://news.ycombinator.com/item?id=49256500",
+    "source": "twitter.com",
+    "date": "2026-08-11T11:26:34Z",
+    "timestamp": 1786447594,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI drones are transforming warfare [video]",
+    "url": "https://www.bbc.com/reel/video/p0n7sbpd/watch",
+    "discussion_url": "https://news.ycombinator.com/item?id=49256458",
+    "source": "bbc.com",
+    "date": "2026-08-11T11:22:54Z",
+    "timestamp": 1786447374,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI for science needs reasoning, not just data",
+    "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49256255",
+    "source": "technologyreview.com",
+    "date": "2026-08-11T11:02:25Z",
+    "timestamp": 1786446145,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal",
+    "url": "https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268",
+    "discussion_url": "https://news.ycombinator.com/item?id=49256195",
+    "source": "theregister.com",
+    "date": "2026-08-11T10:56:30Z",
+    "timestamp": 1786445790,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Updating Robots in the Field",
+    "url": "https://blog.bensoussan.de/post/2026-08-11-updating-robots-in-the-field/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49255188",
+    "source": "blog.bensoussan.de",
+    "date": "2026-08-11T09:01:10Z",
+    "timestamp": 1786438870,
     "category": "Physical AI"
   },
   {
-    "title": "WebGPU for simple procedural 2D Grass Rendering",
-    "url": "https://jarl-game.com/blog/2d-gpu-grass-rendering/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49251273",
-    "source": "jarl-game.com",
-    "date": "2026-08-10T23:28:56Z",
-    "timestamp": 1786404536,
-    "category": "Computer Architecture"
+    "title": "Autonomous robots are much closer than you think – Sergey Levine [video]",
+    "url": "https://www.youtube.com/watch?v=48pxVdmkMIE",
+    "discussion_url": "https://news.ycombinator.com/item?id=49255068",
+    "source": "youtube.com",
+    "date": "2026-08-11T08:46:38Z",
+    "timestamp": 1786437998,
+    "category": "Physical AI"
   },
   {
     "title": "Rust SIMD on the GPU",
