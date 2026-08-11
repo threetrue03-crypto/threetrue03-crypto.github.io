@@ -1,7 +1,7 @@
 ---
 layout: post
 type: note
-title: "I2C Class"
+title: "Inter-Integrated Circuit Class"
 description: "I2C Class의 파라미터와 메서드에 대해서 자세히 정리하였다."
 date: 2026-07-22
 category: AI-mobility
