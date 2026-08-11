@@ -1,57 +1,129 @@
 [
   {
-    "title": "Antirez/h3.c: MiniMax H3 inference engine for Mac computers",
-    "url": "https://github.com/antirez/h3.c",
-    "discussion_url": "https://news.ycombinator.com/item?id=49252179",
+    "title": "AI Slop Backlash Is Starting to Change Platform Policy",
+    "url": "https://ai-updates.net/ai-slop-backlash-changing-platform-policy/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49254391",
+    "source": "ai-updates.net",
+    "date": "2026-08-11T07:05:39Z",
+    "timestamp": 1786431939,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI professors are negotiating the new realities of academic research",
+    "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49254358",
+    "source": "technologyreview.com",
+    "date": "2026-08-11T07:02:08Z",
+    "timestamp": 1786431728,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Water Footprint of AI",
+    "url": "https://doi.org/10.1016/j.watres.2026.125866",
+    "discussion_url": "https://news.ycombinator.com/item?id=49254351",
+    "source": "doi.org",
+    "date": "2026-08-11T07:00:57Z",
+    "timestamp": 1786431657,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Langkast – One workspace for every AI model, agents, and your files",
+    "url": "https://langkast.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49254309",
+    "source": "langkast.com",
+    "date": "2026-08-11T06:56:03Z",
+    "timestamp": 1786431363,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI Revolution – History Repeating Itself – On Economics",
+    "url": "https://www.alanbonnici.com/2026/07/the-ai-revolution-history-repeating_01939218328.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49254216",
+    "source": "alanbonnici.com",
+    "date": "2026-08-11T06:42:06Z",
+    "timestamp": 1786430526,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nvidia gets $500B from major investors to develop AI infrastructure",
+    "url": "https://www.bbc.com/news/articles/c78gr0jv0mdo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49254204",
+    "source": "bbc.com",
+    "date": "2026-08-11T06:40:59Z",
+    "timestamp": 1786430459,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Superintelligence is a dragon: What Mark Zuckerberg misunderstands about AI",
+    "url": "https://www.platformer.news/zuckerberg-ai-manifesto-dragons/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49253999",
+    "source": "platformer.news",
+    "date": "2026-08-11T06:16:15Z",
+    "timestamp": 1786428975,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI threat to India's IT jobs machine",
+    "url": "https://www.ft.com/content/dee4bd2c-fbad-4713-9b14-22d441967ce4",
+    "discussion_url": "https://news.ycombinator.com/item?id=49253793",
+    "source": "ft.com",
+    "date": "2026-08-11T05:42:28Z",
+    "timestamp": 1786426948,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself",
+    "url": "https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself",
+    "discussion_url": "https://news.ycombinator.com/item?id=49253738",
+    "source": "manish.sh",
+    "date": "2026-08-11T05:30:24Z",
+    "timestamp": 1786426224,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: NiceShot AI – The analytics layer competitive games forgot to add",
+    "url": "https://github.com/karimm-ai/NiceShot_AI",
+    "discussion_url": "https://news.ycombinator.com/item?id=49253675",
     "source": "github.com",
-    "date": "2026-08-11T01:22:09Z",
-    "timestamp": 1786411329,
+    "date": "2026-08-11T05:18:28Z",
+    "timestamp": 1786425508,
     "category": "Machine Learning"
   },
   {
-    "title": "Google's AI Team Tells Job Seekers Its HR Filters Are Unreliable",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-10/google-s-ai-team-tells-job-seekers-its-hr-filters-are-unreliable",
-    "discussion_url": "https://news.ycombinator.com/item?id=49252111",
-    "source": "bloomberg.com",
-    "date": "2026-08-11T01:14:41Z",
-    "timestamp": 1786410881,
+    "title": "Anthropic pledges to embed watermarks to help discern AI slop in sop to EU",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792",
+    "discussion_url": "https://news.ycombinator.com/item?id=49253610",
+    "source": "theregister.com",
+    "date": "2026-08-11T05:07:18Z",
+    "timestamp": 1786424838,
     "category": "Machine Learning"
   },
   {
-    "title": "AI Coding and Its Discontents",
-    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49251757",
-    "source": "calnewport.com",
-    "date": "2026-08-11T00:33:09Z",
-    "timestamp": 1786408389,
+    "title": "Study: AI is better at reading than listening",
+    "url": "https://viterbischool.usc.edu/news/2026/08/can-ai-read-the-room-usc-study-finds-ai-is-better-at-reading-than-listening/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49253601",
+    "source": "viterbischool.usc.edu",
+    "date": "2026-08-11T05:05:23Z",
+    "timestamp": 1786424723,
     "category": "Machine Learning"
   },
   {
-    "title": "Training AI to Govern for Us",
-    "url": "https://freesystems.substack.com/p/training-ai-to-govern-for-us",
-    "discussion_url": "https://news.ycombinator.com/item?id=49251649",
-    "source": "freesystems.substack.com",
-    "date": "2026-08-11T00:16:59Z",
-    "timestamp": 1786407419,
-    "category": "Machine Learning"
+    "title": "Solving Advent of Code on FPGAs with Haskell RetroClash",
+    "url": "https://midirus.com/blog/advent-of-fpga",
+    "discussion_url": "https://news.ycombinator.com/item?id=49253592",
+    "source": "midirus.com",
+    "date": "2026-08-11T05:04:14Z",
+    "timestamp": 1786424654,
+    "category": "Computer Architecture"
   },
   {
-    "title": "The AI Slop Backlash Is Having an Impact",
-    "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49251601",
-    "source": "wired.com",
-    "date": "2026-08-11T00:10:08Z",
-    "timestamp": 1786407008,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "People don't hate AI because of Zuck. They hate the version TechCrunch sells",
-    "url": "https://runtimewire.com/article/people-don-t-hate-ai-because-of-zuckerberg-they-hate-the-version-techcrunch-sell",
-    "discussion_url": "https://news.ycombinator.com/item?id=49251375",
-    "source": "runtimewire.com",
-    "date": "2026-08-10T23:39:53Z",
-    "timestamp": 1786405193,
-    "category": "Machine Learning"
+    "title": "TLabel – A unified annotation format and converter for tactile robotics datasets",
+    "url": "https://github.com/liesliy/tlabel",
+    "discussion_url": "https://news.ycombinator.com/item?id=49252915",
+    "source": "github.com",
+    "date": "2026-08-11T03:08:50Z",
+    "timestamp": 1786417730,
+    "category": "Physical AI"
   },
   {
     "title": "WebGPU for simple procedural 2D Grass Rendering",
@@ -60,96 +132,6 @@
     "source": "jarl-game.com",
     "date": "2026-08-10T23:28:56Z",
     "timestamp": 1786404536,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Text AI watermarks will always be trivial to remove",
-    "url": "https://www.seangoedecke.com/text-ai-watermarks/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49251153",
-    "source": "seangoedecke.com",
-    "date": "2026-08-10T23:12:00Z",
-    "timestamp": 1786403520,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A Watermark for Large Language Models",
-    "url": "https://arxiv.org/abs/2301.10226",
-    "discussion_url": "https://news.ycombinator.com/item?id=49250961",
-    "source": "arxiv.org",
-    "date": "2026-08-10T22:48:28Z",
-    "timestamp": 1786402108,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Catholic expert: \"Security issues show AI needs greater human oversight\"",
-    "url": "https://www.detroitcatholic.com/news/security-issues-show-ai-needs-greater-human-oversight-say-catholic-experts",
-    "discussion_url": "https://news.ycombinator.com/item?id=49250691",
-    "source": "detroitcatholic.com",
-    "date": "2026-08-10T22:24:18Z",
-    "timestamp": 1786400658,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nvidia AI Factory Compute Is Becoming an Investable Asset Class",
-    "url": "https://twitter.com/JensenHuang/status/2086934705207959965",
-    "discussion_url": "https://news.ycombinator.com/item?id=49250636",
-    "source": "twitter.com",
-    "date": "2026-08-10T22:20:21Z",
-    "timestamp": 1786400421,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Wall Street giants partner with Nvidia on $500B AI financing deal",
-    "url": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348",
-    "discussion_url": "https://news.ycombinator.com/item?id=49250558",
-    "source": "ft.com",
-    "date": "2026-08-10T22:14:44Z",
-    "timestamp": 1786400084,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
-    "url": "https://github.com/leog/ai-pulse",
-    "discussion_url": "https://news.ycombinator.com/item?id=49250486",
-    "source": "github.com",
-    "date": "2026-08-10T22:07:41Z",
-    "timestamp": 1786399661,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Comu – $6 RISC-V board that fits inside a USB port",
-    "url": "https://www.cnx-software.com/2026/08/10/comu-6-tiny-ch32v203-risc-v-development-board-that-fits-inside-a-usb-port/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49249214",
-    "source": "cnx-software.com",
-    "date": "2026-08-10T20:25:59Z",
-    "timestamp": 1786393559,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "How Do Transistors Build into a CPU? How Do Transistors Work? [video]",
-    "url": "https://www.youtube.com/watch?v=_Pqfjer8-O4",
-    "discussion_url": "https://news.ycombinator.com/item?id=49249082",
-    "source": "youtube.com",
-    "date": "2026-08-10T20:14:26Z",
-    "timestamp": 1786392866,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: GPU Hour – Live cloud GPU price comparison",
-    "url": "https://gpuhour.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49249008",
-    "source": "gpuhour.com",
-    "date": "2026-08-10T20:08:46Z",
-    "timestamp": 1786392526,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Optimizing an NVFP4 Blockscaled GEMM on RTX Pro 6000 Blackwell GPU (SM120)",
-    "url": "https://research.colfax-intl.com/optimizing-an-nvfp4-blockscaled-gemm-on-rtx-pro-6000-blackwell-gpu-sm120/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49248291",
-    "source": "research.colfax-intl.com",
-    "date": "2026-08-10T19:11:55Z",
-    "timestamp": 1786389115,
     "category": "Computer Architecture"
   },
   {
@@ -189,15 +171,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "How do you sell a CPU design when the instruction set is free?",
-    "url": "https://www.siliconimist.com/p/credibility-is-the-barrier-to-entry",
-    "discussion_url": "https://news.ycombinator.com/item?id=49242287",
-    "source": "siliconimist.com",
-    "date": "2026-08-10T11:32:55Z",
-    "timestamp": 1786361575,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
     "url": "https://github.com/shinyquagsire23/Klepton",
     "discussion_url": "https://news.ycombinator.com/item?id=49238818",
@@ -213,6 +186,15 @@
     "source": "github.com",
     "date": "2026-08-09T12:43:16Z",
     "timestamp": 1786279396,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
+    "url": "https://halfhill.com/byte/1998-12_alpha.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49230022",
+    "source": "halfhill.com",
+    "date": "2026-08-09T10:06:37Z",
+    "timestamp": 1786269997,
     "category": "Computer Architecture"
   }
 ]
