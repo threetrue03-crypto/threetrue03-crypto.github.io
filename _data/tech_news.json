@@ -1,56 +1,119 @@
 [
   {
-    "title": "Ask HN: Could DNA be represented as \"an embedding\" in an AI model?",
-    "url": "https://news.ycombinator.com/item?id=49267234",
-    "discussion_url": "https://news.ycombinator.com/item?id=49267234",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-12T02:38:18Z",
-    "timestamp": 1786502298,
+    "title": "Building an AI music tool taught me the model wasn't the hard part",
+    "url": "https://www.musegen.ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49268893",
+    "source": "musegen.ai",
+    "date": "2026-08-12T07:21:04Z",
+    "timestamp": 1786519264,
     "category": "Machine Learning"
   },
   {
-    "title": "What happens when the AI bubble pops?",
-    "url": "https://thehustle.co/originals/what-happens-when-the-ai-bubble-pops",
-    "discussion_url": "https://news.ycombinator.com/item?id=49267179",
-    "source": "thehustle.co",
-    "date": "2026-08-12T02:27:35Z",
-    "timestamp": 1786501655,
+    "title": "Show HN: Execution Intelligence AI Accelerator",
+    "url": "https://geekyants.com/ai-accelerator/execution-intelligence-ai-signal-bot",
+    "discussion_url": "https://news.ycombinator.com/item?id=49268753",
+    "source": "geekyants.com",
+    "date": "2026-08-12T07:01:50Z",
+    "timestamp": 1786518110,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "AI agent hacks gym to get its user a spot in pilates class",
+    "url": "https://www.bbc.com/news/articles/cn0nww2qlp7o",
+    "discussion_url": "https://news.ycombinator.com/item?id=49268697",
+    "source": "bbc.com",
+    "date": "2026-08-12T06:53:17Z",
+    "timestamp": 1786517597,
     "category": "Machine Learning"
   },
   {
-    "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-    "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49267057",
-    "source": "404media.co",
-    "date": "2026-08-12T02:05:42Z",
-    "timestamp": 1786500342,
+    "title": "Swiss public broadcaster to block AI scrapers – except Swiss model Apertus",
+    "url": "https://www.nzz.ch/feuilleton/wir-muessen-uns-verteidigen-warum-susanne-wille-sich-gerade-mit-der-eth-verbuendet-ld.10018097",
+    "discussion_url": "https://news.ycombinator.com/item?id=49268549",
+    "source": "nzz.ch",
+    "date": "2026-08-12T06:28:59Z",
+    "timestamp": 1786516139,
     "category": "Machine Learning"
   },
   {
-    "title": "4Chan Chuds Used AI to Clothe Her. She Fought Back (2024)",
-    "url": "https://www.rollingstone.com/culture/culture-news/dignifai-4chan-shame-women-1234961851/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49267010",
-    "source": "rollingstone.com",
-    "date": "2026-08-12T01:57:47Z",
-    "timestamp": 1786499867,
+    "title": "We improved 15 LLMs at coding in one afternoon. Only the harness changed",
+    "url": "https://stencil.so/blog/the-harness-problem",
+    "discussion_url": "https://news.ycombinator.com/item?id=49268543",
+    "source": "stencil.so",
+    "date": "2026-08-12T06:28:12Z",
+    "timestamp": 1786516092,
     "category": "Machine Learning"
   },
   {
-    "title": "Advanced AI Sycophancy",
-    "url": "https://www.seangoedecke.com/advanced-ai-sycophancy/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49266865",
-    "source": "seangoedecke.com",
-    "date": "2026-08-12T01:38:06Z",
-    "timestamp": 1786498686,
+    "title": "China bans AI companions, forcing millions to break up with virtual partners",
+    "url": "https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-intelligence-companions/106925352",
+    "discussion_url": "https://news.ycombinator.com/item?id=49268498",
+    "source": "abc.net.au",
+    "date": "2026-08-12T06:21:59Z",
+    "timestamp": 1786515719,
     "category": "Machine Learning"
   },
   {
-    "title": "Fastest Inference Meta Muse Glimmer 30B on Apple",
-    "url": "https://www.basecompute.co/getbasert",
-    "discussion_url": "https://news.ycombinator.com/item?id=49266701",
-    "source": "basecompute.co",
-    "date": "2026-08-12T01:13:47Z",
-    "timestamp": 1786497227,
+    "title": "Nvidia AI Factory Compute Is Becoming an Investable Asset Class",
+    "url": "https://twitter.com/jensenhuang/status/2086934705207959965",
+    "discussion_url": "https://news.ycombinator.com/item?id=49268358",
+    "source": "twitter.com",
+    "date": "2026-08-12T05:59:57Z",
+    "timestamp": 1786514397,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
+    "url": "https://www.coinbase.com/en-gb/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
+    "discussion_url": "https://news.ycombinator.com/item?id=49268306",
+    "source": "coinbase.com",
+    "date": "2026-08-12T05:54:18Z",
+    "timestamp": 1786514058,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I'm Done Using AI",
+    "url": "https://brettcodes.com/im-done-using-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49268214",
+    "source": "brettcodes.com",
+    "date": "2026-08-12T05:42:42Z",
+    "timestamp": 1786513362,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Pragma – Stop copying context between AI agents",
+    "url": "https://github.com/pqpo/pragma",
+    "discussion_url": "https://news.ycombinator.com/item?id=49268135",
+    "source": "github.com",
+    "date": "2026-08-12T05:30:12Z",
+    "timestamp": 1786512612,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Move 37 Is the Moment AI Changes Everything. It's Suddenly Happening Everywhere",
+    "url": "https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41",
+    "discussion_url": "https://news.ycombinator.com/item?id=49267397",
+    "source": "wsj.com",
+    "date": "2026-08-12T03:05:07Z",
+    "timestamp": 1786503907,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Crew, a multiplayer workspace for humans and AI agents to work together",
+    "url": "https://github.com/JamelHammoud/crew",
+    "discussion_url": "https://news.ycombinator.com/item?id=49267362",
+    "source": "github.com",
+    "date": "2026-08-12T03:00:03Z",
+    "timestamp": 1786503603,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The 7T AI Gamble Is Failing. Big Tech Is Trapped",
+    "url": "https://www.youtube.com/watch?v=OunJtLnyPT4",
+    "discussion_url": "https://news.ycombinator.com/item?id=49267346",
+    "source": "youtube.com",
+    "date": "2026-08-12T02:57:11Z",
+    "timestamp": 1786503431,
     "category": "Machine Learning"
   },
   {
@@ -60,87 +123,6 @@
     "source": "huggingface.co",
     "date": "2026-08-12T01:04:58Z",
     "timestamp": 1786496698,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "A Watermark for Large Language Models",
-    "url": "https://arxiv.org/abs/2301.10226",
-    "discussion_url": "https://news.ycombinator.com/item?id=49266321",
-    "source": "arxiv.org",
-    "date": "2026-08-12T00:24:39Z",
-    "timestamp": 1786494279,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Diabetes charity capitalises on AI technology",
-    "url": "https://www.royalgazette.com/health/news/article/20260811/diabetes-charity-capitalises-on-ai-technology/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49266279",
-    "source": "royalgazette.com",
-    "date": "2026-08-12T00:19:06Z",
-    "timestamp": 1786493946,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Open AI models hacked into HuggingFace",
-    "url": "https://www.instagram.com/p/DbGS8_0FmKx/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49266096",
-    "source": "instagram.com",
-    "date": "2026-08-11T23:54:07Z",
-    "timestamp": 1786492447,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Is Dead. Organoids Are Alive",
-    "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49266068",
-    "source": "wired.com",
-    "date": "2026-08-11T23:51:29Z",
-    "timestamp": 1786492289,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Watching Roku's AI channel is like eating from a trough",
-    "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-    "discussion_url": "https://news.ycombinator.com/item?id=49265934",
-    "source": "theverge.com",
-    "date": "2026-08-11T23:34:11Z",
-    "timestamp": 1786491251,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "LLM Model-Swapping Trick Can Expose AI Reasoning Traces",
-    "url": "https://ai-updates.net/model-swapping-exposes-ai-reasoning-traces/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49265641",
-    "source": "ai-updates.net",
-    "date": "2026-08-11T22:57:53Z",
-    "timestamp": 1786489073,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Procedural Pixel-Art Grass in Rust and WebGPU",
-    "url": "https://jarl-game.com/blog/2d-gpu-grass-rendering/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49264036",
-    "source": "jarl-game.com",
-    "date": "2026-08-11T20:31:16Z",
-    "timestamp": 1786480276,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Misaligned AIs could use killer robots to take over",
-    "url": "https://www.lesswrong.com/posts/9jKhqmFjMzdAvHANr/misaligned-ais-could-use-killer-robots-to-take-over",
-    "discussion_url": "https://news.ycombinator.com/item?id=49263437",
-    "source": "lesswrong.com",
-    "date": "2026-08-11T19:44:19Z",
-    "timestamp": 1786477459,
-    "category": "Physical AI"
-  },
-  {
-    "title": "What Irregularity Costs: CUDA C++, Rust, and Triton",
-    "url": "https://arxiv.org/abs/2608.08287",
-    "discussion_url": "https://news.ycombinator.com/item?id=49263176",
-    "source": "arxiv.org",
-    "date": "2026-08-11T19:23:03Z",
-    "timestamp": 1786476183,
     "category": "Computer Architecture"
   },
   {
@@ -168,15 +150,6 @@
     "source": "stoaexchange.com",
     "date": "2026-08-10T16:35:27Z",
     "timestamp": 1786379727,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)",
-    "url": "https://www.mikeayles.com/blog/on-chip-llm-kv260/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49242475",
-    "source": "mikeayles.com",
-    "date": "2026-08-10T11:52:07Z",
-    "timestamp": 1786362727,
     "category": "Computer Architecture"
   },
   {
