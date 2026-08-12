@@ -1,111 +1,147 @@
 [
   {
-    "title": "Show HN: Webstractor – Pay-as-You-Go Web Data API for AI Agents",
-    "url": "https://webstractor.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49263068",
-    "source": "webstractor.com",
-    "date": "2026-08-11T19:15:24Z",
-    "timestamp": 1786475724,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The whole of PyTorch on one page",
-    "url": "https://tensor.khalilli.ai/blog/part-0-the-map/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49262961",
-    "source": "tensor.khalilli.ai",
-    "date": "2026-08-11T19:05:10Z",
-    "timestamp": 1786475110,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: HeyDeacon, AI customer support agent for SaaS founders",
-    "url": "https://heydeacon.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49262666",
-    "source": "heydeacon.com",
-    "date": "2026-08-11T18:41:37Z",
-    "timestamp": 1786473697,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI generated profile not allowed on X",
-    "url": "https://help.x.com/en/rules-and-policies/authenticity",
-    "discussion_url": "https://news.ycombinator.com/item?id=49262627",
-    "source": "help.x.com",
-    "date": "2026-08-11T18:39:00Z",
-    "timestamp": 1786473540,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Understanding an AI agent's memory through Harry Potter",
-    "url": "https://squidler.io/blog/agent-memory-harry-potter",
-    "discussion_url": "https://news.ycombinator.com/item?id=49262385",
-    "source": "squidler.io",
-    "date": "2026-08-11T18:22:26Z",
-    "timestamp": 1786472546,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: HyperSAE – Hyperbolic Sparse Autoencoders for LLM Interpretability",
-    "url": "https://github.com/vishal-dehurdle/hypersae",
-    "discussion_url": "https://news.ycombinator.com/item?id=49262340",
-    "source": "github.com",
-    "date": "2026-08-11T18:19:02Z",
-    "timestamp": 1786472342,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: How do you keep 54 LLM workflows on the right models?",
-    "url": "https://news.ycombinator.com/item?id=49262312",
-    "discussion_url": "https://news.ycombinator.com/item?id=49262312",
+    "title": "Ask HN: Could DNA be represented as \"an embedding\" in an AI model?",
+    "url": "https://news.ycombinator.com/item?id=49267234",
+    "discussion_url": "https://news.ycombinator.com/item?id=49267234",
     "source": "news.ycombinator.com",
-    "date": "2026-08-11T18:17:16Z",
-    "timestamp": 1786472236,
+    "date": "2026-08-12T02:38:18Z",
+    "timestamp": 1786502298,
     "category": "Machine Learning"
   },
   {
-    "title": "Imprint – Fine-tune MoE LLMs bigger than your RAM",
-    "url": "https://github.com/sigma0101111/imprint",
-    "discussion_url": "https://news.ycombinator.com/item?id=49262236",
-    "source": "github.com",
-    "date": "2026-08-11T18:11:52Z",
-    "timestamp": 1786471912,
+    "title": "What happens when the AI bubble pops?",
+    "url": "https://thehustle.co/originals/what-happens-when-the-ai-bubble-pops",
+    "discussion_url": "https://news.ycombinator.com/item?id=49267179",
+    "source": "thehustle.co",
+    "date": "2026-08-12T02:27:35Z",
+    "timestamp": 1786501655,
     "category": "Machine Learning"
   },
   {
-    "title": "Nvidia building 1T-parameter Nemotron 4 to rival open AI models",
-    "url": "https://www.reuters.com/business/nvidia-is-developing-nemotron-4-open-source-models-information-reports-2026-08-11",
-    "discussion_url": "https://news.ycombinator.com/item?id=49262206",
-    "source": "reuters.com",
-    "date": "2026-08-11T18:09:46Z",
-    "timestamp": 1786471786,
+    "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+    "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49267057",
+    "source": "404media.co",
+    "date": "2026-08-12T02:05:42Z",
+    "timestamp": 1786500342,
     "category": "Machine Learning"
   },
   {
-    "title": "Hetzner: Open Weights Inference API",
-    "url": "https://docs.hetzner.com/general/company-and-policy/experiments/experiments-platform/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49262090",
-    "source": "docs.hetzner.com",
-    "date": "2026-08-11T18:02:08Z",
-    "timestamp": 1786471328,
+    "title": "4Chan Chuds Used AI to Clothe Her. She Fought Back (2024)",
+    "url": "https://www.rollingstone.com/culture/culture-news/dignifai-4chan-shame-women-1234961851/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49267010",
+    "source": "rollingstone.com",
+    "date": "2026-08-12T01:57:47Z",
+    "timestamp": 1786499867,
     "category": "Machine Learning"
   },
   {
-    "title": "AI spend observability down to individual User ID's and routes",
-    "url": "https://kalaa.cc/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49261909",
-    "source": "kalaa.cc",
-    "date": "2026-08-11T17:50:42Z",
-    "timestamp": 1786470642,
+    "title": "Advanced AI Sycophancy",
+    "url": "https://www.seangoedecke.com/advanced-ai-sycophancy/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49266865",
+    "source": "seangoedecke.com",
+    "date": "2026-08-12T01:38:06Z",
+    "timestamp": 1786498686,
     "category": "Machine Learning"
   },
   {
-    "title": "China warns of \"security backdoor\" in Anthropic AI coding tool [July 8, 2026]",
-    "url": "https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49261800",
-    "source": "cbsnews.com",
-    "date": "2026-08-11T17:43:55Z",
-    "timestamp": 1786470235,
+    "title": "Fastest Inference Meta Muse Glimmer 30B on Apple",
+    "url": "https://www.basecompute.co/getbasert",
+    "discussion_url": "https://news.ycombinator.com/item?id=49266701",
+    "source": "basecompute.co",
+    "date": "2026-08-12T01:13:47Z",
+    "timestamp": 1786497227,
     "category": "Machine Learning"
+  },
+  {
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "discussion_url": "https://news.ycombinator.com/item?id=49266623",
+    "source": "huggingface.co",
+    "date": "2026-08-12T01:04:58Z",
+    "timestamp": 1786496698,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "A Watermark for Large Language Models",
+    "url": "https://arxiv.org/abs/2301.10226",
+    "discussion_url": "https://news.ycombinator.com/item?id=49266321",
+    "source": "arxiv.org",
+    "date": "2026-08-12T00:24:39Z",
+    "timestamp": 1786494279,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Diabetes charity capitalises on AI technology",
+    "url": "https://www.royalgazette.com/health/news/article/20260811/diabetes-charity-capitalises-on-ai-technology/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49266279",
+    "source": "royalgazette.com",
+    "date": "2026-08-12T00:19:06Z",
+    "timestamp": 1786493946,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Open AI models hacked into HuggingFace",
+    "url": "https://www.instagram.com/p/DbGS8_0FmKx/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49266096",
+    "source": "instagram.com",
+    "date": "2026-08-11T23:54:07Z",
+    "timestamp": 1786492447,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Is Dead. Organoids Are Alive",
+    "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49266068",
+    "source": "wired.com",
+    "date": "2026-08-11T23:51:29Z",
+    "timestamp": 1786492289,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Watching Roku's AI channel is like eating from a trough",
+    "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+    "discussion_url": "https://news.ycombinator.com/item?id=49265934",
+    "source": "theverge.com",
+    "date": "2026-08-11T23:34:11Z",
+    "timestamp": 1786491251,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLM Model-Swapping Trick Can Expose AI Reasoning Traces",
+    "url": "https://ai-updates.net/model-swapping-exposes-ai-reasoning-traces/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49265641",
+    "source": "ai-updates.net",
+    "date": "2026-08-11T22:57:53Z",
+    "timestamp": 1786489073,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Procedural Pixel-Art Grass in Rust and WebGPU",
+    "url": "https://jarl-game.com/blog/2d-gpu-grass-rendering/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49264036",
+    "source": "jarl-game.com",
+    "date": "2026-08-11T20:31:16Z",
+    "timestamp": 1786480276,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Misaligned AIs could use killer robots to take over",
+    "url": "https://www.lesswrong.com/posts/9jKhqmFjMzdAvHANr/misaligned-ais-could-use-killer-robots-to-take-over",
+    "discussion_url": "https://news.ycombinator.com/item?id=49263437",
+    "source": "lesswrong.com",
+    "date": "2026-08-11T19:44:19Z",
+    "timestamp": 1786477459,
+    "category": "Physical AI"
+  },
+  {
+    "title": "What Irregularity Costs: CUDA C++, Rust, and Triton",
+    "url": "https://arxiv.org/abs/2608.08287",
+    "discussion_url": "https://news.ycombinator.com/item?id=49263176",
+    "source": "arxiv.org",
+    "date": "2026-08-11T19:23:03Z",
+    "timestamp": 1786476183,
+    "category": "Computer Architecture"
   },
   {
     "title": "Rust SIMD on the GPU",
@@ -150,24 +186,6 @@
     "source": "github.com",
     "date": "2026-08-10T03:12:48Z",
     "timestamp": 1786331568,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
-    "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
-    "discussion_url": "https://news.ycombinator.com/item?id=49230891",
-    "source": "github.com",
-    "date": "2026-08-09T12:43:16Z",
-    "timestamp": 1786279396,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
-    "url": "https://halfhill.com/byte/1998-12_alpha.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49230022",
-    "source": "halfhill.com",
-    "date": "2026-08-09T10:06:37Z",
-    "timestamp": 1786269997,
     "category": "Computer Architecture"
   }
 ]
