@@ -1,146 +1,173 @@
 [
   {
-    "title": "Proactive AI Will Automate Organizations",
-    "url": "https://maximilianmews.com/proactive-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49285729",
-    "source": "maximilianmews.com",
-    "date": "2026-08-13T13:36:48Z",
-    "timestamp": 1786628208,
+    "title": "Ask HN: How much money do you spend monthly on subscriptions for AI models?",
+    "url": "https://news.ycombinator.com/item?id=49290713",
+    "discussion_url": "https://news.ycombinator.com/item?id=49290713",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-13T19:21:36Z",
+    "timestamp": 1786648896,
     "category": "Machine Learning"
   },
   {
-    "title": "AI for Decision Makers",
-    "url": "https://berthub.eu/articles/posts/ai-for-decision-makers/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49285574",
-    "source": "berthub.eu",
-    "date": "2026-08-13T13:26:43Z",
-    "timestamp": 1786627603,
+    "title": "Jeff Dean: The 1% Rule for Building in AI [video]",
+    "url": "https://www.youtube.com/watch?v=CxXgV54KzpQ",
+    "discussion_url": "https://news.ycombinator.com/item?id=49290693",
+    "source": "youtube.com",
+    "date": "2026-08-13T19:20:09Z",
+    "timestamp": 1786648809,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Diffusion PDF – A Diffusion Image Model Embedded Entirely in a PDF File",
-    "url": "https://diffusion.alexvd.dev/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49285429",
-    "source": "diffusion.alexvd.dev",
-    "date": "2026-08-13T13:15:12Z",
-    "timestamp": 1786626912,
+    "title": "Intelligence CIOs Warn AI Agents Could Accelerate Cyberattacks",
+    "url": "https://govciomedia.com/intelligence-cios-warn-ai-agents-could-accelerate-cyberattacks/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49290621",
+    "source": "govciomedia.com",
+    "date": "2026-08-13T19:14:26Z",
+    "timestamp": 1786648466,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
+    "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49290521",
+    "source": "404media.co",
+    "date": "2026-08-13T19:04:52Z",
+    "timestamp": 1786647892,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nine AI demo-agent landing pages: a 30-point conversion benchmark",
+    "url": "https://w24bd0kvaqatl5q4d67cvoiga5ccskw9.pastehtml.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49290485",
+    "source": "w24bd0kvaqatl5q4d67cvoiga5ccskw9.pastehtml.dev",
+    "date": "2026-08-13T19:01:53Z",
+    "timestamp": 1786647713,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I wrote an AI textbook – how long until AI can do it better?",
+    "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+    "discussion_url": "https://news.ycombinator.com/item?id=49290447",
+    "source": "interconnects.ai",
+    "date": "2026-08-13T18:58:23Z",
+    "timestamp": 1786647503,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The web's newest weapon against AI scrapers is a font",
+    "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49290294",
+    "source": "arstechnica.com",
+    "date": "2026-08-13T18:46:44Z",
+    "timestamp": 1786646804,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Is Threatening Natural Resources for Billions",
+    "url": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49290062",
+    "source": "unric.org",
+    "date": "2026-08-13T18:28:20Z",
+    "timestamp": 1786645700,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "We spent ten years burying the 10x engineer myth. AI is digging it back up",
+    "url": "https://maxence.maireaux.fr/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49289376",
+    "source": "maxence.maireaux.fr",
+    "date": "2026-08-13T17:40:15Z",
+    "timestamp": 1786642815,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: What's slop? what's AI written text and why read/not read?",
+    "url": "https://news.ycombinator.com/item?id=49289341",
+    "discussion_url": "https://news.ycombinator.com/item?id=49289341",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-13T17:37:33Z",
+    "timestamp": 1786642653,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Siamese Neural Network",
+    "url": "https://en.wikipedia.org/wiki/Siamese_neural_network",
+    "discussion_url": "https://news.ycombinator.com/item?id=49289221",
+    "source": "en.wikipedia.org",
+    "date": "2026-08-13T17:29:53Z",
+    "timestamp": 1786642193,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Review That Praised the Bug: grading three LLM code reviews against the code",
+    "url": "https://mrjstickel.com/projects/review-scorecard",
+    "discussion_url": "https://news.ycombinator.com/item?id=49289220",
+    "source": "mrjstickel.com",
+    "date": "2026-08-13T17:29:52Z",
+    "timestamp": 1786642192,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Chicago Mercantile Exchange will list futures contracts for GPU costs",
+    "url": "https://www.cmegroup.com/media-room/press-releases/2026/8/11/cme_group_and_silicondatatolaunchcomputefuturesonoctober5tounloc.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49288778",
+    "source": "cmegroup.com",
+    "date": "2026-08-13T16:56:33Z",
+    "timestamp": 1786640193,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "A Swarm of Blood Robots",
+    "url": "https://craigmod.com/essays/robot_blood/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49288243",
+    "source": "craigmod.com",
+    "date": "2026-08-13T16:19:11Z",
+    "timestamp": 1786637951,
+    "category": "Physical AI"
+  },
+  {
+    "title": "OpenCV AI Competition 2026",
+    "url": "https://opencv.org/opencv-ai-competition-2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49288138",
+    "source": "opencv.org",
+    "date": "2026-08-13T16:12:26Z",
+    "timestamp": 1786637546,
     "category": "Computer Vision"
   },
   {
-    "title": "Choosing an AI model: one prompt, 11 models, different results",
-    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49285327",
-    "source": "netlify.com",
-    "date": "2026-08-13T13:05:29Z",
-    "timestamp": 1786626329,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: AI Flight Recorder – record, replay, and track AI session costs",
-    "url": "https://github.com/AllThingsSmitty/ai-flight-recorder",
-    "discussion_url": "https://news.ycombinator.com/item?id=49284938",
-    "source": "github.com",
-    "date": "2026-08-13T12:30:28Z",
-    "timestamp": 1786624228,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Banning Open-Weight AI Models Could Cost America the AI Race",
-    "url": "https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49284830",
-    "source": "realclearmarkets.com",
-    "date": "2026-08-13T12:19:02Z",
-    "timestamp": 1786623542,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: How to deal with gen AI as an gen AI-resistant person",
-    "url": "https://news.ycombinator.com/item?id=49284799",
-    "discussion_url": "https://news.ycombinator.com/item?id=49284799",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-13T12:14:08Z",
-    "timestamp": 1786623248,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: I graded 83 AI vendors on data residency, training and subprocessors",
-    "url": "https://sovereignairegistry.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49284787",
-    "source": "sovereignairegistry.com",
-    "date": "2026-08-13T12:12:17Z",
-    "timestamp": 1786623137,
+    "title": "Samsung is using Claude to verify chip designs. It's not going smoothly",
+    "url": "https://www.neowin.net/news/samsung-is-using-claude-to-verify-chip-designs-and-its-not-going-smoothly/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49288051",
+    "source": "neowin.net",
+    "date": "2026-08-13T16:05:58Z",
+    "timestamp": 1786637158,
     "category": "Computer Architecture"
   },
   {
-    "title": "It May Be Time to Panic About AI",
-    "url": "https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49284766",
-    "source": "theatlantic.com",
-    "date": "2026-08-13T12:08:38Z",
-    "timestamp": 1786622918,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Intel wants to integrate DRAM with the CPU [video]",
-    "url": "https://www.youtube.com/watch?v=FtxWTNaUXkc",
-    "discussion_url": "https://news.ycombinator.com/item?id=49284639",
-    "source": "youtube.com",
-    "date": "2026-08-13T11:55:03Z",
-    "timestamp": 1786622103,
+    "title": "What happens when a GPU reads memory?",
+    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+    "discussion_url": "https://news.ycombinator.com/item?id=49288033",
+    "source": "blog.doubleword.ai",
+    "date": "2026-08-13T16:04:39Z",
+    "timestamp": 1786637079,
     "category": "Computer Architecture"
   },
   {
-    "title": "Booksellers suspect AI firms are buying and then destroying rare books",
-    "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49284368",
-    "source": "arstechnica.com",
-    "date": "2026-08-13T11:24:11Z",
-    "timestamp": 1786620251,
-    "category": "Machine Learning"
+    "title": "Brave improves protections against GPU fingerprinting",
+    "url": "https://brave.com/privacy-updates/38-webgl-webgpu-fingerprinting-protections/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49288025",
+    "source": "brave.com",
+    "date": "2026-08-13T16:04:10Z",
+    "timestamp": 1786637050,
+    "category": "Computer Architecture"
   },
   {
-    "title": "The White House Is Going to Expand It's AI Policy",
-    "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49283987",
-    "source": "wired.com",
-    "date": "2026-08-13T10:35:50Z",
-    "timestamp": 1786617350,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI 2027 Tracker: Tracking predictions from the AI 2027 scenario against reality",
-    "url": "https://ai2027-tracker.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49283648",
-    "source": "ai2027-tracker.com",
-    "date": "2026-08-13T09:46:53Z",
-    "timestamp": 1786614413,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Twitch now uses your channel to train generative AI by default",
-    "url": "https://twitter.com/zachbussey/status/2087573860929478785",
-    "discussion_url": "https://news.ycombinator.com/item?id=49283420",
-    "source": "twitter.com",
-    "date": "2026-08-13T09:14:31Z",
-    "timestamp": 1786612471,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Agents Enable Adaptive Computer Worms",
-    "url": "https://arxiv.org/abs/2606.03811",
-    "discussion_url": "https://news.ycombinator.com/item?id=49283295",
-    "source": "arxiv.org",
-    "date": "2026-08-13T08:52:44Z",
-    "timestamp": 1786611164,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I built an AI video upscaler that runs the heavy GPU work in the cloud",
-    "url": "https://videoupscaler.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49283137",
-    "source": "videoupscaler.com",
-    "date": "2026-08-13T08:29:35Z",
-    "timestamp": 1786609775,
+    "title": "LoongLeak: A Vulnerability Affecting Chinese Loongson 3A5000 and 3A6000 CPUs",
+    "url": "https://loongleakattack.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49287380",
+    "source": "loongleakattack.com",
+    "date": "2026-08-13T15:21:33Z",
+    "timestamp": 1786634493,
     "category": "Computer Architecture"
   }
 ]
