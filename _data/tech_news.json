@@ -1,48 +1,120 @@
 [
   {
-    "title": "The War Between Open Source, Open Weight, and Closed AI Models",
-    "url": "https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504",
-    "discussion_url": "https://news.ycombinator.com/item?id=49298438",
-    "source": "nextplatform.com",
-    "date": "2026-08-14T13:30:37Z",
-    "timestamp": 1786714237,
+    "title": "How AI is changing how I build software with Simon Willison, on Talking Postgres",
+    "url": "https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison",
+    "discussion_url": "https://news.ycombinator.com/item?id=49303217",
+    "source": "talkingpostgres.com",
+    "date": "2026-08-14T19:04:31Z",
+    "timestamp": 1786734271,
     "category": "Machine Learning"
   },
   {
-    "title": "Gpui-component: Rust GUI components for building cross-platform apps",
-    "url": "https://longbridge.github.io/gpui-component/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49298385",
-    "source": "longbridge.github.io",
-    "date": "2026-08-14T13:26:35Z",
-    "timestamp": 1786713995,
+    "title": "Being Against LLMs Is Against the Spirit of Floss",
+    "url": "https://joarvarndt.se/free-vibes-2",
+    "discussion_url": "https://news.ycombinator.com/item?id=49303035",
+    "source": "joarvarndt.se",
+    "date": "2026-08-14T18:52:12Z",
+    "timestamp": 1786733532,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Captain, AI Travel Agent",
+    "url": "https://www.moonlight.ng/captain/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49302705",
+    "source": "moonlight.ng",
+    "date": "2026-08-14T18:25:20Z",
+    "timestamp": 1786731920,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Open-source and AI native web analytics",
+    "url": "https://github.com/OpenLabs-so/openanalytics",
+    "discussion_url": "https://news.ycombinator.com/item?id=49302597",
+    "source": "github.com",
+    "date": "2026-08-14T18:17:42Z",
+    "timestamp": 1786731462,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "We urgently need a coherent national AI cybersecurity policy",
+    "url": "https://joshuasaxe181906.substack.com/p/we-urgently-need-a-coherent-national",
+    "discussion_url": "https://news.ycombinator.com/item?id=49302565",
+    "source": "joshuasaxe181906.substack.com",
+    "date": "2026-08-14T18:15:00Z",
+    "timestamp": 1786731300,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "An easy way to build self-diagnosing and self-learning AI agents in production",
+    "url": "https://www.youtube.com/watch?v=2x0BKQBMbF4",
+    "discussion_url": "https://news.ycombinator.com/item?id=49302294",
+    "source": "youtube.com",
+    "date": "2026-08-14T17:55:36Z",
+    "timestamp": 1786730136,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Apple trains its own AI model for China market with Alibaba's support, sources",
+    "url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49302098",
+    "source": "reuters.com",
+    "date": "2026-08-14T17:43:35Z",
+    "timestamp": 1786729415,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Thinks the Internet Is Reddit. We Have 8,616 Answers Proving It",
+    "url": "https://growtika.com/blog/reddit-ai-visibility-research",
+    "discussion_url": "https://news.ycombinator.com/item?id=49302070",
+    "source": "growtika.com",
+    "date": "2026-08-14T17:41:56Z",
+    "timestamp": 1786729316,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Training AI Scientists to Replicate Research",
+    "url": "https://inherentlabs.ai/research/training-to-replicate",
+    "discussion_url": "https://news.ycombinator.com/item?id=49301764",
+    "source": "inherentlabs.ai",
+    "date": "2026-08-14T17:20:01Z",
+    "timestamp": 1786728001,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Fortunes from AI revive effective altruism after Sam Bankman-Fried turmoil",
+    "url": "https://www.ft.com/content/938b4b82-06d2-4b92-a807-38d935d7d5c5",
+    "discussion_url": "https://news.ycombinator.com/item?id=49301587",
+    "source": "ft.com",
+    "date": "2026-08-14T17:07:06Z",
+    "timestamp": 1786727226,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why Open Source Matters for AI",
+    "url": "https://www.oreilly.com/radar/why-open-source-matters-for-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49301569",
+    "source": "oreilly.com",
+    "date": "2026-08-14T17:06:09Z",
+    "timestamp": 1786727169,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Agora – a persistent world for language models that they rewrite by vote",
+    "url": "https://agora.perussina.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49301564",
+    "source": "agora.perussina.com",
+    "date": "2026-08-14T17:06:02Z",
+    "timestamp": 1786727162,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+    "url": "https://arxiv.org/abs/2608.12700",
+    "discussion_url": "https://news.ycombinator.com/item?id=49301417",
+    "source": "arxiv.org",
+    "date": "2026-08-14T16:57:14Z",
+    "timestamp": 1786726634,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Apple Trained Own AI Model for China Market with Help from Alibaba",
-    "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49298360",
-    "source": "macrumors.com",
-    "date": "2026-08-14T13:23:48Z",
-    "timestamp": 1786713828,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Swarms of tiny robots remove microplastics from soil and water",
-    "url": "https://phys.org/news/2026-08-swarms-tiny-robots-microplastics-soil.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49298266",
-    "source": "phys.org",
-    "date": "2026-08-14T13:15:52Z",
-    "timestamp": 1786713352,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
-    "url": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49298105",
-    "source": "cnbc.com",
-    "date": "2026-08-14T12:58:46Z",
-    "timestamp": 1786712326,
-    "category": "Machine Learning"
   },
   {
     "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
@@ -54,138 +126,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Yes, you still need to know fundamentals even with AI",
-    "url": "https://karnwong.me/posts/2026/08/yes-you-still-need-to-know-fundamentals-even-with-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49298052",
-    "source": "karnwong.me",
-    "date": "2026-08-14T12:51:57Z",
-    "timestamp": 1786711917,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Terence Tao Lecture: Mathematics in the Age of AI [video]",
-    "url": "https://www.youtube.com/watch?v=M0--ZH1lOzg",
-    "discussion_url": "https://news.ycombinator.com/item?id=49297816",
-    "source": "youtube.com",
-    "date": "2026-08-14T12:24:23Z",
-    "timestamp": 1786710263,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Show HN: Artifex - Graph Based GPU Harness for AI Agents",
     "url": "https://gatewai.studio/artifex",
     "discussion_url": "https://news.ycombinator.com/item?id=49297723",
     "source": "gatewai.studio",
     "date": "2026-08-14T12:15:13Z",
     "timestamp": 1786709713,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "169M offer decisions a month on 0.77 CPU cores",
-    "url": "https://emergent.sh/blog/how-our-pricing-engine-evolved-from-an-if-ladder",
-    "discussion_url": "https://news.ycombinator.com/item?id=49297703",
-    "source": "emergent.sh",
-    "date": "2026-08-14T12:12:17Z",
-    "timestamp": 1786709537,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Open Silicon Photonics for AI Systems Initiative",
-    "url": "https://lightmatter.co/press-release/industry-leaders-formally-launch-cpo-system-architecture-initiative-within-the-open-compute-project/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49297623",
-    "source": "lightmatter.co",
-    "date": "2026-08-14T11:58:52Z",
-    "timestamp": 1786708732,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Error by AI scribe during medical appointment leaves patient devastated",
-    "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
-    "discussion_url": "https://news.ycombinator.com/item?id=49297595",
-    "source": "abc.net.au",
-    "date": "2026-08-14T11:55:21Z",
-    "timestamp": 1786708521,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Anthropic Is Quietly Watermarking Every Claude AI Output",
-    "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
-    "discussion_url": "https://news.ycombinator.com/item?id=49297489",
-    "source": "decrypt.co",
-    "date": "2026-08-14T11:43:38Z",
-    "timestamp": 1786707818,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "My Anti AI Computer",
-    "url": "https://punkx.org/jackdoe/home.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49297438",
-    "source": "punkx.org",
-    "date": "2026-08-14T11:37:40Z",
-    "timestamp": 1786707460,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Dashboard tracking math problems being solved by AI",
-    "url": "https://vibemathed.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49297396",
-    "source": "vibemathed.com",
-    "date": "2026-08-14T11:33:50Z",
-    "timestamp": 1786707230,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: Does AI watermarking present a new attack vector?",
-    "url": "https://news.ycombinator.com/item?id=49297267",
-    "discussion_url": "https://news.ycombinator.com/item?id=49297267",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-14T11:20:01Z",
-    "timestamp": 1786706401,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Everyone talks about AI agents. This is what one looks from the inside",
-    "url": "https://pssah4.github.io/vault-operator/guides/capabilities",
-    "discussion_url": "https://news.ycombinator.com/item?id=49296964",
-    "source": "pssah4.github.io",
-    "date": "2026-08-14T10:44:12Z",
-    "timestamp": 1786704252,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "For the love of god stop using CPU limits in Kubernetes",
-    "url": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
-    "discussion_url": "https://news.ycombinator.com/item?id=49296939",
-    "source": "github.com",
-    "date": "2026-08-14T10:41:21Z",
-    "timestamp": 1786704081,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "You can now book two humanoids for our cleaning service in SF",
-    "url": "https://twitter.com/alexkoch_ai/status/2087947168799977731",
-    "discussion_url": "https://news.ycombinator.com/item?id=49296883",
-    "source": "twitter.com",
-    "date": "2026-08-14T10:33:24Z",
-    "timestamp": 1786703604,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Chestnut – eGPU dock with open-source firmware",
-    "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49292385",
-    "source": "hwbusters.com",
-    "date": "2026-08-13T22:01:04Z",
-    "timestamp": 1786658464,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Chicago Mercantile Exchange will list futures contracts for GPU costs",
-    "url": "https://www.cmegroup.com/media-room/press-releases/2026/8/11/cme_group_and_silicondatatolaunchcomputefuturesonoctober5tounloc.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49288778",
-    "source": "cmegroup.com",
-    "date": "2026-08-13T16:56:33Z",
-    "timestamp": 1786640193,
     "category": "Computer Architecture"
   }
 ]
