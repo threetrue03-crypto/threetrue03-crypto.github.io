@@ -1,39 +1,138 @@
 [
   {
-    "title": "Google Opens the Gates of AI Slop Hell",
-    "url": "https://gizmodo.com/google-opens-the-gates-of-ai-slop-hell-2000798888",
-    "discussion_url": "https://news.ycombinator.com/item?id=49308118",
-    "source": "gizmodo.com",
-    "date": "2026-08-15T06:09:31Z",
-    "timestamp": 1786774171,
+    "title": "Meta Patents AI Glasses to Use Facial Recognition to Identify People",
+    "url": "https://www.404media.co/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49310153",
+    "source": "404media.co",
+    "date": "2026-08-15T12:49:59Z",
+    "timestamp": 1786798199,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Riffn. An instant voice link with your AI agents and local models",
-    "url": "https://riffn.io/how-riffn-works/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49308095",
-    "source": "riffn.io",
-    "date": "2026-08-15T06:05:09Z",
-    "timestamp": 1786773909,
+    "title": "AI Just Had Another Math Breakthrough–With Help from a High-School Dropout",
+    "url": "https://www.wsj.com/tech/ai/ai-math-riemann-hypothesis-anthropic-openai-22f98a87",
+    "discussion_url": "https://news.ycombinator.com/item?id=49310048",
+    "source": "wsj.com",
+    "date": "2026-08-15T12:30:08Z",
+    "timestamp": 1786797008,
     "category": "Machine Learning"
   },
   {
-    "title": "Choosing the Right Database for AI Agents: LLM Generated SQL",
-    "url": "https://predictabledialogs.com/learn/ai-stack/choosing-database-configurable-ai-agents",
-    "discussion_url": "https://news.ycombinator.com/item?id=49308031",
-    "source": "predictabledialogs.com",
-    "date": "2026-08-15T05:53:34Z",
-    "timestamp": 1786773214,
+    "title": "Show HN: Tempered – AI Powered PC Optimizer",
+    "url": "https://tempered.to/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49309989",
+    "source": "tempered.to",
+    "date": "2026-08-15T12:18:18Z",
+    "timestamp": 1786796298,
     "category": "Machine Learning"
   },
   {
-    "title": "An Autonomous Framework for Systematic Factor Invest via Agentic AI",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6416881",
-    "discussion_url": "https://news.ycombinator.com/item?id=49307948",
-    "source": "papers.ssrn.com",
-    "date": "2026-08-15T05:38:09Z",
-    "timestamp": 1786772289,
+    "title": "Honest Government Ad – AI Data Centres [video]",
+    "url": "https://www.youtube.com/watch?v=kON2ZI2BNj8",
+    "discussion_url": "https://news.ycombinator.com/item?id=49309969",
+    "source": "youtube.com",
+    "date": "2026-08-15T12:14:55Z",
+    "timestamp": 1786796095,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Agent-shell – vendor-neutral chat with AI agents in Emacs",
+    "url": "https://xenodium.com/agent-shell-0-73-updates",
+    "discussion_url": "https://news.ycombinator.com/item?id=49309755",
+    "source": "xenodium.com",
+    "date": "2026-08-15T11:42:16Z",
+    "timestamp": 1786794136,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"",
+    "url": "https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk",
+    "discussion_url": "https://news.ycombinator.com/item?id=49309551",
+    "source": "axios.com",
+    "date": "2026-08-15T11:00:24Z",
+    "timestamp": 1786791624,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Working with AI Feels More Like Leadership Than Coding",
+    "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49309451",
+    "source": "allen.bargi.org",
+    "date": "2026-08-15T10:39:41Z",
+    "timestamp": 1786790381,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nvidia Secures TSMC A16 Node for Next-Generation \"Feynman\" GPUs",
+    "url": "https://www.techpowerup.com/351607/nvidia-secures-tsmc-a16-node-for-next-generation-feynman-gpus",
+    "discussion_url": "https://news.ycombinator.com/item?id=49309227",
+    "source": "techpowerup.com",
+    "date": "2026-08-15T09:55:06Z",
+    "timestamp": 1786787706,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
+    "discussion_url": "https://news.ycombinator.com/item?id=49309183",
+    "source": "bloomberg.com",
+    "date": "2026-08-15T09:46:39Z",
+    "timestamp": 1786787199,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "BanProof AI",
+    "url": "https://banproof.io/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49309125",
+    "source": "banproof.io",
+    "date": "2026-08-15T09:36:48Z",
+    "timestamp": 1786786608,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Free LLM API – every free model behind one key",
+    "url": "https://freellmapi.co/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49309112",
+    "source": "freellmapi.co",
+    "date": "2026-08-15T09:33:40Z",
+    "timestamp": 1786786420,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Debian has begun voting on the future of AI/LLM contributions",
+    "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49309050",
+    "source": "lists.debian.org",
+    "date": "2026-08-15T09:20:07Z",
+    "timestamp": 1786785607,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "For the love of god, stop using CPU limits on Kubernetes",
+    "url": "https://home.robusta.dev/blog/stop-using-cpu-limits",
+    "discussion_url": "https://news.ycombinator.com/item?id=49308986",
+    "source": "home.robusta.dev",
+    "date": "2026-08-15T09:04:01Z",
+    "timestamp": 1786784641,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Secondhand UK and Irish booksellers suspect AI firms behind strange bulk orders",
+    "url": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
+    "discussion_url": "https://news.ycombinator.com/item?id=49308856",
+    "source": "theguardian.com",
+    "date": "2026-08-15T08:35:23Z",
+    "timestamp": 1786782923,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "z486: A 486-Class Pipelined FPGA CPU with Integrated Floating-Point",
+    "url": "https://nand2mario.github.io/posts/2026/z486/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49308269",
+    "source": "nand2mario.github.io",
+    "date": "2026-08-15T06:36:30Z",
+    "timestamp": 1786775790,
+    "category": "Computer Architecture"
   },
   {
     "title": "Robots That Walk and Talk Are Coming to Car Factories",
@@ -45,24 +144,6 @@
     "category": "Physical AI"
   },
   {
-    "title": "Show HN: I spent 3 months making desktop automation stop lying to AI agents",
-    "url": "https://github.com/lahfir/agent-desktop/tree/main",
-    "discussion_url": "https://news.ycombinator.com/item?id=49307819",
-    "source": "github.com",
-    "date": "2026-08-15T05:07:25Z",
-    "timestamp": 1786770445,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-    "url": "https://chenxiachan.github.io/thoughtdag/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49307700",
-    "source": "chenxiachan.github.io",
-    "date": "2026-08-15T04:42:07Z",
-    "timestamp": 1786768927,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Best US- and EU-hosted abliterated models with no input/output prompt retention",
     "url": "https://next.abliteration.ai",
     "discussion_url": "https://news.ycombinator.com/item?id=49307611",
@@ -72,93 +153,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "People Who Will Thrive in the AI Age",
-    "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49307507",
-    "source": "theatlantic.com",
-    "date": "2026-08-15T03:58:17Z",
-    "timestamp": 1786766297,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Deltix – AI Driven Testing",
-    "url": "https://app.deltix.ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49307099",
-    "source": "app.deltix.ai",
-    "date": "2026-08-15T02:42:14Z",
-    "timestamp": 1786761734,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "An Infamous Math Problem Closer to Being Solved by Encouraging AI",
-    "url": "https://www.wsj.com/tech/ai/ai-math-riemann-hypothesis-anthropic-openai-22f98a87",
-    "discussion_url": "https://news.ycombinator.com/item?id=49306928",
-    "source": "wsj.com",
-    "date": "2026-08-15T02:06:56Z",
-    "timestamp": 1786759616,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Yester World Asking for Help from Google De-Monitization and AI [video]",
-    "url": "https://www.youtube.com/watch?v=z9QiBMdvgRE",
-    "discussion_url": "https://news.ycombinator.com/item?id=49306805",
-    "source": "youtube.com",
-    "date": "2026-08-15T01:43:29Z",
-    "timestamp": 1786758209,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI productivity gains drive net CO₂ increase in global energy–economy model",
-    "url": "https://www.nature.com/articles/s44168-026-00411-0",
-    "discussion_url": "https://news.ycombinator.com/item?id=49306800",
-    "source": "nature.com",
-    "date": "2026-08-15T01:42:40Z",
-    "timestamp": 1786758160,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
-    "url": "https://github.com/AntoineChatry/Dictata",
-    "discussion_url": "https://news.ycombinator.com/item?id=49306462",
-    "source": "github.com",
-    "date": "2026-08-15T00:58:34Z",
-    "timestamp": 1786755514,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "ShieldFont: Bludgeoning AI Scrapers That Disrespect Robots.txt",
-    "url": "https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49306375",
-    "source": "hackaday.com",
-    "date": "2026-08-15T00:44:04Z",
-    "timestamp": 1786754644,
-    "category": "Physical AI"
-  },
-  {
-    "title": "RISC-V: They should have known better",
-    "url": "https://dmitry.gr/?r=06.+Thoughts&proj=12.+RV",
-    "discussion_url": "https://news.ycombinator.com/item?id=49305492",
-    "source": "dmitry.gr",
-    "date": "2026-08-14T22:38:34Z",
-    "timestamp": 1786747114,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "Talking with Synopsys about the Physics of Chip Design at DAC 2026",
     "url": "https://chipsandcheese.com/p/talking-with-synopsys-about-the-physics",
     "discussion_url": "https://news.ycombinator.com/item?id=49304766",
     "source": "chipsandcheese.com",
     "date": "2026-08-14T21:22:53Z",
     "timestamp": 1786742573,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Spectre on RISC-V Silicon",
-    "url": "https://lukasgerlach.me/blog/2026-spectre-on-riscv-silicon-usenix/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49304337",
-    "source": "lukasgerlach.me",
-    "date": "2026-08-14T20:43:38Z",
-    "timestamp": 1786740218,
     "category": "Computer Architecture"
   },
   {
