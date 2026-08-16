@@ -1,11 +1,101 @@
 [
   {
+    "title": "AI Stock Research Assistant · Streamlit",
+    "url": "https://ai-stock-research-kiaan.streamlit.app",
+    "discussion_url": "https://news.ycombinator.com/item?id=49317506",
+    "source": "ai-stock-research-kiaan.streamlit.app",
+    "date": "2026-08-16T06:45:09Z",
+    "timestamp": 1786862709,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Tokencompress A sub-2ms Go CLI and MCP sidecar that prunes AI agent tool context",
+    "url": "https://github.com/dburnett11155-rgb/Tokencompress",
+    "discussion_url": "https://news.ycombinator.com/item?id=49317274",
+    "source": "github.com",
+    "date": "2026-08-16T05:55:12Z",
+    "timestamp": 1786859712,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ownership in the Age of AI",
+    "url": "https://sahilkolwankar.com/blog/ai-input-not-output/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49316924",
+    "source": "sahilkolwankar.com",
+    "date": "2026-08-16T04:32:43Z",
+    "timestamp": 1786854763,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "ProofRun – a local verification receipt for AI coding agents",
+    "url": "https://github.com/yebiguo/ProofRun",
+    "discussion_url": "https://news.ycombinator.com/item?id=49316605",
+    "source": "github.com",
+    "date": "2026-08-16T03:22:15Z",
+    "timestamp": 1786850535,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "ShieldFont: Bludgeoning AI Scrapers That Disrespect Robots.txt",
+    "url": "https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49316553",
+    "source": "hackaday.com",
+    "date": "2026-08-16T03:10:29Z",
+    "timestamp": 1786849829,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Show HN: Widen, a native Postgres GUI using Apple's on-device LLM",
+    "url": "https://github.com/betocmn/widen",
+    "discussion_url": "https://news.ycombinator.com/item?id=49316394",
+    "source": "github.com",
+    "date": "2026-08-16T02:35:51Z",
+    "timestamp": 1786847751,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Has the hallucination problem in AI been solved?",
+    "url": "https://news.ycombinator.com/item?id=49316330",
+    "discussion_url": "https://news.ycombinator.com/item?id=49316330",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-16T02:23:52Z",
+    "timestamp": 1786847032,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+    "url": "https://arxiv.org/abs/2608.13328",
+    "discussion_url": "https://news.ycombinator.com/item?id=49316242",
+    "source": "arxiv.org",
+    "date": "2026-08-16T02:07:06Z",
+    "timestamp": 1786846026,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "TrueStar – AI moderated expert interviews and multi-agent deep research",
+    "url": "https://truestar.tech",
+    "discussion_url": "https://news.ycombinator.com/item?id=49315975",
+    "source": "truestar.tech",
+    "date": "2026-08-16T01:23:52Z",
+    "timestamp": 1786843432,
+    "category": "Machine Learning"
+  },
+  {
     "title": "Snap Chart AI",
     "url": "https://www.snap-chart.ai/",
     "discussion_url": "https://news.ycombinator.com/item?id=49315810",
     "source": "snap-chart.ai",
     "date": "2026-08-16T00:59:15Z",
     "timestamp": 1786841955,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x",
+    "url": "https://github.com/alainnothere/privibe/tree/main",
+    "discussion_url": "https://news.ycombinator.com/item?id=49315777",
+    "source": "github.com",
+    "date": "2026-08-16T00:53:38Z",
+    "timestamp": 1786841618,
     "category": "Machine Learning"
   },
   {
@@ -27,15 +117,6 @@
     "category": "Machine Learning"
   },
   {
-    "title": "The complete AI SEO playbook: from zero to 4.6M impressions in 3 months",
-    "url": "https://github.com/TraceCohenTech/ai-seo-playbook",
-    "discussion_url": "https://news.ycombinator.com/item?id=49315620",
-    "source": "github.com",
-    "date": "2026-08-16T00:19:59Z",
-    "timestamp": 1786839599,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
     "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html",
     "discussion_url": "https://news.ycombinator.com/item?id=49315160",
@@ -54,15 +135,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Sentinel Scan: an authorized LLM red-team audit, run by an AI agent",
-    "url": "https://fbirds5230.github.io/sentinel-scan/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49314841",
-    "source": "fbirds5230.github.io",
-    "date": "2026-08-15T22:23:10Z",
-    "timestamp": 1786832590,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Neo: A distraction-free word processor for authors, by a wannabe author",
     "url": "https://github.com/hughhowey/neo",
     "discussion_url": "https://news.ycombinator.com/item?id=49314647",
@@ -72,93 +144,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Why AI agents need verified identity",
-    "url": "https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49314608",
-    "source": "chrisbergeron.com",
-    "date": "2026-08-15T21:44:48Z",
-    "timestamp": 1786830288,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The AI Slop Backlash Is Having an Impact",
-    "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49314494",
-    "source": "wired.com",
-    "date": "2026-08-15T21:27:31Z",
-    "timestamp": 1786829251,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: TokenLab MCP, model discovery, pricing, and native AI endpoint tools",
-    "url": "https://tokenlab.sh/zh/mcp",
-    "discussion_url": "https://news.ycombinator.com/item?id=49314483",
-    "source": "tokenlab.sh",
-    "date": "2026-08-15T21:26:34Z",
-    "timestamp": 1786829194,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI makes foundational knowledge more important",
-    "url": "https://www.timeshighereducation.com/opinion/ai-makes-foundational-knowledge-more-important-ever",
-    "discussion_url": "https://news.ycombinator.com/item?id=49314435",
-    "source": "timeshighereducation.com",
-    "date": "2026-08-15T21:18:21Z",
-    "timestamp": 1786828701,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The unlikely opera star: How AI helped a nonspeaking performer find his voice",
-    "url": "https://www.scientificamerican.com/podcast/episode/a-nonspeaking-person-is-the-star-of-this-opera-ai-made-that-possible/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49314329",
-    "source": "scientificamerican.com",
-    "date": "2026-08-15T21:06:05Z",
-    "timestamp": 1786827965,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "TemporalStore: A disruptive open-source engine managing your LLM memory",
-    "url": "https://temporalstore.ai/blog-context-management.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49314204",
-    "source": "temporalstore.ai",
-    "date": "2026-08-15T20:51:41Z",
-    "timestamp": 1786827101,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Glad-AI-Tor – AI tools ranked by user votes, not by who pays",
-    "url": "https://glad-ia-tor.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49314034",
-    "source": "glad-ia-tor.com",
-    "date": "2026-08-15T20:29:45Z",
-    "timestamp": 1786825785,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Bento Term – native tmux client with agent states and voice input",
-    "url": "https://bentoai.dev/term/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49312011",
-    "source": "bentoai.dev",
-    "date": "2026-08-15T16:39:15Z",
-    "timestamp": 1786811955,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "z486: A 486-Class Pipelined FPGA CPU with Integrated Floating-Point",
     "url": "https://nand2mario.github.io/posts/2026/z486/",
     "discussion_url": "https://news.ycombinator.com/item?id=49308269",
     "source": "nand2mario.github.io",
     "date": "2026-08-15T06:36:30Z",
     "timestamp": 1786775790,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-    "url": "https://arxiv.org/abs/2608.12700",
-    "discussion_url": "https://news.ycombinator.com/item?id=49301417",
-    "source": "arxiv.org",
-    "date": "2026-08-14T16:57:14Z",
-    "timestamp": 1786726634,
     "category": "Computer Architecture"
   },
   {
@@ -187,5 +178,14 @@
     "date": "2026-08-10T09:52:19Z",
     "timestamp": 1786355539,
     "category": "Physical AI"
+  },
+  {
+    "title": "Show HN: Fixing optical computing jitter via fluid dynamics in GPU registers",
+    "url": "https://github.com/PJHkorea/photonic-mesh-fng-router",
+    "discussion_url": "https://news.ycombinator.com/item?id=49228660",
+    "source": "github.com",
+    "date": "2026-08-09T05:22:44Z",
+    "timestamp": 1786252964,
+    "category": "Computer Architecture"
   }
 ]
