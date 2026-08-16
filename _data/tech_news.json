@@ -1,39 +1,138 @@
 [
   {
-    "title": "AI Stock Research Assistant · Streamlit",
-    "url": "https://ai-stock-research-kiaan.streamlit.app",
-    "discussion_url": "https://news.ycombinator.com/item?id=49317506",
-    "source": "ai-stock-research-kiaan.streamlit.app",
-    "date": "2026-08-16T06:45:09Z",
-    "timestamp": 1786862709,
+    "title": "US warns allied nations: Side with us in the AI race",
+    "url": "https://www.neowin.net/news/us-warns-allied-nations-side-with-us-in-the-ai-race-against-china-or-face-the-consequences/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49319156",
+    "source": "neowin.net",
+    "date": "2026-08-16T11:49:53Z",
+    "timestamp": 1786880993,
     "category": "Machine Learning"
   },
   {
-    "title": "Tokencompress A sub-2ms Go CLI and MCP sidecar that prunes AI agent tool context",
-    "url": "https://github.com/dburnett11155-rgb/Tokencompress",
-    "discussion_url": "https://news.ycombinator.com/item?id=49317274",
-    "source": "github.com",
-    "date": "2026-08-16T05:55:12Z",
-    "timestamp": 1786859712,
+    "title": "Inducing LLM to assert own consciousness restores human beliefs and values",
+    "url": "https://arxiv.org/abs/2607.28607",
+    "discussion_url": "https://news.ycombinator.com/item?id=49319047",
+    "source": "arxiv.org",
+    "date": "2026-08-16T11:31:59Z",
+    "timestamp": 1786879919,
     "category": "Machine Learning"
   },
   {
-    "title": "Ownership in the Age of AI",
-    "url": "https://sahilkolwankar.com/blog/ai-input-not-output/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49316924",
-    "source": "sahilkolwankar.com",
-    "date": "2026-08-16T04:32:43Z",
-    "timestamp": 1786854763,
+    "title": "Show HN: Remove AI voice from AI writings",
+    "url": "https://unslopai.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49319026",
+    "source": "unslopai.com",
+    "date": "2026-08-16T11:28:50Z",
+    "timestamp": 1786879730,
     "category": "Machine Learning"
   },
   {
-    "title": "ProofRun – a local verification receipt for AI coding agents",
-    "url": "https://github.com/yebiguo/ProofRun",
-    "discussion_url": "https://news.ycombinator.com/item?id=49316605",
-    "source": "github.com",
-    "date": "2026-08-16T03:22:15Z",
-    "timestamp": 1786850535,
+    "title": "AGCX: Why AI Agents aren't assistants",
+    "url": "https://www.agcx.org",
+    "discussion_url": "https://news.ycombinator.com/item?id=49318902",
+    "source": "agcx.org",
+    "date": "2026-08-16T11:04:59Z",
+    "timestamp": 1786878299,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+    "url": "https://arxiv.org/abs/2608.13522",
+    "discussion_url": "https://news.ycombinator.com/item?id=49318896",
+    "source": "arxiv.org",
+    "date": "2026-08-16T11:03:32Z",
+    "timestamp": 1786878212,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The 'Country Hicks' Who Refused $26M from an AI Data Center",
+    "url": "https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16",
+    "discussion_url": "https://news.ycombinator.com/item?id=49318835",
+    "source": "wsj.com",
+    "date": "2026-08-16T10:49:36Z",
+    "timestamp": 1786877376,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Coding Without the Vibes",
+    "url": "https://peterbloem.nl/blog/craft-coding",
+    "discussion_url": "https://news.ycombinator.com/item?id=49318735",
+    "source": "peterbloem.nl",
+    "date": "2026-08-16T10:31:36Z",
+    "timestamp": 1786876296,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Forget the Robot Tax. Tax the Tokens",
+    "url": "https://www.atomic14.com/2026/08/16/forget-the-robot-tax-tax-the-tokens",
+    "discussion_url": "https://news.ycombinator.com/item?id=49318688",
+    "source": "atomic14.com",
+    "date": "2026-08-16T10:24:03Z",
+    "timestamp": 1786875843,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Why Chinese Citizens Are More Optimistic About AI Than Americans",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-14/why-ai-optimism-is-so-much-higher-in-china-than-the-us",
+    "discussion_url": "https://news.ycombinator.com/item?id=49318586",
+    "source": "bloomberg.com",
+    "date": "2026-08-16T10:07:39Z",
+    "timestamp": 1786874859,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Twitch Adds Opt-Out for Amazon AI Training After Enrolling All Creators",
+    "url": "https://www.ghacks.net/2026/08/14/twitch-adds-opt-out-for-amazon-ai-training-after-enrolling-all-creators-by-default/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49318568",
+    "source": "ghacks.net",
+    "date": "2026-08-16T10:04:10Z",
+    "timestamp": 1786874650,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Young people don't trust AI – or the billionaires that tell us we should love AI",
+    "url": "https://www.techradar.com/pro/young-people-increasingly-dont-trust-ai-or-the-billionaires-that-keep-telling-us-we-should-all-love-ai-survey-finds",
+    "discussion_url": "https://news.ycombinator.com/item?id=49318475",
+    "source": "techradar.com",
+    "date": "2026-08-16T09:42:05Z",
+    "timestamp": 1786873325,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: RNet – AI token service provider",
+    "url": "https://news.ycombinator.com/item?id=49318304",
+    "discussion_url": "https://news.ycombinator.com/item?id=49318304",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-16T09:11:32Z",
+    "timestamp": 1786871492,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Debt Failure Will Prompt Another Wave of Fed Bailouts [pdf]",
+    "url": "https://www.myrmikan.com/pub/Myrmikan_Research_2026_08_14.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=49318258",
+    "source": "myrmikan.com",
+    "date": "2026-08-16T09:04:02Z",
+    "timestamp": 1786871042,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Is a molecular-scale semiconductor hiding inside metagenomic databases?",
+    "url": "https://medium.com/@kisnorbert87/is-a-molecular-scale-semiconductor-hiding-inside-metagenomic-databases-693db7a7e206",
+    "discussion_url": "https://news.ycombinator.com/item?id=49318255",
+    "source": "medium.com",
+    "date": "2026-08-16T09:03:33Z",
+    "timestamp": 1786871013,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "A Third World Embedded Engineer Responds to RISC-V They Should Have Known Better",
+    "url": "https://rvembedded.com/blog_post/12/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49317704",
+    "source": "rvembedded.com",
+    "date": "2026-08-16T07:28:34Z",
+    "timestamp": 1786865314,
+    "category": "Computer Architecture"
   },
   {
     "title": "ShieldFont: Bludgeoning AI Scrapers That Disrespect Robots.txt",
@@ -45,60 +144,6 @@
     "category": "Physical AI"
   },
   {
-    "title": "Show HN: Widen, a native Postgres GUI using Apple's on-device LLM",
-    "url": "https://github.com/betocmn/widen",
-    "discussion_url": "https://news.ycombinator.com/item?id=49316394",
-    "source": "github.com",
-    "date": "2026-08-16T02:35:51Z",
-    "timestamp": 1786847751,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Has the hallucination problem in AI been solved?",
-    "url": "https://news.ycombinator.com/item?id=49316330",
-    "discussion_url": "https://news.ycombinator.com/item?id=49316330",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-16T02:23:52Z",
-    "timestamp": 1786847032,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-    "url": "https://arxiv.org/abs/2608.13328",
-    "discussion_url": "https://news.ycombinator.com/item?id=49316242",
-    "source": "arxiv.org",
-    "date": "2026-08-16T02:07:06Z",
-    "timestamp": 1786846026,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "TrueStar – AI moderated expert interviews and multi-agent deep research",
-    "url": "https://truestar.tech",
-    "discussion_url": "https://news.ycombinator.com/item?id=49315975",
-    "source": "truestar.tech",
-    "date": "2026-08-16T01:23:52Z",
-    "timestamp": 1786843432,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Snap Chart AI",
-    "url": "https://www.snap-chart.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49315810",
-    "source": "snap-chart.ai",
-    "date": "2026-08-16T00:59:15Z",
-    "timestamp": 1786841955,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x",
-    "url": "https://github.com/alainnothere/privibe/tree/main",
-    "discussion_url": "https://news.ycombinator.com/item?id=49315777",
-    "source": "github.com",
-    "date": "2026-08-16T00:53:38Z",
-    "timestamp": 1786841618,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
     "url": "https://waku.sh",
     "discussion_url": "https://news.ycombinator.com/item?id=49315709",
@@ -106,24 +151,6 @@
     "date": "2026-08-16T00:38:44Z",
     "timestamp": 1786840724,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "The AI Bubble Is on Its Last Legs",
-    "url": "https://www.youtube.com/watch?v=szK9LIGvW1o",
-    "discussion_url": "https://news.ycombinator.com/item?id=49315675",
-    "source": "youtube.com",
-    "date": "2026-08-16T00:31:36Z",
-    "timestamp": 1786840296,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
-    "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49315160",
-    "source": "finance.yahoo.com",
-    "date": "2026-08-15T23:10:56Z",
-    "timestamp": 1786835456,
-    "category": "Machine Learning"
   },
   {
     "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
@@ -153,6 +180,15 @@
     "category": "Computer Architecture"
   },
   {
+    "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+    "url": "https://arxiv.org/abs/2608.12700",
+    "discussion_url": "https://news.ycombinator.com/item?id=49301417",
+    "source": "arxiv.org",
+    "date": "2026-08-14T16:57:14Z",
+    "timestamp": 1786726634,
+    "category": "Computer Architecture"
+  },
+  {
     "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
     "url": "https://hashagent.pages.dev/",
     "discussion_url": "https://news.ycombinator.com/item?id=49298088",
@@ -171,21 +207,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Robot Videos: Heavy Lift Cargo Drones, Grippers, More",
-    "url": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
-    "discussion_url": "https://news.ycombinator.com/item?id=49241551",
-    "source": "spectrum.ieee.org",
-    "date": "2026-08-10T09:52:19Z",
-    "timestamp": 1786355539,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: Fixing optical computing jitter via fluid dynamics in GPU registers",
-    "url": "https://github.com/PJHkorea/photonic-mesh-fng-router",
-    "discussion_url": "https://news.ycombinator.com/item?id=49228660",
-    "source": "github.com",
-    "date": "2026-08-09T05:22:44Z",
-    "timestamp": 1786252964,
+    "title": "Chestnut – eGPU dock with open-source firmware",
+    "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49292385",
+    "source": "hwbusters.com",
+    "date": "2026-08-13T22:01:04Z",
+    "timestamp": 1786658464,
     "category": "Computer Architecture"
   }
 ]
