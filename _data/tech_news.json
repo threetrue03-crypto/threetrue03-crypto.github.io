@@ -1,83 +1,137 @@
 [
   {
-    "title": "The Three AI Pills",
-    "url": "https://thezvi.substack.com/p/the-three-ai-pills",
-    "discussion_url": "https://news.ycombinator.com/item?id=49312959",
-    "source": "thezvi.substack.com",
-    "date": "2026-08-15T18:24:27Z",
-    "timestamp": 1786818267,
+    "title": "Snap Chart AI",
+    "url": "https://www.snap-chart.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49315810",
+    "source": "snap-chart.ai",
+    "date": "2026-08-16T00:59:15Z",
+    "timestamp": 1786841955,
     "category": "Machine Learning"
   },
   {
-    "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-    "discussion_url": "https://news.ycombinator.com/item?id=49312845",
-    "source": "davidepiffer.com",
-    "date": "2026-08-15T18:13:02Z",
-    "timestamp": 1786817582,
-    "category": "Machine Learning"
+    "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
+    "url": "https://waku.sh",
+    "discussion_url": "https://news.ycombinator.com/item?id=49315709",
+    "source": "waku.sh",
+    "date": "2026-08-16T00:38:44Z",
+    "timestamp": 1786840724,
+    "category": "Computer Architecture"
   },
   {
-    "title": "AI detectors are creating a new era of distrust",
-    "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-    "discussion_url": "https://news.ycombinator.com/item?id=49312810",
-    "source": "theverge.com",
-    "date": "2026-08-15T18:07:52Z",
-    "timestamp": 1786817272,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: Will AI lead to complete human irrelevance?",
-    "url": "https://news.ycombinator.com/item?id=49312559",
-    "discussion_url": "https://news.ycombinator.com/item?id=49312559",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-15T17:41:17Z",
-    "timestamp": 1786815677,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Self-hosted monitoring for AI recommendations (MIT License)",
-    "url": "https://lettertrace.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49312505",
-    "source": "lettertrace.com",
-    "date": "2026-08-15T17:35:13Z",
-    "timestamp": 1786815313,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Don't let AI rob you [video]",
-    "url": "https://www.youtube.com/watch?v=-T39cM3LPk0",
-    "discussion_url": "https://news.ycombinator.com/item?id=49312478",
+    "title": "The AI Bubble Is on Its Last Legs",
+    "url": "https://www.youtube.com/watch?v=szK9LIGvW1o",
+    "discussion_url": "https://news.ycombinator.com/item?id=49315675",
     "source": "youtube.com",
-    "date": "2026-08-15T17:31:43Z",
-    "timestamp": 1786815103,
+    "date": "2026-08-16T00:31:36Z",
+    "timestamp": 1786840296,
     "category": "Machine Learning"
   },
   {
-    "title": "5G, full bars, nothing loads: Or how I learned to start learning with LLMs",
-    "url": "https://www.dumky.net/posts/5g-full-bars-nothing-loads-learning-with-llms/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49312424",
-    "source": "dumky.net",
-    "date": "2026-08-15T17:23:03Z",
-    "timestamp": 1786814583,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Open Sourcing the Atuin AI Server",
-    "url": "https://blog.atuin.sh/atuin-ai-oss/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49312363",
-    "source": "blog.atuin.sh",
-    "date": "2026-08-15T17:15:46Z",
-    "timestamp": 1786814146,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: LLMs think in hierarchies. Their interpretability tools should too",
-    "url": "https://github.com/vishal-dehurdle/hypersae",
-    "discussion_url": "https://news.ycombinator.com/item?id=49312169",
+    "title": "The complete AI SEO playbook: from zero to 4.6M impressions in 3 months",
+    "url": "https://github.com/TraceCohenTech/ai-seo-playbook",
+    "discussion_url": "https://news.ycombinator.com/item?id=49315620",
     "source": "github.com",
-    "date": "2026-08-15T16:54:29Z",
-    "timestamp": 1786812869,
+    "date": "2026-08-16T00:19:59Z",
+    "timestamp": 1786839599,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
+    "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49315160",
+    "source": "finance.yahoo.com",
+    "date": "2026-08-15T23:10:56Z",
+    "timestamp": 1786835456,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+    "url": "https://arxiv.org/abs/2608.13122",
+    "discussion_url": "https://news.ycombinator.com/item?id=49314967",
+    "source": "arxiv.org",
+    "date": "2026-08-15T22:41:51Z",
+    "timestamp": 1786833711,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Sentinel Scan: an authorized LLM red-team audit, run by an AI agent",
+    "url": "https://fbirds5230.github.io/sentinel-scan/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49314841",
+    "source": "fbirds5230.github.io",
+    "date": "2026-08-15T22:23:10Z",
+    "timestamp": 1786832590,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Neo: A distraction-free word processor for authors, by a wannabe author",
+    "url": "https://github.com/hughhowey/neo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49314647",
+    "source": "github.com",
+    "date": "2026-08-15T21:50:29Z",
+    "timestamp": 1786830629,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Why AI agents need verified identity",
+    "url": "https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49314608",
+    "source": "chrisbergeron.com",
+    "date": "2026-08-15T21:44:48Z",
+    "timestamp": 1786830288,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI Slop Backlash Is Having an Impact",
+    "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49314494",
+    "source": "wired.com",
+    "date": "2026-08-15T21:27:31Z",
+    "timestamp": 1786829251,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: TokenLab MCP, model discovery, pricing, and native AI endpoint tools",
+    "url": "https://tokenlab.sh/zh/mcp",
+    "discussion_url": "https://news.ycombinator.com/item?id=49314483",
+    "source": "tokenlab.sh",
+    "date": "2026-08-15T21:26:34Z",
+    "timestamp": 1786829194,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI makes foundational knowledge more important",
+    "url": "https://www.timeshighereducation.com/opinion/ai-makes-foundational-knowledge-more-important-ever",
+    "discussion_url": "https://news.ycombinator.com/item?id=49314435",
+    "source": "timeshighereducation.com",
+    "date": "2026-08-15T21:18:21Z",
+    "timestamp": 1786828701,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The unlikely opera star: How AI helped a nonspeaking performer find his voice",
+    "url": "https://www.scientificamerican.com/podcast/episode/a-nonspeaking-person-is-the-star-of-this-opera-ai-made-that-possible/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49314329",
+    "source": "scientificamerican.com",
+    "date": "2026-08-15T21:06:05Z",
+    "timestamp": 1786827965,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "TemporalStore: A disruptive open-source engine managing your LLM memory",
+    "url": "https://temporalstore.ai/blog-context-management.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49314204",
+    "source": "temporalstore.ai",
+    "date": "2026-08-15T20:51:41Z",
+    "timestamp": 1786827101,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Glad-AI-Tor – AI tools ranked by user votes, not by who pays",
+    "url": "https://glad-ia-tor.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49314034",
+    "source": "glad-ia-tor.com",
+    "date": "2026-08-15T20:29:45Z",
+    "timestamp": 1786825785,
     "category": "Machine Learning"
   },
   {
@@ -87,51 +141,6 @@
     "source": "bentoai.dev",
     "date": "2026-08-15T16:39:15Z",
     "timestamp": 1786811955,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Briefing on Extinction-Level AI Threats",
-    "url": "https://intelligence.org/briefing/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49311954",
-    "source": "intelligence.org",
-    "date": "2026-08-15T16:33:30Z",
-    "timestamp": 1786811610,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "US to tell partners they must pick sides in AI race with China",
-    "url": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49311888",
-    "source": "reuters.com",
-    "date": "2026-08-15T16:25:14Z",
-    "timestamp": 1786811114,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: How to Stay Marketable in the AI Era?",
-    "url": "https://news.ycombinator.com/item?id=49311655",
-    "discussion_url": "https://news.ycombinator.com/item?id=49311655",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-15T15:58:59Z",
-    "timestamp": 1786809539,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "EPA sued for approving semiconductor chemicals that may pose health risks",
-    "url": "https://thehill.com/policy/energy-environment/6030328-epa-chemical-approval-lawsuit/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49310920",
-    "source": "thehill.com",
-    "date": "2026-08-15T14:33:30Z",
-    "timestamp": 1786804410,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "NASA processor is performing 500x faster than rad-hardened chips currently used",
-    "url": "https://spacedaily.com/t-nasa-hpsc-processor-500-times-faster-spaceflight-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49310276",
-    "source": "spacedaily.com",
-    "date": "2026-08-15T13:15:48Z",
-    "timestamp": 1786799748,
     "category": "Computer Architecture"
   },
   {
@@ -169,5 +178,14 @@
     "date": "2026-08-14T12:50:56Z",
     "timestamp": 1786711856,
     "category": "Computer Architecture"
+  },
+  {
+    "title": "Robot Videos: Heavy Lift Cargo Drones, Grippers, More",
+    "url": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
+    "discussion_url": "https://news.ycombinator.com/item?id=49241551",
+    "source": "spectrum.ieee.org",
+    "date": "2026-08-10T09:52:19Z",
+    "timestamp": 1786355539,
+    "category": "Physical AI"
   }
 ]
