@@ -1,138 +1,138 @@
 [
   {
-    "title": "Ask HN: When do you think LLM capacity will reach its ceiling?",
-    "url": "https://news.ycombinator.com/item?id=49327308",
-    "discussion_url": "https://news.ycombinator.com/item?id=49327308",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-17T06:55:55Z",
-    "timestamp": 1786949755,
+    "title": "You can make your AI Agents EU AI ACT compliant",
+    "url": "https://medium.com/@MirArshadTalpur/how-you-can-make-your-ai-agents-eu-ai-act-compliant-1e132e9e4a52",
+    "discussion_url": "https://news.ycombinator.com/item?id=49330142",
+    "source": "medium.com",
+    "date": "2026-08-17T13:01:05Z",
+    "timestamp": 1786971665,
     "category": "Machine Learning"
   },
   {
-    "title": "Sainsbury's pauses AI cameras after shopper ousted",
-    "url": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo",
-    "discussion_url": "https://news.ycombinator.com/item?id=49327259",
-    "source": "bbc.co.uk",
-    "date": "2026-08-17T06:48:32Z",
-    "timestamp": 1786949312,
+    "title": "Anthropic CEO says AI backlash is 'fundamentally a crisis of trust'",
+    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49329921",
+    "source": "techcrunch.com",
+    "date": "2026-08-17T12:43:01Z",
+    "timestamp": 1786970581,
     "category": "Machine Learning"
   },
   {
-    "title": "The LLM Freedom Manifesto: Open-Weight Models and User Responsibility",
-    "url": "https://gnu.support/large-language-models-llm/The-LLM-Freedom-Manifesto-Open-Weight-Models-and-User-Responsibility-128595.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49327121",
-    "source": "gnu.support",
-    "date": "2026-08-17T06:22:34Z",
-    "timestamp": 1786947754,
+    "title": "Who Owns Intelligence? Jensen Huang and the Battle for Open-Weight AI",
+    "url": "https://aiengineerhub.com/who-owns-intelligence-open-weight-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49329653",
+    "source": "aiengineerhub.com",
+    "date": "2026-08-17T12:17:46Z",
+    "timestamp": 1786969066,
     "category": "Machine Learning"
   },
   {
-    "title": "Paitify – authorization layer so AI agents can't overspend",
-    "url": "https://paitify.io",
-    "discussion_url": "https://news.ycombinator.com/item?id=49327033",
-    "source": "paitify.io",
-    "date": "2026-08-17T06:05:30Z",
-    "timestamp": 1786946730,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How to Use AI as a Language Learner",
-    "url": "https://vocably.pro/ai.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49326944",
-    "source": "vocably.pro",
-    "date": "2026-08-17T05:47:26Z",
-    "timestamp": 1786945646,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Why Big Tech's AI Spending Is $3T Higher Than It Seems",
-    "url": "https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2",
-    "discussion_url": "https://news.ycombinator.com/item?id=49326871",
-    "source": "wsj.com",
-    "date": "2026-08-17T05:31:49Z",
-    "timestamp": 1786944709,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Zalvion AI",
-    "url": "https://zalvionai.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49326835",
-    "source": "zalvionai.com",
-    "date": "2026-08-17T05:24:19Z",
-    "timestamp": 1786944259,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI wins landmark Fair Work Commission case for Macquarie academic",
-    "url": "https://www.afr.com/work-and-careers/workplace/ai-wins-landmark-fair-work-commission-case-for-macquarie-academic-20260813-p60o1m",
-    "discussion_url": "https://news.ycombinator.com/item?id=49326817",
-    "source": "afr.com",
-    "date": "2026-08-17T05:21:39Z",
-    "timestamp": 1786944099,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Stock Research Assistant · Streamlit",
-    "url": "https://ai-stock-research-kiaan.streamlit.app",
-    "discussion_url": "https://news.ycombinator.com/item?id=49326574",
-    "source": "ai-stock-research-kiaan.streamlit.app",
-    "date": "2026-08-17T04:31:55Z",
-    "timestamp": 1786941115,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Is Helping Patients Solve Medical Mysteries",
-    "url": "https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25",
-    "discussion_url": "https://news.ycombinator.com/item?id=49326250",
-    "source": "wsj.com",
-    "date": "2026-08-17T03:25:40Z",
-    "timestamp": 1786937140,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Level1Techs Can't Disprove Google's GDPR AI Studio Violation",
-    "url": "https://forum.level1techs.com/t/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them/253945",
-    "discussion_url": "https://news.ycombinator.com/item?id=49326185",
-    "source": "forum.level1techs.com",
-    "date": "2026-08-17T03:13:51Z",
-    "timestamp": 1786936431,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "God Save the Red Queen Competition in Co-Evolutionary Robotics (1997)",
-    "url": "https://infoscience.epfl.ch/entities/publication/a65d0679-6855-4be6-adf4-6c8288092357",
-    "discussion_url": "https://news.ycombinator.com/item?id=49326041",
-    "source": "infoscience.epfl.ch",
-    "date": "2026-08-17T02:51:20Z",
-    "timestamp": 1786935080,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Sana.cpp – Nvidia's Sana T2I model in C++, 4.8x faster than PyTorch",
-    "url": "https://github.com/cconthekeyboard/sana.cpp",
-    "discussion_url": "https://news.ycombinator.com/item?id=49325834",
+    "title": "Show HN: Repliflow – a node canvas for chaining Replicate image and video models",
+    "url": "https://github.com/tommyjepsen/repliflow",
+    "discussion_url": "https://news.ycombinator.com/item?id=49329569",
     "source": "github.com",
-    "date": "2026-08-17T02:08:15Z",
-    "timestamp": 1786932495,
+    "date": "2026-08-17T12:09:15Z",
+    "timestamp": 1786968555,
+    "category": "Computer Vision"
+  },
+  {
+    "title": "AI market correction is coming, ECB blog predicts",
+    "url": "https://www.reuters.com/business/autos-transportation/ai-market-correction-is-coming-ecb-blog-predicts-2026-08-17/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49329487",
+    "source": "reuters.com",
+    "date": "2026-08-17T12:00:15Z",
+    "timestamp": 1786968015,
     "category": "Machine Learning"
   },
   {
-    "title": "Cutting GPU Inference Energy Use Without Touching the Model",
-    "url": "https://startupfortune.com/hexstellar-founder-on-cutting-gpu-inference-energy-use-without-touching-the-model/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49323745",
-    "source": "startupfortune.com",
-    "date": "2026-08-16T21:14:35Z",
-    "timestamp": 1786914875,
+    "title": "What happens when an AI agent stops being a disposable session?",
+    "url": "https://www.dropstone.io/blog/dropstone-sdk-1-0",
+    "discussion_url": "https://news.ycombinator.com/item?id=49329451",
+    "source": "dropstone.io",
+    "date": "2026-08-17T11:57:20Z",
+    "timestamp": 1786967840,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
+    "url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
+    "discussion_url": "https://news.ycombinator.com/item?id=49329383",
+    "source": "wsj.com",
+    "date": "2026-08-17T11:50:12Z",
+    "timestamp": 1786967412,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "We built AI accelerators to reduce the time from AI prototype to production",
+    "url": "https://geekyants.com/ai-accelerator",
+    "discussion_url": "https://news.ycombinator.com/item?id=49329365",
+    "source": "geekyants.com",
+    "date": "2026-08-17T11:48:19Z",
+    "timestamp": 1786967299,
     "category": "Computer Architecture"
   },
   {
-    "title": "Laws of Robotics",
-    "url": "https://github.com/Daniel-J-Mueller/Laws-of-Robotics/blob/main/Laws-of-Robotics.txt",
-    "discussion_url": "https://news.ycombinator.com/item?id=49323611",
+    "title": "Why Stripe's $7B OpenRouter Acquisition Is About Owning the AI Routing Layer",
+    "url": "https://medium.com/@glennlenormand/stripe-didnt-pay-7-billion-for-openrouter-it-bought-the-tollbooth-of-the-ai-economy-5849f9891488",
+    "discussion_url": "https://news.ycombinator.com/item?id=49329233",
+    "source": "medium.com",
+    "date": "2026-08-17T11:26:07Z",
+    "timestamp": 1786965967,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Bruce Schneier: AI Will Hack More Than Computers [video]",
+    "url": "https://www.youtube.com/watch?v=YuwL8us4aq4",
+    "discussion_url": "https://news.ycombinator.com/item?id=49329220",
+    "source": "youtube.com",
+    "date": "2026-08-17T11:23:39Z",
+    "timestamp": 1786965819,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Programmatic memory for long-horizon LLM agents",
+    "url": "https://github.com/alexisfox7/PRO-LONG",
+    "discussion_url": "https://news.ycombinator.com/item?id=49329010",
     "source": "github.com",
-    "date": "2026-08-16T20:59:38Z",
-    "timestamp": 1786913978,
-    "category": "Physical AI"
+    "date": "2026-08-17T10:57:44Z",
+    "timestamp": 1786964264,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI music has reached the charts, and the artists using it have stopped hiding it",
+    "url": "https://thenextweb.com/news/ai-music-mainstream-tyga-timbaland",
+    "discussion_url": "https://news.ycombinator.com/item?id=49328844",
+    "source": "thenextweb.com",
+    "date": "2026-08-17T10:36:36Z",
+    "timestamp": 1786962996,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Trump-backed crypto firm offers AI from restricted Chinese companies",
+    "url": "https://www.reuters.com/world/china/trump-crypto-firm-backs-venture-offering-ai-restricted-chinese-companies-2026-08-17/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49328768",
+    "source": "reuters.com",
+    "date": "2026-08-17T10:25:52Z",
+    "timestamp": 1786962352,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Is Driving Up Treasury Yields: 'It Just Touches Everything'",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-17/ai-is-driving-up-treasury-yields-it-just-touches-everything",
+    "discussion_url": "https://news.ycombinator.com/item?id=49328705",
+    "source": "bloomberg.com",
+    "date": "2026-08-17T10:16:57Z",
+    "timestamp": 1786961817,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The CPU Comeback Is Upon Us",
+    "url": "https://spectrum.ieee.org/ai-cpu-comeback",
+    "discussion_url": "https://news.ycombinator.com/item?id=49327703",
+    "source": "spectrum.ieee.org",
+    "date": "2026-08-17T08:00:17Z",
+    "timestamp": 1786953617,
+    "category": "Computer Architecture"
   },
   {
     "title": "A third world engineer responds to “RISC-V: They should have known better”",
