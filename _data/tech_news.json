@@ -1,11 +1,128 @@
 [
   {
-    "title": "Xaidr – In-process runtime security and governance for AI agents",
-    "url": "https://github.com/delphisecurity/xaidr",
-    "discussion_url": "https://news.ycombinator.com/item?id=49322372",
+    "title": "AI Agent Safety Is Still Thinking Like Permissions",
+    "url": "https://jeffreyflynt02.medium.com/ai-agent-safety-is-still-thinking-like-permissions-45878337bd98",
+    "discussion_url": "https://news.ycombinator.com/item?id=49325639",
+    "source": "jeffreyflynt02.medium.com",
+    "date": "2026-08-17T01:32:23Z",
+    "timestamp": 1786930343,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why Chinese Citizens Are More Optimistic About AI Than Americans",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-14/why-ai-optimism-is-so-much-higher-in-china-than-the-us",
+    "discussion_url": "https://news.ycombinator.com/item?id=49325596",
+    "source": "bloomberg.com",
+    "date": "2026-08-17T01:25:44Z",
+    "timestamp": 1786929944,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The CLI your AI agent drives to manage your knowledge graph",
+    "url": "https://useokf.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49325279",
+    "source": "useokf.com",
+    "date": "2026-08-17T00:32:08Z",
+    "timestamp": 1786926728,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "With OpenRouter, Is Stripe Becoming the Amazon of AI",
+    "url": "https://github.com/getlago/lago/wiki/With-OpenRouter,-is-Stripe-becoming-the-Amazon-of-AI",
+    "discussion_url": "https://news.ycombinator.com/item?id=49324994",
     "source": "github.com",
-    "date": "2026-08-16T18:22:07Z",
-    "timestamp": 1786904527,
+    "date": "2026-08-16T23:47:45Z",
+    "timestamp": 1786924065,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49324712",
+    "source": "techcrunch.com",
+    "date": "2026-08-16T23:07:07Z",
+    "timestamp": 1786921627,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Slop Is Real",
+    "url": "https://aichatspot.online/what-is-ai-slop-and-does-it-really-ruin-youtube/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49324585",
+    "source": "aichatspot.online",
+    "date": "2026-08-16T22:52:39Z",
+    "timestamp": 1786920759,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
+    "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+    "discussion_url": "https://news.ycombinator.com/item?id=49324572",
+    "source": "businessinsider.com",
+    "date": "2026-08-16T22:50:38Z",
+    "timestamp": 1786920638,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ukraine Finds Nvidia AI Chip in New Russian Missile, HUR Says",
+    "url": "https://www.kyivpost.com/post/82225",
+    "discussion_url": "https://news.ycombinator.com/item?id=49324442",
+    "source": "kyivpost.com",
+    "date": "2026-08-16T22:33:03Z",
+    "timestamp": 1786919583,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Legbar – live AI agent sessions beside GitHub CI, in one terminal",
+    "url": "https://github.com/gmhoward9289-ops/legbar",
+    "discussion_url": "https://news.ycombinator.com/item?id=49324201",
+    "source": "github.com",
+    "date": "2026-08-16T22:06:14Z",
+    "timestamp": 1786917974,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+    "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+    "discussion_url": "https://news.ycombinator.com/item?id=49323932",
+    "source": "futurism.com",
+    "date": "2026-08-16T21:34:06Z",
+    "timestamp": 1786916046,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Cutting GPU Inference Energy Use Without Touching the Model",
+    "url": "https://startupfortune.com/hexstellar-founder-on-cutting-gpu-inference-energy-use-without-touching-the-model/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49323745",
+    "source": "startupfortune.com",
+    "date": "2026-08-16T21:14:35Z",
+    "timestamp": 1786914875,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "AI Debt Failure Will Prompt Another Wave of Fed Bailouts [pdf]",
+    "url": "https://www.myrmikan.com/pub/Myrmikan_Research_2026_08_14.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=49323632",
+    "source": "myrmikan.com",
+    "date": "2026-08-16T21:01:17Z",
+    "timestamp": 1786914077,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Laws of Robotics",
+    "url": "https://github.com/Daniel-J-Mueller/Laws-of-Robotics/blob/main/Laws-of-Robotics.txt",
+    "discussion_url": "https://news.ycombinator.com/item?id=49323611",
+    "source": "github.com",
+    "date": "2026-08-16T20:59:38Z",
+    "timestamp": 1786913978,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"",
+    "url": "https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk",
+    "discussion_url": "https://news.ycombinator.com/item?id=49323456",
+    "source": "axios.com",
+    "date": "2026-08-16T20:38:41Z",
+    "timestamp": 1786912721,
     "category": "Machine Learning"
   },
   {
@@ -18,42 +135,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "The AI store manager fired its first human",
-    "url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee",
-    "discussion_url": "https://news.ycombinator.com/item?id=49322350",
-    "source": "thenextweb.com",
-    "date": "2026-08-16T18:19:47Z",
-    "timestamp": 1786904387,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "HEP-TH and AI",
-    "url": "https://www.math.columbia.edu/~woit/wordpress/?p=15818",
-    "discussion_url": "https://news.ycombinator.com/item?id=49322322",
-    "source": "math.columbia.edu",
-    "date": "2026-08-16T18:16:17Z",
-    "timestamp": 1786904177,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Evaluating AI Agents as Products",
-    "url": "https://www.marble.onl/posts/evaluating_ai_product_quality.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49322281",
-    "source": "marble.onl",
-    "date": "2026-08-16T18:11:27Z",
-    "timestamp": 1786903887,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI is not just one bubble, strategist says – but a 'rolling sequence of bubbles'",
-    "url": "https://fortune.com/2026/08/16/ai-bubble-sequence-saas-software-stocks-silver-prices-chipmakers/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49322233",
-    "source": "fortune.com",
-    "date": "2026-08-16T18:05:39Z",
-    "timestamp": 1786903539,
-    "category": "Machine Learning"
-  },
-  {
     "title": "I've built a free, open-source local and remote memory system for agentw and CL",
     "url": "https://www.lorekit.io/blog/give-your-agent-a-memory",
     "discussion_url": "https://news.ycombinator.com/item?id=49322206",
@@ -61,33 +142,6 @@
     "date": "2026-08-16T18:03:09Z",
     "timestamp": 1786903389,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Why all AI content sounds the same (and how to fix it)",
-    "url": "https://dreasays.substack.com/p/why-all-ai-content-sounds-exactly",
-    "discussion_url": "https://news.ycombinator.com/item?id=49322037",
-    "source": "dreasays.substack.com",
-    "date": "2026-08-16T17:43:12Z",
-    "timestamp": 1786902192,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Can Guess Your Location from Social Media Photos with 87% to 91% Accuracy",
-    "url": "https://www.macobserver.com/news/ai-can-guess-your-location-from-social-media-photos-with-87-to-91-accuracy/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49321857",
-    "source": "macobserver.com",
-    "date": "2026-08-16T17:19:09Z",
-    "timestamp": 1786900749,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI won't solve the work-theater problem",
-    "url": "https://think-twice.me/?p=102",
-    "discussion_url": "https://news.ycombinator.com/item?id=49321743",
-    "source": "think-twice.me",
-    "date": "2026-08-16T17:03:50Z",
-    "timestamp": 1786899830,
-    "category": "Machine Learning"
   },
   {
     "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
@@ -99,15 +153,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "AI and the Changing Future of Mathematics",
-    "url": "https://www.understandingai.org/p/mathematicians-are-grappling-with",
-    "discussion_url": "https://news.ycombinator.com/item?id=49321638",
-    "source": "understandingai.org",
-    "date": "2026-08-16T16:50:56Z",
-    "timestamp": 1786899056,
-    "category": "Machine Learning"
-  },
-  {
     "title": "San Mateo County Moves to Regulate Humanoid Robots",
     "url": "https://www.humanoidsdaily.com/news/san-mateo-county-moves-to-regulate-humanoid-robots-threatening-teleoperation-business-models",
     "discussion_url": "https://news.ycombinator.com/item?id=49321620",
@@ -115,60 +160,6 @@
     "date": "2026-08-16T16:48:19Z",
     "timestamp": 1786898899,
     "category": "Physical AI"
-  },
-  {
-    "title": "Russian missile uses Nvidia AI chip to help target Ukraine",
-    "url": "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976",
-    "discussion_url": "https://news.ycombinator.com/item?id=49321617",
-    "source": "theregister.com",
-    "date": "2026-08-16T16:47:40Z",
-    "timestamp": 1786898860,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Why LLMs Are Unreliable Language Detectors",
-    "url": "https://igorstechnoclub.com/why-llms-are-unreliable-language-detectors/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49321559",
-    "source": "igorstechnoclub.com",
-    "date": "2026-08-16T16:38:45Z",
-    "timestamp": 1786898325,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Fastest Inference in MENA",
-    "url": "https://runinfra.ai/inference-api",
-    "discussion_url": "https://news.ycombinator.com/item?id=49321513",
-    "source": "runinfra.ai",
-    "date": "2026-08-16T16:32:26Z",
-    "timestamp": 1786897946,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Beyond Demo Day: Sorting and Value Added in Startup Accelerators [pdf]",
-    "url": "https://www.nber.org/system/files/working_papers/w35063/w35063.pdf",
-    "discussion_url": "https://news.ycombinator.com/item?id=49320931",
-    "source": "nber.org",
-    "date": "2026-08-16T15:24:49Z",
-    "timestamp": 1786893889,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "WAIC 2026: a glimpse of embodied AI innovations, humanoid robots [video]",
-    "url": "https://www.youtube.com/watch?v=rgYHEq9_SM0",
-    "discussion_url": "https://news.ycombinator.com/item?id=49318956",
-    "source": "youtube.com",
-    "date": "2026-08-16T11:16:33Z",
-    "timestamp": 1786878993,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
-    "url": "https://waku.sh",
-    "discussion_url": "https://news.ycombinator.com/item?id=49315709",
-    "source": "waku.sh",
-    "date": "2026-08-16T00:38:44Z",
-    "timestamp": 1786840724,
-    "category": "Computer Architecture"
   },
   {
     "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
@@ -195,15 +186,6 @@
     "source": "hwbusters.com",
     "date": "2026-08-13T22:01:04Z",
     "timestamp": 1786658464,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Fixing optical computing jitter via fluid dynamics in GPU registers",
-    "url": "https://github.com/PJHkorea/photonic-mesh-fng-router",
-    "discussion_url": "https://news.ycombinator.com/item?id=49228660",
-    "source": "github.com",
-    "date": "2026-08-09T05:22:44Z",
-    "timestamp": 1786252964,
     "category": "Computer Architecture"
   }
 ]
