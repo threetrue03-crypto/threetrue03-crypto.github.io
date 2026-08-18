@@ -1,5 +1,95 @@
 [
   {
+    "title": "A/B testing LLMs in production",
+    "url": "https://www.together.ai/blog/a-b-test-models-in-production",
+    "discussion_url": "https://news.ycombinator.com/item?id=49341617",
+    "source": "together.ai",
+    "date": "2026-08-18T05:28:23Z",
+    "timestamp": 1787030903,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Goody-2, the most responsible AI model (2024)",
+    "url": "https://www.goody2.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49341448",
+    "source": "goody2.ai",
+    "date": "2026-08-18T04:57:21Z",
+    "timestamp": 1787029041,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "DeepSeek-V4-Pro outperforms Fable 5 after fixing runtime inference control",
+    "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+    "discussion_url": "https://news.ycombinator.com/item?id=49341271",
+    "source": "github.com",
+    "date": "2026-08-18T04:30:11Z",
+    "timestamp": 1787027411,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why It Hasn't Happened Yet: Capable AI and Malicious Intent",
+    "url": "https://substack.norabble.com/p/why-it-hasnt-happened-yet",
+    "discussion_url": "https://news.ycombinator.com/item?id=49341070",
+    "source": "substack.norabble.com",
+    "date": "2026-08-18T03:54:28Z",
+    "timestamp": 1787025268,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "When it comes to LLM, it's you who's using it wrong",
+    "url": "https://www.vinoth.net/llm-wrong",
+    "discussion_url": "https://news.ycombinator.com/item?id=49340975",
+    "source": "vinoth.net",
+    "date": "2026-08-18T03:39:55Z",
+    "timestamp": 1787024395,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "San Diego 150 Years Ago: Rare AI Reconstruction Visuals [video]",
+    "url": "https://www.youtube.com/watch?v=qWaR_nc5sKM",
+    "discussion_url": "https://news.ycombinator.com/item?id=49340969",
+    "source": "youtube.com",
+    "date": "2026-08-18T03:38:37Z",
+    "timestamp": 1787024317,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A candy brand discovered TikTok made an AI clone of its founder to run ads [video]",
+    "url": "https://www.youtube.com/watch?v=itovmsMwus0",
+    "discussion_url": "https://news.ycombinator.com/item?id=49340602",
+    "source": "youtube.com",
+    "date": "2026-08-18T02:45:56Z",
+    "timestamp": 1787021156,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Three different papers pushed to ArXiv proving same 1986 conjecture; all use AI",
+    "url": "https://twitter.com/Quasilocal/status/2089408301427568691",
+    "discussion_url": "https://news.ycombinator.com/item?id=49340201",
+    "source": "twitter.com",
+    "date": "2026-08-18T01:56:38Z",
+    "timestamp": 1787018198,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Every student is cheating with AI",
+    "url": "https://ben.page/cheating",
+    "discussion_url": "https://news.ycombinator.com/item?id=49340134",
+    "source": "ben.page",
+    "date": "2026-08-18T01:45:38Z",
+    "timestamp": 1787017538,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "RISC-V Extension Landscape",
+    "url": "https://rpsene.github.io/riscv-extensions-landscape/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49339890",
+    "source": "rpsene.github.io",
+    "date": "2026-08-18T01:11:14Z",
+    "timestamp": 1787015474,
+    "category": "Computer Architecture"
+  },
+  {
     "title": "Show HN: Cogni: MCP memory for LLMs, with no LLM in the retrieval path",
     "url": "https://getcogni.io/",
     "discussion_url": "https://news.ycombinator.com/item?id=49339547",
@@ -27,87 +117,6 @@
     "category": "Machine Learning"
   },
   {
-    "title": "Rysh – an AI harness where Claude and Codex agents work as a team (Go)",
-    "url": "https://github.com/rysh-ai/rysh-cli-code",
-    "discussion_url": "https://news.ycombinator.com/item?id=49338780",
-    "source": "github.com",
-    "date": "2026-08-17T22:51:16Z",
-    "timestamp": 1787007076,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Cumora, a cross-platform team chat where AI agents work alongside humans",
-    "url": "https://github.com/yetone/cumora",
-    "discussion_url": "https://news.ycombinator.com/item?id=49338707",
-    "source": "github.com",
-    "date": "2026-08-17T22:46:00Z",
-    "timestamp": 1787006760,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Sources: NBA has no evidence Ballmer funneled money to Leonard via sponsors",
-    "url": "https://www.espn.com.au/nba/story/_/id/49639157/nba-la-clippers-aspiration-investigation-steve-ballmer-kawhi-leonard",
-    "discussion_url": "https://news.ycombinator.com/item?id=49338674",
-    "source": "espn.com.au",
-    "date": "2026-08-17T22:42:42Z",
-    "timestamp": 1787006562,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI writes dead code – the Go team's deadcode tool finds it in one command",
-    "url": "https://towardsdev.com/how-to-find-and-remove-the-dead-code-your-agent-wrote-752eb1e738d0?sk=283d17fe49cb51c9936d99371e7a9d2a",
-    "discussion_url": "https://news.ycombinator.com/item?id=49338608",
-    "source": "towardsdev.com",
-    "date": "2026-08-17T22:36:06Z",
-    "timestamp": 1787006166,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The bitter lesson is an observation in artificial intelligence",
-    "url": "https://en.wikipedia.org/wiki/Bitter_lesson",
-    "discussion_url": "https://news.ycombinator.com/item?id=49338480",
-    "source": "en.wikipedia.org",
-    "date": "2026-08-17T22:22:28Z",
-    "timestamp": 1787005348,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Agentic AI in a Smolbox",
-    "url": "https://remyhax.xyz/posts/smolbox/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49338338",
-    "source": "remyhax.xyz",
-    "date": "2026-08-17T22:07:38Z",
-    "timestamp": 1787004458,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "My friends all hate AI; I just joined an AI startup",
-    "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49338139",
-    "source": "fast.ai",
-    "date": "2026-08-17T21:47:30Z",
-    "timestamp": 1787003250,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Foreign psyops campaign targeting American consumer AI (2025)",
-    "url": "https://www.ynetnews.com/tech-and-digital/article/rj00kxqzaxx",
-    "discussion_url": "https://news.ycombinator.com/item?id=49338098",
-    "source": "ynetnews.com",
-    "date": "2026-08-17T21:44:05Z",
-    "timestamp": 1787003045,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "EY turning internships into yearlong residencies as AI changes entry-level work",
-    "url": "https://www.businessinsider.com/ey-internship-residency-career-ai-skills-2026-8",
-    "discussion_url": "https://news.ycombinator.com/item?id=49338000",
-    "source": "businessinsider.com",
-    "date": "2026-08-17T21:36:25Z",
-    "timestamp": 1787002585,
-    "category": "Machine Learning"
-  },
-  {
     "title": "The future is robotics (data)",
     "url": "https://www.giete.ma/blog/robotics",
     "discussion_url": "https://news.ycombinator.com/item?id=49337660",
@@ -115,15 +124,6 @@
     "date": "2026-08-17T21:08:22Z",
     "timestamp": 1787000902,
     "category": "Physical AI"
-  },
-  {
-    "title": "Offloading Rust to GPUs Proves Capable of High Performance with Memory Safety",
-    "url": "https://www.phoronix.com/news/LLVM-Offload-Rust-Performance",
-    "discussion_url": "https://news.ycombinator.com/item?id=49337193",
-    "source": "phoronix.com",
-    "date": "2026-08-17T20:30:39Z",
-    "timestamp": 1786998639,
-    "category": "Computer Architecture"
   },
   {
     "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
@@ -150,15 +150,6 @@
     "source": "rvembedded.com",
     "date": "2026-08-16T17:01:07Z",
     "timestamp": 1786899667,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-    "url": "https://arxiv.org/abs/2608.13122",
-    "discussion_url": "https://news.ycombinator.com/item?id=49314967",
-    "source": "arxiv.org",
-    "date": "2026-08-15T22:41:51Z",
-    "timestamp": 1786833711,
     "category": "Computer Architecture"
   },
   {
