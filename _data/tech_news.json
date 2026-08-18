@@ -1,21 +1,129 @@
 [
   {
-    "title": "Show HN: LLM choose-your-own-adventure game to go undercover as top CEOs",
-    "url": "https://undercover.games/play",
-    "discussion_url": "https://news.ycombinator.com/item?id=49335622",
-    "source": "undercover.games",
-    "date": "2026-08-17T18:35:25Z",
-    "timestamp": 1786991725,
+    "title": "Show HN: Cogni: MCP memory for LLMs, with no LLM in the retrieval path",
+    "url": "https://getcogni.io/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49339547",
+    "source": "getcogni.io",
+    "date": "2026-08-18T00:21:14Z",
+    "timestamp": 1787012474,
     "category": "Machine Learning"
   },
   {
-    "title": "Artisinal developer aschews LLM assistance",
-    "url": "https://www.jumboframeinternet.com/post/27/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49335529",
-    "source": "jumboframeinternet.com",
-    "date": "2026-08-17T18:28:39Z",
-    "timestamp": 1786991319,
+    "title": "Consumers Prefer AI Music Until They're Told It's AI",
+    "url": "https://www.promarket.org/2026/05/04/consumers-prefer-ai-music-until-theyre-told-its-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49339494",
+    "source": "promarket.org",
+    "date": "2026-08-18T00:15:23Z",
+    "timestamp": 1787012123,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: A benchmark for AI agent guardrails that caught my own plugin",
+    "url": "https://github.com/couldbeme/holdline",
+    "discussion_url": "https://news.ycombinator.com/item?id=49338963",
+    "source": "github.com",
+    "date": "2026-08-17T23:11:48Z",
+    "timestamp": 1787008308,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Rysh – an AI harness where Claude and Codex agents work as a team (Go)",
+    "url": "https://github.com/rysh-ai/rysh-cli-code",
+    "discussion_url": "https://news.ycombinator.com/item?id=49338780",
+    "source": "github.com",
+    "date": "2026-08-17T22:51:16Z",
+    "timestamp": 1787007076,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Cumora, a cross-platform team chat where AI agents work alongside humans",
+    "url": "https://github.com/yetone/cumora",
+    "discussion_url": "https://news.ycombinator.com/item?id=49338707",
+    "source": "github.com",
+    "date": "2026-08-17T22:46:00Z",
+    "timestamp": 1787006760,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Sources: NBA has no evidence Ballmer funneled money to Leonard via sponsors",
+    "url": "https://www.espn.com.au/nba/story/_/id/49639157/nba-la-clippers-aspiration-investigation-steve-ballmer-kawhi-leonard",
+    "discussion_url": "https://news.ycombinator.com/item?id=49338674",
+    "source": "espn.com.au",
+    "date": "2026-08-17T22:42:42Z",
+    "timestamp": 1787006562,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI writes dead code – the Go team's deadcode tool finds it in one command",
+    "url": "https://towardsdev.com/how-to-find-and-remove-the-dead-code-your-agent-wrote-752eb1e738d0?sk=283d17fe49cb51c9936d99371e7a9d2a",
+    "discussion_url": "https://news.ycombinator.com/item?id=49338608",
+    "source": "towardsdev.com",
+    "date": "2026-08-17T22:36:06Z",
+    "timestamp": 1787006166,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The bitter lesson is an observation in artificial intelligence",
+    "url": "https://en.wikipedia.org/wiki/Bitter_lesson",
+    "discussion_url": "https://news.ycombinator.com/item?id=49338480",
+    "source": "en.wikipedia.org",
+    "date": "2026-08-17T22:22:28Z",
+    "timestamp": 1787005348,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Agentic AI in a Smolbox",
+    "url": "https://remyhax.xyz/posts/smolbox/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49338338",
+    "source": "remyhax.xyz",
+    "date": "2026-08-17T22:07:38Z",
+    "timestamp": 1787004458,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "My friends all hate AI; I just joined an AI startup",
+    "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49338139",
+    "source": "fast.ai",
+    "date": "2026-08-17T21:47:30Z",
+    "timestamp": 1787003250,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Foreign psyops campaign targeting American consumer AI (2025)",
+    "url": "https://www.ynetnews.com/tech-and-digital/article/rj00kxqzaxx",
+    "discussion_url": "https://news.ycombinator.com/item?id=49338098",
+    "source": "ynetnews.com",
+    "date": "2026-08-17T21:44:05Z",
+    "timestamp": 1787003045,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "EY turning internships into yearlong residencies as AI changes entry-level work",
+    "url": "https://www.businessinsider.com/ey-internship-residency-career-ai-skills-2026-8",
+    "discussion_url": "https://news.ycombinator.com/item?id=49338000",
+    "source": "businessinsider.com",
+    "date": "2026-08-17T21:36:25Z",
+    "timestamp": 1787002585,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The future is robotics (data)",
+    "url": "https://www.giete.ma/blog/robotics",
+    "discussion_url": "https://news.ycombinator.com/item?id=49337660",
+    "source": "giete.ma",
+    "date": "2026-08-17T21:08:22Z",
+    "timestamp": 1787000902,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Offloading Rust to GPUs Proves Capable of High Performance with Memory Safety",
+    "url": "https://www.phoronix.com/news/LLVM-Offload-Rust-Performance",
+    "discussion_url": "https://news.ycombinator.com/item?id=49337193",
+    "source": "phoronix.com",
+    "date": "2026-08-17T20:30:39Z",
+    "timestamp": 1786998639,
+    "category": "Computer Architecture"
   },
   {
     "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
@@ -25,105 +133,6 @@
     "date": "2026-08-17T18:28:07Z",
     "timestamp": 1786991287,
     "category": "Computer Vision"
-  },
-  {
-    "title": "AI alignment as continuation control: 31,430 frozen trials",
-    "url": "https://zenodo.org/records/21696066",
-    "discussion_url": "https://news.ycombinator.com/item?id=49335495",
-    "source": "zenodo.org",
-    "date": "2026-08-17T18:27:07Z",
-    "timestamp": 1786991227,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Tim O'Reilly – Why Open Source Matters for AI",
-    "url": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49335468",
-    "source": "oreillyradar.substack.com",
-    "date": "2026-08-17T18:25:53Z",
-    "timestamp": 1786991153,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Present and future of safe biological AI",
-    "url": "https://brianhie.com/present_and_future",
-    "discussion_url": "https://news.ycombinator.com/item?id=49335419",
-    "source": "brianhie.com",
-    "date": "2026-08-17T18:23:20Z",
-    "timestamp": 1786991000,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Everyone Is Still Undersizing the AI Market – Eric Vishria [video]",
-    "url": "https://www.youtube.com/watch?v=0e7aG_MIHlQ",
-    "discussion_url": "https://news.ycombinator.com/item?id=49335391",
-    "source": "youtube.com",
-    "date": "2026-08-17T18:21:41Z",
-    "timestamp": 1786990901,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google Aims to Boost AI with Purchase of Spirit Airlines Data",
-    "url": "https://news.bloomberglaw.com/bankruptcy-law/google-aims-to-boost-ai-with-purchase-of-spirit-airlines-data",
-    "discussion_url": "https://news.ycombinator.com/item?id=49335370",
-    "source": "news.bloomberglaw.com",
-    "date": "2026-08-17T18:20:41Z",
-    "timestamp": 1786990841,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Bounding GPU Opportunity and Avoiding Host Round Trips in LLM-Agent Control",
-    "url": "https://arxiv.org/abs/2608.12123",
-    "discussion_url": "https://news.ycombinator.com/item?id=49335310",
-    "source": "arxiv.org",
-    "date": "2026-08-17T18:16:51Z",
-    "timestamp": 1786990611,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49335216",
-    "source": "techcrunch.com",
-    "date": "2026-08-17T18:10:16Z",
-    "timestamp": 1786990216,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "TamedTable – AI ETL in Natural Language",
-    "url": "https://www.tamedtable.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49335191",
-    "source": "tamedtable.com",
-    "date": "2026-08-17T18:07:59Z",
-    "timestamp": 1786990079,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Crohn's AI",
-    "url": "https://crohns.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49335103",
-    "source": "crohns.ai",
-    "date": "2026-08-17T18:01:27Z",
-    "timestamp": 1786989687,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Training AI Scientists to Replicate Research",
-    "url": "https://arxiv.org/abs/2608.13331",
-    "discussion_url": "https://news.ycombinator.com/item?id=49335040",
-    "source": "arxiv.org",
-    "date": "2026-08-17T17:57:30Z",
-    "timestamp": 1786989450,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Apple AirTag reveals how Amazon destroys rare books for AI training",
-    "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49335009",
-    "source": "the-decoder.com",
-    "date": "2026-08-17T17:55:50Z",
-    "timestamp": 1786989350,
-    "category": "Machine Learning"
   },
   {
     "title": "GPU Offload in Rust: Portable, Safe, and Fast",
@@ -150,15 +159,6 @@
     "source": "arxiv.org",
     "date": "2026-08-15T22:41:51Z",
     "timestamp": 1786833711,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "RISC-V: They Should Have Known Better",
-    "url": "https://dmitry.gr/?r=06.+Thoughts&proj=12.+RV",
-    "discussion_url": "https://news.ycombinator.com/item?id=49298035",
-    "source": "dmitry.gr",
-    "date": "2026-08-14T12:50:56Z",
-    "timestamp": 1786711856,
     "category": "Computer Architecture"
   },
   {
