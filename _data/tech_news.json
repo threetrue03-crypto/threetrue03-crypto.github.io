@@ -1,138 +1,156 @@
 [
   {
-    "title": "Show HN: Engrava – a local graph memory database for AI agents (SQLite, MIT)",
-    "url": "https://github.com/sovantica/engrava",
-    "discussion_url": "https://news.ycombinator.com/item?id=49345004",
-    "source": "github.com",
-    "date": "2026-08-18T13:01:08Z",
-    "timestamp": 1787058068,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Stock Research Assistant · Streamlit",
-    "url": "https://ai-stock-research-kiaan.streamlit.app",
-    "discussion_url": "https://news.ycombinator.com/item?id=49344883",
-    "source": "ai-stock-research-kiaan.streamlit.app",
-    "date": "2026-08-18T12:49:03Z",
-    "timestamp": 1787057343,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Reddit's AI is turning posts into podcasts and short videos",
-    "url": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
-    "discussion_url": "https://news.ycombinator.com/item?id=49344869",
-    "source": "theverge.com",
-    "date": "2026-08-18T12:47:43Z",
-    "timestamp": 1787057263,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Capitalizing Untethered AI Agents",
-    "url": "https://soniafpearson.substack.com/p/capitalizing-untethered-ai-agents",
-    "discussion_url": "https://news.ycombinator.com/item?id=49344806",
-    "source": "soniafpearson.substack.com",
-    "date": "2026-08-18T12:42:17Z",
-    "timestamp": 1787056937,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "State Farm defense lawyers admit AI generated fake cases in LA lawsuit",
-    "url": "https://calmatters.org/economy/2026/08/state-farm-lawsuit-ai-hallucinations/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49344577",
-    "source": "calmatters.org",
-    "date": "2026-08-18T12:15:15Z",
-    "timestamp": 1787055315,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Taxing AI to Help Workers Sounds Good, but Public Deserves More",
-    "url": "https://news.bloombergtax.com/tax-insights-and-commentary/taxing-ai-to-help-workers-sounds-good-but-public-deserves-more",
-    "discussion_url": "https://news.ycombinator.com/item?id=49344528",
-    "source": "news.bloombergtax.com",
-    "date": "2026-08-18T12:10:52Z",
-    "timestamp": 1787055052,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: AI Resume Optimization Tool for Specific Job Positions",
-    "url": "https://aiomniu.top/services/resume-builder",
-    "discussion_url": "https://news.ycombinator.com/item?id=49344427",
-    "source": "aiomniu.top",
-    "date": "2026-08-18T12:02:25Z",
-    "timestamp": 1787054545,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems (Anthropic)",
-    "url": "https://arxiv.org/abs/2608.10218",
-    "discussion_url": "https://news.ycombinator.com/item?id=49344407",
-    "source": "arxiv.org",
-    "date": "2026-08-18T12:01:00Z",
-    "timestamp": 1787054460,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Rewriting a production compiler's IR with AI agents in five weeks",
-    "url": "https://github.com/CommanderTvis/writing/tree/main/rr-truffle-rewrite",
-    "discussion_url": "https://news.ycombinator.com/item?id=49344173",
-    "source": "github.com",
-    "date": "2026-08-18T11:35:21Z",
-    "timestamp": 1787052921,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "We still don't know how people are using AI",
-    "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49343892",
-    "source": "technologyreview.com",
-    "date": "2026-08-18T11:01:43Z",
-    "timestamp": 1787050903,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: AirStats – Mac menu bar system monitor, 0.046% CPU idle, MIT",
-    "url": "https://github.com/byrencheema/airstats",
-    "discussion_url": "https://news.ycombinator.com/item?id=49343879",
-    "source": "github.com",
-    "date": "2026-08-18T11:00:07Z",
-    "timestamp": 1787050807,
+    "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+    "url": "https://pantheongpu.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49350637",
+    "source": "pantheongpu.com",
+    "date": "2026-08-18T18:47:51Z",
+    "timestamp": 1787078871,
     "category": "Computer Architecture"
   },
   {
-    "title": "ARM64 BBML3 Feature Ready with Linux 7.3, Nvidia Olympus Workarounds",
-    "url": "https://www.phoronix.com/news/ARM64-Linux-7.3",
-    "discussion_url": "https://news.ycombinator.com/item?id=49343849",
-    "source": "phoronix.com",
-    "date": "2026-08-18T10:57:34Z",
-    "timestamp": 1787050654,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Operation Blue Skies: Reducing aviation climate impact with AI",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49343727",
-    "source": "blog.google",
-    "date": "2026-08-18T10:40:27Z",
-    "timestamp": 1787049627,
+    "title": "Google Workspace will enable AI note-taking by default for some customers",
+    "url": "https://workspaceupdates.googleblog.com/2026/07/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49350432",
+    "source": "workspaceupdates.googleblog.com",
+    "date": "2026-08-18T18:36:34Z",
+    "timestamp": 1787078194,
     "category": "Machine Learning"
   },
   {
-    "title": "How Krackpot works: secp256k1, SHA-256 and RIPEMD-160 in WebGPU",
-    "url": "https://krackpot.io/blog/how-it-works",
-    "discussion_url": "https://news.ycombinator.com/item?id=49343646",
-    "source": "krackpot.io",
-    "date": "2026-08-18T10:26:32Z",
-    "timestamp": 1787048792,
+    "title": "Show HN: Deft Writing, an AI lab for non-slop LLMs",
+    "url": "https://deftwriting.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49350362",
+    "source": "deftwriting.com",
+    "date": "2026-08-18T18:33:05Z",
+    "timestamp": 1787077985,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OpenAI introduces 'ChatGPT for Teens' as AI safety concerns mount",
+    "url": "https://www.latimes.com/business/story/2026-08-18/openai-introduces-chatgpt-for-teens-as-ai-safety-concerns-mount",
+    "discussion_url": "https://news.ycombinator.com/item?id=49350212",
+    "source": "latimes.com",
+    "date": "2026-08-18T18:24:50Z",
+    "timestamp": 1787077490,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OpenAI Partnering with CodeAI to prepare the first AI generation",
+    "url": "https://openai.com/index/partnering-with-codeai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49350191",
+    "source": "openai.com",
+    "date": "2026-08-18T18:24:03Z",
+    "timestamp": 1787077443,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Google is buying all of Spirit Airlines' data to feed its AI models",
+    "url": "https://www.cnn.com/2026/08/18/business/google-spirit-airlines-data",
+    "discussion_url": "https://news.ycombinator.com/item?id=49350187",
+    "source": "cnn.com",
+    "date": "2026-08-18T18:23:48Z",
+    "timestamp": 1787077428,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Humanoid Robots Need a Supply Chain in North America",
+    "url": "https://www.bloomberg.com/opinion/articles/2026-08-18/humanoid-robots-need-a-supply-chain-in-north-america",
+    "discussion_url": "https://news.ycombinator.com/item?id=49350130",
+    "source": "bloomberg.com",
+    "date": "2026-08-18T18:21:40Z",
+    "timestamp": 1787077300,
+    "category": "Physical AI"
+  },
+  {
+    "title": "3D Model Markets Are Being Flooded with AI Sellers, but No One's Buying",
+    "url": "https://kotaku.com/3d-model-markets-are-being-flooded-with-ai-sellers-but-no-ones-buying-2000724790",
+    "discussion_url": "https://news.ycombinator.com/item?id=49349802",
+    "source": "kotaku.com",
+    "date": "2026-08-18T18:01:19Z",
+    "timestamp": 1787076079,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Craton Bolt – A Pure Rust, JIT-Compiled GPU SQL Engine",
+    "url": "https://github.com/craton-co/craton-bolt",
+    "discussion_url": "https://news.ycombinator.com/item?id=49349785",
+    "source": "github.com",
+    "date": "2026-08-18T18:00:22Z",
+    "timestamp": 1787076022,
     "category": "Computer Architecture"
   },
   {
-    "title": "AI automation: Lock in payroll savings or reinvest capacity into growth",
-    "url": "https://urnicus.com/blog/the-quiet-cost/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49343598",
-    "source": "urnicus.com",
-    "date": "2026-08-18T10:18:49Z",
-    "timestamp": 1787048329,
+    "title": "Show HN: Unigram: encode bytes as words that cost one LLM token",
+    "url": "https://github.com/bleugreen/unigram",
+    "discussion_url": "https://news.ycombinator.com/item?id=49349738",
+    "source": "github.com",
+    "date": "2026-08-18T17:58:17Z",
+    "timestamp": 1787075897,
     "category": "Machine Learning"
+  },
+  {
+    "title": "AI automation startup Relay.app shuts down, staff joins Google's Chrome team",
+    "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49349596",
+    "source": "techcrunch.com",
+    "date": "2026-08-18T17:49:57Z",
+    "timestamp": 1787075397,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Watermarking, Nazi Enigmas, and Sherlock Holmes",
+    "url": "https://kolja.wawrowsky.com/posts/invisible-fingerprints/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49349594",
+    "source": "kolja.wawrowsky.com",
+    "date": "2026-08-18T17:49:53Z",
+    "timestamp": 1787075393,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "IP can't save you from AI",
+    "url": "https://pluralistic.net/2026/08/18/enron-corpus/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49349355",
+    "source": "pluralistic.net",
+    "date": "2026-08-18T17:36:24Z",
+    "timestamp": 1787074584,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI chip startup Etched doubles valuation to $21B in under a month",
+    "url": "https://www.reuters.com/technology/ai-chip-startup-etched-valued-21-billion-latest-funding-round-2026-08-18/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49349122",
+    "source": "reuters.com",
+    "date": "2026-08-18T17:23:34Z",
+    "timestamp": 1787073814,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A 24-Year-Old Blew Up a $45B AI Fund",
+    "url": "https://rubbishtalk.com/finance/how-a-24-year-old-blew-up-a-45-billion-ai-fund/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49348898",
+    "source": "rubbishtalk.com",
+    "date": "2026-08-18T17:10:36Z",
+    "timestamp": 1787073036,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+    "url": "https://machine0.io",
+    "discussion_url": "https://news.ycombinator.com/item?id=49348136",
+    "source": "machine0.io",
+    "date": "2026-08-18T16:26:42Z",
+    "timestamp": 1787070402,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "America Wants to Make Its Own Humanoid Robots. That Won't Be Easy",
+    "url": "https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49346724",
+    "source": "nytimes.com",
+    "date": "2026-08-18T15:05:33Z",
+    "timestamp": 1787065533,
+    "category": "Physical AI"
   },
   {
     "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
@@ -159,15 +177,6 @@
     "source": "rvembedded.com",
     "date": "2026-08-16T17:01:07Z",
     "timestamp": 1786899667,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Chestnut – eGPU dock with open-source firmware",
-    "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49292385",
-    "source": "hwbusters.com",
-    "date": "2026-08-13T22:01:04Z",
-    "timestamp": 1786658464,
     "category": "Computer Architecture"
   }
 ]
