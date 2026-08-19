@@ -1,57 +1,147 @@
 [
   {
-    "title": "Show HN: JobEasyApply – AI job auto-applier for LinkedIn, Greenhouse and Lever",
-    "url": "https://jobeasyapply.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49360928",
-    "source": "jobeasyapply.com",
-    "date": "2026-08-19T12:53:07Z",
-    "timestamp": 1787143987,
+    "title": "UC Berkeley professor admits to using AI in op-ed",
+    "url": "https://www.dailycal.org/news/campus/uc-berkeley-professor-admits-to-using-ai-in-op-ed-calling-out-students-lack-of/article_be1360f7-6e2a-42f6-ae76-f05d8cee74c4.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49365646",
+    "source": "dailycal.org",
+    "date": "2026-08-19T18:50:37Z",
+    "timestamp": 1787165437,
     "category": "Machine Learning"
   },
   {
-    "title": "Can an LLM make a feature-length movie on its own?",
-    "url": "https://www.lesswrong.com/posts/24RKHEkwgZ6Hm6ygY/can-an-llm-make-a-feature-length-movie-on-its-own",
-    "discussion_url": "https://news.ycombinator.com/item?id=49360802",
-    "source": "lesswrong.com",
-    "date": "2026-08-19T12:42:42Z",
-    "timestamp": 1787143362,
+    "title": "AI is helping patients to solve their medical mysteries",
+    "url": "https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25",
+    "discussion_url": "https://news.ycombinator.com/item?id=49365345",
+    "source": "wsj.com",
+    "date": "2026-08-19T18:29:40Z",
+    "timestamp": 1787164180,
     "category": "Machine Learning"
   },
   {
-    "title": "AI acts as ideological chameleon and deepen political polarization, study find",
-    "url": "https://agencia.fapesp.br/artificial-intelligence-acts-as-an-ideological-chameleon-and-may-deepen-political-polarization-study-finds/59001",
-    "discussion_url": "https://news.ycombinator.com/item?id=49360734",
-    "source": "agencia.fapesp.br",
-    "date": "2026-08-19T12:36:17Z",
-    "timestamp": 1787142977,
+    "title": "Rare London bans AI books, asks attendees for help identifying authors using AI",
+    "url": "https://jamesrblatch.substack.com/p/is-it-me-or-is-this-sinister",
+    "discussion_url": "https://news.ycombinator.com/item?id=49365337",
+    "source": "jamesrblatch.substack.com",
+    "date": "2026-08-19T18:29:16Z",
+    "timestamp": 1787164156,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Starwell – give AI agents real statistics instead of made-up numbers",
-    "url": "https://starwell.dev/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49360697",
-    "source": "starwell.dev",
-    "date": "2026-08-19T12:33:29Z",
-    "timestamp": 1787142809,
+    "title": "American AI May Not Survive Chinese Open-Source",
+    "url": "https://www.palladiummag.com/2026/08/19/american-ai-may-not-survive-chinese-open-source/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49365301",
+    "source": "palladiummag.com",
+    "date": "2026-08-19T18:27:43Z",
+    "timestamp": 1787164063,
     "category": "Machine Learning"
   },
   {
-    "title": "Why AI Won't Replace Your Job but Will Change How You Do It",
-    "url": "https://daydreamsinruby.com/blog/2026-04-08-ai-changing-your-job/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49360658",
-    "source": "daydreamsinruby.com",
-    "date": "2026-08-19T12:29:47Z",
-    "timestamp": 1787142587,
+    "title": "Founder of Z.ai and Tsinghua Professor Jie Tang on scaling LLM",
+    "url": "https://twitter.com/hsu_steve/status/2090050721307611414",
+    "discussion_url": "https://news.ycombinator.com/item?id=49365249",
+    "source": "twitter.com",
+    "date": "2026-08-19T18:24:31Z",
+    "timestamp": 1787163871,
     "category": "Machine Learning"
   },
   {
-    "title": "AI Agents Need Good Management Too",
-    "url": "https://www.danstroot.com/posts/2026-08-17-ai-needs-good-management-too",
-    "discussion_url": "https://news.ycombinator.com/item?id=49360648",
-    "source": "danstroot.com",
-    "date": "2026-08-19T12:29:06Z",
-    "timestamp": 1787142546,
+    "title": "Advertising Built for AI Agents",
+    "url": "https://themobian.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49365155",
+    "source": "themobian.ai",
+    "date": "2026-08-19T18:18:41Z",
+    "timestamp": 1787163521,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Inference Engineering: A free book on the systems behind AI inference",
+    "url": "https://www.baseten.co/inference-engineering/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49364934",
+    "source": "baseten.co",
+    "date": "2026-08-19T18:00:59Z",
+    "timestamp": 1787162459,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Unitree's humanoid robot jumps 2 meters, hits 12.66M/s to break human records",
+    "url": "https://www.globaltimes.cn/page/202608/1368390.shtml",
+    "discussion_url": "https://news.ycombinator.com/item?id=49364872",
+    "source": "globaltimes.cn",
+    "date": "2026-08-19T17:56:33Z",
+    "timestamp": 1787162193,
+    "category": "Physical AI"
+  },
+  {
+    "title": "How to Use Harness Engineering to Remove AI Tells",
+    "url": "https://meshintelligence.substack.com/p/how-to-use-harness-engineering-to",
+    "discussion_url": "https://news.ycombinator.com/item?id=49364868",
+    "source": "meshintelligence.substack.com",
+    "date": "2026-08-19T17:56:16Z",
+    "timestamp": 1787162176,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "url": "https://arxiv.org/abs/2608.09867",
+    "discussion_url": "https://news.ycombinator.com/item?id=49364397",
+    "source": "arxiv.org",
+    "date": "2026-08-19T17:19:22Z",
+    "timestamp": 1787159962,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "S1-mini, Superwhisper's first open-weights language model",
+    "url": "https://huggingface.co/superwhisper/s1-mini",
+    "discussion_url": "https://news.ycombinator.com/item?id=49364361",
+    "source": "huggingface.co",
+    "date": "2026-08-19T17:17:30Z",
+    "timestamp": 1787159850,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Etched AI valuation doubles to $21B in a month",
+    "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49364142",
+    "source": "techcrunch.com",
+    "date": "2026-08-19T17:00:45Z",
+    "timestamp": 1787158845,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Thunder Compute raises $13M Series A to squeeze more work out of idle GPUs",
+    "url": "https://siliconangle.com/2026/08/19/thunder-compute-raises-13m-squeeze-work-idle-gpus/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49364048",
+    "source": "siliconangle.com",
+    "date": "2026-08-19T16:53:20Z",
+    "timestamp": 1787158400,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Cerebras chips rival Nvidia GPUs for AI [video]",
+    "url": "https://www.youtube.com/watch?v=qC_lCFTOJU0",
+    "discussion_url": "https://news.ycombinator.com/item?id=49364019",
+    "source": "youtube.com",
+    "date": "2026-08-19T16:51:23Z",
+    "timestamp": 1787158283,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Naeos – an engineering system for AI coding agents",
+    "url": "https://github.com/NAEOS-foundation/naeos",
+    "discussion_url": "https://news.ycombinator.com/item?id=49363778",
+    "source": "github.com",
+    "date": "2026-08-19T16:34:02Z",
+    "timestamp": 1787157242,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "InstrSem: Automatically Inferring Semantics of (Undocumented) CPU Instructions",
+    "url": "https://roots.ec/publications/hetterich2026instrsem",
+    "discussion_url": "https://news.ycombinator.com/item?id=49363661",
+    "source": "roots.ec",
+    "date": "2026-08-19T16:25:24Z",
+    "timestamp": 1787156724,
+    "category": "Computer Architecture"
   },
   {
     "title": "Geolocating a random island using geometry and CUDA programming",
@@ -60,96 +150,6 @@
     "source": "yassa9.github.io",
     "date": "2026-08-19T12:19:52Z",
     "timestamp": 1787141992,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "OpenAI slows model training to bolster security after Hugging Face hack",
-    "url": "https://www.reuters.com/technology/openai-slows-model-training-bolster-security-after-hugging-face-hack-2026-08-18/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49360471",
-    "source": "reuters.com",
-    "date": "2026-08-19T12:12:11Z",
-    "timestamp": 1787141531,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Anthropic Posts First Profitable Quarter in Frontier AI",
-    "url": "https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49360469",
-    "source": "forbes.com",
-    "date": "2026-08-19T12:11:58Z",
-    "timestamp": 1787141518,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Protecting the grid with artificial intelligence (2025)",
-    "url": "https://www.sandia.gov/labnews/2025/09/04/protecting-the-grid-with-artificial-intelligence/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49360428",
-    "source": "sandia.gov",
-    "date": "2026-08-19T12:07:59Z",
-    "timestamp": 1787141279,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: LLM-Shield-Proxy Zero-Egress PII Streaming Proxy (55MB RAM)",
-    "url": "https://github.com/ninadphalak/LLM-Shield-Proxy",
-    "discussion_url": "https://news.ycombinator.com/item?id=49360413",
-    "source": "github.com",
-    "date": "2026-08-19T12:06:23Z",
-    "timestamp": 1787141183,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: Is it safe to pass user input to Ollama? any way to sanitize it?",
-    "url": "https://news.ycombinator.com/item?id=49360318",
-    "discussion_url": "https://news.ycombinator.com/item?id=49360318",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-19T11:56:55Z",
-    "timestamp": 1787140615,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Real-time argument duello game – AI judge decides who's right",
-    "url": "https://wram.chat",
-    "discussion_url": "https://news.ycombinator.com/item?id=49360270",
-    "source": "wram.chat",
-    "date": "2026-08-19T11:50:17Z",
-    "timestamp": 1787140217,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The AI storage pitch is a load balancing problem",
-    "url": "https://dev.profullstack.com/~anthony/blog/023-post.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49360198",
-    "source": "dev.profullstack.com",
-    "date": "2026-08-19T11:41:31Z",
-    "timestamp": 1787139691,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Chinese humanoid robot maker surges 600% in trading debut",
-    "url": "https://www.ft.com/content/14cd8246-7fb1-4f8f-81b4-8de11ced79e5",
-    "discussion_url": "https://news.ycombinator.com/item?id=49359330",
-    "source": "ft.com",
-    "date": "2026-08-19T10:02:49Z",
-    "timestamp": 1787133769,
-    "category": "Physical AI"
-  },
-  {
-    "title": "US Military funding propelled China's robot dogs",
-    "url": "https://www.reuters.com/world/asia-pacific/how-us-military-funding-propelled-chinas-robot-dogs-2026-08-18/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49358719",
-    "source": "reuters.com",
-    "date": "2026-08-19T08:34:09Z",
-    "timestamp": 1787128449,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Humble Bundle: Embedded Firmware Books on ARM, RTOS, RISC-V and Linux",
-    "url": "https://www.humblebundle.com/books/embedded-firmware-developer-toolkit-packt-books",
-    "discussion_url": "https://news.ycombinator.com/item?id=49357970",
-    "source": "humblebundle.com",
-    "date": "2026-08-19T07:07:17Z",
-    "timestamp": 1787123237,
     "category": "Computer Architecture"
   },
   {
