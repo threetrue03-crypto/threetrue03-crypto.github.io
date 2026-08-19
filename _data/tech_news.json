@@ -1,5 +1,176 @@
 [
   {
+    "title": "The Economics and Engineering of On-Premises LLMs",
+    "url": "https://cacm.acm.org/blogcacm/the-economics-and-engineering-of-on-premises-llms/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49355231",
+    "source": "cacm.acm.org",
+    "date": "2026-08-19T01:06:03Z",
+    "timestamp": 1787101563,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "SecIT Bench A frontier benchmark for AI agents in IT and security workflows",
+    "url": "https://secitbench.cribl.io/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49354946",
+    "source": "secitbench.cribl.io",
+    "date": "2026-08-19T00:28:02Z",
+    "timestamp": 1787099282,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Deadline Dividend: What Faster Inference Buys",
+    "url": "https://deadline-dividend.onrender.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49354825",
+    "source": "deadline-dividend.onrender.com",
+    "date": "2026-08-19T00:14:45Z",
+    "timestamp": 1787098485,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Cerebras CS-4 rack systems juice chips for every last drop of AI performance",
+    "url": "https://www.theregister.com/systems/2026/08/19/cerebras-cs-4-rack-systems-juice-chips-for-every-last-drop-of-ai-performance/5289286",
+    "discussion_url": "https://news.ycombinator.com/item?id=49354816",
+    "source": "theregister.com",
+    "date": "2026-08-19T00:14:25Z",
+    "timestamp": 1787098465,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "discussion_url": "https://news.ycombinator.com/item?id=49354731",
+    "source": "theverge.com",
+    "date": "2026-08-19T00:07:06Z",
+    "timestamp": 1787098026,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Artificial intelligence boosts automated biolabs",
+    "url": "https://knowablemagazine.org/content/article/technology/2026/ai-boosts-biofoundries-synthetic-biology",
+    "discussion_url": "https://news.ycombinator.com/item?id=49354680",
+    "source": "knowablemagazine.org",
+    "date": "2026-08-18T23:59:29Z",
+    "timestamp": 1787097569,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Stanford's deterministic CUDA kernel verifier",
+    "url": "https://2026.splashcon.org/details/oopsla-2026/96/Equivalence-Checking-of-ML-GPU-Kernels",
+    "discussion_url": "https://news.ycombinator.com/item?id=49354321",
+    "source": "2026.splashcon.org",
+    "date": "2026-08-18T23:23:38Z",
+    "timestamp": 1787095418,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Inference Engineering by Philip Kiely – Digital Download",
+    "url": "https://www.baseten.co/inference-engineering/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49354292",
+    "source": "baseten.co",
+    "date": "2026-08-18T23:21:44Z",
+    "timestamp": 1787095304,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: How should I price an AI infrastructure platform?",
+    "url": "https://news.ycombinator.com/item?id=49354254",
+    "discussion_url": "https://news.ycombinator.com/item?id=49354254",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-18T23:19:22Z",
+    "timestamp": 1787095162,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Unitree Robotics IPO: \"Embodied AI\" Valuation Bubble?",
+    "url": "https://www.cnn.com/2026/08/18/tech/china-unitree-ipo-intl-hnk",
+    "discussion_url": "https://news.ycombinator.com/item?id=49354240",
+    "source": "cnn.com",
+    "date": "2026-08-18T23:18:29Z",
+    "timestamp": 1787095109,
+    "category": "Physical AI"
+  },
+  {
+    "title": "My AI Agents Ship Code While I Sleep. Nobody Reviews It",
+    "url": "https://goatsquadstudios.com/blog/how-i-work-with-ai-agents-autonomously",
+    "discussion_url": "https://news.ycombinator.com/item?id=49354107",
+    "source": "goatsquadstudios.com",
+    "date": "2026-08-18T23:06:19Z",
+    "timestamp": 1787094379,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Maritime, a platform for running AI agents for $1 a month",
+    "url": "https://maritime.sh",
+    "discussion_url": "https://news.ycombinator.com/item?id=49354052",
+    "source": "maritime.sh",
+    "date": "2026-08-18T23:02:32Z",
+    "timestamp": 1787094152,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLMs .what do you smoke beforehand?",
+    "url": "https://news.ycombinator.com/item?id=49353513",
+    "discussion_url": "https://news.ycombinator.com/item?id=49353513",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-18T22:14:35Z",
+    "timestamp": 1787091275,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Tail: A 0–5 scale for how much AI wrote this",
+    "url": "https://beaucronin.com/tail/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49353472",
+    "source": "beaucronin.com",
+    "date": "2026-08-18T22:11:35Z",
+    "timestamp": 1787091095,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ban on Chinese robots leaves U.S. startups stranded",
+    "url": "https://restofworld.org/2026/china-robot-ban-silicon-valley/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49353395",
+    "source": "restofworld.org",
+    "date": "2026-08-18T22:04:54Z",
+    "timestamp": 1787090694,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Agents for Robot Builders",
+    "url": "https://foxglove.dev/blog/foxglove-goes-agentic",
+    "discussion_url": "https://news.ycombinator.com/item?id=49352542",
+    "source": "foxglove.dev",
+    "date": "2026-08-18T20:52:30Z",
+    "timestamp": 1787086350,
+    "category": "Physical AI"
+  },
+  {
+    "title": "The safety robot that comes with instructions on how to kill it",
+    "url": "https://dangerousminds.net/pop-culture/safety-robot-that-comes-instructions-how-to-kill-it/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49352398",
+    "source": "dangerousminds.net",
+    "date": "2026-08-18T20:42:49Z",
+    "timestamp": 1787085769,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+    "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49351878",
+    "source": "arstechnica.com",
+    "date": "2026-08-18T20:07:06Z",
+    "timestamp": 1787083626,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "VCs Pour Billions into Physical AI as the Next Wave of AI Investing Takes Shape",
+    "url": "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49351184",
+    "source": "news.crunchbase.com",
+    "date": "2026-08-18T19:21:25Z",
+    "timestamp": 1787080885,
+    "category": "Physical AI"
+  },
+  {
     "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
     "url": "https://pantheongpu.com/",
     "discussion_url": "https://news.ycombinator.com/item?id=49350637",
@@ -9,174 +180,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Google Workspace will enable AI note-taking by default for some customers",
-    "url": "https://workspaceupdates.googleblog.com/2026/07/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49350432",
-    "source": "workspaceupdates.googleblog.com",
-    "date": "2026-08-18T18:36:34Z",
-    "timestamp": 1787078194,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Deft Writing, an AI lab for non-slop LLMs",
-    "url": "https://deftwriting.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49350362",
-    "source": "deftwriting.com",
-    "date": "2026-08-18T18:33:05Z",
-    "timestamp": 1787077985,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI introduces 'ChatGPT for Teens' as AI safety concerns mount",
-    "url": "https://www.latimes.com/business/story/2026-08-18/openai-introduces-chatgpt-for-teens-as-ai-safety-concerns-mount",
-    "discussion_url": "https://news.ycombinator.com/item?id=49350212",
-    "source": "latimes.com",
-    "date": "2026-08-18T18:24:50Z",
-    "timestamp": 1787077490,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI Partnering with CodeAI to prepare the first AI generation",
-    "url": "https://openai.com/index/partnering-with-codeai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49350191",
-    "source": "openai.com",
-    "date": "2026-08-18T18:24:03Z",
-    "timestamp": 1787077443,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google is buying all of Spirit Airlines' data to feed its AI models",
-    "url": "https://www.cnn.com/2026/08/18/business/google-spirit-airlines-data",
-    "discussion_url": "https://news.ycombinator.com/item?id=49350187",
-    "source": "cnn.com",
-    "date": "2026-08-18T18:23:48Z",
-    "timestamp": 1787077428,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Humanoid Robots Need a Supply Chain in North America",
-    "url": "https://www.bloomberg.com/opinion/articles/2026-08-18/humanoid-robots-need-a-supply-chain-in-north-america",
-    "discussion_url": "https://news.ycombinator.com/item?id=49350130",
-    "source": "bloomberg.com",
-    "date": "2026-08-18T18:21:40Z",
-    "timestamp": 1787077300,
-    "category": "Physical AI"
-  },
-  {
-    "title": "3D Model Markets Are Being Flooded with AI Sellers, but No One's Buying",
-    "url": "https://kotaku.com/3d-model-markets-are-being-flooded-with-ai-sellers-but-no-ones-buying-2000724790",
-    "discussion_url": "https://news.ycombinator.com/item?id=49349802",
-    "source": "kotaku.com",
-    "date": "2026-08-18T18:01:19Z",
-    "timestamp": 1787076079,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Craton Bolt – A Pure Rust, JIT-Compiled GPU SQL Engine",
-    "url": "https://github.com/craton-co/craton-bolt",
-    "discussion_url": "https://news.ycombinator.com/item?id=49349785",
-    "source": "github.com",
-    "date": "2026-08-18T18:00:22Z",
-    "timestamp": 1787076022,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Unigram: encode bytes as words that cost one LLM token",
-    "url": "https://github.com/bleugreen/unigram",
-    "discussion_url": "https://news.ycombinator.com/item?id=49349738",
-    "source": "github.com",
-    "date": "2026-08-18T17:58:17Z",
-    "timestamp": 1787075897,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI automation startup Relay.app shuts down, staff joins Google's Chrome team",
-    "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49349596",
-    "source": "techcrunch.com",
-    "date": "2026-08-18T17:49:57Z",
-    "timestamp": 1787075397,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Watermarking, Nazi Enigmas, and Sherlock Holmes",
-    "url": "https://kolja.wawrowsky.com/posts/invisible-fingerprints/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49349594",
-    "source": "kolja.wawrowsky.com",
-    "date": "2026-08-18T17:49:53Z",
-    "timestamp": 1787075393,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "IP can't save you from AI",
-    "url": "https://pluralistic.net/2026/08/18/enron-corpus/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49349355",
-    "source": "pluralistic.net",
-    "date": "2026-08-18T17:36:24Z",
-    "timestamp": 1787074584,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI chip startup Etched doubles valuation to $21B in under a month",
-    "url": "https://www.reuters.com/technology/ai-chip-startup-etched-valued-21-billion-latest-funding-round-2026-08-18/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49349122",
-    "source": "reuters.com",
-    "date": "2026-08-18T17:23:34Z",
-    "timestamp": 1787073814,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A 24-Year-Old Blew Up a $45B AI Fund",
-    "url": "https://rubbishtalk.com/finance/how-a-24-year-old-blew-up-a-45-billion-ai-fund/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49348898",
-    "source": "rubbishtalk.com",
-    "date": "2026-08-18T17:10:36Z",
-    "timestamp": 1787073036,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
     "url": "https://machine0.io",
     "discussion_url": "https://news.ycombinator.com/item?id=49348136",
     "source": "machine0.io",
     "date": "2026-08-18T16:26:42Z",
     "timestamp": 1787070402,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "America Wants to Make Its Own Humanoid Robots. That Won't Be Easy",
-    "url": "https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49346724",
-    "source": "nytimes.com",
-    "date": "2026-08-18T15:05:33Z",
-    "timestamp": 1787065533,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
-    "url": "https://blog.roboflow.com/roboflow-playground/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49335517",
-    "source": "blog.roboflow.com",
-    "date": "2026-08-17T18:28:07Z",
-    "timestamp": 1786991287,
-    "category": "Computer Vision"
-  },
-  {
-    "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-    "url": "https://arxiv.org/abs/2608.13759",
-    "discussion_url": "https://news.ycombinator.com/item?id=49334991",
-    "source": "arxiv.org",
-    "date": "2026-08-17T17:54:59Z",
-    "timestamp": 1786989299,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "A third world engineer responds to “RISC-V: They should have known better”",
-    "url": "https://rvembedded.com/blog_post/12/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49321717",
-    "source": "rvembedded.com",
-    "date": "2026-08-16T17:01:07Z",
-    "timestamp": 1786899667,
     "category": "Computer Architecture"
   }
 ]
