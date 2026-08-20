@@ -1,147 +1,129 @@
 [
   {
-    "title": "UC Berkeley professor admits to using AI in op-ed",
-    "url": "https://www.dailycal.org/news/campus/uc-berkeley-professor-admits-to-using-ai-in-op-ed-calling-out-students-lack-of/article_be1360f7-6e2a-42f6-ae76-f05d8cee74c4.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49365646",
-    "source": "dailycal.org",
-    "date": "2026-08-19T18:50:37Z",
-    "timestamp": 1787165437,
+    "title": "Round Hill Music Sues Suno and Anthropic for $1B over AI Training Data",
+    "url": "https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data",
+    "discussion_url": "https://news.ycombinator.com/item?id=49369063",
+    "source": "gadgetreview.com",
+    "date": "2026-08-20T00:40:14Z",
+    "timestamp": 1787186414,
     "category": "Machine Learning"
   },
   {
-    "title": "AI is helping patients to solve their medical mysteries",
-    "url": "https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25",
-    "discussion_url": "https://news.ycombinator.com/item?id=49365345",
-    "source": "wsj.com",
-    "date": "2026-08-19T18:29:40Z",
-    "timestamp": 1787164180,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Rare London bans AI books, asks attendees for help identifying authors using AI",
-    "url": "https://jamesrblatch.substack.com/p/is-it-me-or-is-this-sinister",
-    "discussion_url": "https://news.ycombinator.com/item?id=49365337",
-    "source": "jamesrblatch.substack.com",
-    "date": "2026-08-19T18:29:16Z",
-    "timestamp": 1787164156,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "American AI May Not Survive Chinese Open-Source",
-    "url": "https://www.palladiummag.com/2026/08/19/american-ai-may-not-survive-chinese-open-source/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49365301",
-    "source": "palladiummag.com",
-    "date": "2026-08-19T18:27:43Z",
-    "timestamp": 1787164063,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Founder of Z.ai and Tsinghua Professor Jie Tang on scaling LLM",
-    "url": "https://twitter.com/hsu_steve/status/2090050721307611414",
-    "discussion_url": "https://news.ycombinator.com/item?id=49365249",
-    "source": "twitter.com",
-    "date": "2026-08-19T18:24:31Z",
-    "timestamp": 1787163871,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Advertising Built for AI Agents",
-    "url": "https://themobian.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49365155",
-    "source": "themobian.ai",
-    "date": "2026-08-19T18:18:41Z",
-    "timestamp": 1787163521,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Inference Engineering: A free book on the systems behind AI inference",
-    "url": "https://www.baseten.co/inference-engineering/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49364934",
-    "source": "baseten.co",
-    "date": "2026-08-19T18:00:59Z",
-    "timestamp": 1787162459,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Unitree's humanoid robot jumps 2 meters, hits 12.66M/s to break human records",
-    "url": "https://www.globaltimes.cn/page/202608/1368390.shtml",
-    "discussion_url": "https://news.ycombinator.com/item?id=49364872",
-    "source": "globaltimes.cn",
-    "date": "2026-08-19T17:56:33Z",
-    "timestamp": 1787162193,
-    "category": "Physical AI"
-  },
-  {
-    "title": "How to Use Harness Engineering to Remove AI Tells",
-    "url": "https://meshintelligence.substack.com/p/how-to-use-harness-engineering-to",
-    "discussion_url": "https://news.ycombinator.com/item?id=49364868",
-    "source": "meshintelligence.substack.com",
-    "date": "2026-08-19T17:56:16Z",
-    "timestamp": 1787162176,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-    "url": "https://arxiv.org/abs/2608.09867",
-    "discussion_url": "https://news.ycombinator.com/item?id=49364397",
+    "title": "Universality of Gradient Descent Neural Network Training",
+    "url": "https://arxiv.org/abs/2007.13664",
+    "discussion_url": "https://news.ycombinator.com/item?id=49368828",
     "source": "arxiv.org",
-    "date": "2026-08-19T17:19:22Z",
-    "timestamp": 1787159962,
+    "date": "2026-08-20T00:05:12Z",
+    "timestamp": 1787184312,
     "category": "Machine Learning"
   },
   {
-    "title": "S1-mini, Superwhisper's first open-weights language model",
-    "url": "https://huggingface.co/superwhisper/s1-mini",
-    "discussion_url": "https://news.ycombinator.com/item?id=49364361",
-    "source": "huggingface.co",
-    "date": "2026-08-19T17:17:30Z",
-    "timestamp": 1787159850,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Etched AI valuation doubles to $21B in a month",
-    "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49364142",
-    "source": "techcrunch.com",
-    "date": "2026-08-19T17:00:45Z",
-    "timestamp": 1787158845,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Thunder Compute raises $13M Series A to squeeze more work out of idle GPUs",
-    "url": "https://siliconangle.com/2026/08/19/thunder-compute-raises-13m-squeeze-work-idle-gpus/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49364048",
-    "source": "siliconangle.com",
-    "date": "2026-08-19T16:53:20Z",
-    "timestamp": 1787158400,
+    "title": "Multi-Level Analysis of GPU Utilization in ML Training Workloads [pdf]",
+    "url": "https://past.date-conference.com/proceedings-archive/2024/DATA/300_pdf_upload.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=49368765",
+    "source": "past.date-conference.com",
+    "date": "2026-08-19T23:56:13Z",
+    "timestamp": 1787183773,
     "category": "Computer Architecture"
   },
   {
-    "title": "Cerebras chips rival Nvidia GPUs for AI [video]",
-    "url": "https://www.youtube.com/watch?v=qC_lCFTOJU0",
-    "discussion_url": "https://news.ycombinator.com/item?id=49364019",
-    "source": "youtube.com",
-    "date": "2026-08-19T16:51:23Z",
-    "timestamp": 1787158283,
-    "category": "Computer Architecture"
+    "title": "If You're Not Studying for Retention, Just Use AI",
+    "url": "https://www.fjapm.com/posts/if-youre-not-studying-for-retention-just-use-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49368725",
+    "source": "fjapm.com",
+    "date": "2026-08-19T23:50:50Z",
+    "timestamp": 1787183450,
+    "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Naeos – an engineering system for AI coding agents",
-    "url": "https://github.com/NAEOS-foundation/naeos",
-    "discussion_url": "https://news.ycombinator.com/item?id=49363778",
+    "title": "AI Hurtles Ahead",
+    "url": "https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead",
+    "discussion_url": "https://news.ycombinator.com/item?id=49368452",
+    "source": "oaktreecapital.com",
+    "date": "2026-08-19T23:21:08Z",
+    "timestamp": 1787181668,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Technical leaders should have the largest AI exhaust",
+    "url": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49368389",
+    "source": "schipper.ai",
+    "date": "2026-08-19T23:12:38Z",
+    "timestamp": 1787181158,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "\"Half-Day\": 0-Day in the Age of AI",
+    "url": "https://margin.re/2026/08/introducing-the-half-day-0-day-in-the-age-of-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49368297",
+    "source": "margin.re",
+    "date": "2026-08-19T23:03:53Z",
+    "timestamp": 1787180633,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Jason Kelce pleads with NFL fans to send urine to AI data centers",
+    "url": "https://www.themirror.com/sport/american-football/jason-kelce-pee-garage-beers-1989324",
+    "discussion_url": "https://news.ycombinator.com/item?id=49368248",
+    "source": "themirror.com",
+    "date": "2026-08-19T22:58:44Z",
+    "timestamp": 1787180324,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I had to unplug from AI to rediscover my love of writing",
+    "url": "https://www.science.org/content/article/i-had-unplug-ai-rediscover-my-love-writing",
+    "discussion_url": "https://news.ycombinator.com/item?id=49368184",
+    "source": "science.org",
+    "date": "2026-08-19T22:51:20Z",
+    "timestamp": 1787179880,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Dear researchers: Is AI all you've got?",
+    "url": "https://austinhenley.com/blog/dearresearchers.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49368150",
+    "source": "austinhenley.com",
+    "date": "2026-08-19T22:47:04Z",
+    "timestamp": 1787179624,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Semantica, the Open Source Palantir for AI Agents",
+    "url": "https://github.com/semantica-agi/semantica",
+    "discussion_url": "https://news.ycombinator.com/item?id=49367995",
     "source": "github.com",
-    "date": "2026-08-19T16:34:02Z",
-    "timestamp": 1787157242,
+    "date": "2026-08-19T22:28:48Z",
+    "timestamp": 1787178528,
     "category": "Machine Learning"
   },
   {
-    "title": "InstrSem: Automatically Inferring Semantics of (Undocumented) CPU Instructions",
-    "url": "https://roots.ec/publications/hetterich2026instrsem",
-    "discussion_url": "https://news.ycombinator.com/item?id=49363661",
-    "source": "roots.ec",
-    "date": "2026-08-19T16:25:24Z",
-    "timestamp": 1787156724,
-    "category": "Computer Architecture"
+    "title": "PINE64 halts their open-source hardware manufacturing until the AI bubble bursts",
+    "url": "https://www.hackster.io/news/pine64-calls-time-on-the-linux-hardware-market-ceases-production-until-the-ai-bubble-bursts-a865c8345041",
+    "discussion_url": "https://news.ycombinator.com/item?id=49367929",
+    "source": "hackster.io",
+    "date": "2026-08-19T22:20:14Z",
+    "timestamp": 1787178014,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Japan to require AI firms to disclose training data",
+    "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49367870",
+    "source": "japantimes.co.jp",
+    "date": "2026-08-19T22:12:52Z",
+    "timestamp": 1787177572,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nvidia Alpamayo 2 Super: The Frontier Open Model for Autonomous Vehicles",
+    "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49367388",
+    "source": "blogs.nvidia.com",
+    "date": "2026-08-19T21:23:27Z",
+    "timestamp": 1787174607,
+    "category": "Physical AI"
   },
   {
     "title": "Geolocating a random island using geometry and CUDA programming",
