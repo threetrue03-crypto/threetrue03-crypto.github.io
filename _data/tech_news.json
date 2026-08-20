@@ -1,129 +1,192 @@
 [
   {
-    "title": "Idea to reduce AI token use at large orgs",
-    "url": "https://news.ycombinator.com/item?id=49373930",
-    "discussion_url": "https://news.ycombinator.com/item?id=49373930",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-20T12:50:10Z",
-    "timestamp": 1787230210,
+    "title": "AI Alignment as a Thought-Terminating Cliche",
+    "url": "https://borretti.me/article/ai-alignment-as-thought-terminating-cliche",
+    "discussion_url": "https://news.ycombinator.com/item?id=49378565",
+    "source": "borretti.me",
+    "date": "2026-08-20T18:49:26Z",
+    "timestamp": 1787251766,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Sentrint, a security scanner for projects build with LLMs",
-    "url": "https://sentrint.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49373895",
-    "source": "sentrint.com",
-    "date": "2026-08-20T12:46:22Z",
-    "timestamp": 1787229982,
+    "title": "Fieldmade – RPG crafting by drawing pixel art and AI",
+    "url": "https://chromagolem.itch.io/fieldmade",
+    "discussion_url": "https://news.ycombinator.com/item?id=49378562",
+    "source": "chromagolem.itch.io",
+    "date": "2026-08-20T18:49:22Z",
+    "timestamp": 1787251762,
     "category": "Machine Learning"
   },
   {
-    "title": "GOP issues stark warning to AI companies",
-    "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
-    "discussion_url": "https://news.ycombinator.com/item?id=49373873",
-    "source": "axios.com",
-    "date": "2026-08-20T12:44:49Z",
-    "timestamp": 1787229889,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "LinkedIn cracks down on automated content with AI detection button",
-    "url": "https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3",
-    "discussion_url": "https://news.ycombinator.com/item?id=49373851",
-    "source": "campaignindia.in",
-    "date": "2026-08-20T12:42:42Z",
-    "timestamp": 1787229762,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI agent suggested installing a malware package. Engineer almost took its advice",
-    "url": "https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849",
-    "discussion_url": "https://news.ycombinator.com/item?id=49373479",
-    "source": "theregister.com",
-    "date": "2026-08-20T12:07:07Z",
-    "timestamp": 1787227627,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Google's AI photoscanner can determine body fat through selfies",
-    "url": "https://arxiv.org/abs/2603.27017",
-    "discussion_url": "https://news.ycombinator.com/item?id=49373473",
-    "source": "arxiv.org",
-    "date": "2026-08-20T12:06:37Z",
-    "timestamp": 1787227597,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Open-source, Accessible, and Customizable 3D-printed Humanoid Robot",
-    "url": "https://lite.berkeley-humanoid.org/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49373453",
-    "source": "lite.berkeley-humanoid.org",
-    "date": "2026-08-20T12:04:15Z",
-    "timestamp": 1787227455,
-    "category": "Physical AI"
-  },
-  {
-    "title": "AI didn't erase the junior engineer's value, it increased it it",
-    "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49373269",
-    "source": "franciscotrindade.me",
-    "date": "2026-08-20T11:42:20Z",
-    "timestamp": 1787226140,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Eron on X: \"LLMs do one thing: predict the next word",
-    "url": "https://twitter.com/0xEronn/status/2089079333885198384",
-    "discussion_url": "https://news.ycombinator.com/item?id=49373160",
-    "source": "twitter.com",
-    "date": "2026-08-20T11:28:26Z",
-    "timestamp": 1787225306,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "DDD matters more when AI writes your code",
-    "url": "https://threedots.tech/post/ddd-and-ai-coding/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49373041",
-    "source": "threedots.tech",
-    "date": "2026-08-20T11:12:28Z",
-    "timestamp": 1787224348,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How to Outsmart AI When It's Tracking Your Workday",
-    "url": "https://www.wsj.com/lifestyle/workplace/how-to-outsmart-ai-when-its-tracking-your-workday-3ad6907e",
-    "discussion_url": "https://news.ycombinator.com/item?id=49372874",
+    "title": "Spirit Flight Attendants Fight Google's Data Bid for AI",
+    "url": "https://www.wsj.com/pro/bankruptcy/spirit-flight-attendants-fight-googles-data-bid-for-ai-e939e049",
+    "discussion_url": "https://news.ycombinator.com/item?id=49378537",
     "source": "wsj.com",
-    "date": "2026-08-20T10:49:39Z",
-    "timestamp": 1787222979,
+    "date": "2026-08-20T18:47:22Z",
+    "timestamp": 1787251642,
     "category": "Machine Learning"
   },
   {
-    "title": "AI fired an S.F. store employee. Will California crack down on 'robobosses'?",
-    "url": "https://www.sfchronicle.com/politics/article/andon-market-robobosses-bill-22393579.php",
-    "discussion_url": "https://news.ycombinator.com/item?id=49372802",
-    "source": "sfchronicle.com",
-    "date": "2026-08-20T10:39:04Z",
-    "timestamp": 1787222344,
+    "title": "Brancher un LLM sur un catalogue produit avec Django",
+    "url": "https://tonydevweb.com/articles/brancher-llm-catalogue-produit.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49378450",
+    "source": "tonydevweb.com",
+    "date": "2026-08-20T18:39:16Z",
+    "timestamp": 1787251156,
     "category": "Machine Learning"
   },
   {
-    "title": "Dutch data protection authority advises Twitch users to opt out from Amazon AI",
-    "url": "https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49372781",
-    "source": "autoriteitpersoonsgegevens.nl",
-    "date": "2026-08-20T10:36:14Z",
-    "timestamp": 1787222174,
+    "title": "What I learned building an AI applic",
+    "url": "https://news.ycombinator.com/item?id=49378449",
+    "discussion_url": "https://news.ycombinator.com/item?id=49378449",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-20T18:38:58Z",
+    "timestamp": 1787251138,
     "category": "Machine Learning"
   },
   {
-    "title": "China's humanoid robot boom is fueled by government-backed training centres",
-    "url": "https://www.ft.com/content/26735a23-315f-47ef-8cf2-6c6ea9713998",
-    "discussion_url": "https://news.ycombinator.com/item?id=49371652",
-    "source": "ft.com",
-    "date": "2026-08-20T07:51:28Z",
-    "timestamp": 1787212288,
+    "title": "Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX",
+    "url": "https://bitflash.network/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49378036",
+    "source": "bitflash.network",
+    "date": "2026-08-20T18:02:55Z",
+    "timestamp": 1787248975,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Hola AI Agent",
+    "url": "https://cloudgpu.io/agent/hola-ai-agent",
+    "discussion_url": "https://news.ycombinator.com/item?id=49378016",
+    "source": "cloudgpu.io",
+    "date": "2026-08-20T18:01:35Z",
+    "timestamp": 1787248895,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Route the Work, Not Just the Data: GPUs, CPUs, and the Rise of AI-Native SSDs",
+    "url": "https://research.triunalabs.com/articles/ai-native-ssd/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49377911",
+    "source": "research.triunalabs.com",
+    "date": "2026-08-20T17:54:19Z",
+    "timestamp": 1787248459,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "America's Colleges Are Hurtling Toward an Enrollment Cliff",
+    "url": "https://www.wsj.com/us-news/education/college-admissions-demographic-cliff-16dec51f",
+    "discussion_url": "https://news.ycombinator.com/item?id=49377870",
+    "source": "wsj.com",
+    "date": "2026-08-20T17:51:22Z",
+    "timestamp": 1787248282,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "vLLM Running Natively on Windows with ROCm for AMD RDNA2 (RX 6000)",
+    "url": "https://github.com/sebastianmechno-sys/vllm-rocm-windows-rdna2",
+    "discussion_url": "https://news.ycombinator.com/item?id=49377801",
+    "source": "github.com",
+    "date": "2026-08-20T17:46:42Z",
+    "timestamp": 1787248002,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I reverse-engineering the closed GoodNotes format using LLMs",
+    "url": "https://github.com/Kaih1825/parser-for-goodnotes",
+    "discussion_url": "https://news.ycombinator.com/item?id=49377664",
+    "source": "github.com",
+    "date": "2026-08-20T17:33:47Z",
+    "timestamp": 1787247227,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: AI-Native Accelerator that helps builders make something people want",
+    "url": "https://foundera.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49377437",
+    "source": "foundera.app",
+    "date": "2026-08-20T17:16:07Z",
+    "timestamp": 1787246167,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "LLMs don't just mimic human text",
+    "url": "https://pangram.substack.com/p/no-llms-dont-just-mimic-human-text",
+    "discussion_url": "https://news.ycombinator.com/item?id=49377354",
+    "source": "pangram.substack.com",
+    "date": "2026-08-20T17:10:31Z",
+    "timestamp": 1787245831,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: GPU VulnDB – open vulnerability database for GPU infrastructure",
+    "url": "https://gpuvulndb.org",
+    "discussion_url": "https://news.ycombinator.com/item?id=49377340",
+    "source": "gpuvulndb.org",
+    "date": "2026-08-20T17:09:32Z",
+    "timestamp": 1787245772,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "How Persona AI Makes Humanoids Pay Off in Welding",
+    "url": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
+    "discussion_url": "https://news.ycombinator.com/item?id=49377327",
+    "source": "spectrum.ieee.org",
+    "date": "2026-08-20T17:08:30Z",
+    "timestamp": 1787245710,
     "category": "Physical AI"
+  },
+  {
+    "title": "GEN-1.5 is robot foundation model powering a one-shot learner [video]",
+    "url": "https://www.youtube.com/watch?v=1cllCVK-9lo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49377313",
+    "source": "youtube.com",
+    "date": "2026-08-20T17:07:18Z",
+    "timestamp": 1787245638,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Debates over AI consciousness are a trap",
+    "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49377268",
+    "source": "technologyreview.com",
+    "date": "2026-08-20T17:02:21Z",
+    "timestamp": 1787245341,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Women in China choosing AI boyfriends over human men",
+    "url": "https://www.theguardian.com/film/2026/aug/12/ai-boyfriend-dating-chinese-women-replica-miff-documentary",
+    "discussion_url": "https://news.ycombinator.com/item?id=49377216",
+    "source": "theguardian.com",
+    "date": "2026-08-20T16:58:44Z",
+    "timestamp": 1787245124,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI at Home Part 2: Multi-GPU Drifting",
+    "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49377155",
+    "source": "jdagostino.github.io",
+    "date": "2026-08-20T16:53:55Z",
+    "timestamp": 1787244835,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Alphabet's Waymo Has Built a Custom Chip for Its Robotaxis",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/google-s-waymo-has-built-a-custom-chip-for-its-robotaxis",
+    "discussion_url": "https://news.ycombinator.com/item?id=49376544",
+    "source": "bloomberg.com",
+    "date": "2026-08-20T16:07:03Z",
+    "timestamp": 1787242023,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Show HN: Compute.cx is simple (modal.com like) interface for on-demand GPUs",
+    "url": "https://compute.cx",
+    "discussion_url": "https://news.ycombinator.com/item?id=49376282",
+    "source": "compute.cx",
+    "date": "2026-08-20T15:47:24Z",
+    "timestamp": 1787240844,
+    "category": "Computer Architecture"
   },
   {
     "title": "Geolocating a random island using geometry and CUDA programming",
@@ -132,24 +195,6 @@
     "source": "yassa9.github.io",
     "date": "2026-08-19T12:19:52Z",
     "timestamp": 1787141992,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
-    "url": "https://machine0.io",
-    "discussion_url": "https://news.ycombinator.com/item?id=49348136",
-    "source": "machine0.io",
-    "date": "2026-08-18T16:26:42Z",
-    "timestamp": 1787070402,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "CUDA Shared Memory Swizzling",
-    "url": "https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49286291",
-    "source": "leimao.github.io",
-    "date": "2026-08-13T14:13:41Z",
-    "timestamp": 1786630421,
     "category": "Computer Architecture"
   }
 ]
