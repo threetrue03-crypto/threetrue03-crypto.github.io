@@ -1,5 +1,77 @@
 [
   {
+    "title": "Show HN: Do-over, undo for AI agent shell commands",
+    "url": "https://github.com/CaydenChik/doover",
+    "discussion_url": "https://news.ycombinator.com/item?id=49371211",
+    "source": "github.com",
+    "date": "2026-08-20T06:42:36Z",
+    "timestamp": 1787208156,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+    "url": "https://www.wired.com/story/flock-safety-os-investigate/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49371195",
+    "source": "wired.com",
+    "date": "2026-08-20T06:40:14Z",
+    "timestamp": 1787208014,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI is changing how we code. Is this positive?",
+    "url": "https://news.ycombinator.com/item?id=49371169",
+    "discussion_url": "https://news.ycombinator.com/item?id=49371169",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-20T06:37:14Z",
+    "timestamp": 1787207834,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: When will the AI bubble burst and eradicate all life in the planet?",
+    "url": "https://news.ycombinator.com/item?id=49371163",
+    "discussion_url": "https://news.ycombinator.com/item?id=49371163",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-20T06:36:56Z",
+    "timestamp": 1787207816,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GEN-1.5, a one-shot learner robotics foundational model [video]",
+    "url": "https://www.youtube.com/watch?v=1cllCVK-9lo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49370267",
+    "source": "youtube.com",
+    "date": "2026-08-20T04:06:24Z",
+    "timestamp": 1787198784,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Do We Still Need Database Management Tools When AI Can Write SQL?",
+    "url": "http://johnli.work/posts/do-we-still-need-database-management-tools-when-ai-can-write-sql/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49370037",
+    "source": "johnli.work",
+    "date": "2026-08-20T03:24:31Z",
+    "timestamp": 1787196271,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Does anyone find AI code review useful?",
+    "url": "https://news.ycombinator.com/item?id=49369710",
+    "discussion_url": "https://news.ycombinator.com/item?id=49369710",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-20T02:24:07Z",
+    "timestamp": 1787192647,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "url": "https://arxiv.org/abs/2608.09867",
+    "discussion_url": "https://news.ycombinator.com/item?id=49369654",
+    "source": "arxiv.org",
+    "date": "2026-08-20T02:12:17Z",
+    "timestamp": 1787191937,
+    "category": "Machine Learning"
+  },
+  {
     "title": "Round Hill Music Sues Suno and Anthropic for $1B over AI Training Data",
     "url": "https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data",
     "discussion_url": "https://news.ycombinator.com/item?id=49369063",
@@ -51,69 +123,6 @@
     "source": "schipper.ai",
     "date": "2026-08-19T23:12:38Z",
     "timestamp": 1787181158,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "\"Half-Day\": 0-Day in the Age of AI",
-    "url": "https://margin.re/2026/08/introducing-the-half-day-0-day-in-the-age-of-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49368297",
-    "source": "margin.re",
-    "date": "2026-08-19T23:03:53Z",
-    "timestamp": 1787180633,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Jason Kelce pleads with NFL fans to send urine to AI data centers",
-    "url": "https://www.themirror.com/sport/american-football/jason-kelce-pee-garage-beers-1989324",
-    "discussion_url": "https://news.ycombinator.com/item?id=49368248",
-    "source": "themirror.com",
-    "date": "2026-08-19T22:58:44Z",
-    "timestamp": 1787180324,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I had to unplug from AI to rediscover my love of writing",
-    "url": "https://www.science.org/content/article/i-had-unplug-ai-rediscover-my-love-writing",
-    "discussion_url": "https://news.ycombinator.com/item?id=49368184",
-    "source": "science.org",
-    "date": "2026-08-19T22:51:20Z",
-    "timestamp": 1787179880,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Dear researchers: Is AI all you've got?",
-    "url": "https://austinhenley.com/blog/dearresearchers.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49368150",
-    "source": "austinhenley.com",
-    "date": "2026-08-19T22:47:04Z",
-    "timestamp": 1787179624,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Semantica, the Open Source Palantir for AI Agents",
-    "url": "https://github.com/semantica-agi/semantica",
-    "discussion_url": "https://news.ycombinator.com/item?id=49367995",
-    "source": "github.com",
-    "date": "2026-08-19T22:28:48Z",
-    "timestamp": 1787178528,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "PINE64 halts their open-source hardware manufacturing until the AI bubble bursts",
-    "url": "https://www.hackster.io/news/pine64-calls-time-on-the-linux-hardware-market-ceases-production-until-the-ai-bubble-bursts-a865c8345041",
-    "discussion_url": "https://news.ycombinator.com/item?id=49367929",
-    "source": "hackster.io",
-    "date": "2026-08-19T22:20:14Z",
-    "timestamp": 1787178014,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Japan to require AI firms to disclose training data",
-    "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49367870",
-    "source": "japantimes.co.jp",
-    "date": "2026-08-19T22:12:52Z",
-    "timestamp": 1787177572,
     "category": "Machine Learning"
   },
   {
