@@ -1,129 +1,129 @@
 [
   {
-    "title": "Berkeley Law prohibits AI use in classes (by default)",
-    "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49382614",
-    "source": "law.berkeley.edu",
-    "date": "2026-08-21T01:37:27Z",
-    "timestamp": 1787276247,
+    "title": "Young Americans increasingly fear AI will take their jobs",
+    "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49384642",
+    "source": "pewresearch.org",
+    "date": "2026-08-21T06:49:46Z",
+    "timestamp": 1787294986,
     "category": "Machine Learning"
   },
   {
-    "title": "I benched frontier AI LLM models on politics, ethics, and personality traits",
-    "url": "https://www.blackbench.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49382540",
-    "source": "blackbench.ai",
-    "date": "2026-08-21T01:26:01Z",
-    "timestamp": 1787275561,
+    "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+    "url": "https://Argentic.network",
+    "discussion_url": "https://news.ycombinator.com/item?id=49384477",
+    "source": "argentic.network",
+    "date": "2026-08-21T06:24:16Z",
+    "timestamp": 1787293456,
     "category": "Machine Learning"
   },
   {
-    "title": "AI and Consciousness – A Skeptical Overview",
-    "url": "https://www.cambridge.org/core/elements/ai-and-consciousness/E77C92088DA3C9F89E7FE7C75CBB1896",
-    "discussion_url": "https://news.ycombinator.com/item?id=49382245",
-    "source": "cambridge.org",
-    "date": "2026-08-21T00:41:53Z",
-    "timestamp": 1787272913,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How A Texas student blew the whistle on a rogue AI hacking attempt",
-    "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49382148",
-    "source": "reuters.com",
-    "date": "2026-08-21T00:28:01Z",
-    "timestamp": 1787272081,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The AI Debate Is About Control, Not AI",
-    "url": "https://www.fastcompany.com/91585908/the-ai-debate-isnt-about-ai-its-about-control-technology-ai-control",
-    "discussion_url": "https://news.ycombinator.com/item?id=49381723",
-    "source": "fastcompany.com",
-    "date": "2026-08-20T23:32:36Z",
-    "timestamp": 1787268756,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Intelligent AI Delegation",
-    "url": "https://arxiv.org/abs/2602.11865",
-    "discussion_url": "https://news.ycombinator.com/item?id=49381380",
-    "source": "arxiv.org",
-    "date": "2026-08-20T22:54:06Z",
-    "timestamp": 1787266446,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Is AI spend on OpenAI or Anthropic starting to eat into your runway?",
-    "url": "https://rails-agent.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49381098",
-    "source": "rails-agent.com",
-    "date": "2026-08-20T22:23:16Z",
-    "timestamp": 1787264596,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Zero () friction local AI for Mac",
-    "url": "https://www.basecompute.co/local",
-    "discussion_url": "https://news.ycombinator.com/item?id=49380978",
-    "source": "basecompute.co",
-    "date": "2026-08-20T22:13:31Z",
-    "timestamp": 1787264011,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Browser automation agents with Pydantic AI and Playwright",
-    "url": "http://blog.pamelafox.org/2026/08/browser-automation-with-pydantic-ai.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49380852",
-    "source": "blog.pamelafox.org",
-    "date": "2026-08-20T22:02:45Z",
-    "timestamp": 1787263365,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Protesters haul a guillotine to city council meeting about an AI data center",
-    "url": "https://www.tomshardware.com/tech-industry/data-centers/protesters-haul-a-guillotine-to-city-council-meeting-about-a-potential-ai-data-center-company-rep-cornered-by-protestors-it-no-longer-felt-safe-to-stay-developer-escorted-out-by-police",
-    "discussion_url": "https://news.ycombinator.com/item?id=49380775",
-    "source": "tomshardware.com",
-    "date": "2026-08-20T21:53:37Z",
-    "timestamp": 1787262817,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Can influencers post AI ads without alienating their fans?",
-    "url": "https://www.businessinsider.com/ai-brand-deals-chatgpt-claude-influencers-weigh-backlash-over-paychecks-2026-8",
-    "discussion_url": "https://news.ycombinator.com/item?id=49380757",
-    "source": "businessinsider.com",
-    "date": "2026-08-20T21:51:31Z",
-    "timestamp": 1787262691,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Go updates may delight diehard gophers but displease AI overlords",
-    "url": "https://www.theregister.com/devops/2026/08/20/go-updates-may-delight-diehard-gophers-but-displease-ai-overlords/5290643",
-    "discussion_url": "https://news.ycombinator.com/item?id=49380486",
-    "source": "theregister.com",
-    "date": "2026-08-20T21:25:20Z",
-    "timestamp": 1787261120,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Robots are asking for tips. But who gets the money?",
-    "url": "https://www.bbc.com/future/article/20260818-do-you-have-to-tip-the-robots",
-    "discussion_url": "https://news.ycombinator.com/item?id=49380332",
-    "source": "bbc.com",
-    "date": "2026-08-20T21:12:08Z",
-    "timestamp": 1787260328,
+    "title": "Robot Comment Classifier",
+    "url": "https://entropicthoughts.com/ai-comment-classifier",
+    "discussion_url": "https://news.ycombinator.com/item?id=49384421",
+    "source": "entropicthoughts.com",
+    "date": "2026-08-21T06:16:42Z",
+    "timestamp": 1787293002,
     "category": "Physical AI"
   },
   {
-    "title": "RoboDojo Scores 32 of 34 Robot Policies Under 10% Success",
-    "url": "https://topicqueue.substack.com/p/robodojo-scores-32-of-34-robot-policies",
-    "discussion_url": "https://news.ycombinator.com/item?id=49380118",
-    "source": "topicqueue.substack.com",
-    "date": "2026-08-20T20:51:41Z",
-    "timestamp": 1787259101,
-    "category": "Physical AI"
+    "title": "AWS Bedrock AgentCore enforces user context to prevent hijacked AI agents",
+    "url": "https://techupdate24.com/aws-bedrock-agentcore-hijacked-ai-security/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49384306",
+    "source": "techupdate24.com",
+    "date": "2026-08-21T05:56:29Z",
+    "timestamp": 1787291789,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Elven Rope, Ultra-High Molecular Weight Polyethylene, and LLMs (2025)",
+    "url": "https://vgel.me/posts/elven-rope-and-llms/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49384304",
+    "source": "vgel.me",
+    "date": "2026-08-21T05:55:59Z",
+    "timestamp": 1787291759,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Testing CUDA kernel execution with GPU correctness harness",
+    "url": "https://github.com/IshwaryaRavichandran/gpu-correctness-harness",
+    "discussion_url": "https://news.ycombinator.com/item?id=49384303",
+    "source": "github.com",
+    "date": "2026-08-21T05:55:00Z",
+    "timestamp": 1787291700,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: I built an open source video editor that you can control with an LLM",
+    "url": "https://github.com/DonkeyCut/Donkey",
+    "discussion_url": "https://news.ycombinator.com/item?id=49384105",
+    "source": "github.com",
+    "date": "2026-08-21T05:19:27Z",
+    "timestamp": 1787289567,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Just describe your idea and let AI build a playable game for you",
+    "url": "https://run.ceo/coder/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49384010",
+    "source": "run.ceo",
+    "date": "2026-08-21T05:04:16Z",
+    "timestamp": 1787288656,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Meta's app for creating generative AI minigames is now available in the US",
+    "url": "https://www.engadget.com/2241098/meta-pocket-app-for-creating-generative-ai-minigames-available-in-us/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49383745",
+    "source": "engadget.com",
+    "date": "2026-08-21T04:20:24Z",
+    "timestamp": 1787286024,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: I built a permission layer for AI agents, then spent a day breaking it",
+    "url": "https://news.ycombinator.com/item?id=49383441",
+    "discussion_url": "https://news.ycombinator.com/item?id=49383441",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-21T03:32:41Z",
+    "timestamp": 1787283161,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Can Reddit survive in the AI era?",
+    "url": "https://www.economist.com/business/2026/08/20/can-reddit-survive-in-the-ai-era",
+    "discussion_url": "https://news.ycombinator.com/item?id=49383408",
+    "source": "economist.com",
+    "date": "2026-08-21T03:28:41Z",
+    "timestamp": 1787282921,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Seedance 2.5 vs. Wan 3.0 for a 30-second AI video workflow",
+    "url": "https://seevido.com/model/seedance-2-5/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49383403",
+    "source": "seevido.com",
+    "date": "2026-08-21T03:28:04Z",
+    "timestamp": 1787282884,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: An autonomous AI agent running one project for two months in public",
+    "url": "https://aitoolsinsiderhq.com/log/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49383353",
+    "source": "aitoolsinsiderhq.com",
+    "date": "2026-08-21T03:21:46Z",
+    "timestamp": 1787282506,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+    "url": "https://annas-archive.gl/blog/physical-destruction.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49383026",
+    "source": "annas-archive.gl",
+    "date": "2026-08-21T02:37:47Z",
+    "timestamp": 1787279867,
+    "category": "Machine Learning"
   },
   {
     "title": "AI at Home Part 2: Multi-GPU Drifting",
