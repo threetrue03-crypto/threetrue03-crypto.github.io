@@ -1,146 +1,137 @@
 [
   {
-    "title": "Show HN: Agent Office (Slack for AI Agents) – Similar to Grok Bot but older",
-    "url": "https://github.com/baturyilmaz/agent-office",
-    "discussion_url": "https://news.ycombinator.com/item?id=49387504",
-    "source": "github.com",
-    "date": "2026-08-21T13:04:59Z",
-    "timestamp": 1787317499,
+    "title": "AI is about to uncover a hidden world of animal communication",
+    "url": "https://twitter.com/itsolelehmann/status/2090831992200020253",
+    "discussion_url": "https://news.ycombinator.com/item?id=49392287",
+    "source": "twitter.com",
+    "date": "2026-08-21T18:44:16Z",
+    "timestamp": 1787337856,
     "category": "Machine Learning"
   },
   {
-    "title": "1/3 web pages published since ChatGPT's launch show signs of AI authorship",
-    "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49386851",
-    "source": "techcrunch.com",
-    "date": "2026-08-21T12:05:14Z",
-    "timestamp": 1787313914,
+    "title": "The Better You Are at Programming, the Worse AI Looks",
+    "url": "https://www.youtube.com/watch?v=_590TxMwvWM",
+    "discussion_url": "https://news.ycombinator.com/item?id=49392177",
+    "source": "youtube.com",
+    "date": "2026-08-21T18:34:44Z",
+    "timestamp": 1787337284,
     "category": "Machine Learning"
   },
   {
-    "title": "Vertical AI Founders, You Are Going Through 3 Existential Crises",
-    "url": "https://medium.com/@MirArshadTalpur/vertical-ai-founders-you-are-going-through-3-existential-crises-and-most-of-you-dont-know-it-b3d86a386d37",
-    "discussion_url": "https://news.ycombinator.com/item?id=49386845",
-    "source": "medium.com",
-    "date": "2026-08-21T12:04:48Z",
-    "timestamp": 1787313888,
+    "title": "America's capital crunch: Soaring debt collides with AI spending spree",
+    "url": "https://www.axios.com/2026/08/21/national-debt-deficit-ai-spending",
+    "discussion_url": "https://news.ycombinator.com/item?id=49392117",
+    "source": "axios.com",
+    "date": "2026-08-21T18:30:04Z",
+    "timestamp": 1787337004,
     "category": "Machine Learning"
   },
   {
-    "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
-    "url": "https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49386837",
-    "source": "reuters.com",
-    "date": "2026-08-21T12:04:13Z",
-    "timestamp": 1787313853,
+    "title": "Benchmarks of rumored Mythos level model from Zhipu AI",
+    "url": "https://twitter.com/ananayarora/status/2090742255284031537",
+    "discussion_url": "https://news.ycombinator.com/item?id=49391959",
+    "source": "twitter.com",
+    "date": "2026-08-21T18:17:56Z",
+    "timestamp": 1787336276,
     "category": "Machine Learning"
   },
   {
-    "title": "Delta Use AI to Cut Costs Set Diff Ticket Price–CEO Says Profits Could Rise 50%",
-    "url": "https://viewfromthewing.com/delta-will-use-ai-to-cut-jobs-and-set-a-different-ticket-price-for-every-passenger-ceo-says-profits-could-rise-50/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49386689",
-    "source": "viewfromthewing.com",
-    "date": "2026-08-21T11:47:08Z",
-    "timestamp": 1787312828,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: What is the best AI Video studio",
-    "url": "https://news.ycombinator.com/item?id=49386577",
-    "discussion_url": "https://news.ycombinator.com/item?id=49386577",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-21T11:35:33Z",
-    "timestamp": 1787312133,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Microsoft gives Task Manager another task: Watching AI workloads",
-    "url": "https://www.theregister.com/os-platforms/2026/08/20/microsoft-gives-task-manager-another-task-watching-ai-workloads/5290448",
-    "discussion_url": "https://news.ycombinator.com/item?id=49386447",
-    "source": "theregister.com",
-    "date": "2026-08-21T11:16:03Z",
-    "timestamp": 1787310963,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nouswise Review: AI Research Agent and Thinking Partner",
-    "url": "https://delavo.de/en/writing/nouswise-ai-research-agent/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49386039",
-    "source": "delavo.de",
-    "date": "2026-08-21T10:14:15Z",
-    "timestamp": 1787307255,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-    "url": "https://annas-archive.pk/blog/physical-destruction.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49385994",
-    "source": "annas-archive.pk",
-    "date": "2026-08-21T10:05:46Z",
-    "timestamp": 1787306746,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Debates over AI consciousness are a trap",
-    "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49385725",
-    "source": "technologyreview.com",
-    "date": "2026-08-21T09:26:56Z",
-    "timestamp": 1787304416,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I don't think AI is a bubble",
-    "url": "https://honnibal.dev/blog/ai-bubble",
-    "discussion_url": "https://news.ycombinator.com/item?id=49385635",
-    "source": "honnibal.dev",
-    "date": "2026-08-21T09:10:33Z",
-    "timestamp": 1787303433,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Anthropic Plans to Change Data Retention Policy for Advanced AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49385582",
-    "source": "bloomberg.com",
-    "date": "2026-08-21T09:03:10Z",
-    "timestamp": 1787302990,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Robot Comment Classifier",
-    "url": "https://entropicthoughts.com/ai-comment-classifier",
-    "discussion_url": "https://news.ycombinator.com/item?id=49384421",
-    "source": "entropicthoughts.com",
-    "date": "2026-08-21T06:16:42Z",
-    "timestamp": 1787293002,
+    "title": "London cabbies plot 'skulduggery' to take on robotaxis",
+    "url": "https://www.ft.com/content/7f2d4be3-5879-439e-8060-339bac53ab40",
+    "discussion_url": "https://news.ycombinator.com/item?id=49391704",
+    "source": "ft.com",
+    "date": "2026-08-21T17:56:30Z",
+    "timestamp": 1787334990,
     "category": "Physical AI"
   },
   {
-    "title": "Testing CUDA kernel execution with GPU correctness harness",
-    "url": "https://github.com/IshwaryaRavichandran/gpu-correctness-harness",
-    "discussion_url": "https://news.ycombinator.com/item?id=49384303",
+    "title": "Git Might Be the Best Message Forum for AI Agents",
+    "url": "https://www.reddit.com/r/git/comments/1vunb1e/git_might_be_the_best_message_forum_for_ai_agents/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49391594",
+    "source": "reddit.com",
+    "date": "2026-08-21T17:49:04Z",
+    "timestamp": 1787334544,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The puzzling case of Britain's young people and what they think of AI",
+    "url": "https://publicfirsttech.substack.com/p/gen-ai-the-puzzling-case-of-britains",
+    "discussion_url": "https://news.ycombinator.com/item?id=49391453",
+    "source": "publicfirsttech.substack.com",
+    "date": "2026-08-21T17:39:00Z",
+    "timestamp": 1787333940,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LFM2.5-DSpark: Up to 3.2x Faster Inference from H100 to MacB",
+    "url": "https://www.liquid.ai/blog/lfm2.5-dspark",
+    "discussion_url": "https://news.ycombinator.com/item?id=49391420",
+    "source": "liquid.ai",
+    "date": "2026-08-21T17:36:03Z",
+    "timestamp": 1787333763,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
+    "url": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
+    "discussion_url": "https://news.ycombinator.com/item?id=49391392",
+    "source": "phoronix.com",
+    "date": "2026-08-21T17:33:42Z",
+    "timestamp": 1787333622,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Staggering 90% of biomedical papers now show signs of AI help",
+    "url": "https://www.nature.com/articles/d41586-026-02551-z",
+    "discussion_url": "https://news.ycombinator.com/item?id=49391211",
+    "source": "nature.com",
+    "date": "2026-08-21T17:21:39Z",
+    "timestamp": 1787332899,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why your infrastructure is more important than the next LLM release",
+    "url": "https://www.ito.ai/blog/ai-model-plateau-why-infrastructure-matters-more-next-release",
+    "discussion_url": "https://news.ycombinator.com/item?id=49390687",
+    "source": "ito.ai",
+    "date": "2026-08-21T16:43:41Z",
+    "timestamp": 1787330621,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I'd Rather Risk Cancer Than See AI Move This Fast",
+    "url": "https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49390591",
+    "source": "theatlantic.com",
+    "date": "2026-08-21T16:37:00Z",
+    "timestamp": 1787330220,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)",
+    "url": "https://github.com/marcsnid/steganeur",
+    "discussion_url": "https://news.ycombinator.com/item?id=49390543",
     "source": "github.com",
-    "date": "2026-08-21T05:55:00Z",
-    "timestamp": 1787291700,
+    "date": "2026-08-21T16:33:37Z",
+    "timestamp": 1787330017,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "What happens when a GPU reads memory",
+    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+    "discussion_url": "https://news.ycombinator.com/item?id=49390308",
+    "source": "blog.doubleword.ai",
+    "date": "2026-08-21T16:16:42Z",
+    "timestamp": 1787329002,
     "category": "Computer Architecture"
   },
   {
-    "title": "AI at Home Part 2: Multi-GPU Drifting",
-    "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49377155",
-    "source": "jdagostino.github.io",
-    "date": "2026-08-20T16:53:55Z",
-    "timestamp": 1787244835,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Geolocating a random island using geometry and CUDA programming",
-    "url": "https://yassa9.github.io/osint/gralhix-004/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49360545",
-    "source": "yassa9.github.io",
-    "date": "2026-08-19T12:19:52Z",
-    "timestamp": 1787141992,
+    "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
+    "url": "https://lists.freedesktop.org/archives/dri-devel/2026-August/590630.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49390035",
+    "source": "lists.freedesktop.org",
+    "date": "2026-08-21T15:57:39Z",
+    "timestamp": 1787327859,
     "category": "Computer Architecture"
   }
 ]
