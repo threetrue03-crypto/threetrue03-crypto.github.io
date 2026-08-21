@@ -1,20 +1,110 @@
 [
   {
-    "title": "Young Americans increasingly fear AI will take their jobs",
-    "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49384642",
-    "source": "pewresearch.org",
-    "date": "2026-08-21T06:49:46Z",
-    "timestamp": 1787294986,
+    "title": "Show HN: Agent Office (Slack for AI Agents) – Similar to Grok Bot but older",
+    "url": "https://github.com/baturyilmaz/agent-office",
+    "discussion_url": "https://news.ycombinator.com/item?id=49387504",
+    "source": "github.com",
+    "date": "2026-08-21T13:04:59Z",
+    "timestamp": 1787317499,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
-    "url": "https://Argentic.network",
-    "discussion_url": "https://news.ycombinator.com/item?id=49384477",
-    "source": "argentic.network",
-    "date": "2026-08-21T06:24:16Z",
-    "timestamp": 1787293456,
+    "title": "1/3 web pages published since ChatGPT's launch show signs of AI authorship",
+    "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49386851",
+    "source": "techcrunch.com",
+    "date": "2026-08-21T12:05:14Z",
+    "timestamp": 1787313914,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Vertical AI Founders, You Are Going Through 3 Existential Crises",
+    "url": "https://medium.com/@MirArshadTalpur/vertical-ai-founders-you-are-going-through-3-existential-crises-and-most-of-you-dont-know-it-b3d86a386d37",
+    "discussion_url": "https://news.ycombinator.com/item?id=49386845",
+    "source": "medium.com",
+    "date": "2026-08-21T12:04:48Z",
+    "timestamp": 1787313888,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
+    "url": "https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49386837",
+    "source": "reuters.com",
+    "date": "2026-08-21T12:04:13Z",
+    "timestamp": 1787313853,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Delta Use AI to Cut Costs Set Diff Ticket Price–CEO Says Profits Could Rise 50%",
+    "url": "https://viewfromthewing.com/delta-will-use-ai-to-cut-jobs-and-set-a-different-ticket-price-for-every-passenger-ceo-says-profits-could-rise-50/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49386689",
+    "source": "viewfromthewing.com",
+    "date": "2026-08-21T11:47:08Z",
+    "timestamp": 1787312828,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: What is the best AI Video studio",
+    "url": "https://news.ycombinator.com/item?id=49386577",
+    "discussion_url": "https://news.ycombinator.com/item?id=49386577",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-21T11:35:33Z",
+    "timestamp": 1787312133,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Microsoft gives Task Manager another task: Watching AI workloads",
+    "url": "https://www.theregister.com/os-platforms/2026/08/20/microsoft-gives-task-manager-another-task-watching-ai-workloads/5290448",
+    "discussion_url": "https://news.ycombinator.com/item?id=49386447",
+    "source": "theregister.com",
+    "date": "2026-08-21T11:16:03Z",
+    "timestamp": 1787310963,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nouswise Review: AI Research Agent and Thinking Partner",
+    "url": "https://delavo.de/en/writing/nouswise-ai-research-agent/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49386039",
+    "source": "delavo.de",
+    "date": "2026-08-21T10:14:15Z",
+    "timestamp": 1787307255,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+    "url": "https://annas-archive.pk/blog/physical-destruction.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49385994",
+    "source": "annas-archive.pk",
+    "date": "2026-08-21T10:05:46Z",
+    "timestamp": 1787306746,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Debates over AI consciousness are a trap",
+    "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49385725",
+    "source": "technologyreview.com",
+    "date": "2026-08-21T09:26:56Z",
+    "timestamp": 1787304416,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I don't think AI is a bubble",
+    "url": "https://honnibal.dev/blog/ai-bubble",
+    "discussion_url": "https://news.ycombinator.com/item?id=49385635",
+    "source": "honnibal.dev",
+    "date": "2026-08-21T09:10:33Z",
+    "timestamp": 1787303433,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic Plans to Change Data Retention Policy for Advanced AI",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49385582",
+    "source": "bloomberg.com",
+    "date": "2026-08-21T09:03:10Z",
+    "timestamp": 1787302990,
     "category": "Machine Learning"
   },
   {
@@ -27,24 +117,6 @@
     "category": "Physical AI"
   },
   {
-    "title": "AWS Bedrock AgentCore enforces user context to prevent hijacked AI agents",
-    "url": "https://techupdate24.com/aws-bedrock-agentcore-hijacked-ai-security/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49384306",
-    "source": "techupdate24.com",
-    "date": "2026-08-21T05:56:29Z",
-    "timestamp": 1787291789,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Elven Rope, Ultra-High Molecular Weight Polyethylene, and LLMs (2025)",
-    "url": "https://vgel.me/posts/elven-rope-and-llms/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49384304",
-    "source": "vgel.me",
-    "date": "2026-08-21T05:55:59Z",
-    "timestamp": 1787291759,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Testing CUDA kernel execution with GPU correctness harness",
     "url": "https://github.com/IshwaryaRavichandran/gpu-correctness-harness",
     "discussion_url": "https://news.ycombinator.com/item?id=49384303",
@@ -52,78 +124,6 @@
     "date": "2026-08-21T05:55:00Z",
     "timestamp": 1787291700,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: I built an open source video editor that you can control with an LLM",
-    "url": "https://github.com/DonkeyCut/Donkey",
-    "discussion_url": "https://news.ycombinator.com/item?id=49384105",
-    "source": "github.com",
-    "date": "2026-08-21T05:19:27Z",
-    "timestamp": 1787289567,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Just describe your idea and let AI build a playable game for you",
-    "url": "https://run.ceo/coder/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49384010",
-    "source": "run.ceo",
-    "date": "2026-08-21T05:04:16Z",
-    "timestamp": 1787288656,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Meta's app for creating generative AI minigames is now available in the US",
-    "url": "https://www.engadget.com/2241098/meta-pocket-app-for-creating-generative-ai-minigames-available-in-us/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49383745",
-    "source": "engadget.com",
-    "date": "2026-08-21T04:20:24Z",
-    "timestamp": 1787286024,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: I built a permission layer for AI agents, then spent a day breaking it",
-    "url": "https://news.ycombinator.com/item?id=49383441",
-    "discussion_url": "https://news.ycombinator.com/item?id=49383441",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-21T03:32:41Z",
-    "timestamp": 1787283161,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Can Reddit survive in the AI era?",
-    "url": "https://www.economist.com/business/2026/08/20/can-reddit-survive-in-the-ai-era",
-    "discussion_url": "https://news.ycombinator.com/item?id=49383408",
-    "source": "economist.com",
-    "date": "2026-08-21T03:28:41Z",
-    "timestamp": 1787282921,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Seedance 2.5 vs. Wan 3.0 for a 30-second AI video workflow",
-    "url": "https://seevido.com/model/seedance-2-5/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49383403",
-    "source": "seevido.com",
-    "date": "2026-08-21T03:28:04Z",
-    "timestamp": 1787282884,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: An autonomous AI agent running one project for two months in public",
-    "url": "https://aitoolsinsiderhq.com/log/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49383353",
-    "source": "aitoolsinsiderhq.com",
-    "date": "2026-08-21T03:21:46Z",
-    "timestamp": 1787282506,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-    "url": "https://annas-archive.gl/blog/physical-destruction.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49383026",
-    "source": "annas-archive.gl",
-    "date": "2026-08-21T02:37:47Z",
-    "timestamp": 1787279867,
-    "category": "Machine Learning"
   },
   {
     "title": "AI at Home Part 2: Multi-GPU Drifting",
