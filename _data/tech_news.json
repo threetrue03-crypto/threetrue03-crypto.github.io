@@ -1,5 +1,95 @@
 [
   {
+    "title": "Would a Hiroshima-scale AI disaster make humanity protect itself? I fear not",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
+    "discussion_url": "https://news.ycombinator.com/item?id=49397246",
+    "source": "theguardian.com",
+    "date": "2026-08-22T06:46:35Z",
+    "timestamp": 1787381195,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+    "url": "https://arxiv.org/abs/2511.07885",
+    "discussion_url": "https://news.ycombinator.com/item?id=49396954",
+    "source": "arxiv.org",
+    "date": "2026-08-22T05:54:49Z",
+    "timestamp": 1787378089,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Linus: And this was a debug session from hell, enormously helped by an AI",
+    "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+    "discussion_url": "https://news.ycombinator.com/item?id=49396366",
+    "source": "git.kernel.org",
+    "date": "2026-08-22T03:39:16Z",
+    "timestamp": 1787369956,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Giving an LLM your prod database is easy. Taking access away is the hard part",
+    "url": "https://deepsql.ai/blog/giving-an-llm-your-database-is-easy-taking-access-away-is-hard",
+    "discussion_url": "https://news.ycombinator.com/item?id=49396348",
+    "source": "deepsql.ai",
+    "date": "2026-08-22T03:33:34Z",
+    "timestamp": 1787369614,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
+    "url": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
+    "discussion_url": "https://news.ycombinator.com/item?id=49396296",
+    "source": "wsj.com",
+    "date": "2026-08-22T03:20:33Z",
+    "timestamp": 1787368833,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Robots running into walls go viral ahead of 2026 World Humanoid Robot Games",
+    "url": "https://mashable.com/tech/world-humanoid-robot-games-2026-running-fall-accident",
+    "discussion_url": "https://news.ycombinator.com/item?id=49396053",
+    "source": "mashable.com",
+    "date": "2026-08-22T02:30:26Z",
+    "timestamp": 1787365826,
+    "category": "Physical AI"
+  },
+  {
+    "title": "China's robots rock, box and mix drinks. Can they outperform humans?",
+    "url": "https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582",
+    "discussion_url": "https://news.ycombinator.com/item?id=49395984",
+    "source": "ft.com",
+    "date": "2026-08-22T02:19:38Z",
+    "timestamp": 1787365178,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Show HN: Heimdall – Trust-verified knowledge layer for AI coding agents",
+    "url": "https://github.com/ArihantDeva/heimdall",
+    "discussion_url": "https://news.ycombinator.com/item?id=49395883",
+    "source": "github.com",
+    "date": "2026-08-22T02:02:14Z",
+    "timestamp": 1787364134,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I'd Rather Risk Cancer Than See AI Move This Fast",
+    "url": "https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49395789",
+    "source": "theatlantic.com",
+    "date": "2026-08-22T01:47:18Z",
+    "timestamp": 1787363238,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "In 1957, Disney Built Our Friend the Atom. We Now Need Our Friend the AI",
+    "url": "https://medium.com/@chipmunkworks/the-disney-solution-why-silicon-valley-needs-to-build-our-friend-the-ai-1a0ce3fc764a",
+    "discussion_url": "https://news.ycombinator.com/item?id=49395597",
+    "source": "medium.com",
+    "date": "2026-08-22T01:00:44Z",
+    "timestamp": 1787360444,
+    "category": "Machine Learning"
+  },
+  {
     "title": "Lie Detection and Language Models",
     "url": "https://philosophybear.substack.com/p/lie-detection-and-language-models",
     "discussion_url": "https://news.ycombinator.com/item?id=49395585",
@@ -43,123 +133,6 @@
     "date": "2026-08-21T23:49:49Z",
     "timestamp": 1787356189,
     "category": "Machine Learning"
-  },
-  {
-    "title": "A Call for Action: The \"Leiden Declaration on AI and Math\"",
-    "url": "https://www.ams.org/journals/notices/202608/noti3386/noti3386.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49394934",
-    "source": "ams.org",
-    "date": "2026-08-21T23:20:57Z",
-    "timestamp": 1787354457,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Replacing 223-node agent graph with a single OSS LLM",
-    "url": "https://www.netic.ai/blog/replacing-node-agent-graph-with-open-source-llm",
-    "discussion_url": "https://news.ycombinator.com/item?id=49394842",
-    "source": "netic.ai",
-    "date": "2026-08-21T23:10:52Z",
-    "timestamp": 1787353852,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Building Exoskeletons – Keeping Creative Inspiration",
-    "url": "https://johnoestmannmusic.com/ai-building-exoskeletons/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49394736",
-    "source": "johnoestmannmusic.com",
-    "date": "2026-08-21T22:57:01Z",
-    "timestamp": 1787353021,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "80% of developers find AI coding more addictive than helpful",
-    "url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49394186",
-    "source": "zdnet.com",
-    "date": "2026-08-21T21:51:36Z",
-    "timestamp": 1787349096,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Amazon's 7.65GW AI data center power plant could be largest CO₂ emitter in US",
-    "url": "https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases",
-    "discussion_url": "https://news.ycombinator.com/item?id=49393952",
-    "source": "tomshardware.com",
-    "date": "2026-08-21T21:24:43Z",
-    "timestamp": 1787347483,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49393647",
-    "source": "techcrunch.com",
-    "date": "2026-08-21T20:52:10Z",
-    "timestamp": 1787345530,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AgentCheck – regression testing for AI agents, with diff-aware CI reports",
-    "url": "https://github.com/rez-99/agentcheck",
-    "discussion_url": "https://news.ycombinator.com/item?id=49393322",
-    "source": "github.com",
-    "date": "2026-08-21T20:21:15Z",
-    "timestamp": 1787343675,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Stock Research Assistant · Streamlit",
-    "url": "https://ai-stock-research-kiaan.streamlit.app",
-    "discussion_url": "https://news.ycombinator.com/item?id=49393176",
-    "source": "ai-stock-research-kiaan.streamlit.app",
-    "date": "2026-08-21T20:05:04Z",
-    "timestamp": 1787342704,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Supermicro fired staff after probe into $2.5B GPUs-to-China smuggling operation",
-    "url": "https://www.theregister.com/legal/2026/08/21/supermicro-fired-staff-after-probe-into-25-billion-gpus-to-china-smuggling-operation/5290791",
-    "discussion_url": "https://news.ycombinator.com/item?id=49393061",
-    "source": "theregister.com",
-    "date": "2026-08-21T19:52:25Z",
-    "timestamp": 1787341945,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Multiple sequence alignment using WebGPU",
-    "url": "https://github.com/ag4349/msa-webgpu",
-    "discussion_url": "https://news.ycombinator.com/item?id=49392425",
-    "source": "github.com",
-    "date": "2026-08-21T18:56:47Z",
-    "timestamp": 1787338607,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Robotics Software",
-    "url": "https://news.ycombinator.com/item?id=49392367",
-    "discussion_url": "https://news.ycombinator.com/item?id=49392367",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-21T18:51:03Z",
-    "timestamp": 1787338263,
-    "category": "Physical AI"
-  },
-  {
-    "title": "The Death of the Job: How AI and Robots Will Rewrite Work in the Next 10 Years",
-    "url": "https://simonroses.com/2026/08/the-death-of-the-job-how-ai-and-robots-will-rewrite-work-in-the-next-10-years/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49392125",
-    "source": "simonroses.com",
-    "date": "2026-08-21T18:30:59Z",
-    "timestamp": 1787337059,
-    "category": "Physical AI"
-  },
-  {
-    "title": "London cabbies plot 'skulduggery' to take on robotaxis",
-    "url": "https://www.ft.com/content/7f2d4be3-5879-439e-8060-339bac53ab40",
-    "discussion_url": "https://news.ycombinator.com/item?id=49391704",
-    "source": "ft.com",
-    "date": "2026-08-21T17:56:30Z",
-    "timestamp": 1787334990,
-    "category": "Physical AI"
   },
   {
     "title": "What happens when a GPU reads memory",
