@@ -1,11 +1,101 @@
 [
   {
+    "title": "A coding agent on a 1987 Commodore Amiga 500 with a 7MHz CPU and 1 MB of RAM",
+    "url": "https://twitter.com/DXhusni/status/2090839488058859726",
+    "discussion_url": "https://news.ycombinator.com/item?id=49398797",
+    "source": "twitter.com",
+    "date": "2026-08-22T11:49:47Z",
+    "timestamp": 1787399387,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts",
+    "url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
+    "discussion_url": "https://news.ycombinator.com/item?id=49398609",
+    "source": "nltimes.nl",
+    "date": "2026-08-22T11:27:29Z",
+    "timestamp": 1787398049,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Is Rewriting Mathematics",
+    "url": "https://nofilk.substack.com/p/ai-is-rewriting-mathematics",
+    "discussion_url": "https://news.ycombinator.com/item?id=49398441",
+    "source": "nofilk.substack.com",
+    "date": "2026-08-22T10:59:44Z",
+    "timestamp": 1787396384,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Z80–The 1970s Microprocessor Still Alive",
+    "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+    "discussion_url": "https://news.ycombinator.com/item?id=49398158",
+    "source": "computer.org",
+    "date": "2026-08-22T09:49:57Z",
+    "timestamp": 1787392197,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "CyberStrike – open-source AI harness for offensive security (AGPL)",
+    "url": "https://github.com/CyberStrikeus/CyberStrike",
+    "discussion_url": "https://news.ycombinator.com/item?id=49398125",
+    "source": "github.com",
+    "date": "2026-08-22T09:44:44Z",
+    "timestamp": 1787391884,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Embedded AI",
+    "url": "https://nostarch.com/embedded-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49397947",
+    "source": "nostarch.com",
+    "date": "2026-08-22T09:07:26Z",
+    "timestamp": 1787389646,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Older Americans leaving workforce poses challenges for AI plans",
+    "url": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/8/older-americans-leaving-workforce-poses-challenges-for-ai-plans-105150367",
+    "discussion_url": "https://news.ycombinator.com/item?id=49397749",
+    "source": "spglobal.com",
+    "date": "2026-08-22T08:24:50Z",
+    "timestamp": 1787387090,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Agile AI Development Lifecycle",
+    "url": "https://valeriavg.dev/agile-ai-development-lifecycle",
+    "discussion_url": "https://news.ycombinator.com/item?id=49397671",
+    "source": "valeriavg.dev",
+    "date": "2026-08-22T08:08:59Z",
+    "timestamp": 1787386139,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+    "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49397321",
+    "source": "arstechnica.com",
+    "date": "2026-08-22T07:01:39Z",
+    "timestamp": 1787382099,
+    "category": "Physical AI"
+  },
+  {
     "title": "Would a Hiroshima-scale AI disaster make humanity protect itself? I fear not",
     "url": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
     "discussion_url": "https://news.ycombinator.com/item?id=49397246",
     "source": "theguardian.com",
     "date": "2026-08-22T06:46:35Z",
     "timestamp": 1787381195,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
+    "url": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
+    "discussion_url": "https://news.ycombinator.com/item?id=49397171",
+    "source": "phoronix.com",
+    "date": "2026-08-22T06:34:41Z",
+    "timestamp": 1787380481,
     "category": "Machine Learning"
   },
   {
@@ -16,6 +106,24 @@
     "date": "2026-08-22T05:54:49Z",
     "timestamp": 1787378089,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Front end skill pack for AI agents, with machine-enforced quality gates",
+    "url": "https://krishna-modi12.github.io/frontend-design-pro/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49396937",
+    "source": "krishna-modi12.github.io",
+    "date": "2026-08-22T05:52:19Z",
+    "timestamp": 1787377939,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "ESP32-S31 dual-core RISC-V SoC is getting official Linux support",
+    "url": "https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49396614",
+    "source": "cnx-software.com",
+    "date": "2026-08-22T04:40:50Z",
+    "timestamp": 1787373650,
+    "category": "Computer Architecture"
   },
   {
     "title": "Linus: And this was a debug session from hell, enormously helped by an AI",
@@ -36,15 +144,6 @@
     "category": "Machine Learning"
   },
   {
-    "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
-    "url": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
-    "discussion_url": "https://news.ycombinator.com/item?id=49396296",
-    "source": "wsj.com",
-    "date": "2026-08-22T03:20:33Z",
-    "timestamp": 1787368833,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Robots running into walls go viral ahead of 2026 World Humanoid Robot Games",
     "url": "https://mashable.com/tech/world-humanoid-robot-games-2026-running-fall-accident",
     "discussion_url": "https://news.ycombinator.com/item?id=49396053",
@@ -61,78 +160,6 @@
     "date": "2026-08-22T02:19:38Z",
     "timestamp": 1787365178,
     "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: Heimdall – Trust-verified knowledge layer for AI coding agents",
-    "url": "https://github.com/ArihantDeva/heimdall",
-    "discussion_url": "https://news.ycombinator.com/item?id=49395883",
-    "source": "github.com",
-    "date": "2026-08-22T02:02:14Z",
-    "timestamp": 1787364134,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I'd Rather Risk Cancer Than See AI Move This Fast",
-    "url": "https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49395789",
-    "source": "theatlantic.com",
-    "date": "2026-08-22T01:47:18Z",
-    "timestamp": 1787363238,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "In 1957, Disney Built Our Friend the Atom. We Now Need Our Friend the AI",
-    "url": "https://medium.com/@chipmunkworks/the-disney-solution-why-silicon-valley-needs-to-build-our-friend-the-ai-1a0ce3fc764a",
-    "discussion_url": "https://news.ycombinator.com/item?id=49395597",
-    "source": "medium.com",
-    "date": "2026-08-22T01:00:44Z",
-    "timestamp": 1787360444,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Lie Detection and Language Models",
-    "url": "https://philosophybear.substack.com/p/lie-detection-and-language-models",
-    "discussion_url": "https://news.ycombinator.com/item?id=49395585",
-    "source": "philosophybear.substack.com",
-    "date": "2026-08-22T01:00:03Z",
-    "timestamp": 1787360403,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Mockup Nvidia GPUs on Linux systems",
-    "url": "https://github.com/rnts08/Mock-nvidia-gpu-linux",
-    "discussion_url": "https://news.ycombinator.com/item?id=49395326",
-    "source": "github.com",
-    "date": "2026-08-22T00:19:49Z",
-    "timestamp": 1787357989,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Nvidia to Pay AI Startup Poolside a $6B License, Newcomer Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
-    "discussion_url": "https://news.ycombinator.com/item?id=49395252",
-    "source": "bloomberg.com",
-    "date": "2026-08-22T00:07:06Z",
-    "timestamp": 1787357226,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What We Tell AI",
-    "url": "https://www.whatwetellai.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49395157",
-    "source": "whatwetellai.com",
-    "date": "2026-08-21T23:50:27Z",
-    "timestamp": 1787356227,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "As demand for Meta AI glasses explodes, it's harder to avoid creepy recordings",
-    "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49395154",
-    "source": "arstechnica.com",
-    "date": "2026-08-21T23:49:49Z",
-    "timestamp": 1787356189,
-    "category": "Machine Learning"
   },
   {
     "title": "What happens when a GPU reads memory",
