@@ -1,5 +1,131 @@
 [
   {
+    "title": "Topagent.lol – an AI agent leaderboard ranked purely by who paid most",
+    "url": "https://topagent.lol",
+    "discussion_url": "https://news.ycombinator.com/item?id=49406376",
+    "source": "topagent.lol",
+    "date": "2026-08-23T06:01:37Z",
+    "timestamp": 1787464897,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "China Is Building AI Models of American Voters",
+    "url": "https://nataliegwinters.substack.com/p/exclusive-china-is-building-ai-models",
+    "discussion_url": "https://news.ycombinator.com/item?id=49406296",
+    "source": "nataliegwinters.substack.com",
+    "date": "2026-08-23T05:43:06Z",
+    "timestamp": 1787463786,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A mysterious free AI model is impressing developers. Nobody knows who made it",
+    "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+    "discussion_url": "https://news.ycombinator.com/item?id=49406289",
+    "source": "businessinsider.com",
+    "date": "2026-08-23T05:40:43Z",
+    "timestamp": 1787463643,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Rare-Book Sales Are Booming. They're Getting Sliced Up and Fed to AI",
+    "url": "https://www.wsj.com/articles/ais-need-for-content-has-put-rare-book-dealers-in-a-bind-1ac5a053",
+    "discussion_url": "https://news.ycombinator.com/item?id=49406267",
+    "source": "wsj.com",
+    "date": "2026-08-23T05:32:12Z",
+    "timestamp": 1787463132,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Chinese Orgs Building AI Models of American Voters to Test Political Messages",
+    "url": "https://twitter.com/nataliegwinters/status/2090814996687237570",
+    "discussion_url": "https://news.ycombinator.com/item?id=49406229",
+    "source": "twitter.com",
+    "date": "2026-08-23T05:19:45Z",
+    "timestamp": 1787462385,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Are You in Danger of Becoming a Robot?",
+    "url": "https://nautil.us/are-you-in-danger-of-becoming-a-robot-1284114",
+    "discussion_url": "https://news.ycombinator.com/item?id=49406155",
+    "source": "nautil.us",
+    "date": "2026-08-23T04:58:16Z",
+    "timestamp": 1787461096,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Humanoid robots surpass human records in 100M, high jump",
+    "url": "https://www.espn.com/olympics/story/_/id/49692320/humanoid-robots-surpass-human-records-100m-high-jump",
+    "discussion_url": "https://news.ycombinator.com/item?id=49406125",
+    "source": "espn.com",
+    "date": "2026-08-23T04:46:57Z",
+    "timestamp": 1787460417,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Palantir's Karp – frontier AI labs that are 'trying to drug addict us'",
+    "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49405966",
+    "source": "cnbc.com",
+    "date": "2026-08-23T04:03:46Z",
+    "timestamp": 1787457826,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
+    "url": "https://github.com/AntoineChatry/Dictata",
+    "discussion_url": "https://news.ycombinator.com/item?id=49405912",
+    "source": "github.com",
+    "date": "2026-08-23T03:50:15Z",
+    "timestamp": 1787457015,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "In 2000, Ted Kaczynski advised against math career due to future AI progress",
+    "url": "https://twitter.com/subcountability/status/2091164267827327042",
+    "discussion_url": "https://news.ycombinator.com/item?id=49405904",
+    "source": "twitter.com",
+    "date": "2026-08-23T03:47:05Z",
+    "timestamp": 1787456825,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Power Scaling Cuts Both Ways",
+    "url": "https://nervecenter.github.io/ai_power_scaling_cuts_both_ways.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49405849",
+    "source": "nervecenter.github.io",
+    "date": "2026-08-23T03:24:32Z",
+    "timestamp": 1787455472,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Edify – Windows NLE: OpenFX, proxy editing, AI subs, vtuber tools ($29.99 once)",
+    "url": "https://apps.microsoft.com/detail/9nkkk5k5s4ct?hl=en-US&gl=US",
+    "discussion_url": "https://news.ycombinator.com/item?id=49405662",
+    "source": "apps.microsoft.com",
+    "date": "2026-08-23T02:27:20Z",
+    "timestamp": 1787452040,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Chip Architectures",
+    "url": "https://www.jepeake.com/ai-chip-architectures",
+    "discussion_url": "https://news.ycombinator.com/item?id=49405657",
+    "source": "jepeake.com",
+    "date": "2026-08-23T02:25:10Z",
+    "timestamp": 1787451910,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Credit Without Ground Truth: Auditing Step-Level Credit Assignment in LLM Agents",
+    "url": "https://arxiv.org/abs/2608.19760",
+    "discussion_url": "https://news.ycombinator.com/item?id=49405591",
+    "source": "arxiv.org",
+    "date": "2026-08-23T02:07:06Z",
+    "timestamp": 1787450826,
+    "category": "Machine Learning"
+  },
+  {
     "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
     "url": "https://news.ycombinator.com/item?id=49405520",
     "discussion_url": "https://news.ycombinator.com/item?id=49405520",
@@ -9,49 +135,13 @@
     "category": "Physical AI"
   },
   {
-    "title": "Show HN: Agent2Creator – a video social network whose members are AI agents",
-    "url": "https://agent2creator.vidmoat.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49405354",
-    "source": "agent2creator.vidmoat.com",
-    "date": "2026-08-23T01:00:10Z",
-    "timestamp": 1787446810,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Adapting Fossil-scm as a platform for AI agentic workflow",
-    "url": "https://github.com/BenSiv/fossil-scm",
-    "discussion_url": "https://news.ycombinator.com/item?id=49405227",
-    "source": "github.com",
-    "date": "2026-08-23T00:36:50Z",
-    "timestamp": 1787445410,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI has failed to win people's trust. Its makers? less trusted",
-    "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
-    "discussion_url": "https://news.ycombinator.com/item?id=49404869",
-    "source": "euronews.com",
-    "date": "2026-08-22T23:30:20Z",
-    "timestamp": 1787441420,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Real AI Crash Will Start This Year",
-    "url": "https://quoththeraven.substack.com/p/the-real-ai-crash-will-start-this",
-    "discussion_url": "https://news.ycombinator.com/item?id=49404815",
-    "source": "quoththeraven.substack.com",
-    "date": "2026-08-22T23:21:03Z",
-    "timestamp": 1787440863,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How much is crawling your content worth to an AI bot?",
-    "url": "https://insights.som.yale.edu/insights/how-much-is-crawling-your-content-worth-to-an-ai-bot",
-    "discussion_url": "https://news.ycombinator.com/item?id=49404527",
-    "source": "insights.som.yale.edu",
-    "date": "2026-08-22T22:35:45Z",
-    "timestamp": 1787438145,
-    "category": "Machine Learning"
+    "title": "Eliminate GPU Waste by Cutting the Retry Tax",
+    "url": "https://rahmipruitt.me/content/gpu-retry-tax/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49404741",
+    "source": "rahmipruitt.me",
+    "date": "2026-08-22T23:07:58Z",
+    "timestamp": 1787440078,
+    "category": "Computer Architecture"
   },
   {
     "title": "Chinese humanoid robots smash human records in 100M sprint and high jump",
@@ -63,42 +153,6 @@
     "category": "Physical AI"
   },
   {
-    "title": "AI Made Me Faster. I'm Not Sure It Made Me Better",
-    "url": "https://medium.com/freedomofthought/ai-made-me-faster-im-not-sure-it-made-me-better-b7f78db7fc66",
-    "discussion_url": "https://news.ycombinator.com/item?id=49404320",
-    "source": "medium.com",
-    "date": "2026-08-22T22:05:01Z",
-    "timestamp": 1787436301,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-    "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49404271",
-    "source": "arstechnica.com",
-    "date": "2026-08-22T21:59:05Z",
-    "timestamp": 1787435945,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Contra Anthropic: AI is not 'structurally' centralizing",
-    "url": "https://12gramsofcarbon.com/p/is-ai-structurally-a-centralizing",
-    "discussion_url": "https://news.ycombinator.com/item?id=49404134",
-    "source": "12gramsofcarbon.com",
-    "date": "2026-08-22T21:40:37Z",
-    "timestamp": 1787434837,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Linux Network Developers Are ‘Completely Overwhelmed’ by AI Agents :)",
-    "url": "https://www.phoronix.com/news/Linux-7.3-Networking",
-    "discussion_url": "https://news.ycombinator.com/item?id=49404124",
-    "source": "phoronix.com",
-    "date": "2026-08-22T21:39:39Z",
-    "timestamp": 1787434779,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Chinese robot beats Usain Bolt's 100M world record at Beijing games",
     "url": "https://www.reuters.com/sports/chinese-humanoid-robot-lightning-beats-human-100m-world-record-state-media-says-2026-08-22/",
     "discussion_url": "https://news.ycombinator.com/item?id=49403981",
@@ -108,15 +162,6 @@
     "category": "Physical AI"
   },
   {
-    "title": "The importance of teaching students what AI can't do",
-    "url": "https://theconversation.com/the-importance-of-teaching-students-what-ai-cant-do-286100",
-    "discussion_url": "https://news.ycombinator.com/item?id=49403885",
-    "source": "theconversation.com",
-    "date": "2026-08-22T21:06:27Z",
-    "timestamp": 1787432787,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Where are people finding GPU capacity?",
     "url": "https://news.ycombinator.com/item?id=49403759",
     "discussion_url": "https://news.ycombinator.com/item?id=49403759",
@@ -124,60 +169,6 @@
     "date": "2026-08-22T20:50:02Z",
     "timestamp": 1787431802,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Why the Market Can't Escape Artificial Intelligence",
-    "url": "https://www.youtube.com/watch?v=wTiYaWFP59Q",
-    "discussion_url": "https://news.ycombinator.com/item?id=49403365",
-    "source": "youtube.com",
-    "date": "2026-08-22T20:10:29Z",
-    "timestamp": 1787429429,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Domain Driven AI",
-    "url": "https://pedromadruga.com/blog/domain-driven-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49403103",
-    "source": "pedromadruga.com",
-    "date": "2026-08-22T19:42:19Z",
-    "timestamp": 1787427739,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "World Humanoid Robot Games [video]",
-    "url": "https://www.youtube.com/watch?v=_Dl53o-je94",
-    "discussion_url": "https://news.ycombinator.com/item?id=49402649",
-    "source": "youtube.com",
-    "date": "2026-08-22T18:55:42Z",
-    "timestamp": 1787424942,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Ask HN: Is it time to run the LLM engines on the CPU?",
-    "url": "https://news.ycombinator.com/item?id=49402551",
-    "discussion_url": "https://news.ycombinator.com/item?id=49402551",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-22T18:46:52Z",
-    "timestamp": 1787424412,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Humanoid robots surpass human records in 100M, high jump",
-    "url": "https://www.espn.com/olympics/story/_/id/49692320/humanoid-robots-surpass-human-records-100m-high-jump",
-    "discussion_url": "https://news.ycombinator.com/item?id=49402180",
-    "source": "espn.com",
-    "date": "2026-08-22T18:08:23Z",
-    "timestamp": 1787422103,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-    "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
-    "discussion_url": "https://news.ycombinator.com/item?id=49399642",
-    "source": "theguardian.com",
-    "date": "2026-08-22T13:39:07Z",
-    "timestamp": 1787405947,
-    "category": "Physical AI"
   },
   {
     "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
