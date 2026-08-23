@@ -1,47 +1,128 @@
 [
   {
+    "title": "Visualization of CERN Accelerator Complex",
+    "url": "https://explore360.cern.ch/home",
+    "discussion_url": "https://news.ycombinator.com/item?id=49408055",
+    "source": "explore360.cern.ch",
+    "date": "2026-08-23T11:51:28Z",
+    "timestamp": 1787485888,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Declarative, reproducible configuration materializer for AI agents",
+    "url": "https://github.com/tooppoo/enozunu",
+    "discussion_url": "https://news.ycombinator.com/item?id=49408038",
+    "source": "github.com",
+    "date": "2026-08-23T11:48:23Z",
+    "timestamp": 1787485703,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
+    "url": "https://twitter.com/AndrewYNg/status/2090840747738374568",
+    "discussion_url": "https://news.ycombinator.com/item?id=49407944",
+    "source": "twitter.com",
+    "date": "2026-08-23T11:28:08Z",
+    "timestamp": 1787484488,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Agentic AI in a Smolbox",
+    "url": "https://remyhax.xyz/posts/smolbox/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49407905",
+    "source": "remyhax.xyz",
+    "date": "2026-08-23T11:20:53Z",
+    "timestamp": 1787484053,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The search for consciousness inside AI",
+    "url": "https://www.economist.com/interactive/briefing/2026/08/20/the-search-for-consciousness-inside-llms",
+    "discussion_url": "https://news.ycombinator.com/item?id=49407858",
+    "source": "economist.com",
+    "date": "2026-08-23T11:07:51Z",
+    "timestamp": 1787483271,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI datasets (2.6k entries) – automated collection, updated daily",
+    "url": "https://huggingface.co/gemmozero",
+    "discussion_url": "https://news.ycombinator.com/item?id=49407665",
+    "source": "huggingface.co",
+    "date": "2026-08-23T10:30:52Z",
+    "timestamp": 1787481052,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
+    "url": "https://www.reuters.com/legal/transactional/us-corporate-ai-debt-surge-tests-investor-limits-fatigue-emerges-2026-08-21/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49407625",
+    "source": "reuters.com",
+    "date": "2026-08-23T10:23:45Z",
+    "timestamp": 1787480625,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+    "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+    "discussion_url": "https://news.ycombinator.com/item?id=49407279",
+    "source": "ft.com",
+    "date": "2026-08-23T09:21:44Z",
+    "timestamp": 1787476904,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How Is AI Transforming Academic Search?",
+    "url": "https://katinamagazine.org/content/article/resource-advisor/2026/how-is-ai-transforming-academic-search",
+    "discussion_url": "https://news.ycombinator.com/item?id=49407226",
+    "source": "katinamagazine.org",
+    "date": "2026-08-23T09:09:54Z",
+    "timestamp": 1787476194,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Wiring up seven ESP32s to create a ~0.4B LLM",
+    "url": "https://www.xda-developers.com/someone-wired-up-seven-esp32s-to-create-a-04b-llm-and-so-can-you/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49406975",
+    "source": "xda-developers.com",
+    "date": "2026-08-23T08:14:04Z",
+    "timestamp": 1787472844,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Orelon – AI Video Generator for Cinematic Creation",
+    "url": "https://orelon.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49406951",
+    "source": "orelon.ai",
+    "date": "2026-08-23T08:08:13Z",
+    "timestamp": 1787472493,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Zen of AI",
+    "url": "https://www.dtlarson.com/zen",
+    "discussion_url": "https://news.ycombinator.com/item?id=49406881",
+    "source": "dtlarson.com",
+    "date": "2026-08-23T07:53:06Z",
+    "timestamp": 1787471586,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Unitree G1 vs. Human: This Robot Learned Tennis by \"Watching\" Amateurs [video]",
+    "url": "https://www.youtube.com/watch?v=fLp-75h-Bn8",
+    "discussion_url": "https://news.ycombinator.com/item?id=49406755",
+    "source": "youtube.com",
+    "date": "2026-08-23T07:28:12Z",
+    "timestamp": 1787470092,
+    "category": "Physical AI"
+  },
+  {
     "title": "Topagent.lol – an AI agent leaderboard ranked purely by who paid most",
     "url": "https://topagent.lol",
     "discussion_url": "https://news.ycombinator.com/item?id=49406376",
     "source": "topagent.lol",
     "date": "2026-08-23T06:01:37Z",
     "timestamp": 1787464897,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "China Is Building AI Models of American Voters",
-    "url": "https://nataliegwinters.substack.com/p/exclusive-china-is-building-ai-models",
-    "discussion_url": "https://news.ycombinator.com/item?id=49406296",
-    "source": "nataliegwinters.substack.com",
-    "date": "2026-08-23T05:43:06Z",
-    "timestamp": 1787463786,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A mysterious free AI model is impressing developers. Nobody knows who made it",
-    "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
-    "discussion_url": "https://news.ycombinator.com/item?id=49406289",
-    "source": "businessinsider.com",
-    "date": "2026-08-23T05:40:43Z",
-    "timestamp": 1787463643,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Rare-Book Sales Are Booming. They're Getting Sliced Up and Fed to AI",
-    "url": "https://www.wsj.com/articles/ais-need-for-content-has-put-rare-book-dealers-in-a-bind-1ac5a053",
-    "discussion_url": "https://news.ycombinator.com/item?id=49406267",
-    "source": "wsj.com",
-    "date": "2026-08-23T05:32:12Z",
-    "timestamp": 1787463132,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Chinese Orgs Building AI Models of American Voters to Test Political Messages",
-    "url": "https://twitter.com/nataliegwinters/status/2090814996687237570",
-    "discussion_url": "https://news.ycombinator.com/item?id=49406229",
-    "source": "twitter.com",
-    "date": "2026-08-23T05:19:45Z",
-    "timestamp": 1787462385,
     "category": "Machine Learning"
   },
   {
@@ -63,69 +144,6 @@
     "category": "Physical AI"
   },
   {
-    "title": "Palantir's Karp – frontier AI labs that are 'trying to drug addict us'",
-    "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49405966",
-    "source": "cnbc.com",
-    "date": "2026-08-23T04:03:46Z",
-    "timestamp": 1787457826,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
-    "url": "https://github.com/AntoineChatry/Dictata",
-    "discussion_url": "https://news.ycombinator.com/item?id=49405912",
-    "source": "github.com",
-    "date": "2026-08-23T03:50:15Z",
-    "timestamp": 1787457015,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "In 2000, Ted Kaczynski advised against math career due to future AI progress",
-    "url": "https://twitter.com/subcountability/status/2091164267827327042",
-    "discussion_url": "https://news.ycombinator.com/item?id=49405904",
-    "source": "twitter.com",
-    "date": "2026-08-23T03:47:05Z",
-    "timestamp": 1787456825,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Power Scaling Cuts Both Ways",
-    "url": "https://nervecenter.github.io/ai_power_scaling_cuts_both_ways.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49405849",
-    "source": "nervecenter.github.io",
-    "date": "2026-08-23T03:24:32Z",
-    "timestamp": 1787455472,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Edify – Windows NLE: OpenFX, proxy editing, AI subs, vtuber tools ($29.99 once)",
-    "url": "https://apps.microsoft.com/detail/9nkkk5k5s4ct?hl=en-US&gl=US",
-    "discussion_url": "https://news.ycombinator.com/item?id=49405662",
-    "source": "apps.microsoft.com",
-    "date": "2026-08-23T02:27:20Z",
-    "timestamp": 1787452040,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Chip Architectures",
-    "url": "https://www.jepeake.com/ai-chip-architectures",
-    "discussion_url": "https://news.ycombinator.com/item?id=49405657",
-    "source": "jepeake.com",
-    "date": "2026-08-23T02:25:10Z",
-    "timestamp": 1787451910,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Credit Without Ground Truth: Auditing Step-Level Credit Assignment in LLM Agents",
-    "url": "https://arxiv.org/abs/2608.19760",
-    "discussion_url": "https://news.ycombinator.com/item?id=49405591",
-    "source": "arxiv.org",
-    "date": "2026-08-23T02:07:06Z",
-    "timestamp": 1787450826,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
     "url": "https://news.ycombinator.com/item?id=49405520",
     "discussion_url": "https://news.ycombinator.com/item?id=49405520",
@@ -133,42 +151,6 @@
     "date": "2026-08-23T01:45:17Z",
     "timestamp": 1787449517,
     "category": "Physical AI"
-  },
-  {
-    "title": "Eliminate GPU Waste by Cutting the Retry Tax",
-    "url": "https://rahmipruitt.me/content/gpu-retry-tax/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49404741",
-    "source": "rahmipruitt.me",
-    "date": "2026-08-22T23:07:58Z",
-    "timestamp": 1787440078,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Chinese humanoid robots smash human records in 100M sprint and high jump",
-    "url": "https://apnews.com/article/china-humanoid-robot-games-us-86cb8e310843151a77057e4cb764b4e2",
-    "discussion_url": "https://news.ycombinator.com/item?id=49404332",
-    "source": "apnews.com",
-    "date": "2026-08-22T22:06:30Z",
-    "timestamp": 1787436390,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Chinese robot beats Usain Bolt's 100M world record at Beijing games",
-    "url": "https://www.reuters.com/sports/chinese-humanoid-robot-lightning-beats-human-100m-world-record-state-media-says-2026-08-22/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49403981",
-    "source": "reuters.com",
-    "date": "2026-08-22T21:18:33Z",
-    "timestamp": 1787433513,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Where are people finding GPU capacity?",
-    "url": "https://news.ycombinator.com/item?id=49403759",
-    "discussion_url": "https://news.ycombinator.com/item?id=49403759",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-22T20:50:02Z",
-    "timestamp": 1787431802,
-    "category": "Computer Architecture"
   },
   {
     "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
