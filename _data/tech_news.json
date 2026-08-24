@@ -1,5 +1,140 @@
 [
   {
+    "title": "P2P Token Factory: Private Inference Network on Idle Macs",
+    "url": "https://github.com/Layr-Labs/d-inference",
+    "discussion_url": "https://news.ycombinator.com/item?id=49416210",
+    "source": "github.com",
+    "date": "2026-08-24T07:18:18Z",
+    "timestamp": 1787555898,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Hookpost – Open-source social media scheduler with AI Agent copilot",
+    "url": "https://github.com/jatinder14/hookpost",
+    "discussion_url": "https://news.ycombinator.com/item?id=49416011",
+    "source": "github.com",
+    "date": "2026-08-24T06:49:28Z",
+    "timestamp": 1787554168,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OCR It – pull text out of un-copyable documents for your LLM",
+    "url": "https://github.com/thiagotigaz/ocr-it",
+    "discussion_url": "https://news.ycombinator.com/item?id=49415852",
+    "source": "github.com",
+    "date": "2026-08-24T06:25:31Z",
+    "timestamp": 1787552731,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+    "url": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
+    "discussion_url": "https://news.ycombinator.com/item?id=49415695",
+    "source": "github.com",
+    "date": "2026-08-24T06:00:50Z",
+    "timestamp": 1787551250,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI isn't the end goal. (my weird view)",
+    "url": "https://news.ycombinator.com/item?id=49415690",
+    "discussion_url": "https://news.ycombinator.com/item?id=49415690",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-24T05:59:22Z",
+    "timestamp": 1787551162,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Can AI Help Someone Get Closer to God? The Answer Is Dividing Opinions",
+    "url": "https://moztako.me/can-ai-help-someone-get-closer-to-god/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49415618",
+    "source": "moztako.me",
+    "date": "2026-08-24T05:46:57Z",
+    "timestamp": 1787550417,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Can AI Do Philosophy? An Experiment (Part Two)",
+    "url": "https://www.ryansimonelli.com/absolute-irony-blog/can-ai-do-philosophy-an-experiment-part-two",
+    "discussion_url": "https://news.ycombinator.com/item?id=49415609",
+    "source": "ryansimonelli.com",
+    "date": "2026-08-24T05:45:47Z",
+    "timestamp": 1787550347,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I Rented a 96 GB GPU and Took Uncensored Qwen3.8 From 44 to 125 tok/s",
+    "url": "https://aseemshrey.com/blog/running-qwen3-8-27b-uncensored/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49415350",
+    "source": "aseemshrey.com",
+    "date": "2026-08-24T05:04:45Z",
+    "timestamp": 1787547885,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Open-source calculator for \"will my GPU run this LLM?\"",
+    "url": "https://jaeseok614.github.io/llm-gpu-checker-ko/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49415348",
+    "source": "jaeseok614.github.io",
+    "date": "2026-08-24T05:04:22Z",
+    "timestamp": 1787547862,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Six opportunities for scientists and engineers to learn programming with AI [pdf]",
+    "url": "https://pg.ucsd.edu/publications/scientists-engineers-learning-programming-using-ai_CiSE-2023.pdf",
+    "discussion_url": "https://news.ycombinator.com/item?id=49415115",
+    "source": "pg.ucsd.edu",
+    "date": "2026-08-24T04:11:23Z",
+    "timestamp": 1787544683,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How to Make AI Game Music for Any Level: Prompts and Looping",
+    "url": "https://www.musegen.ai/blog/ai-game-level-music",
+    "discussion_url": "https://news.ycombinator.com/item?id=49415007",
+    "source": "musegen.ai",
+    "date": "2026-08-24T03:46:37Z",
+    "timestamp": 1787543197,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI one-shots tiny games 'cause it's memorized them. Try one it hasn't seen",
+    "url": "https://news.ycombinator.com/item?id=49414725",
+    "discussion_url": "https://news.ycombinator.com/item?id=49414725",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-24T02:49:30Z",
+    "timestamp": 1787539770,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Tech leads should have the largest AI exhaust",
+    "url": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49414675",
+    "source": "schipper.ai",
+    "date": "2026-08-24T02:39:32Z",
+    "timestamp": 1787539172,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "What the EU AI Act means for you and your business",
+    "url": "https://proton.me/blog/eu-ai-act",
+    "discussion_url": "https://news.ycombinator.com/item?id=49414521",
+    "source": "proton.me",
+    "date": "2026-08-24T02:09:23Z",
+    "timestamp": 1787537363,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Founder calculators: SAFE terms and an accelerator shortlist and Runway",
+    "url": "https://continuum-app.xyz/safe",
+    "discussion_url": "https://news.ycombinator.com/item?id=49414354",
+    "source": "continuum-app.xyz",
+    "date": "2026-08-24T01:36:58Z",
+    "timestamp": 1787535418,
+    "category": "Computer Architecture"
+  },
+  {
     "title": "Show HN: Rally (Real-Time Dual-Arm Robotic Table Tennis System)",
     "url": "https://github.com/ColonelToad/Rally",
     "discussion_url": "https://news.ycombinator.com/item?id=49414042",
@@ -7,69 +142,6 @@
     "date": "2026-08-24T00:43:11Z",
     "timestamp": 1787532191,
     "category": "Physical AI"
-  },
-  {
-    "title": "Vintage Artificial Intelligence Collection",
-    "url": "https://archive.org/details/vintageai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49413858",
-    "source": "archive.org",
-    "date": "2026-08-24T00:10:54Z",
-    "timestamp": 1787530254,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Dr. Dre Says He Uses AI to Produce Songs",
-    "url": "https://gizmodo.com/dr-dre-says-he-uses-ai-to-produce-songs-2000802009",
-    "discussion_url": "https://news.ycombinator.com/item?id=49413811",
-    "source": "gizmodo.com",
-    "date": "2026-08-24T00:02:43Z",
-    "timestamp": 1787529763,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
-    "url": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49413773",
-    "source": "engadget.com",
-    "date": "2026-08-23T23:56:28Z",
-    "timestamp": 1787529388,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I built a low-latency AI companion that plays Skyrim with me",
-    "url": "https://pantel.is/projects/ai-gaming-companion/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49413561",
-    "source": "pantel.is",
-    "date": "2026-08-23T23:18:17Z",
-    "timestamp": 1787527097,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: A directory of vibe-coded or AI built games",
-    "url": "https://aibuiltgames.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49413326",
-    "source": "aibuiltgames.com",
-    "date": "2026-08-23T22:42:25Z",
-    "timestamp": 1787524945,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Tracker in rare book ends up in Amazon facility destroying books to train AI",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secret-tracking-device-placed-in-rare-book-ends-up-in-amazon-processing-facility-destroying-books-to-train-ai-models-is-all-the-vegas-warehouse-does",
-    "discussion_url": "https://news.ycombinator.com/item?id=49413322",
-    "source": "tomshardware.com",
-    "date": "2026-08-23T22:41:28Z",
-    "timestamp": 1787524888,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "GOP issues stark warning to AI companies",
-    "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
-    "discussion_url": "https://news.ycombinator.com/item?id=49413256",
-    "source": "axios.com",
-    "date": "2026-08-23T22:31:37Z",
-    "timestamp": 1787524297,
-    "category": "Machine Learning"
   },
   {
     "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
@@ -81,33 +153,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "You probably use AI because your colleagues use AI",
-    "url": "https://austinhenley.com/blog/aiadoption.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49413071",
-    "source": "austinhenley.com",
-    "date": "2026-08-23T22:03:05Z",
-    "timestamp": 1787522585,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI scanner AgentGG found GeoServer SQL injection before zero-day",
-    "url": "https://medium.com/@philipgarabandic/a-geoserver-zero-day-that-went-from-private-report-to-public-exploit-in-six-weeks-0fc3724f22d7",
-    "discussion_url": "https://news.ycombinator.com/item?id=49413016",
-    "source": "medium.com",
-    "date": "2026-08-23T21:57:21Z",
-    "timestamp": 1787522241,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Vidmoat – My Super Fantastic AI Native Video Editor (MCP, Web)",
-    "url": "https://www.vidmoat.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49413006",
-    "source": "vidmoat.com",
-    "date": "2026-08-23T21:56:03Z",
-    "timestamp": 1787522163,
-    "category": "Machine Learning"
-  },
-  {
     "title": "AI robotics companies love San Francisco. They're just too big to stay",
     "url": "https://sfstandard.com/2026/08/23/ai-robotics-san-francisco-bright-machines/",
     "discussion_url": "https://news.ycombinator.com/item?id=49412876",
@@ -115,24 +160,6 @@
     "date": "2026-08-23T21:36:37Z",
     "timestamp": 1787520997,
     "category": "Physical AI"
-  },
-  {
-    "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
-    "url": "https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49412858",
-    "source": "reuters.com",
-    "date": "2026-08-23T21:34:06Z",
-    "timestamp": 1787520846,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Leyline: KV Cache Directives for Agentic Inference",
-    "url": "https://arxiv.org/abs/2606.01065",
-    "discussion_url": "https://news.ycombinator.com/item?id=49412557",
-    "source": "arxiv.org",
-    "date": "2026-08-23T20:56:42Z",
-    "timestamp": 1787518602,
-    "category": "Machine Learning"
   },
   {
     "title": "Declarative WebGPU with S-Expressions",
@@ -159,42 +186,6 @@
     "source": "spheron.network",
     "date": "2026-08-23T18:27:33Z",
     "timestamp": 1787509653,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Ask HN: What's your experience with AI agent memory systems?",
-    "url": "https://news.ycombinator.com/item?id=49410850",
-    "discussion_url": "https://news.ycombinator.com/item?id=49410850",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-23T17:51:22Z",
-    "timestamp": 1787507482,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "I asked Codex to design its own CPU and then write a Space Invaders-style game",
-    "url": "https://twitter.com/Angaisb_/status/2091511260265263604",
-    "discussion_url": "https://news.ycombinator.com/item?id=49410812",
-    "source": "twitter.com",
-    "date": "2026-08-23T17:47:57Z",
-    "timestamp": 1787507277,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Robot boxing, football and sprinting at World Humanoid Games",
-    "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo",
-    "discussion_url": "https://news.ycombinator.com/item?id=49410180",
-    "source": "bbc.co.uk",
-    "date": "2026-08-23T16:34:13Z",
-    "timestamp": 1787502853,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
-    "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-    "discussion_url": "https://news.ycombinator.com/item?id=49398158",
-    "source": "computer.org",
-    "date": "2026-08-22T09:49:57Z",
-    "timestamp": 1787392197,
     "category": "Computer Architecture"
   }
 ]
