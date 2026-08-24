@@ -1,155 +1,200 @@
 [
   {
-    "title": "Show HN: Strappy AI is like Siri AI for Jailbroken iPhones (iOS 5＋ & Macs 10.4＋)",
-    "url": "https://github.com/jeffreybergier/Strappy-Cocoa",
-    "discussion_url": "https://news.ycombinator.com/item?id=49419264",
-    "source": "github.com",
-    "date": "2026-08-24T13:08:31Z",
-    "timestamp": 1787576911,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Crilio – Catch AI prompt regressions before your users do",
-    "url": "https://github.com/mukundzha/crilio",
-    "discussion_url": "https://news.ycombinator.com/item?id=49419235",
-    "source": "github.com",
-    "date": "2026-08-24T13:04:55Z",
-    "timestamp": 1787576695,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Benchmarking Agentgateway vs. LiteLLM's Rust Mode",
-    "url": "https://agentgateway.dev/blog/2026-08-13-benchmarking-agentgateway-vs-litellm-rust-mode/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49419211",
-    "source": "agentgateway.dev",
-    "date": "2026-08-24T13:03:07Z",
-    "timestamp": 1787576587,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: AI Sales Roleplay for Cold Calls",
-    "url": "https://drillcall.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49418894",
-    "source": "drillcall.com",
-    "date": "2026-08-24T12:36:25Z",
-    "timestamp": 1787574985,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Katara – A human-only reverse job board built to fight AI recruiter spam",
-    "url": "https://www.trykatara.com/en-gb",
-    "discussion_url": "https://news.ycombinator.com/item?id=49418687",
-    "source": "trykatara.com",
-    "date": "2026-08-24T12:20:09Z",
-    "timestamp": 1787574009,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Perplexity's free AI offer left it with millions more users in India",
-    "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49418627",
-    "source": "techcrunch.com",
-    "date": "2026-08-24T12:13:39Z",
-    "timestamp": 1787573619,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Two months, $0: the honest ledger of an AI agent trying to make its first dollar",
-    "url": "https://aitoolsinsiderhq.com/log/two-months/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49418493",
-    "source": "aitoolsinsiderhq.com",
-    "date": "2026-08-24T12:00:40Z",
-    "timestamp": 1787572840,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Xiaomi AI Cube prototype delivers 1.22 TB/s near-memory bandwidth",
-    "url": "https://videocardz.com/newz/xiaomi-shows-150w-ai-cube-mini-pc-with-xring-processor-lpddr6-memory-and-16-core-g2-ultra-nx-gpu",
-    "discussion_url": "https://news.ycombinator.com/item?id=49418391",
-    "source": "videocardz.com",
-    "date": "2026-08-24T11:48:48Z",
-    "timestamp": 1787572128,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I built a linter for AI agent skills, MCP and skills",
-    "url": "https://github.com/alinotfoundbtw/sounding",
-    "discussion_url": "https://news.ycombinator.com/item?id=49418307",
-    "source": "github.com",
-    "date": "2026-08-24T11:39:18Z",
-    "timestamp": 1787571558,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
-    "url": "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
-    "discussion_url": "https://news.ycombinator.com/item?id=49418093",
-    "source": "newsroom.ibm.com",
-    "date": "2026-08-24T11:12:10Z",
-    "timestamp": 1787569930,
+    "title": "SpaceXAI Adopts Nvidia Vera CPU to Accelerate Agentic AI at Scale",
+    "url": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale",
+    "discussion_url": "https://news.ycombinator.com/item?id=49424210",
+    "source": "nvidianews.nvidia.com",
+    "date": "2026-08-24T18:48:46Z",
+    "timestamp": 1787597326,
     "category": "Computer Architecture"
   },
   {
-    "title": "Use fewer threads for CPU inference",
-    "url": "https://www.nobodywho.ai/posts/threadcounts-for-cpu-inference/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49417903",
-    "source": "nobodywho.ai",
-    "date": "2026-08-24T10:47:56Z",
-    "timestamp": 1787568476,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Nvidia Is Spending $6B to Build a Powerful Open-Weight Alternative to Chinese AI",
-    "url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc",
-    "discussion_url": "https://news.ycombinator.com/item?id=49417791",
-    "source": "wsj.com",
-    "date": "2026-08-24T10:32:14Z",
-    "timestamp": 1787567534,
+    "title": "The unprompted.au (Australian AI and Cyber) schedule is live",
+    "url": "https://unprompted.au/schedule",
+    "discussion_url": "https://news.ycombinator.com/item?id=49424183",
+    "source": "unprompted.au",
+    "date": "2026-08-24T18:46:52Z",
+    "timestamp": 1787597212,
     "category": "Machine Learning"
   },
   {
-    "title": "PNGine: Declarative WebGPU in S-Expressions",
-    "url": "https://hugodaniel.com/pages/pngine/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49417750",
-    "source": "hugodaniel.com",
-    "date": "2026-08-24T10:27:22Z",
-    "timestamp": 1787567242,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Continuous Diffusion Language Models",
-    "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49417605",
-    "source": "sander.ai",
-    "date": "2026-08-24T10:08:52Z",
-    "timestamp": 1787566132,
+    "title": "New York AI data center fight comes to Geneva",
+    "url": "https://www.democratandchronicle.com/story/news/2026/08/24/geneva-ai-data-center-greenidge-kristen-gonzalez/91437888007/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49424098",
+    "source": "democratandchronicle.com",
+    "date": "2026-08-24T18:39:26Z",
+    "timestamp": 1787596766,
     "category": "Machine Learning"
   },
   {
-    "title": "Realtime AI Interview Assistant",
-    "url": "https://www.yoodaai.pro",
-    "discussion_url": "https://news.ycombinator.com/item?id=49417583",
-    "source": "yoodaai.pro",
-    "date": "2026-08-24T10:07:32Z",
-    "timestamp": 1787566052,
+    "title": "It's OK. Do Your Thing. Some (reluctant) thought on our AI moment",
+    "url": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49423992",
+    "source": "buttondown.com",
+    "date": "2026-08-24T18:30:25Z",
+    "timestamp": 1787596225,
     "category": "Machine Learning"
   },
   {
-    "title": "FDA Authorizes First-of-Its-Kind Robotic Blood Draw Device",
-    "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-its-kind-robotic-blood-draw-device",
-    "discussion_url": "https://news.ycombinator.com/item?id=49417079",
-    "source": "fda.gov",
-    "date": "2026-08-24T09:00:51Z",
-    "timestamp": 1787562051,
+    "title": "Em Dash Is Fine – It Is AI That Sucks",
+    "url": "https://blog.torh.net/2026/08/24/em-dash-is-fine-it-is-ai-that-sucks/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49423792",
+    "source": "blog.torh.net",
+    "date": "2026-08-24T18:15:12Z",
+    "timestamp": 1787595312,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: I built a lite LPU that can do inference on Karpathy's MicroGPT",
+    "url": "https://www.lpulite.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49423735",
+    "source": "lpulite.com",
+    "date": "2026-08-24T18:11:30Z",
+    "timestamp": 1787595090,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Math After AI",
+    "url": "https://windowsontheory.org/2026/08/24/math-after-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49423665",
+    "source": "windowsontheory.org",
+    "date": "2026-08-24T18:06:00Z",
+    "timestamp": 1787594760,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "World Humanoid Robot Games 2026 Begin in Beijing [video]",
+    "url": "https://www.youtube.com/watch?v=BF4ie98yHOk",
+    "discussion_url": "https://news.ycombinator.com/item?id=49423498",
+    "source": "youtube.com",
+    "date": "2026-08-24T17:53:34Z",
+    "timestamp": 1787594014,
     "category": "Physical AI"
   },
   {
-    "title": "Ask HN: When will Trump impose tariffs on semiconductors from Asia?",
-    "url": "https://news.ycombinator.com/item?id=49416653",
-    "discussion_url": "https://news.ycombinator.com/item?id=49416653",
+    "title": "Concentrate AI: an LLM gateway that charges 0%",
+    "url": "https://concentrate.ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49423420",
+    "source": "concentrate.ai",
+    "date": "2026-08-24T17:48:32Z",
+    "timestamp": 1787593712,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: What AI companies provide human support?",
+    "url": "https://news.ycombinator.com/item?id=49423377",
+    "discussion_url": "https://news.ycombinator.com/item?id=49423377",
     "source": "news.ycombinator.com",
-    "date": "2026-08-24T08:13:18Z",
-    "timestamp": 1787559198,
+    "date": "2026-08-24T17:45:16Z",
+    "timestamp": 1787593516,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: See how much your AI knows about you",
+    "url": "https://www.withcorpus.com/knows",
+    "discussion_url": "https://news.ycombinator.com/item?id=49423371",
+    "source": "withcorpus.com",
+    "date": "2026-08-24T17:44:57Z",
+    "timestamp": 1787593497,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Many ArXiv papers use various open LLMs",
+    "url": "https://natolambert.substack.com/p/how-many-arxiv-papers-use-various",
+    "discussion_url": "https://news.ycombinator.com/item?id=49423330",
+    "source": "natolambert.substack.com",
+    "date": "2026-08-24T17:41:40Z",
+    "timestamp": 1787593300,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Fake Zoom, hang out with AI coworkers and feel the synergy",
+    "url": "https://fake-zoom.pages.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49423295",
+    "source": "fake-zoom.pages.dev",
+    "date": "2026-08-24T17:38:43Z",
+    "timestamp": 1787593123,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Intel Core Series 3 (Wildcat Lake) CPU at Hot Chips 2026 – ServeTheHome",
+    "url": "https://www.servethehome.com/intel-core-series-3-wildcat-lake-cpu-at-hot-chips-2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49423227",
+    "source": "servethehome.com",
+    "date": "2026-08-24T17:34:28Z",
+    "timestamp": 1787592868,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "AI Is Not Alive Yet",
+    "url": "https://www.manhattanmetric.com/blog/2026/08/ai-is-not-alive",
+    "discussion_url": "https://news.ycombinator.com/item?id=49423197",
+    "source": "manhattanmetric.com",
+    "date": "2026-08-24T17:32:22Z",
+    "timestamp": 1787592742,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "IBM Z and LinuxONE Dual-ISA Processor and AI Acceleration at Hot Chips 2026",
+    "url": "https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49422675",
+    "source": "servethehome.com",
+    "date": "2026-08-24T16:59:03Z",
+    "timestamp": 1787590743,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
+    "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+    "discussion_url": "https://news.ycombinator.com/item?id=49422548",
+    "source": "chipsandcheese.com",
+    "date": "2026-08-24T16:52:01Z",
+    "timestamp": 1787590321,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Writing Fast Attention Backward Kernel for 5090 in CUDA",
+    "url": "https://hoanh.space/blog/attention-backward-5090-cuda/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49422097",
+    "source": "hoanh.space",
+    "date": "2026-08-24T16:23:34Z",
+    "timestamp": 1787588614,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Shelf Protocol – Robots.txt for Commerce",
+    "url": "https://github.com/Signal-All/shelfprotocol",
+    "discussion_url": "https://news.ycombinator.com/item?id=49421418",
+    "source": "github.com",
+    "date": "2026-08-24T15:45:01Z",
+    "timestamp": 1787586301,
+    "category": "Physical AI"
+  },
+  {
+    "title": "D-Matrix Raptor 3D-DRAM Accelerator for Generative Inference at Hot Chips 2026",
+    "url": "https://www.servethehome.com/d-matrix-raptor-3d-dram-accelerator-for-generative-inference-at-hot-chips-2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49421073",
+    "source": "servethehome.com",
+    "date": "2026-08-24T15:22:32Z",
+    "timestamp": 1787584952,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Amazon's Toaster-Shaped Robotaxis Are Hitting the Road",
+    "url": "https://www.wsj.com/business/autos/amazons-toaster-shaped-robotaxis-are-hitting-the-road-111c7b90",
+    "discussion_url": "https://news.ycombinator.com/item?id=49421002",
+    "source": "wsj.com",
+    "date": "2026-08-24T15:18:01Z",
+    "timestamp": 1787584681,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+    "url": "https://twitter.com/lemire/status/2091894299289874926",
+    "discussion_url": "https://news.ycombinator.com/item?id=49420873",
+    "source": "twitter.com",
+    "date": "2026-08-24T15:08:17Z",
+    "timestamp": 1787584097,
     "category": "Computer Architecture"
   },
   {
@@ -159,15 +204,6 @@
     "source": "hugodaniel.com",
     "date": "2026-08-23T20:47:53Z",
     "timestamp": 1787518073,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
-    "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49411178",
-    "source": "spheron.network",
-    "date": "2026-08-23T18:27:33Z",
-    "timestamp": 1787509653,
     "category": "Computer Architecture"
   }
 ]
