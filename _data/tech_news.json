@@ -1,12 +1,138 @@
 [
   {
-    "title": "Russian drone guided by AI kills civilians in Ukraine",
-    "url": "https://www.aerotime.aero/articles/russian-drone-guided-entirely-by-ai-kills-civilians-in-ukraine",
-    "discussion_url": "https://news.ycombinator.com/item?id=49427988",
-    "source": "aerotime.aero",
-    "date": "2026-08-25T01:18:25Z",
-    "timestamp": 1787620705,
+    "title": "All AI Data Centers Under Construction Could Emit as Much CO₂ as 24M Cars",
+    "url": "https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars",
+    "discussion_url": "https://news.ycombinator.com/item?id=49429903",
+    "source": "gadgetreview.com",
+    "date": "2026-08-25T06:43:03Z",
+    "timestamp": 1787640183,
     "category": "Machine Learning"
+  },
+  {
+    "title": "New technology lets cloud AI models process your data without privacy leaks",
+    "url": "https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49429691",
+    "source": "plugos.net",
+    "date": "2026-08-25T06:11:42Z",
+    "timestamp": 1787638302,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "'Don't ask me to print your ChatGPT birthday card': Hitting back at AI 'slop'",
+    "url": "https://www.bbc.co.uk/news/articles/cq89jpjeq7ko",
+    "discussion_url": "https://news.ycombinator.com/item?id=49429688",
+    "source": "bbc.co.uk",
+    "date": "2026-08-25T06:11:28Z",
+    "timestamp": 1787638288,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: CookWing, an AI chef that doesn't hallucinate quantities",
+    "url": "https://play.google.com/store/apps/details?id=com.redwing.vibecooking&hl=en_US",
+    "discussion_url": "https://news.ycombinator.com/item?id=49429600",
+    "source": "play.google.com",
+    "date": "2026-08-25T05:53:45Z",
+    "timestamp": 1787637225,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+    "url": "https://www.bbc.com/news/articles/c62m4zn1q6mo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49429512",
+    "source": "bbc.com",
+    "date": "2026-08-25T05:39:07Z",
+    "timestamp": 1787636347,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Show HN: When AI Decides What Matters",
+    "url": "https://jasondoyle.ie/whitepapers/when-ai-decides-what-matters/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49429255",
+    "source": "jasondoyle.ie",
+    "date": "2026-08-25T04:56:55Z",
+    "timestamp": 1787633815,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Code maintainability plummets in the AI coding era",
+    "url": "https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era",
+    "discussion_url": "https://news.ycombinator.com/item?id=49429028",
+    "source": "leaddev.com",
+    "date": "2026-08-25T04:21:41Z",
+    "timestamp": 1787631701,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Supermicro Super AI Station (GB300, 20 Pflops FP4, 748GB Coherent Memory)",
+    "url": "https://www.supermicro.com/en/accelerators/nvidia/super-ai-station",
+    "discussion_url": "https://news.ycombinator.com/item?id=49428966",
+    "source": "supermicro.com",
+    "date": "2026-08-25T04:08:43Z",
+    "timestamp": 1787630923,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Right-Sized Language Model",
+    "url": "https://joecooper.me/blog/cpuhaiku/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49428663",
+    "source": "joecooper.me",
+    "date": "2026-08-25T03:10:44Z",
+    "timestamp": 1787627444,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nvidia Is Spending $6B to Build a Powerful U.S. Alternative to Chinese AI",
+    "url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc",
+    "discussion_url": "https://news.ycombinator.com/item?id=49428631",
+    "source": "wsj.com",
+    "date": "2026-08-25T03:05:11Z",
+    "timestamp": 1787627111,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "IBM Z and LinuxONE Dual-ISA Processor and AI Acceleration at Hot Chips 2026",
+    "url": "https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49428514",
+    "source": "servethehome.com",
+    "date": "2026-08-25T02:45:56Z",
+    "timestamp": 1787625956,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Capture why AI wrote each commit, stored in Git-notes",
+    "url": "https://github.com/surajsrivastav/gitwhy",
+    "discussion_url": "https://news.ycombinator.com/item?id=49428395",
+    "source": "github.com",
+    "date": "2026-08-25T02:27:55Z",
+    "timestamp": 1787624875,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "ZeroPop: AI trading card grading / pricing / ID for iOS, Android, and Web",
+    "url": "https://zeropop.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49428357",
+    "source": "zeropop.app",
+    "date": "2026-08-25T02:20:58Z",
+    "timestamp": 1787624458,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "80% of developers find AI coding more addictive than helpful",
+    "url": "https://www.zdnet.com/article/i-cant-stop-80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49428303",
+    "source": "zdnet.com",
+    "date": "2026-08-25T02:09:52Z",
+    "timestamp": 1787623792,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AMD MI400 GPU at Hot Chips 2026",
+    "url": "https://www.servethehome.com/amd-mi400-gpu-at-hot-chips-2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49428055",
+    "source": "servethehome.com",
+    "date": "2026-08-25T01:31:02Z",
+    "timestamp": 1787621462,
+    "category": "Computer Architecture"
   },
   {
     "title": "SiFive Accelerates RISC-V Datacenter Adoption with the BigSky Development Server",
@@ -18,201 +144,30 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Who will decide that level AI you have access to?",
-    "url": "https://guustaaf.substack.com/p/governments-will-decide-what-level-ai-you-have-access-to",
-    "discussion_url": "https://news.ycombinator.com/item?id=49427703",
-    "source": "guustaaf.substack.com",
-    "date": "2026-08-25T00:34:19Z",
-    "timestamp": 1787618059,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A Simplified Mental Model of LLMs",
-    "url": "https://win-vector.com/2026/08/24/a-simplified-mental-model-of-llms/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49427209",
-    "source": "win-vector.com",
-    "date": "2026-08-24T23:26:27Z",
-    "timestamp": 1787613987,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What my dad taught me about AI coding in the 90s",
-    "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49427181",
-    "source": "askmike.org",
-    "date": "2026-08-24T23:23:32Z",
-    "timestamp": 1787613812,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "UK will use Ukraine battlefield data to train AI and use it againsts protesters",
-    "url": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
-    "discussion_url": "https://news.ycombinator.com/item?id=49427094",
-    "source": "theguardian.com",
-    "date": "2026-08-24T23:12:13Z",
-    "timestamp": 1787613133,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Why AI Detection Fails for Academic Integrity",
-    "url": "https://arxiv.org/abs/2608.11256",
-    "discussion_url": "https://news.ycombinator.com/item?id=49426671",
-    "source": "arxiv.org",
-    "date": "2026-08-24T22:22:48Z",
-    "timestamp": 1787610168,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI text watermarking and quality loss",
-    "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-    "discussion_url": "https://news.ycombinator.com/item?id=49426464",
-    "source": "blog.keyvan.net",
-    "date": "2026-08-24T22:05:51Z",
-    "timestamp": 1787609151,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-    "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49425800",
-    "source": "blog.archive.org",
-    "date": "2026-08-24T21:01:38Z",
-    "timestamp": 1787605298,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A real-time LLM stream guard that catches LLM hallucinations mid generation",
-    "url": "https://github.com/doofzoff/SIMURG",
-    "discussion_url": "https://news.ycombinator.com/item?id=49425784",
-    "source": "github.com",
-    "date": "2026-08-24T21:00:25Z",
-    "timestamp": 1787605225,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nvidia Vera CPU at Hot Chips 2026 – ServeTheHome",
-    "url": "https://www.servethehome.com/nvidia-vera-cpu-at-hot-chips-2026/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49425700",
-    "source": "servethehome.com",
-    "date": "2026-08-24T20:52:38Z",
-    "timestamp": 1787604758,
+    "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
+    "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+    "discussion_url": "https://news.ycombinator.com/item?id=49422548",
+    "source": "chipsandcheese.com",
+    "date": "2026-08-24T16:52:01Z",
+    "timestamp": 1787590321,
     "category": "Computer Architecture"
   },
   {
-    "title": "Robotics needs a Model T moment",
-    "url": "https://robo.inc/blog/robotics-model-t-moment",
-    "discussion_url": "https://news.ycombinator.com/item?id=49425657",
-    "source": "robo.inc",
-    "date": "2026-08-24T20:49:52Z",
-    "timestamp": 1787604592,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Arm's AGI Data Center CPU at Hot Chips 2026 – ServeTheHome",
-    "url": "https://www.servethehome.com/arms-agi-data-center-cpu-at-hot-chips-2026/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49425624",
-    "source": "servethehome.com",
-    "date": "2026-08-24T20:47:52Z",
-    "timestamp": 1787604472,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Deno team releases Dactyl, an AI app builder that runs on your ChatGPT plan",
-    "url": "https://dactyl.dev/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49425599",
-    "source": "dactyl.dev",
-    "date": "2026-08-24T20:45:07Z",
-    "timestamp": 1787604307,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "China's Overhyped Embodied AI Sector",
-    "url": "https://chinai.substack.com/p/chinai-372-chinas-overhyped-embodied",
-    "discussion_url": "https://news.ycombinator.com/item?id=49425584",
-    "source": "chinai.substack.com",
-    "date": "2026-08-24T20:43:22Z",
-    "timestamp": 1787604202,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Fujitsu's Arm-Based Monaka Data Center CPU at Hot Chips 2026 – ServeTheHome",
-    "url": "https://www.servethehome.com/fujitsus-arm-based-monaka-data-center-cpu-at-hot-chips-2026/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49425342",
-    "source": "servethehome.com",
-    "date": "2026-08-24T20:18:47Z",
-    "timestamp": 1787602727,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "RISC-V is now officially supported by CPython",
-    "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49425252",
-    "source": "blog.python.org",
-    "date": "2026-08-24T20:12:22Z",
-    "timestamp": 1787602342,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Nine Indicted by Taiwan over Illegal Export of Nvidia B300 GPUs to China",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nine-indicted-by-taiwan-over-illegal-export-of-nvidia-b300-gpus-to-china-details-reveal-five-point-strategy-to-exploit-and-avoid-customs-controls",
-    "discussion_url": "https://news.ycombinator.com/item?id=49425084",
-    "source": "tomshardware.com",
-    "date": "2026-08-24T19:59:17Z",
-    "timestamp": 1787601557,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "The Teaser Period: Why the AI Boom Is Built to Break",
-    "url": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom",
-    "discussion_url": "https://news.ycombinator.com/item?id=49424964",
-    "source": "groundbrkr.com",
-    "date": "2026-08-24T19:48:45Z",
-    "timestamp": 1787600925,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Porsche Inks $1.5B AI Deal with India's Tata Consultancy",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-24/porsche-inks-1-5-billion-ai-deal-with-india-s-tata-consultancy",
-    "discussion_url": "https://news.ycombinator.com/item?id=49424776",
-    "source": "bloomberg.com",
-    "date": "2026-08-24T19:33:23Z",
-    "timestamp": 1787600003,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Autonomous Computer: 2-GPU AI Workstation",
-    "url": "https://www.autonomous.ai/computer-2",
-    "discussion_url": "https://news.ycombinator.com/item?id=49424607",
-    "source": "autonomous.ai",
-    "date": "2026-08-24T19:19:09Z",
-    "timestamp": 1787599149,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Rate Floor Pricer – like price insurance on GPU, estimated in real time",
-    "url": "https://www.getcomputable.com/hedge",
-    "discussion_url": "https://news.ycombinator.com/item?id=49424458",
-    "source": "getcomputable.com",
-    "date": "2026-08-24T19:07:39Z",
-    "timestamp": 1787598459,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Boston Dynamics and Muppets Creators Reveal Robot Dog",
-    "url": "https://twitter.com/okpasquale/status/2078102669520961812",
-    "discussion_url": "https://news.ycombinator.com/item?id=49424218",
+    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+    "url": "https://twitter.com/lemire/status/2091894299289874926",
+    "discussion_url": "https://news.ycombinator.com/item?id=49420873",
     "source": "twitter.com",
-    "date": "2026-08-24T18:49:10Z",
-    "timestamp": 1787597350,
-    "category": "Physical AI"
+    "date": "2026-08-24T15:08:17Z",
+    "timestamp": 1787584097,
+    "category": "Computer Architecture"
   },
   {
-    "title": "SpaceXAI Adopts Nvidia Vera CPU to Accelerate Agentic AI at Scale",
-    "url": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale",
-    "discussion_url": "https://news.ycombinator.com/item?id=49424210",
-    "source": "nvidianews.nvidia.com",
-    "date": "2026-08-24T18:48:46Z",
-    "timestamp": 1787597326,
+    "title": "Declarative WebGPU with S-Expressions",
+    "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49412467",
+    "source": "hugodaniel.com",
+    "date": "2026-08-23T20:47:53Z",
+    "timestamp": 1787518073,
     "category": "Computer Architecture"
   }
 ]
