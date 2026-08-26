@@ -1,12 +1,138 @@
 [
   {
-    "title": "Training LLMs to write tools generalized beyond self use",
-    "url": "https://arxiv.org/abs/2608.24571",
-    "discussion_url": "https://news.ycombinator.com/item?id=49443118",
-    "source": "arxiv.org",
-    "date": "2026-08-26T01:36:28Z",
-    "timestamp": 1787708188,
+    "title": "Looking for people to follow designing systems to ship code with AI agents",
+    "url": "https://news.ycombinator.com/item?id=49444955",
+    "discussion_url": "https://news.ycombinator.com/item?id=49444955",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-26T06:50:35Z",
+    "timestamp": 1787727035,
     "category": "Machine Learning"
+  },
+  {
+    "title": "DumpsterCluster: From Dumpster Diving to Serving Llama-70B on $60 GPUs",
+    "url": "https://arxiv.org/abs/2608.14614",
+    "discussion_url": "https://news.ycombinator.com/item?id=49444874",
+    "source": "arxiv.org",
+    "date": "2026-08-26T06:36:19Z",
+    "timestamp": 1787726179,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Nvidia Jetson Orin-guided Russian AI drone killed three civilians in Ukraine",
+    "url": "https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say",
+    "discussion_url": "https://news.ycombinator.com/item?id=49444664",
+    "source": "tomshardware.com",
+    "date": "2026-08-26T06:07:07Z",
+    "timestamp": 1787724427,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Chinese government fears talking to AI might replace human intimacy",
+    "url": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
+    "discussion_url": "https://news.ycombinator.com/item?id=49444578",
+    "source": "theguardian.com",
+    "date": "2026-08-26T05:57:28Z",
+    "timestamp": 1787723848,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Perplexity's Portable Computer tackling local AI services market",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449",
+    "discussion_url": "https://news.ycombinator.com/item?id=49444267",
+    "source": "theregister.com",
+    "date": "2026-08-26T05:14:02Z",
+    "timestamp": 1787721242,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Portable Computer: Local-First AI",
+    "url": "https://www.perplexity.ai/hub/products/portable-computer",
+    "discussion_url": "https://news.ycombinator.com/item?id=49444229",
+    "source": "perplexity.ai",
+    "date": "2026-08-26T05:09:04Z",
+    "timestamp": 1787720944,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "$234B in Enterprise Application Software Spend at Risk from Agentic AI",
+    "url": "https://www.gartner.com/en/newsroom/press-releases/2026-07-01-gartner-says-us-dollars-234-billion-in-enterprise-application-software-spend-is-at-risk-from-agentic-artificial-intelligence",
+    "discussion_url": "https://news.ycombinator.com/item?id=49444199",
+    "source": "gartner.com",
+    "date": "2026-08-26T05:03:50Z",
+    "timestamp": 1787720630,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Connections That Turned a Precocious Teen into the Fallen Nostradamus of AI",
+    "url": "https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4",
+    "discussion_url": "https://news.ycombinator.com/item?id=49444174",
+    "source": "wsj.com",
+    "date": "2026-08-26T05:00:35Z",
+    "timestamp": 1787720435,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The AI founders who walked away from Bezos-backed Prometheus to model universe",
+    "url": "https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49443903",
+    "source": "reuters.com",
+    "date": "2026-08-26T03:27:52Z",
+    "timestamp": 1787714872,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Analyzing student votes across AI models for college essay help",
+    "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
+    "discussion_url": "https://news.ycombinator.com/item?id=49443871",
+    "source": "studyarena.com",
+    "date": "2026-08-26T03:23:50Z",
+    "timestamp": 1787714630,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
+    "url": "https://news.ycombinator.com/item?id=49443820",
+    "discussion_url": "https://news.ycombinator.com/item?id=49443820",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-26T03:17:51Z",
+    "timestamp": 1787714271,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Darkbloom (AI inference on idle Macs) – security audit with PRs submitted",
+    "url": "https://gist.github.com/mudiam/1ffc898333ac3d5bdc5d7fac96d33360",
+    "discussion_url": "https://news.ycombinator.com/item?id=49443728",
+    "source": "gist.github.com",
+    "date": "2026-08-26T03:03:02Z",
+    "timestamp": 1787713382,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Big Tech's Frantic Race to Quell the Growing Backlash to AI",
+    "url": "https://www.wsj.com/tech/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-2a717339",
+    "discussion_url": "https://news.ycombinator.com/item?id=49443338",
+    "source": "wsj.com",
+    "date": "2026-08-26T02:10:22Z",
+    "timestamp": 1787710222,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Hot Chips 2026: Fujitsu's Monaka CPU",
+    "url": "https://chipsandcheese.com/p/hot-chips-2026-fujitsus-monaka-cpu",
+    "discussion_url": "https://news.ycombinator.com/item?id=49443040",
+    "source": "chipsandcheese.com",
+    "date": "2026-08-26T01:24:15Z",
+    "timestamp": 1787707455,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Microsoft's Maia 200 AI Accelerator at Hot Chips 2026",
+    "url": "https://www.servethehome.com/microsofts-maia-200-accelerator-at-hot-chips-2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49442682",
+    "source": "servethehome.com",
+    "date": "2026-08-26T00:33:36Z",
+    "timestamp": 1787704416,
+    "category": "Computer Architecture"
   },
   {
     "title": "Follow the Money: Why Financial Crimes Often Go Unpunished",
@@ -36,24 +162,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "A modest but open theorem in theoretical biology proved by AI",
-    "url": "https://twitter.com/curiouswavefn/status/2092380964668534967",
-    "discussion_url": "https://news.ycombinator.com/item?id=49442122",
-    "source": "twitter.com",
-    "date": "2026-08-25T23:28:20Z",
-    "timestamp": 1787700500,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Hermes Agent – Open-Source AI Agent That Grows with You",
-    "url": "https://hermes-agent.nousresearch.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49441992",
-    "source": "hermes-agent.nousresearch.com",
-    "date": "2026-08-25T23:14:41Z",
-    "timestamp": 1787699681,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
     "url": "https://www.bbc.com/news/articles/c62m4zn1q6mo",
     "discussion_url": "https://news.ycombinator.com/item?id=49441956",
@@ -61,24 +169,6 @@
     "date": "2026-08-25T23:10:52Z",
     "timestamp": 1787699452,
     "category": "Physical AI"
-  },
-  {
-    "title": "Show HN: Slash-tokens – know LLM cost before the call leaves your machine",
-    "url": "https://github.com/Wolfe-Jam/slash-tokens",
-    "discussion_url": "https://news.ycombinator.com/item?id=49441725",
-    "source": "github.com",
-    "date": "2026-08-25T22:48:31Z",
-    "timestamp": 1787698111,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Home Lab for Beginners: The Deep Dive",
-    "url": "https://augmentedmind.substack.com/p/ai-home-lab-for-beginners",
-    "discussion_url": "https://news.ycombinator.com/item?id=49441626",
-    "source": "augmentedmind.substack.com",
-    "date": "2026-08-25T22:35:46Z",
-    "timestamp": 1787697346,
-    "category": "Machine Learning"
   },
   {
     "title": "OpenAI's 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU",
@@ -90,84 +180,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Try to beat this AI writing detector",
-    "url": "https://www.washingtonpost.com/technology/interactive/2026/08/25/ai-detectors-like-pangram-are-everywhere-arent-always-accurate/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49440586",
-    "source": "washingtonpost.com",
-    "date": "2026-08-25T21:02:00Z",
-    "timestamp": 1787691720,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "vLLM-iOS: 88% Faster Multi-Agent Inference on iOS",
-    "url": "https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49440382",
-    "source": "jonready.com",
-    "date": "2026-08-25T20:47:00Z",
-    "timestamp": 1787690820,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The New York Times is publishing AI slop",
-    "url": "https://unpublishablepapers.substack.com/p/the-new-york-times-is-publishing",
-    "discussion_url": "https://news.ycombinator.com/item?id=49440204",
-    "source": "unpublishablepapers.substack.com",
-    "date": "2026-08-25T20:32:25Z",
-    "timestamp": 1787689945,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Cross-vendor byte-identical inference for a 72B LLM (AMD MI300X vs. Nvidia H100)",
-    "url": "https://zenodo.org/records/19882078",
-    "discussion_url": "https://news.ycombinator.com/item?id=49440102",
-    "source": "zenodo.org",
-    "date": "2026-08-25T20:24:36Z",
-    "timestamp": 1787689476,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Codeberg TOS Now Rejects Predominantly AI Repos",
-    "url": "https://codeberg.org/Codeberg/org/compare/17bdb39b0c1ecd0e423f3ba592650ce57fcdfbf5..71149c7fc95ccfeae36109b5cddca339e4aa1473?files=TermsOfUse.md",
-    "discussion_url": "https://news.ycombinator.com/item?id=49440062",
-    "source": "codeberg.org",
-    "date": "2026-08-25T20:21:15Z",
-    "timestamp": 1787689275,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Memory Ordering in CPUs",
     "url": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/",
     "discussion_url": "https://news.ycombinator.com/item?id=49439943",
     "source": "fgiesen.wordpress.com",
     "date": "2026-08-25T20:11:34Z",
     "timestamp": 1787688694,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Humanoid robots beat human records in the 100m, half-marathon, and high jump",
-    "url": "https://www.reuters.com/sports/chinese-humanoid-robot-lightning-beats-human-100m-world-record-state-media-says-2026-08-22/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49439733",
-    "source": "reuters.com",
-    "date": "2026-08-25T19:56:01Z",
-    "timestamp": 1787687761,
-    "category": "Physical AI"
-  },
-  {
-    "title": "AI is supercharging hacks of everyday utilities",
-    "url": "https://www.axios.com/2026/08/25/ai-critical-infrastructure-cyberattacks",
-    "discussion_url": "https://news.ycombinator.com/item?id=49439654",
-    "source": "axios.com",
-    "date": "2026-08-25T19:50:57Z",
-    "timestamp": 1787687457,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: CuMetal – Run CUDA Programs on Apple Silicon via Metal",
-    "url": "https://github.com/Lulzx/cuda-metal",
-    "discussion_url": "https://news.ycombinator.com/item?id=49439078",
-    "source": "github.com",
-    "date": "2026-08-25T19:11:08Z",
-    "timestamp": 1787685068,
     "category": "Computer Architecture"
   },
   {
@@ -178,15 +196,6 @@
     "date": "2026-08-25T15:26:45Z",
     "timestamp": 1787671605,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-    "url": "https://github.com/ThinkOffApp/CarWatch",
-    "discussion_url": "https://news.ycombinator.com/item?id=49435675",
-    "source": "github.com",
-    "date": "2026-08-25T15:20:20Z",
-    "timestamp": 1787671220,
-    "category": "Machine Learning"
   },
   {
     "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
