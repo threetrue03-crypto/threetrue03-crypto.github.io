@@ -1,137 +1,191 @@
 [
   {
-    "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49433292",
-    "source": "apple.com",
-    "date": "2026-08-25T13:01:22Z",
-    "timestamp": 1787662882,
+    "title": "Training LLMs to write tools generalized beyond self use",
+    "url": "https://arxiv.org/abs/2608.24571",
+    "discussion_url": "https://news.ycombinator.com/item?id=49443118",
+    "source": "arxiv.org",
+    "date": "2026-08-26T01:36:28Z",
+    "timestamp": 1787708188,
     "category": "Machine Learning"
   },
   {
-    "title": "My experience with LLM-assisted tools in software development",
-    "url": "https://ounapuu.ee/posts/2026/06/08/llm/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49432949",
-    "source": "ounapuu.ee",
-    "date": "2026-08-25T12:37:15Z",
-    "timestamp": 1787661435,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Recent public co filings analyzed: AI not generating profit yet",
-    "url": "https://aiearnings.dev/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49432761",
-    "source": "aiearnings.dev",
-    "date": "2026-08-25T12:24:59Z",
-    "timestamp": 1787660699,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Analysis: Can we license LLM generated \"vibe code\" into Free Software?",
-    "url": "https://fsfe.org/news/2026/news-20260825-01.en.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49432416",
-    "source": "fsfe.org",
-    "date": "2026-08-25T11:59:59Z",
-    "timestamp": 1787659199,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Conversational Data Intelligence Accelerator",
-    "url": "https://geekyants.com/ai-accelerator/conversational-data-intelligence-accelerator",
-    "discussion_url": "https://news.ycombinator.com/item?id=49432341",
-    "source": "geekyants.com",
-    "date": "2026-08-25T11:51:48Z",
-    "timestamp": 1787658708,
+    "title": "Follow the Money: Why Financial Crimes Often Go Unpunished",
+    "url": "https://www.forensicscolleges.com/blog/follow-the-money/unpunished-financial-crimes",
+    "discussion_url": "https://news.ycombinator.com/item?id=49442405",
+    "source": "forensicscolleges.com",
+    "date": "2026-08-25T23:57:39Z",
+    "timestamp": 1787702259,
     "category": "Computer Architecture"
   },
   {
-    "title": "We built a structured entity graph for an AI agent. Then we removed most of it",
-    "url": "https://blog.getcassis.com/context-engineering-for-analytics-agents/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49432253",
-    "source": "blog.getcassis.com",
-    "date": "2026-08-25T11:42:59Z",
-    "timestamp": 1787658179,
+    "title": "Engineer who built DarkBloom (P2P GPU inference) – started coding at 10, now 18",
+    "url": "https://twitter.com/pratikg/status/2091799024299086319",
+    "discussion_url": "https://news.ycombinator.com/item?id=49442344",
+    "source": "twitter.com",
+    "date": "2026-08-25T23:52:17Z",
+    "timestamp": 1787701937,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "The Qualcomm Oryon CPU is the first mobile CPU to reach 5GHz",
+    "url": "https://www.qualcomm.com/news/onq/2026/08/oryon-cpu-5ghz-flexcache",
+    "discussion_url": "https://news.ycombinator.com/item?id=49442223",
+    "source": "qualcomm.com",
+    "date": "2026-08-25T23:40:18Z",
+    "timestamp": 1787701218,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "A modest but open theorem in theoretical biology proved by AI",
+    "url": "https://twitter.com/curiouswavefn/status/2092380964668534967",
+    "discussion_url": "https://news.ycombinator.com/item?id=49442122",
+    "source": "twitter.com",
+    "date": "2026-08-25T23:28:20Z",
+    "timestamp": 1787700500,
     "category": "Machine Learning"
   },
   {
-    "title": "An Interesting AI Educational Animation Generator",
-    "url": "https://fogsight.ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49432188",
-    "source": "fogsight.ai",
-    "date": "2026-08-25T11:36:25Z",
-    "timestamp": 1787657785,
+    "title": "Hermes Agent – Open-Source AI Agent That Grows with You",
+    "url": "https://hermes-agent.nousresearch.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49441992",
+    "source": "hermes-agent.nousresearch.com",
+    "date": "2026-08-25T23:14:41Z",
+    "timestamp": 1787699681,
     "category": "Machine Learning"
   },
   {
-    "title": "SEC reportedly subpoenas Wall St banks over AI hedge fund Situational Awareness",
-    "url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49432014",
-    "source": "cnbc.com",
-    "date": "2026-08-25T11:20:26Z",
-    "timestamp": 1787656826,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "America's immigration policy is driving away future AI leaders",
-    "url": "https://restofworld.org/2026/us-immigration-rules-ai-talent-china/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49431949",
-    "source": "restofworld.org",
-    "date": "2026-08-25T11:14:25Z",
-    "timestamp": 1787656465,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Copyrightability of LLM-generated code: Can we license \"vibe code\" into Free SW",
-    "url": "https://fsfe.org/news/2026/news-20260825-01.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49431829",
-    "source": "fsfe.org",
-    "date": "2026-08-25T11:03:13Z",
-    "timestamp": 1787655793,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I spent a day at a robot \"carnival\" in Shanghai. Here's what I saw",
-    "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49431822",
-    "source": "technologyreview.com",
-    "date": "2026-08-25T11:01:36Z",
-    "timestamp": 1787655696,
+    "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+    "url": "https://www.bbc.com/news/articles/c62m4zn1q6mo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49441956",
+    "source": "bbc.com",
+    "date": "2026-08-25T23:10:52Z",
+    "timestamp": 1787699452,
     "category": "Physical AI"
   },
   {
-    "title": "AI Makes Better Software",
-    "url": "https://www.hmans.dev/blog/ai-makes-better-software",
-    "discussion_url": "https://news.ycombinator.com/item?id=49431667",
-    "source": "hmans.dev",
-    "date": "2026-08-25T10:47:39Z",
-    "timestamp": 1787654859,
+    "title": "Show HN: Slash-tokens – know LLM cost before the call leaves your machine",
+    "url": "https://github.com/Wolfe-Jam/slash-tokens",
+    "discussion_url": "https://news.ycombinator.com/item?id=49441725",
+    "source": "github.com",
+    "date": "2026-08-25T22:48:31Z",
+    "timestamp": 1787698111,
     "category": "Machine Learning"
   },
   {
-    "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
-    "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49431593",
-    "source": "momo5502.com",
-    "date": "2026-08-25T10:38:04Z",
-    "timestamp": 1787654284,
+    "title": "AI Home Lab for Beginners: The Deep Dive",
+    "url": "https://augmentedmind.substack.com/p/ai-home-lab-for-beginners",
+    "discussion_url": "https://news.ycombinator.com/item?id=49441626",
+    "source": "augmentedmind.substack.com",
+    "date": "2026-08-25T22:35:46Z",
+    "timestamp": 1787697346,
     "category": "Machine Learning"
   },
   {
-    "title": "Intel Crescent Island 160GB to 480GB LPDDR5X AI GPU at Hot Chips 2026",
-    "url": "https://www.servethehome.com/intel-crescent-island-160gb-to-480gb-lpddr5x-ai-gpu-at-hot-chips-2026/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49431268",
-    "source": "servethehome.com",
-    "date": "2026-08-25T09:52:58Z",
-    "timestamp": 1787651578,
+    "title": "OpenAI's 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/openai-says-its-jalapeno-chip-beats-nvidias-gb300-in-first-published-benchmarks",
+    "discussion_url": "https://news.ycombinator.com/item?id=49441170",
+    "source": "tomshardware.com",
+    "date": "2026-08-25T21:49:33Z",
+    "timestamp": 1787694573,
     "category": "Computer Architecture"
   },
   {
-    "title": "Nvidia Has Become a Banker to the AI Boom, Putting It on Dangerous Ground",
-    "url": "https://www.wsj.com/tech/ai/nvidia-has-become-a-banker-to-the-ai-boom-putting-it-on-dangerous-ground-94c03545",
-    "discussion_url": "https://news.ycombinator.com/item?id=49431231",
-    "source": "wsj.com",
-    "date": "2026-08-25T09:50:22Z",
-    "timestamp": 1787651422,
+    "title": "Try to beat this AI writing detector",
+    "url": "https://www.washingtonpost.com/technology/interactive/2026/08/25/ai-detectors-like-pangram-are-everywhere-arent-always-accurate/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49440586",
+    "source": "washingtonpost.com",
+    "date": "2026-08-25T21:02:00Z",
+    "timestamp": 1787691720,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "vLLM-iOS: 88% Faster Multi-Agent Inference on iOS",
+    "url": "https://jonready.com/blog/posts/continuous-batching-on-an-iphone.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49440382",
+    "source": "jonready.com",
+    "date": "2026-08-25T20:47:00Z",
+    "timestamp": 1787690820,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The New York Times is publishing AI slop",
+    "url": "https://unpublishablepapers.substack.com/p/the-new-york-times-is-publishing",
+    "discussion_url": "https://news.ycombinator.com/item?id=49440204",
+    "source": "unpublishablepapers.substack.com",
+    "date": "2026-08-25T20:32:25Z",
+    "timestamp": 1787689945,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Cross-vendor byte-identical inference for a 72B LLM (AMD MI300X vs. Nvidia H100)",
+    "url": "https://zenodo.org/records/19882078",
+    "discussion_url": "https://news.ycombinator.com/item?id=49440102",
+    "source": "zenodo.org",
+    "date": "2026-08-25T20:24:36Z",
+    "timestamp": 1787689476,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Codeberg TOS Now Rejects Predominantly AI Repos",
+    "url": "https://codeberg.org/Codeberg/org/compare/17bdb39b0c1ecd0e423f3ba592650ce57fcdfbf5..71149c7fc95ccfeae36109b5cddca339e4aa1473?files=TermsOfUse.md",
+    "discussion_url": "https://news.ycombinator.com/item?id=49440062",
+    "source": "codeberg.org",
+    "date": "2026-08-25T20:21:15Z",
+    "timestamp": 1787689275,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Memory Ordering in CPUs",
+    "url": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49439943",
+    "source": "fgiesen.wordpress.com",
+    "date": "2026-08-25T20:11:34Z",
+    "timestamp": 1787688694,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Humanoid robots beat human records in the 100m, half-marathon, and high jump",
+    "url": "https://www.reuters.com/sports/chinese-humanoid-robot-lightning-beats-human-100m-world-record-state-media-says-2026-08-22/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49439733",
+    "source": "reuters.com",
+    "date": "2026-08-25T19:56:01Z",
+    "timestamp": 1787687761,
+    "category": "Physical AI"
+  },
+  {
+    "title": "AI is supercharging hacks of everyday utilities",
+    "url": "https://www.axios.com/2026/08/25/ai-critical-infrastructure-cyberattacks",
+    "discussion_url": "https://news.ycombinator.com/item?id=49439654",
+    "source": "axios.com",
+    "date": "2026-08-25T19:50:57Z",
+    "timestamp": 1787687457,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: CuMetal – Run CUDA Programs on Apple Silicon via Metal",
+    "url": "https://github.com/Lulzx/cuda-metal",
+    "discussion_url": "https://news.ycombinator.com/item?id=49439078",
+    "source": "github.com",
+    "date": "2026-08-25T19:11:08Z",
+    "timestamp": 1787685068,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Warnock: Harnessing GPU geometry amplification for vector graphics",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3820012",
+    "discussion_url": "https://news.ycombinator.com/item?id=49435781",
+    "source": "dl.acm.org",
+    "date": "2026-08-25T15:26:45Z",
+    "timestamp": 1787671605,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+    "url": "https://github.com/ThinkOffApp/CarWatch",
+    "discussion_url": "https://news.ycombinator.com/item?id=49435675",
+    "source": "github.com",
+    "date": "2026-08-25T15:20:20Z",
+    "timestamp": 1787671220,
     "category": "Machine Learning"
   },
   {
@@ -150,15 +204,6 @@
     "source": "twitter.com",
     "date": "2026-08-24T15:08:17Z",
     "timestamp": 1787584097,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Declarative WebGPU with S-Expressions",
-    "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49412467",
-    "source": "hugodaniel.com",
-    "date": "2026-08-23T20:47:53Z",
-    "timestamp": 1787518073,
     "category": "Computer Architecture"
   }
 ]
