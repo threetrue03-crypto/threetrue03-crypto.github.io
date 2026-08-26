@@ -1,120 +1,138 @@
 [
   {
-    "title": "Looking for people to follow designing systems to ship code with AI agents",
-    "url": "https://news.ycombinator.com/item?id=49444955",
-    "discussion_url": "https://news.ycombinator.com/item?id=49444955",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-26T06:50:35Z",
-    "timestamp": 1787727035,
+    "title": "The Missing Piece in AI Agent Policy: can your bot make an account?",
+    "url": "https://nameocean.net/article/the-missing-piece-in-ai-agent-policy-how-well-knownagent-policyjson-could-change-web-automation/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49448533",
+    "source": "nameocean.net",
+    "date": "2026-08-26T13:12:27Z",
+    "timestamp": 1787749947,
     "category": "Machine Learning"
   },
   {
-    "title": "DumpsterCluster: From Dumpster Diving to Serving Llama-70B on $60 GPUs",
-    "url": "https://arxiv.org/abs/2608.14614",
-    "discussion_url": "https://news.ycombinator.com/item?id=49444874",
-    "source": "arxiv.org",
-    "date": "2026-08-26T06:36:19Z",
-    "timestamp": 1787726179,
+    "title": "I Tried the AI Model Built to Fix AI Writing",
+    "url": "https://every.to/working-overtime/i-tried-the-ai-model-built-to-fix-ai-writing",
+    "discussion_url": "https://news.ycombinator.com/item?id=49448445",
+    "source": "every.to",
+    "date": "2026-08-26T13:06:11Z",
+    "timestamp": 1787749571,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How we use AI at Stalwart",
+    "url": "https://stalw.art/blog/how-we-use-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49448400",
+    "source": "stalw.art",
+    "date": "2026-08-26T13:03:10Z",
+    "timestamp": 1787749390,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Meta's AI dream reels on more than lab-rat revolt",
+    "url": "https://www.reuters.com/commentary/breakingviews/metas-ai-dream-reels-more-than-lab-rat-revolt-2026-08-26/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49448333",
+    "source": "reuters.com",
+    "date": "2026-08-26T12:59:50Z",
+    "timestamp": 1787749190,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Review Loops Don't Always Stabilise",
+    "url": "https://kevinmahoney.co.uk/articles/ai-review-loops/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49448237",
+    "source": "kevinmahoney.co.uk",
+    "date": "2026-08-26T12:53:36Z",
+    "timestamp": 1787748816,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Shrine of Singularity, a votive altar for AI worship",
+    "url": "https://www.thesingularityshrine.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49448208",
+    "source": "thesingularityshrine.org",
+    "date": "2026-08-26T12:52:12Z",
+    "timestamp": 1787748732,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Bill Gates: The turbulent AI era is here",
+    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+    "discussion_url": "https://news.ycombinator.com/item?id=49448137",
+    "source": "gatesnotes.com",
+    "date": "2026-08-26T12:47:47Z",
+    "timestamp": 1787748467,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "\"Famous Deep Learning Papers\", David Bau",
+    "url": "https://papers.baulab.info/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49448082",
+    "source": "papers.baulab.info",
+    "date": "2026-08-26T12:44:26Z",
+    "timestamp": 1787748266,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Do AI Models Have an Inner Monologue? – The J-Space –- Strad Slater [video]",
+    "url": "https://www.youtube.com/watch?v=s_0rSqMSzss",
+    "discussion_url": "https://news.ycombinator.com/item?id=49448012",
+    "source": "youtube.com",
+    "date": "2026-08-26T12:40:24Z",
+    "timestamp": 1787748024,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Bill Gates calls for 'human reserved' jobs to protect labour force from AI",
+    "url": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5",
+    "discussion_url": "https://news.ycombinator.com/item?id=49448009",
+    "source": "ft.com",
+    "date": "2026-08-26T12:40:18Z",
+    "timestamp": 1787748018,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Is it legal to train AI models on copyrighted books?",
+    "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49447836",
+    "source": "techcrunch.com",
+    "date": "2026-08-26T12:29:41Z",
+    "timestamp": 1787747381,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+    "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+    "discussion_url": "https://news.ycombinator.com/item?id=49447600",
+    "source": "theguardian.com",
+    "date": "2026-08-26T12:11:19Z",
+    "timestamp": 1787746279,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Adding CPU affinity in a 24-core build machine made builds take longer",
+    "url": "https://infosec.exchange/@david_chisnall/117156204452541109",
+    "discussion_url": "https://news.ycombinator.com/item?id=49446767",
+    "source": "infosec.exchange",
+    "date": "2026-08-26T10:47:36Z",
+    "timestamp": 1787741256,
     "category": "Computer Architecture"
   },
   {
-    "title": "Nvidia Jetson Orin-guided Russian AI drone killed three civilians in Ukraine",
-    "url": "https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say",
-    "discussion_url": "https://news.ycombinator.com/item?id=49444664",
-    "source": "tomshardware.com",
-    "date": "2026-08-26T06:07:07Z",
-    "timestamp": 1787724427,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Chinese government fears talking to AI might replace human intimacy",
-    "url": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
-    "discussion_url": "https://news.ycombinator.com/item?id=49444578",
-    "source": "theguardian.com",
-    "date": "2026-08-26T05:57:28Z",
-    "timestamp": 1787723848,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Perplexity's Portable Computer tackling local AI services market",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449",
-    "discussion_url": "https://news.ycombinator.com/item?id=49444267",
-    "source": "theregister.com",
-    "date": "2026-08-26T05:14:02Z",
-    "timestamp": 1787721242,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Portable Computer: Local-First AI",
-    "url": "https://www.perplexity.ai/hub/products/portable-computer",
-    "discussion_url": "https://news.ycombinator.com/item?id=49444229",
-    "source": "perplexity.ai",
-    "date": "2026-08-26T05:09:04Z",
-    "timestamp": 1787720944,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "$234B in Enterprise Application Software Spend at Risk from Agentic AI",
-    "url": "https://www.gartner.com/en/newsroom/press-releases/2026-07-01-gartner-says-us-dollars-234-billion-in-enterprise-application-software-spend-is-at-risk-from-agentic-artificial-intelligence",
-    "discussion_url": "https://news.ycombinator.com/item?id=49444199",
-    "source": "gartner.com",
-    "date": "2026-08-26T05:03:50Z",
-    "timestamp": 1787720630,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Connections That Turned a Precocious Teen into the Fallen Nostradamus of AI",
-    "url": "https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4",
-    "discussion_url": "https://news.ycombinator.com/item?id=49444174",
-    "source": "wsj.com",
-    "date": "2026-08-26T05:00:35Z",
-    "timestamp": 1787720435,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The AI founders who walked away from Bezos-backed Prometheus to model universe",
-    "url": "https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49443903",
+    "title": "Chinese robot Tiangong clocks sub-9 second 100 metres",
+    "url": "https://www.reuters.com/world/asia-pacific/chinese-robot-tiangong-clocks-sub-9-second-100-metres-beijing-2026-08-25/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49445490",
     "source": "reuters.com",
-    "date": "2026-08-26T03:27:52Z",
-    "timestamp": 1787714872,
-    "category": "Machine Learning"
+    "date": "2026-08-26T08:03:41Z",
+    "timestamp": 1787731421,
+    "category": "Physical AI"
   },
   {
-    "title": "Analyzing student votes across AI models for college essay help",
-    "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
-    "discussion_url": "https://news.ycombinator.com/item?id=49443871",
-    "source": "studyarena.com",
-    "date": "2026-08-26T03:23:50Z",
-    "timestamp": 1787714630,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
-    "url": "https://news.ycombinator.com/item?id=49443820",
-    "discussion_url": "https://news.ycombinator.com/item?id=49443820",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-26T03:17:51Z",
-    "timestamp": 1787714271,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Darkbloom (AI inference on idle Macs) – security audit with PRs submitted",
-    "url": "https://gist.github.com/mudiam/1ffc898333ac3d5bdc5d7fac96d33360",
-    "discussion_url": "https://news.ycombinator.com/item?id=49443728",
-    "source": "gist.github.com",
-    "date": "2026-08-26T03:03:02Z",
-    "timestamp": 1787713382,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Big Tech's Frantic Race to Quell the Growing Backlash to AI",
-    "url": "https://www.wsj.com/tech/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-2a717339",
-    "discussion_url": "https://news.ycombinator.com/item?id=49443338",
-    "source": "wsj.com",
-    "date": "2026-08-26T02:10:22Z",
-    "timestamp": 1787710222,
-    "category": "Machine Learning"
+    "title": "World humanoid robot games show runners breaking records, bursting into flames",
+    "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49445170",
+    "source": "arstechnica.com",
+    "date": "2026-08-26T07:19:35Z",
+    "timestamp": 1787728775,
+    "category": "Physical AI"
   },
   {
     "title": "Hot Chips 2026: Fujitsu's Monaka CPU",
@@ -126,57 +144,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Microsoft's Maia 200 AI Accelerator at Hot Chips 2026",
-    "url": "https://www.servethehome.com/microsofts-maia-200-accelerator-at-hot-chips-2026/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49442682",
-    "source": "servethehome.com",
-    "date": "2026-08-26T00:33:36Z",
-    "timestamp": 1787704416,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Follow the Money: Why Financial Crimes Often Go Unpunished",
-    "url": "https://www.forensicscolleges.com/blog/follow-the-money/unpunished-financial-crimes",
-    "discussion_url": "https://news.ycombinator.com/item?id=49442405",
-    "source": "forensicscolleges.com",
-    "date": "2026-08-25T23:57:39Z",
-    "timestamp": 1787702259,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Engineer who built DarkBloom (P2P GPU inference) – started coding at 10, now 18",
-    "url": "https://twitter.com/pratikg/status/2091799024299086319",
-    "discussion_url": "https://news.ycombinator.com/item?id=49442344",
-    "source": "twitter.com",
-    "date": "2026-08-25T23:52:17Z",
-    "timestamp": 1787701937,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "The Qualcomm Oryon CPU is the first mobile CPU to reach 5GHz",
     "url": "https://www.qualcomm.com/news/onq/2026/08/oryon-cpu-5ghz-flexcache",
     "discussion_url": "https://news.ycombinator.com/item?id=49442223",
     "source": "qualcomm.com",
     "date": "2026-08-25T23:40:18Z",
     "timestamp": 1787701218,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
-    "url": "https://www.bbc.com/news/articles/c62m4zn1q6mo",
-    "discussion_url": "https://news.ycombinator.com/item?id=49441956",
-    "source": "bbc.com",
-    "date": "2026-08-25T23:10:52Z",
-    "timestamp": 1787699452,
-    "category": "Physical AI"
-  },
-  {
-    "title": "OpenAI's 700W Jalapeño ASIC outpaces 1,400W Nvidia flagship GPU",
-    "url": "https://www.tomshardware.com/tech-industry/semiconductors/openai-says-its-jalapeno-chip-beats-nvidias-gb300-in-first-published-benchmarks",
-    "discussion_url": "https://news.ycombinator.com/item?id=49441170",
-    "source": "tomshardware.com",
-    "date": "2026-08-25T21:49:33Z",
-    "timestamp": 1787694573,
     "category": "Computer Architecture"
   },
   {
