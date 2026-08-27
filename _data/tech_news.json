@@ -1,119 +1,155 @@
 [
   {
-    "title": "The people, the money and the ownership behind China's leading AI companies",
-    "url": "https://wirescreen.ai/briefings/china-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49462019",
-    "source": "wirescreen.ai",
-    "date": "2026-08-27T09:30:34Z",
-    "timestamp": 1787823034,
+    "title": "Why I Am Right About AI [by Paul \"Claude\" Gigot]",
+    "url": "https://www.theatlantic.com/technology/2026/08/paul-claude-gigot-why-i-am-right-about-ai/688434/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49471834",
+    "source": "theatlantic.com",
+    "date": "2026-08-27T21:56:11Z",
+    "timestamp": 1787867771,
     "category": "Machine Learning"
   },
   {
-    "title": "My software development workflow is AI now & it feels exhausting and soulless",
-    "url": "https://old.reddit.com/r/cscareerquestions/comments/1vi1i7m/my_entire_software_development_workflow_is_ai_now/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49461965",
-    "source": "old.reddit.com",
-    "date": "2026-08-27T09:24:20Z",
-    "timestamp": 1787822660,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Feels Like the Pandemic All over Again",
-    "url": "https://bejofo.com/blog/ai-feels-like-the-pandemic",
-    "discussion_url": "https://news.ycombinator.com/item?id=49461758",
-    "source": "bejofo.com",
-    "date": "2026-08-27T08:50:26Z",
-    "timestamp": 1787820626,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Changes to Sourcehut's terms of service regarding LLMs",
-    "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49461724",
-    "source": "sourcehut.org",
-    "date": "2026-08-27T08:44:22Z",
-    "timestamp": 1787820262,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I don't worry about cost of AI models and you shouldn't too",
-    "url": "https://davletd.medium.com/cost-of-ai-models-is-not-what-you-shoud-be-worried-about-e6439498bae7",
-    "discussion_url": "https://news.ycombinator.com/item?id=49461622",
-    "source": "davletd.medium.com",
-    "date": "2026-08-27T08:31:13Z",
-    "timestamp": 1787819473,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Simon Weckert creates Digital Camouflage shirt to avoid AI video surveillance",
-    "url": "https://www.dezeen.com/2026/08/25/digital-camouflage-shirt-ai-video-surveillance-simon-weckert/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49461556",
-    "source": "dezeen.com",
-    "date": "2026-08-27T08:22:00Z",
-    "timestamp": 1787818920,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: As a Software Dev, how do you hedge for a world where AI takes your job?",
-    "url": "https://news.ycombinator.com/item?id=49461511",
-    "discussion_url": "https://news.ycombinator.com/item?id=49461511",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-27T08:15:57Z",
-    "timestamp": 1787818557,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "GitHub – rajnandan1/ken: Thompson-mode systems discipline for AI agents",
-    "url": "https://github.com/rajnandan1/ken",
-    "discussion_url": "https://news.ycombinator.com/item?id=49461066",
+    "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+    "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+    "discussion_url": "https://news.ycombinator.com/item?id=49471714",
     "source": "github.com",
-    "date": "2026-08-27T07:17:51Z",
-    "timestamp": 1787815071,
+    "date": "2026-08-27T21:46:39Z",
+    "timestamp": 1787867199,
     "category": "Machine Learning"
   },
   {
-    "title": "Junior consultants called back to office as AI increases need for human skills",
-    "url": "https://www.ft.com/content/7fd9c234-a92b-4ab2-ba1f-969cf9a23f52",
-    "discussion_url": "https://news.ycombinator.com/item?id=49460913",
-    "source": "ft.com",
-    "date": "2026-08-27T07:01:45Z",
-    "timestamp": 1787814105,
+    "title": "Copyrightability of LLM-generated code: Can we license \"vibe code\"?",
+    "url": "https://fsfe.org/news/2026/news-20260825-01.en.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49471699",
+    "source": "fsfe.org",
+    "date": "2026-08-27T21:45:19Z",
+    "timestamp": 1787867119,
     "category": "Machine Learning"
   },
   {
-    "title": "AI Revenue Reporting: Slop",
-    "url": "https://www.ft.com/content/a9145db8-18c1-4476-aac5-d1b4fcf70040",
-    "discussion_url": "https://news.ycombinator.com/item?id=49460815",
-    "source": "ft.com",
-    "date": "2026-08-27T06:51:42Z",
-    "timestamp": 1787813502,
+    "title": "Tim O'Reilly – Writing with AI",
+    "url": "https://oreillyradar.substack.com/p/writing-with-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49471504",
+    "source": "oreillyradar.substack.com",
+    "date": "2026-08-27T21:27:50Z",
+    "timestamp": 1787866070,
     "category": "Machine Learning"
   },
   {
-    "title": "Your AI Generated Menu Triggered My Trypophobia",
-    "url": "https://shubhamjain.co/2026/08/27/ai-food-photos-trypophobia/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49460618",
-    "source": "shubhamjain.co",
-    "date": "2026-08-27T06:26:13Z",
-    "timestamp": 1787811973,
+    "title": "OpenAI Is Developing a 'Persistent' AI Agent",
+    "url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49471457",
+    "source": "wired.com",
+    "date": "2026-08-27T21:23:37Z",
+    "timestamp": 1787865817,
     "category": "Machine Learning"
   },
   {
-    "title": "OpenAI staff observed warning signs before AI agents attack on Hugging Face",
-    "url": "https://www.theguardian.com/technology/2026/aug/26/openai-staff-observed-warning-signs-before-ai-agent-hacking-crusade-caused-global-alarm",
-    "discussion_url": "https://news.ycombinator.com/item?id=49460255",
-    "source": "theguardian.com",
-    "date": "2026-08-27T05:42:42Z",
-    "timestamp": 1787809362,
+    "title": "Sam Altman says the economy is adapting to AI slower than he expected",
+    "url": "https://www.businessinsider.com/sam-altman-economy-ai-adapting-saas-2026-8",
+    "discussion_url": "https://news.ycombinator.com/item?id=49471295",
+    "source": "businessinsider.com",
+    "date": "2026-08-27T21:08:40Z",
+    "timestamp": 1787864920,
     "category": "Machine Learning"
   },
   {
-    "title": "Google's Sergey Brin: You'll ride in robot cars within 5 years (2012)",
-    "url": "https://www.cnet.com/science/googles-sergey-brin-youll-ride-in-robot-cars-within-5-years/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49459667",
-    "source": "cnet.com",
-    "date": "2026-08-27T04:20:36Z",
-    "timestamp": 1787804436,
+    "title": "Unlocking the Power of AI in Visual Studio with Bring Your Own Model",
+    "url": "https://devblogs.microsoft.com/visualstudio/unlocking-the-power-of-ai-for-every-developer-in-visual-studio-with-bring-your-own-model/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49471240",
+    "source": "devblogs.microsoft.com",
+    "date": "2026-08-27T21:04:32Z",
+    "timestamp": 1787864672,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Frictions That Make AI Forecasting Hard",
+    "url": "https://twitter.com/AnneliesGamble/status/2087259132667810162",
+    "discussion_url": "https://news.ycombinator.com/item?id=49470980",
+    "source": "twitter.com",
+    "date": "2026-08-27T20:43:48Z",
+    "timestamp": 1787863428,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "China's humanoid robots aren't smart enough to take your job – yet",
+    "url": "https://www.reuters.com/investigations/chinas-humanoid-robots-arent-smart-enough-take-your-job-yet-2026-08-27/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49470970",
+    "source": "reuters.com",
+    "date": "2026-08-27T20:43:16Z",
+    "timestamp": 1787863396,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Pydantic AI",
+    "url": "https://pydantic.dev/docs/ai/overview/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49470954",
+    "source": "pydantic.dev",
+    "date": "2026-08-27T20:42:06Z",
+    "timestamp": 1787863326,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Vercel WebGPU library, designed for agents",
+    "url": "https://vgpu.sh",
+    "discussion_url": "https://news.ycombinator.com/item?id=49470841",
+    "source": "vgpu.sh",
+    "date": "2026-08-27T20:33:27Z",
+    "timestamp": 1787862807,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "YeshiAI: Prayer, Journaling, Study and Spiritual Growth with AI",
+    "url": "https://yeshi.ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49470775",
+    "source": "yeshi.ai",
+    "date": "2026-08-27T20:28:59Z",
+    "timestamp": 1787862539,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: Does anyone have a VRAM tester? Something like MemTest86+ but for GPUs?",
+    "url": "https://news.ycombinator.com/item?id=49470597",
+    "discussion_url": "https://news.ycombinator.com/item?id=49470597",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-27T20:15:09Z",
+    "timestamp": 1787861709,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Sopro V2: SOTA voice cloning TTS model that runs on your CPU",
+    "url": "https://research.haloneuro.ai/posts/sopro-v2",
+    "discussion_url": "https://news.ycombinator.com/item?id=49470574",
+    "source": "research.haloneuro.ai",
+    "date": "2026-08-27T20:13:26Z",
+    "timestamp": 1787861606,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+    "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49470539",
+    "source": "blog.luanti.org",
+    "date": "2026-08-27T20:10:38Z",
+    "timestamp": 1787861438,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI industry says Trump plans to tax chips in the \"single dumbest way imaginable\"",
+    "url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49470366",
+    "source": "arstechnica.com",
+    "date": "2026-08-27T19:57:24Z",
+    "timestamp": 1787860644,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
+    "url": "https://news.ycombinator.com/item?id=49466715",
+    "discussion_url": "https://news.ycombinator.com/item?id=49466715",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-27T15:46:04Z",
+    "timestamp": 1787845564,
     "category": "Physical AI"
   },
   {
@@ -135,15 +171,6 @@
     "category": "Computer Vision"
   },
   {
-    "title": "S1: In-Context Learning for Robotics",
-    "url": "https://skild.ai/blogs/s1",
-    "discussion_url": "https://news.ycombinator.com/item?id=49458245",
-    "source": "skild.ai",
-    "date": "2026-08-27T01:23:38Z",
-    "timestamp": 1787793818,
-    "category": "Physical AI"
-  },
-  {
     "title": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
     "url": "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
     "discussion_url": "https://news.ycombinator.com/item?id=49455471",
@@ -153,30 +180,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "A Thread-Register Decoupled GPU Execution Model for Efficient Tensor Computation",
-    "url": "https://arxiv.org/abs/2608.19628",
-    "discussion_url": "https://news.ycombinator.com/item?id=49454205",
-    "source": "arxiv.org",
-    "date": "2026-08-26T19:08:58Z",
-    "timestamp": 1787771338,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "Memory Ordering in CPUs",
     "url": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/",
     "discussion_url": "https://news.ycombinator.com/item?id=49448167",
     "source": "fgiesen.wordpress.com",
     "date": "2026-08-26T12:49:49Z",
     "timestamp": 1787748589,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-    "url": "https://twitter.com/lemire/status/2091894299289874926",
-    "discussion_url": "https://news.ycombinator.com/item?id=49420873",
-    "source": "twitter.com",
-    "date": "2026-08-24T15:08:17Z",
-    "timestamp": 1787584097,
     "category": "Computer Architecture"
   }
 ]
