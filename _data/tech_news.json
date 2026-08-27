@@ -1,57 +1,156 @@
 [
   {
-    "title": "Why AI Agents Need Persistent Browser Identities",
-    "url": "https://github.com/Radek-B3/browser3/blob/main/WHY_AI_AGENTS_NEED_PERSISTENT_BROWSER_IDENTITIES.md",
-    "discussion_url": "https://news.ycombinator.com/item?id=49454780",
+    "title": "The people, the money and the ownership behind China's leading AI companies",
+    "url": "https://wirescreen.ai/briefings/china-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49462019",
+    "source": "wirescreen.ai",
+    "date": "2026-08-27T09:30:34Z",
+    "timestamp": 1787823034,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "My software development workflow is AI now & it feels exhausting and soulless",
+    "url": "https://old.reddit.com/r/cscareerquestions/comments/1vi1i7m/my_entire_software_development_workflow_is_ai_now/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49461965",
+    "source": "old.reddit.com",
+    "date": "2026-08-27T09:24:20Z",
+    "timestamp": 1787822660,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Feels Like the Pandemic All over Again",
+    "url": "https://bejofo.com/blog/ai-feels-like-the-pandemic",
+    "discussion_url": "https://news.ycombinator.com/item?id=49461758",
+    "source": "bejofo.com",
+    "date": "2026-08-27T08:50:26Z",
+    "timestamp": 1787820626,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Changes to Sourcehut's terms of service regarding LLMs",
+    "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49461724",
+    "source": "sourcehut.org",
+    "date": "2026-08-27T08:44:22Z",
+    "timestamp": 1787820262,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I don't worry about cost of AI models and you shouldn't too",
+    "url": "https://davletd.medium.com/cost-of-ai-models-is-not-what-you-shoud-be-worried-about-e6439498bae7",
+    "discussion_url": "https://news.ycombinator.com/item?id=49461622",
+    "source": "davletd.medium.com",
+    "date": "2026-08-27T08:31:13Z",
+    "timestamp": 1787819473,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Simon Weckert creates Digital Camouflage shirt to avoid AI video surveillance",
+    "url": "https://www.dezeen.com/2026/08/25/digital-camouflage-shirt-ai-video-surveillance-simon-weckert/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49461556",
+    "source": "dezeen.com",
+    "date": "2026-08-27T08:22:00Z",
+    "timestamp": 1787818920,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: As a Software Dev, how do you hedge for a world where AI takes your job?",
+    "url": "https://news.ycombinator.com/item?id=49461511",
+    "discussion_url": "https://news.ycombinator.com/item?id=49461511",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-27T08:15:57Z",
+    "timestamp": 1787818557,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GitHub – rajnandan1/ken: Thompson-mode systems discipline for AI agents",
+    "url": "https://github.com/rajnandan1/ken",
+    "discussion_url": "https://news.ycombinator.com/item?id=49461066",
     "source": "github.com",
-    "date": "2026-08-26T19:46:59Z",
-    "timestamp": 1787773619,
+    "date": "2026-08-27T07:17:51Z",
+    "timestamp": 1787815071,
     "category": "Machine Learning"
   },
   {
-    "title": "Serve Markdown to AI Agents with Accept Headers",
-    "url": "https://acceptmarkdown.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49454764",
-    "source": "acceptmarkdown.com",
-    "date": "2026-08-26T19:45:59Z",
-    "timestamp": 1787773559,
+    "title": "Junior consultants called back to office as AI increases need for human skills",
+    "url": "https://www.ft.com/content/7fd9c234-a92b-4ab2-ba1f-969cf9a23f52",
+    "discussion_url": "https://news.ycombinator.com/item?id=49460913",
+    "source": "ft.com",
+    "date": "2026-08-27T07:01:45Z",
+    "timestamp": 1787814105,
     "category": "Machine Learning"
   },
   {
-    "title": "The AI writing taboo begins to fade following WSJ op-ed",
-    "url": "https://www.semafor.com/article/08/26/2026/the-ai-writing-taboo-begins-to-fade-after-wsj-op-ed",
-    "discussion_url": "https://news.ycombinator.com/item?id=49454754",
-    "source": "semafor.com",
-    "date": "2026-08-26T19:45:31Z",
-    "timestamp": 1787773531,
+    "title": "AI Revenue Reporting: Slop",
+    "url": "https://www.ft.com/content/a9145db8-18c1-4476-aac5-d1b4fcf70040",
+    "discussion_url": "https://news.ycombinator.com/item?id=49460815",
+    "source": "ft.com",
+    "date": "2026-08-27T06:51:42Z",
+    "timestamp": 1787813502,
     "category": "Machine Learning"
   },
   {
-    "title": "The risks of AI are real but manageable (2023)",
-    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable",
-    "discussion_url": "https://news.ycombinator.com/item?id=49454742",
-    "source": "gatesnotes.com",
-    "date": "2026-08-26T19:44:33Z",
-    "timestamp": 1787773473,
+    "title": "Your AI Generated Menu Triggered My Trypophobia",
+    "url": "https://shubhamjain.co/2026/08/27/ai-food-photos-trypophobia/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49460618",
+    "source": "shubhamjain.co",
+    "date": "2026-08-27T06:26:13Z",
+    "timestamp": 1787811973,
     "category": "Machine Learning"
   },
   {
-    "title": "1-800-APL-Care Now Connects You with AI Assistant Instead of Human",
-    "url": "https://www.macrumors.com/2026/08/26/1-800-apl-care-ai-assistant/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49454671",
-    "source": "macrumors.com",
-    "date": "2026-08-26T19:40:35Z",
-    "timestamp": 1787773235,
+    "title": "OpenAI staff observed warning signs before AI agents attack on Hugging Face",
+    "url": "https://www.theguardian.com/technology/2026/aug/26/openai-staff-observed-warning-signs-before-ai-agent-hacking-crusade-caused-global-alarm",
+    "discussion_url": "https://news.ycombinator.com/item?id=49460255",
+    "source": "theguardian.com",
+    "date": "2026-08-27T05:42:42Z",
+    "timestamp": 1787809362,
     "category": "Machine Learning"
   },
   {
-    "title": "Primus – AI Research Scientist",
-    "url": "https://lab.cloud/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49454244",
-    "source": "lab.cloud",
-    "date": "2026-08-26T19:11:26Z",
-    "timestamp": 1787771486,
-    "category": "Machine Learning"
+    "title": "Google's Sergey Brin: You'll ride in robot cars within 5 years (2012)",
+    "url": "https://www.cnet.com/science/googles-sergey-brin-youll-ride-in-robot-cars-within-5-years/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49459667",
+    "source": "cnet.com",
+    "date": "2026-08-27T04:20:36Z",
+    "timestamp": 1787804436,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Dissecting the Apple M1 GPU, the End",
+    "url": "https://alyssarosenzweig.ca/blog/asahi-gpu-part-n.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49459140",
+    "source": "alyssarosenzweig.ca",
+    "date": "2026-08-27T03:11:45Z",
+    "timestamp": 1787800305,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Getting video models to learn better, faster",
+    "url": "https://www.linum.ai/field-notes/data-filtering-gen-video",
+    "discussion_url": "https://news.ycombinator.com/item?id=49458502",
+    "source": "linum.ai",
+    "date": "2026-08-27T01:53:34Z",
+    "timestamp": 1787795614,
+    "category": "Computer Vision"
+  },
+  {
+    "title": "S1: In-Context Learning for Robotics",
+    "url": "https://skild.ai/blogs/s1",
+    "discussion_url": "https://news.ycombinator.com/item?id=49458245",
+    "source": "skild.ai",
+    "date": "2026-08-27T01:23:38Z",
+    "timestamp": 1787793818,
+    "category": "Physical AI"
+  },
+  {
+    "title": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
+    "url": "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
+    "discussion_url": "https://news.ycombinator.com/item?id=49455471",
+    "source": "newsroom.ibm.com",
+    "date": "2026-08-26T20:32:29Z",
+    "timestamp": 1787776349,
+    "category": "Computer Architecture"
   },
   {
     "title": "A Thread-Register Decoupled GPU Execution Model for Efficient Tensor Computation",
@@ -63,93 +162,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "I grew up with blackouts, now I put GPU clusters where power exists",
-    "url": "https://antifragil.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49454004",
-    "source": "antifragil.ai",
-    "date": "2026-08-26T18:57:02Z",
-    "timestamp": 1787770622,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Token prices could be a lot lower but inference companies are getting in the way",
-    "url": "https://twitter.com/thdxr/status/2092679229481623757",
-    "discussion_url": "https://news.ycombinator.com/item?id=49453975",
-    "source": "twitter.com",
-    "date": "2026-08-26T18:54:35Z",
-    "timestamp": 1787770475,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Credentials Are Leaked by LLM Agent Skills: An Empirical Study",
-    "url": "https://arxiv.org/abs/2604.03070",
-    "discussion_url": "https://news.ycombinator.com/item?id=49453521",
-    "source": "arxiv.org",
-    "date": "2026-08-26T18:21:01Z",
-    "timestamp": 1787768461,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Watermark Mandates Could Unmask Journalists Who Never Touched AI",
-    "url": "https://www.techdirt.com/2026/08/26/how-ai-watermark-mandates-could-unmask-journalists-who-never-touched-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49453460",
-    "source": "techdirt.com",
-    "date": "2026-08-26T18:16:21Z",
-    "timestamp": 1787768181,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Hacker News, Sans AI",
-    "url": "https://elijahpotter.dev/hnsansai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49453133",
-    "source": "elijahpotter.dev",
-    "date": "2026-08-26T17:52:46Z",
-    "timestamp": 1787766766,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "America's immigration policy is driving away future AI leaders",
-    "url": "https://restofworld.org/2026/us-immigration-rules-ai-talent-china/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49453108",
-    "source": "restofworld.org",
-    "date": "2026-08-26T17:51:09Z",
-    "timestamp": 1787766669,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Railo – Deterministic security patch bot using AST and Z3 (no LLMs)",
-    "url": "https://www.railo.dev",
-    "discussion_url": "https://news.ycombinator.com/item?id=49453098",
-    "source": "railo.dev",
-    "date": "2026-08-26T17:50:07Z",
-    "timestamp": 1787766607,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: A robot football league where frontier AI models manage the clubs",
-    "url": "https://rfl.football",
-    "discussion_url": "https://news.ycombinator.com/item?id=49449201",
-    "source": "rfl.football",
-    "date": "2026-08-26T13:53:05Z",
-    "timestamp": 1787752385,
-    "category": "Physical AI"
-  },
-  {
     "title": "Memory Ordering in CPUs",
     "url": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/",
     "discussion_url": "https://news.ycombinator.com/item?id=49448167",
     "source": "fgiesen.wordpress.com",
     "date": "2026-08-26T12:49:49Z",
     "timestamp": 1787748589,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Warnock: Harnessing GPU geometry amplification for vector graphics",
-    "url": "https://dl.acm.org/doi/pdf/10.1145/3820012",
-    "discussion_url": "https://news.ycombinator.com/item?id=49435781",
-    "source": "dl.acm.org",
-    "date": "2026-08-25T15:26:45Z",
-    "timestamp": 1787671605,
     "category": "Computer Architecture"
   },
   {
