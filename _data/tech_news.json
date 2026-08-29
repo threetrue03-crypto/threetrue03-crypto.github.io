@@ -1,20 +1,119 @@
 [
   {
-    "title": "The AI Backlash Gets Professional",
-    "url": "https://www.theatlantic.com/technology/2026/08/irreplaceable-climate-activists-ai-backlash/688404/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49484801",
-    "source": "theatlantic.com",
-    "date": "2026-08-28T22:06:18Z",
-    "timestamp": 1787954778,
+    "title": "Show HN: Tokensift, an open-sourced token-efficiency linter for LLM prompts",
+    "url": "https://github.com/ritenv/tokensift",
+    "discussion_url": "https://news.ycombinator.com/item?id=49487500",
+    "source": "github.com",
+    "date": "2026-08-29T06:33:51Z",
+    "timestamp": 1787985231,
     "category": "Machine Learning"
   },
   {
-    "title": "AI demands more engineering discipline. Not less",
-    "url": "https://charity.wtf/p/ai-demands-more-engineering-discipline",
-    "discussion_url": "https://news.ycombinator.com/item?id=49484743",
-    "source": "charity.wtf",
-    "date": "2026-08-28T22:00:26Z",
-    "timestamp": 1787954426,
+    "title": "I tried vibe-coding a memory tool for AI and stared into the abyss of philosophy",
+    "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+    "discussion_url": "https://news.ycombinator.com/item?id=49487351",
+    "source": "arbustoemchamas.substack.com",
+    "date": "2026-08-29T06:09:06Z",
+    "timestamp": 1787983746,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Beyond the Editing Canvas: Evidence Divergence in Ooxml-to-LLM Ingestion",
+    "url": "https://arxiv.org/abs/2608.25880",
+    "discussion_url": "https://news.ycombinator.com/item?id=49487342",
+    "source": "arxiv.org",
+    "date": "2026-08-29T06:07:07Z",
+    "timestamp": 1787983627,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Yes, We're in an AI Bubble. Just Look to 1980s Japan",
+    "url": "https://foreignpolicy.com/2026/08/28/nvidia-earnings-quarterly-report-ai-economic-bubble-japan-history/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49487072",
+    "source": "foreignpolicy.com",
+    "date": "2026-08-29T05:12:32Z",
+    "timestamp": 1787980352,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-27/nvidia-starts-pac-as-ai-chip-maker-builds-dc-influence-force",
+    "discussion_url": "https://news.ycombinator.com/item?id=49487047",
+    "source": "bloomberg.com",
+    "date": "2026-08-29T05:07:31Z",
+    "timestamp": 1787980051,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Debian has published the official results for the 2026 GR on LLM usage",
+    "url": "https://vote.debian.org/~secretary/gr_llm/results.txt",
+    "discussion_url": "https://news.ycombinator.com/item?id=49486967",
+    "source": "vote.debian.org",
+    "date": "2026-08-29T04:48:52Z",
+    "timestamp": 1787978932,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: What BOYK AI client are you using?",
+    "url": "https://news.ycombinator.com/item?id=49486912",
+    "discussion_url": "https://news.ycombinator.com/item?id=49486912",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-29T04:38:08Z",
+    "timestamp": 1787978288,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Microsoft publishes AI Agent Shared Responsibility Model",
+    "url": "https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility-ai-agent",
+    "discussion_url": "https://news.ycombinator.com/item?id=49486870",
+    "source": "learn.microsoft.com",
+    "date": "2026-08-29T04:28:47Z",
+    "timestamp": 1787977727,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Meta's Push to Put Robots to Work in Data Centers",
+    "url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49486846",
+    "source": "wired.com",
+    "date": "2026-08-29T04:21:17Z",
+    "timestamp": 1787977277,
+    "category": "Physical AI"
+  },
+  {
+    "title": "I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
+    "url": "https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform",
+    "discussion_url": "https://news.ycombinator.com/item?id=49486494",
+    "source": "mcsweeneys.net",
+    "date": "2026-08-29T02:58:12Z",
+    "timestamp": 1787972292,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Debian Votes to Allow \"Responsible Use of Generative AI\"",
+    "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+    "discussion_url": "https://news.ycombinator.com/item?id=49486493",
+    "source": "phoronix.com",
+    "date": "2026-08-29T02:57:43Z",
+    "timestamp": 1787972263,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LSPs for LLMs",
+    "url": "https://ianbarber.blog/2026/08/11/lsps-for-llms/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49486378",
+    "source": "ianbarber.blog",
+    "date": "2026-08-29T02:37:13Z",
+    "timestamp": 1787971033,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents",
+    "url": "https://arxiv.org/abs/2608.27141",
+    "discussion_url": "https://news.ycombinator.com/item?id=49486254",
+    "source": "arxiv.org",
+    "date": "2026-08-29T02:07:07Z",
+    "timestamp": 1787969227,
     "category": "Machine Learning"
   },
   {
@@ -24,132 +123,6 @@
     "source": "twitter.com",
     "date": "2026-08-28T21:26:25Z",
     "timestamp": 1787952385,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "When AI Memory Becomes Production State",
-    "url": "https://jasondoyle.ie/whitepapers/when-memory-becomes-production-state/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49484280",
-    "source": "jasondoyle.ie",
-    "date": "2026-08-28T21:08:59Z",
-    "timestamp": 1787951339,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Is \"An agent with tools\" the only valid LLM application?",
-    "url": "https://news.ycombinator.com/item?id=49484000",
-    "discussion_url": "https://news.ycombinator.com/item?id=49484000",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-28T20:41:23Z",
-    "timestamp": 1787949683,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Tencent Hy4 Preview LLM",
-    "url": "https://github.com/Tencent-Hunyuan/Hy4-preview",
-    "discussion_url": "https://news.ycombinator.com/item?id=49483991",
-    "source": "github.com",
-    "date": "2026-08-28T20:40:21Z",
-    "timestamp": 1787949621,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Tech giants urge global response to AI cybersecurity threats",
-    "url": "https://www.dw.com/en/ai-companies-cybersecurity-threats-open-letter/a-78538592",
-    "discussion_url": "https://news.ycombinator.com/item?id=49483907",
-    "source": "dw.com",
-    "date": "2026-08-28T20:34:11Z",
-    "timestamp": 1787949251,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "NSA wants access to 'all' AI models, top official says",
-    "url": "https://www.nextgov.com/artificial-intelligence/2026/08/nsa-wants-access-all-ai-models-top-official-says/415672/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49483894",
-    "source": "nextgov.com",
-    "date": "2026-08-28T20:33:09Z",
-    "timestamp": 1787949189,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "LLMs Don't Replace Classical ML – They Feed It",
-    "url": "https://bilanc.co/blog/llms-as-feature-extractors-for-classical-ml",
-    "discussion_url": "https://news.ycombinator.com/item?id=49483882",
-    "source": "bilanc.co",
-    "date": "2026-08-28T20:32:27Z",
-    "timestamp": 1787949147,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The Cully Hill Boys – 110 minute AI film",
-    "url": "https://higgsfield.ai/original-series/cully-hill-boys/full-film",
-    "discussion_url": "https://news.ycombinator.com/item?id=49483809",
-    "source": "higgsfield.ai",
-    "date": "2026-08-28T20:27:28Z",
-    "timestamp": 1787948848,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: I'm auctioning 10 sticker spots on an RTX 5090 to pay for the GPU",
-    "url": "https://gpu-rtx.lol/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49483507",
-    "source": "gpu-rtx.lol",
-    "date": "2026-08-28T20:01:42Z",
-    "timestamp": 1787947302,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Fuck your AI slop: 5 rules of writing cold messages",
-    "url": "https://nmn.gl/blog/ai-slop-cold-message-rules",
-    "discussion_url": "https://news.ycombinator.com/item?id=49483447",
-    "source": "nmn.gl",
-    "date": "2026-08-28T19:57:06Z",
-    "timestamp": 1787947026,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Political Compass",
-    "url": "https://aipolcom.net/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49483401",
-    "source": "aipolcom.net",
-    "date": "2026-08-28T19:52:16Z",
-    "timestamp": 1787946736,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Condensed concepts: Questions to consider when evaluating AI",
-    "url": "https://condensedconcepts.blogspot.com/2026/08/questions-to-consider-when-evaluating-ai.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49483366",
-    "source": "condensedconcepts.blogspot.com",
-    "date": "2026-08-28T19:48:44Z",
-    "timestamp": 1787946524,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "ICE Plans to Spend Millions on Boston Dynamics Dog Robots",
-    "url": "https://www.404media.co/ice-plans-to-spends-millions-on-boston-dynamics-dog-robots/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49482864",
-    "source": "404media.co",
-    "date": "2026-08-28T18:56:15Z",
-    "timestamp": 1787943375,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Delivering Vera: Nvidia's First CPU Built for Agents Is Shipping Now",
-    "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49482788",
-    "source": "blogs.nvidia.com",
-    "date": "2026-08-28T18:49:13Z",
-    "timestamp": 1787942953,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "A Deep Dive into LDS Optimizations on AMD Instinct MI450 GPUs",
-    "url": "https://rocm.blogs.amd.com/software-tools-optimization/mi450-lds-optimization/README.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49482607",
-    "source": "rocm.blogs.amd.com",
-    "date": "2026-08-28T18:31:32Z",
-    "timestamp": 1787941892,
     "category": "Computer Architecture"
   },
   {
