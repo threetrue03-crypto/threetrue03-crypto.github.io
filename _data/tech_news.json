@@ -1,5 +1,122 @@
 [
   {
+    "title": "AI and the Commons",
+    "url": "https://creativecommons.org/ai-and-the-commons/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49492603",
+    "source": "creativecommons.org",
+    "date": "2026-08-29T19:30:15Z",
+    "timestamp": 1788031815,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "An infinite and interactive AI generated live stream of slop",
+    "url": "https://skunkworks.levels.io/infinite-slop/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49492243",
+    "source": "skunkworks.levels.io",
+    "date": "2026-08-29T18:47:07Z",
+    "timestamp": 1788029227,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLMs are making me lose my savviness",
+    "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49492184",
+    "source": "pgaleone.eu",
+    "date": "2026-08-29T18:38:52Z",
+    "timestamp": 1788028732,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Feel the tokens/s before you buy the GPU",
+    "url": "https://llmspeed.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49492103",
+    "source": "llmspeed.dev",
+    "date": "2026-08-29T18:25:43Z",
+    "timestamp": 1788027943,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "vLLM v0.28.0",
+    "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+    "discussion_url": "https://news.ycombinator.com/item?id=49492067",
+    "source": "github.com",
+    "date": "2026-08-29T18:22:00Z",
+    "timestamp": 1788027720,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Revives a Dead Sleep Company",
+    "url": "https://www.josephspurrier.com/ai-revives-a-dead-sleep-company",
+    "discussion_url": "https://news.ycombinator.com/item?id=49491715",
+    "source": "josephspurrier.com",
+    "date": "2026-08-29T17:39:28Z",
+    "timestamp": 1788025168,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A local scrubber for text you're about to send to an LLM",
+    "url": "https://github.com/Sushmey/Redact/tree/main",
+    "discussion_url": "https://news.ycombinator.com/item?id=49491642",
+    "source": "github.com",
+    "date": "2026-08-29T17:29:10Z",
+    "timestamp": 1788024550,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+    "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+    "discussion_url": "https://news.ycombinator.com/item?id=49491568",
+    "source": "newsletter.eng-leadership.com",
+    "date": "2026-08-29T17:19:47Z",
+    "timestamp": 1788023987,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Is the LLM smart or are you not?",
+    "url": "https://blog.troed.se/posts/the-anchoring-effect-and-cognitive-simplicity/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49491541",
+    "source": "blog.troed.se",
+    "date": "2026-08-29T17:13:36Z",
+    "timestamp": 1788023616,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I hate AI images and music",
+    "url": "https://mat.leaflet.pub/3mu35coarbs2o",
+    "discussion_url": "https://news.ycombinator.com/item?id=49491447",
+    "source": "mat.leaflet.pub",
+    "date": "2026-08-29T17:00:28Z",
+    "timestamp": 1788022828,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I Built a Headless Browser for AI Agents in Rust. No Chromium, No V8",
+    "url": "https://medium.com/@Koukyosyumei/i-built-a-headless-browser-for-ai-agents-entirely-in-rust-no-chromium-no-v8-3750908b8145",
+    "discussion_url": "https://news.ycombinator.com/item?id=49491404",
+    "source": "medium.com",
+    "date": "2026-08-29T16:53:51Z",
+    "timestamp": 1788022431,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Three mistakes of new AI teams",
+    "url": "https://softwaredoug.com/blog/2026/08/29/ai-team-mistakes.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49491335",
+    "source": "softwaredoug.com",
+    "date": "2026-08-29T16:45:09Z",
+    "timestamp": 1788021909,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "ICE eyes spending up to $2M on Boston Dynamics robot dogs to up 'officer safety'",
+    "url": "https://www.bostonglobe.com/2026/08/29/business/boston-dynamics-robot-dog-ice/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49491262",
+    "source": "bostonglobe.com",
+    "date": "2026-08-29T16:33:24Z",
+    "timestamp": 1788021204,
+    "category": "Physical AI"
+  },
+  {
     "title": "The growing divide between AI hype and software engineering reality",
     "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
     "discussion_url": "https://news.ycombinator.com/item?id=49491113",
@@ -7,114 +124,6 @@
     "date": "2026-08-29T16:16:32Z",
     "timestamp": 1788020192,
     "category": "Machine Learning"
-  },
-  {
-    "title": "Google further buries search results under AI mode",
-    "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-    "discussion_url": "https://news.ycombinator.com/item?id=49490648",
-    "source": "theverge.com",
-    "date": "2026-08-29T15:21:06Z",
-    "timestamp": 1788016866,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenLake: Fast, Durable Storage for LLM Inference and Training",
-    "url": "https://www.theopenlake.com/blog/introducing-openlake",
-    "discussion_url": "https://news.ycombinator.com/item?id=49490470",
-    "source": "theopenlake.com",
-    "date": "2026-08-29T15:00:32Z",
-    "timestamp": 1788015632,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "SwarmWorld: Stigmergic technological evolution in societies of LLM agents",
-    "url": "https://arxiv.org/abs/2608.26081",
-    "discussion_url": "https://news.ycombinator.com/item?id=49490461",
-    "source": "arxiv.org",
-    "date": "2026-08-29T14:59:33Z",
-    "timestamp": 1788015573,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Would you share your weirdest agent logs with AI safety researchers?",
-    "url": "https://www.reddit.com/r/AI_Agents/comments/1w1nuzb/whats_your_weirdest_ai_agent_log/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49490327",
-    "source": "reddit.com",
-    "date": "2026-08-29T14:43:57Z",
-    "timestamp": 1788014637,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Three mistakes of new AI teams",
-    "url": "https://softwaredoug.com/blog/2026/08/29/ai-team-mistakes",
-    "discussion_url": "https://news.ycombinator.com/item?id=49490303",
-    "source": "softwaredoug.com",
-    "date": "2026-08-29T14:41:07Z",
-    "timestamp": 1788014467,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Stripe LLMS.txt with note to install latest",
-    "url": "https://docs.stripe.com/llms.txt",
-    "discussion_url": "https://news.ycombinator.com/item?id=49490204",
-    "source": "docs.stripe.com",
-    "date": "2026-08-29T14:29:18Z",
-    "timestamp": 1788013758,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Calibre eBook manager lets you generate AI book covers",
-    "url": "https://www.omgubuntu.co.uk/2026/08/calibre-ebook-ai-covers",
-    "discussion_url": "https://news.ycombinator.com/item?id=49490115",
-    "source": "omgubuntu.co.uk",
-    "date": "2026-08-29T14:19:04Z",
-    "timestamp": 1788013144,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Major security weaknesses found in leading open AI models",
-    "url": "https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models",
-    "discussion_url": "https://news.ycombinator.com/item?id=49490082",
-    "source": "uwaterloo.ca",
-    "date": "2026-08-29T14:15:36Z",
-    "timestamp": 1788012936,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Microsoft-backed AI data center faces backlash over 62 unpermitted gas turbines",
-    "url": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution",
-    "discussion_url": "https://news.ycombinator.com/item?id=49490016",
-    "source": "tomshardware.com",
-    "date": "2026-08-29T14:07:07Z",
-    "timestamp": 1788012427,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Debian votes to allow \"responsible use of generative AI\"",
-    "url": "https://lwn.net/Articles/1091231/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49489982",
-    "source": "lwn.net",
-    "date": "2026-08-29T14:02:10Z",
-    "timestamp": 1788012130,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A Disillusioned Software Engineer explains LLMs to a Babylonian Scribe",
-    "url": "https://avocadoslaw.substack.com/p/babylon-3pm",
-    "discussion_url": "https://news.ycombinator.com/item?id=49489972",
-    "source": "avocadoslaw.substack.com",
-    "date": "2026-08-29T14:00:12Z",
-    "timestamp": 1788012012,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "We made a new robot – Microduck [video]",
-    "url": "https://www.youtube.com/watch?v=RAtzEyGBGFU",
-    "discussion_url": "https://news.ycombinator.com/item?id=49489612",
-    "source": "youtube.com",
-    "date": "2026-08-29T13:09:49Z",
-    "timestamp": 1788008989,
-    "category": "Physical AI"
   },
   {
     "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
