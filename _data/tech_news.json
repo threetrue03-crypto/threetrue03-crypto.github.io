@@ -1,30 +1,129 @@
 [
   {
-    "title": "AI and the Commons",
-    "url": "https://creativecommons.org/ai-and-the-commons/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49492603",
-    "source": "creativecommons.org",
-    "date": "2026-08-29T19:30:15Z",
-    "timestamp": 1788031815,
+    "title": "The Internet Archive's Vintage AI Collection",
+    "url": "https://archive.org/details/vintageai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49495845",
+    "source": "archive.org",
+    "date": "2026-08-30T05:00:51Z",
+    "timestamp": 1788066051,
     "category": "Machine Learning"
   },
   {
-    "title": "An infinite and interactive AI generated live stream of slop",
-    "url": "https://skunkworks.levels.io/infinite-slop/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49492243",
-    "source": "skunkworks.levels.io",
-    "date": "2026-08-29T18:47:07Z",
-    "timestamp": 1788029227,
+    "title": "Microsoft Admits AI Training in New User Privacy Statment",
+    "url": "https://slashdot.org/submission/17350256/microsoft-admits-ai-training-in-new-user-privacy-statment",
+    "discussion_url": "https://news.ycombinator.com/item?id=49495702",
+    "source": "slashdot.org",
+    "date": "2026-08-30T04:30:35Z",
+    "timestamp": 1788064235,
     "category": "Machine Learning"
   },
   {
-    "title": "LLMs are making me lose my savviness",
-    "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49492184",
-    "source": "pgaleone.eu",
-    "date": "2026-08-29T18:38:52Z",
-    "timestamp": 1788028732,
+    "title": "Ask HN: Hard Mode for LLMs",
+    "url": "https://news.ycombinator.com/item?id=49495324",
+    "discussion_url": "https://news.ycombinator.com/item?id=49495324",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-30T03:05:48Z",
+    "timestamp": 1788059148,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: TypeGPU Realtime Physics Sandbox",
+    "url": "https://typegpu-sandbox.pages.dev",
+    "discussion_url": "https://news.ycombinator.com/item?id=49495118",
+    "source": "typegpu-sandbox.pages.dev",
+    "date": "2026-08-30T02:24:02Z",
+    "timestamp": 1788056642,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Meta Project OT plan to replace employees with AI agents",
+    "url": "https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence",
+    "discussion_url": "https://news.ycombinator.com/item?id=49495009",
+    "source": "thestreet.com",
+    "date": "2026-08-30T02:01:08Z",
+    "timestamp": 1788055268,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI is changing religion and religions are trying to change AI",
+    "url": "https://economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49494690",
+    "source": "economist.com",
+    "date": "2026-08-30T00:58:04Z",
+    "timestamp": 1788051484,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Build Your Customer Service Team with AI Agents",
+    "url": "https://aimujib.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49494653",
+    "source": "aimujib.com",
+    "date": "2026-08-30T00:49:35Z",
+    "timestamp": 1788050975,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How cats.txt showed llms.txt evidence is GEO astrology",
+    "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
+    "discussion_url": "https://news.ycombinator.com/item?id=49494245",
+    "source": "markwilliamscook.substack.com",
+    "date": "2026-08-29T23:29:48Z",
+    "timestamp": 1788046188,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OpenContext – Persistent, project-local memory for AI coding agents via MCP",
+    "url": "https://www.opencntx.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49494219",
+    "source": "opencntx.dev",
+    "date": "2026-08-29T23:24:44Z",
+    "timestamp": 1788045884,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "When AI Writes the Code Verification Is the New Implementation",
+    "url": "https://sarpex.com/2026/08-verification-is-the-new-implementation",
+    "discussion_url": "https://news.ycombinator.com/item?id=49494200",
+    "source": "sarpex.com",
+    "date": "2026-08-29T23:20:55Z",
+    "timestamp": 1788045655,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How Big Tech Blinded Itself to the Grassroots AI Revolt",
+    "url": "https://www.wsj.com/tech/ai/how-big-tech-blinded-itself-to-the-grassroots-ai-revolt-cb6f5715",
+    "discussion_url": "https://news.ycombinator.com/item?id=49494143",
+    "source": "wsj.com",
+    "date": "2026-08-29T23:11:48Z",
+    "timestamp": 1788045108,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI should be illegal until we figure out how to deal with its consequences",
+    "url": "https://ivanca.github.io/ai/2026/08/29/ai-should-be-illegal-until-we-figure-out-how-to-deal-with-its-consequences/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49493940",
+    "source": "ivanca.github.io",
+    "date": "2026-08-29T22:40:14Z",
+    "timestamp": 1788043214,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "What does it mean for data to be AI ready?",
+    "url": "https://sina.bio/posts/what-does-it-mean-for-data-to-be-ai-ready.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49493907",
+    "source": "sina.bio",
+    "date": "2026-08-29T22:35:25Z",
+    "timestamp": 1788042925,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Redesigning the Inference Chip: From Nvidia GPU's Flaws to OpenAI Jalapeño",
+    "url": "https://zartbot.github.io/blog/arch/jalapeno/en.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49492798",
+    "source": "zartbot.github.io",
+    "date": "2026-08-29T19:52:56Z",
+    "timestamp": 1788033176,
+    "category": "Computer Architecture"
   },
   {
     "title": "Feel the tokens/s before you buy the GPU",
@@ -36,96 +135,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "vLLM v0.28.0",
-    "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-    "discussion_url": "https://news.ycombinator.com/item?id=49492067",
-    "source": "github.com",
-    "date": "2026-08-29T18:22:00Z",
-    "timestamp": 1788027720,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Revives a Dead Sleep Company",
-    "url": "https://www.josephspurrier.com/ai-revives-a-dead-sleep-company",
-    "discussion_url": "https://news.ycombinator.com/item?id=49491715",
-    "source": "josephspurrier.com",
-    "date": "2026-08-29T17:39:28Z",
-    "timestamp": 1788025168,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A local scrubber for text you're about to send to an LLM",
-    "url": "https://github.com/Sushmey/Redact/tree/main",
-    "discussion_url": "https://news.ycombinator.com/item?id=49491642",
-    "source": "github.com",
-    "date": "2026-08-29T17:29:10Z",
-    "timestamp": 1788024550,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-    "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-    "discussion_url": "https://news.ycombinator.com/item?id=49491568",
-    "source": "newsletter.eng-leadership.com",
-    "date": "2026-08-29T17:19:47Z",
-    "timestamp": 1788023987,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Is the LLM smart or are you not?",
-    "url": "https://blog.troed.se/posts/the-anchoring-effect-and-cognitive-simplicity/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49491541",
-    "source": "blog.troed.se",
-    "date": "2026-08-29T17:13:36Z",
-    "timestamp": 1788023616,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I hate AI images and music",
-    "url": "https://mat.leaflet.pub/3mu35coarbs2o",
-    "discussion_url": "https://news.ycombinator.com/item?id=49491447",
-    "source": "mat.leaflet.pub",
-    "date": "2026-08-29T17:00:28Z",
-    "timestamp": 1788022828,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I Built a Headless Browser for AI Agents in Rust. No Chromium, No V8",
-    "url": "https://medium.com/@Koukyosyumei/i-built-a-headless-browser-for-ai-agents-entirely-in-rust-no-chromium-no-v8-3750908b8145",
-    "discussion_url": "https://news.ycombinator.com/item?id=49491404",
-    "source": "medium.com",
-    "date": "2026-08-29T16:53:51Z",
-    "timestamp": 1788022431,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Three mistakes of new AI teams",
-    "url": "https://softwaredoug.com/blog/2026/08/29/ai-team-mistakes.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49491335",
-    "source": "softwaredoug.com",
-    "date": "2026-08-29T16:45:09Z",
-    "timestamp": 1788021909,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "ICE eyes spending up to $2M on Boston Dynamics robot dogs to up 'officer safety'",
-    "url": "https://www.bostonglobe.com/2026/08/29/business/boston-dynamics-robot-dog-ice/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49491262",
-    "source": "bostonglobe.com",
-    "date": "2026-08-29T16:33:24Z",
-    "timestamp": 1788021204,
-    "category": "Physical AI"
-  },
-  {
-    "title": "The growing divide between AI hype and software engineering reality",
-    "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49491113",
-    "source": "optimizedbyotto.com",
-    "date": "2026-08-29T16:16:32Z",
-    "timestamp": 1788020192,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
     "url": "https://news.ycombinator.com/item?id=49466715",
     "discussion_url": "https://news.ycombinator.com/item?id=49466715",
@@ -133,6 +142,15 @@
     "date": "2026-08-27T15:46:04Z",
     "timestamp": 1787845564,
     "category": "Physical AI"
+  },
+  {
+    "title": "RISC-V is now officially supported by CPython",
+    "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49425252",
+    "source": "blog.python.org",
+    "date": "2026-08-24T20:12:22Z",
+    "timestamp": 1787602342,
+    "category": "Computer Architecture"
   },
   {
     "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
