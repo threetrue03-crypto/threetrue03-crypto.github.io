@@ -1,5 +1,95 @@
 [
   {
+    "title": "We tested how AI chatbots would handle foreign propaganda",
+    "url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+    "discussion_url": "https://news.ycombinator.com/item?id=49501823",
+    "source": "npr.org",
+    "date": "2026-08-30T19:12:38Z",
+    "timestamp": 1788117158,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why shaming people about AI slop isn't enough to stop Big AI",
+    "url": "https://www.anildash.com/2026/08/21/ai-slop-and-shame/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49501787",
+    "source": "anildash.com",
+    "date": "2026-08-30T19:08:04Z",
+    "timestamp": 1788116884,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Live cloud GPU rental prices",
+    "url": "https://gputable.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49501785",
+    "source": "gputable.dev",
+    "date": "2026-08-30T19:07:59Z",
+    "timestamp": 1788116879,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "How on Earth does a Search Console for LLMs still not exist?",
+    "url": "https://embassia.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49501613",
+    "source": "embassia.com",
+    "date": "2026-08-30T18:49:13Z",
+    "timestamp": 1788115753,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+    "url": "https://github.com/KodeMunkie/sm750hdmifb",
+    "discussion_url": "https://news.ycombinator.com/item?id=49501611",
+    "source": "github.com",
+    "date": "2026-08-30T18:49:08Z",
+    "timestamp": 1788115748,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Best resources to learn inference engineering?",
+    "url": "https://news.ycombinator.com/item?id=49501256",
+    "discussion_url": "https://news.ycombinator.com/item?id=49501256",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-30T18:15:08Z",
+    "timestamp": 1788113708,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Scalable watermarking for identifying large language model outputs [pdf]",
+    "url": "https://www.nature.com/articles/s41586-024-08025-4",
+    "discussion_url": "https://news.ycombinator.com/item?id=49501202",
+    "source": "nature.com",
+    "date": "2026-08-30T18:10:02Z",
+    "timestamp": 1788113402,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The FOSS Force Interview with Richard Stallman",
+    "url": "https://fossforce.com/2026/08/the-foss-force-interview-with-richard-stallman/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49500792",
+    "source": "fossforce.com",
+    "date": "2026-08-30T17:30:14Z",
+    "timestamp": 1788111014,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Good Luck, Have Fun, Don't Die: Sam Rockwell Lifts an Absurdist AI Sci-Fi Satire",
+    "url": "https://apnews.com/article/good-luck-have-fun-dont-die-review-8c9e0815b189a2395bedf58c704cc239",
+    "discussion_url": "https://news.ycombinator.com/item?id=49500624",
+    "source": "apnews.com",
+    "date": "2026-08-30T17:16:15Z",
+    "timestamp": 1788110175,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The LLM is not Intelligence",
+    "url": "https://www.vivekv.info/posts/llm-is-not-intelligent",
+    "discussion_url": "https://news.ycombinator.com/item?id=49500275",
+    "source": "vivekv.info",
+    "date": "2026-08-30T16:45:06Z",
+    "timestamp": 1788108306,
+    "category": "Machine Learning"
+  },
+  {
     "title": "Show HN: Claude Skills Starter Kit – 198 modular skills for AI agents",
     "url": "https://github.com/yevhens-hue/claude-skills-starter-kit",
     "discussion_url": "https://news.ycombinator.com/item?id=49500224",
@@ -36,15 +126,6 @@
     "category": "Machine Learning"
   },
   {
-    "title": "BROCS: The framework for enterprise AI enablement",
-    "url": "https://brocs.fyi",
-    "discussion_url": "https://news.ycombinator.com/item?id=49499539",
-    "source": "brocs.fyi",
-    "date": "2026-08-30T15:27:35Z",
-    "timestamp": 1788103655,
-    "category": "Machine Learning"
-  },
-  {
     "title": "China's robots race ahead",
     "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
     "discussion_url": "https://news.ycombinator.com/item?id=49499298",
@@ -52,96 +133,6 @@
     "date": "2026-08-30T15:04:53Z",
     "timestamp": 1788102293,
     "category": "Physical AI"
-  },
-  {
-    "title": "2027 AI Power Shortfall of 15 GW",
-    "url": "https://grok.com/share/bGVnYWN5_4f06d401-90e9-4ed4-bad8-89e3b4fadde2",
-    "discussion_url": "https://news.ycombinator.com/item?id=49499179",
-    "source": "grok.com",
-    "date": "2026-08-30T14:52:22Z",
-    "timestamp": 1788101542,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ethical Issues in Advanced Artificial Intelligence",
-    "url": "https://nickbostrom.com/ethics/ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49499001",
-    "source": "nickbostrom.com",
-    "date": "2026-08-30T14:31:59Z",
-    "timestamp": 1788100319,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Getting into Flow with AI Coding",
-    "url": "https://www.natashatherobot.com/p/flow-ai-coding",
-    "discussion_url": "https://news.ycombinator.com/item?id=49498972",
-    "source": "natashatherobot.com",
-    "date": "2026-08-30T14:28:54Z",
-    "timestamp": 1788100134,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "DumpsterCluster: From Dumpster Diving to Serving Llama-70B on $60 GPUs",
-    "url": "https://arxiv.org/abs/2608.14614",
-    "discussion_url": "https://news.ycombinator.com/item?id=49498677",
-    "source": "arxiv.org",
-    "date": "2026-08-30T13:53:38Z",
-    "timestamp": 1788098018,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Running an LLM in the Browser: Verifying WebGPU, and Local Inference",
-    "url": "https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49498526",
-    "source": "capytoolkit.com",
-    "date": "2026-08-30T13:33:35Z",
-    "timestamp": 1788096815,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "No AI Fridays",
-    "url": "https://noaifridays.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49498095",
-    "source": "noaifridays.com",
-    "date": "2026-08-30T12:31:05Z",
-    "timestamp": 1788093065,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
-    "url": "https://www.nature.com/articles/s41562-026-02550-0",
-    "discussion_url": "https://news.ycombinator.com/item?id=49497996",
-    "source": "nature.com",
-    "date": "2026-08-30T12:12:56Z",
-    "timestamp": 1788091976,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Idlen: Ads in the IDE, in AI chats, and a self-serve ads manager",
-    "url": "https://www.idlen.io/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49497926",
-    "source": "idlen.io",
-    "date": "2026-08-30T12:02:08Z",
-    "timestamp": 1788091328,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "LLM usage in Debian neither endorsed nor prohibited",
-    "url": "https://www.debian.org/vote/2026/vote_002",
-    "discussion_url": "https://news.ycombinator.com/item?id=49497883",
-    "source": "debian.org",
-    "date": "2026-08-30T11:52:38Z",
-    "timestamp": 1788090758,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nvidia's AI advantage is moving beyond the GPU",
-    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49497235",
-    "source": "techcrunch.com",
-    "date": "2026-08-30T09:57:06Z",
-    "timestamp": 1788083826,
-    "category": "Computer Architecture"
   },
   {
     "title": "RISC-V is now officially supported by CPython",
