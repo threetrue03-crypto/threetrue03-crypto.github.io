@@ -1,30 +1,138 @@
 [
   {
-    "title": "The Internet Archive's Vintage AI Collection",
-    "url": "https://archive.org/details/vintageai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49495845",
-    "source": "archive.org",
-    "date": "2026-08-30T05:00:51Z",
-    "timestamp": 1788066051,
+    "title": "Only believe what you can validate: a verification framework for agentic AI",
+    "url": "https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49497440",
+    "source": "devblogs.microsoft.com",
+    "date": "2026-08-30T10:36:16Z",
+    "timestamp": 1788086176,
     "category": "Machine Learning"
   },
   {
-    "title": "Microsoft Admits AI Training in New User Privacy Statment",
-    "url": "https://slashdot.org/submission/17350256/microsoft-admits-ai-training-in-new-user-privacy-statment",
-    "discussion_url": "https://news.ycombinator.com/item?id=49495702",
-    "source": "slashdot.org",
-    "date": "2026-08-30T04:30:35Z",
-    "timestamp": 1788064235,
+    "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+    "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+    "discussion_url": "https://news.ycombinator.com/item?id=49497357",
+    "source": "abc.net.au",
+    "date": "2026-08-30T10:20:11Z",
+    "timestamp": 1788085211,
     "category": "Machine Learning"
   },
   {
-    "title": "Ask HN: Hard Mode for LLMs",
-    "url": "https://news.ycombinator.com/item?id=49495324",
-    "discussion_url": "https://news.ycombinator.com/item?id=49495324",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-30T03:05:48Z",
-    "timestamp": 1788059148,
+    "title": "What We Tell AI",
+    "url": "https://www.whatwetellai.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49497334",
+    "source": "whatwetellai.com",
+    "date": "2026-08-30T10:16:14Z",
+    "timestamp": 1788084974,
     "category": "Machine Learning"
+  },
+  {
+    "title": "We built this after an AI agent misread a risk signal and moved $1.2M in trades",
+    "url": "https://runplane.ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49497238",
+    "source": "runplane.ai",
+    "date": "2026-08-30T09:57:59Z",
+    "timestamp": 1788083879,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nvidia's AI advantage is moving beyond the GPU",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49497235",
+    "source": "techcrunch.com",
+    "date": "2026-08-30T09:57:06Z",
+    "timestamp": 1788083826,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Workers in their 40s, 50s and 60s are the most positive about AI",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings",
+    "discussion_url": "https://news.ycombinator.com/item?id=49497225",
+    "source": "bloomberg.com",
+    "date": "2026-08-30T09:55:58Z",
+    "timestamp": 1788083758,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLM Usage in Debian: General Resolution Results",
+    "url": "https://www.debian.org/vote/2026/vote_002",
+    "discussion_url": "https://news.ycombinator.com/item?id=49497015",
+    "source": "debian.org",
+    "date": "2026-08-30T09:14:27Z",
+    "timestamp": 1788081267,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Large language models take the original politicalcompass.org test",
+    "url": "https://aipolcom.net/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49496848",
+    "source": "aipolcom.net",
+    "date": "2026-08-30T08:37:26Z",
+    "timestamp": 1788079046,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Effect",
+    "url": "https://en.wikipedia.org/wiki/AI_effect",
+    "discussion_url": "https://news.ycombinator.com/item?id=49496822",
+    "source": "en.wikipedia.org",
+    "date": "2026-08-30T08:32:36Z",
+    "timestamp": 1788078756,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Google's Dreambeans, weirdest-named AI tool, will turn your life to a cartoon",
+    "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49496694",
+    "source": "techcrunch.com",
+    "date": "2026-08-30T08:04:11Z",
+    "timestamp": 1788077051,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How AI Is Reshaping Pediatric Imaging",
+    "url": "https://www.childrenshospitals.org/news/childrens-hospitals-today/2026/08/how-ai-is-reshaping-pediatric-imaging",
+    "discussion_url": "https://news.ycombinator.com/item?id=49496372",
+    "source": "childrenshospitals.org",
+    "date": "2026-08-30T07:07:53Z",
+    "timestamp": 1788073673,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Cybersecurity Apocalypse Is Coming in 'Months,' AI Giants Warn",
+    "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49496345",
+    "source": "wired.com",
+    "date": "2026-08-30T07:02:41Z",
+    "timestamp": 1788073361,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Smartphone LED Detects Hidden Cameras with AI",
+    "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49496292",
+    "source": "chosun.com",
+    "date": "2026-08-30T06:52:04Z",
+    "timestamp": 1788072724,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Title: Show HN: I turned my homelab GPU into a paid API on Base mainnet",
+    "url": "https://github.com/Runuk/argo-x402-reference",
+    "discussion_url": "https://news.ycombinator.com/item?id=49495819",
+    "source": "github.com",
+    "date": "2026-08-30T04:54:56Z",
+    "timestamp": 1788065696,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Light-powered soft robots can keep jumping forever",
+    "url": "https://news.ncsu.edu/2026/08/soft-robots-jumping-forever/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49495696",
+    "source": "news.ncsu.edu",
+    "date": "2026-08-30T04:29:28Z",
+    "timestamp": 1788064168,
+    "category": "Physical AI"
   },
   {
     "title": "Show HN: TypeGPU Realtime Physics Sandbox",
@@ -36,87 +144,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Meta Project OT plan to replace employees with AI agents",
-    "url": "https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence",
-    "discussion_url": "https://news.ycombinator.com/item?id=49495009",
-    "source": "thestreet.com",
-    "date": "2026-08-30T02:01:08Z",
-    "timestamp": 1788055268,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI is changing religion and religions are trying to change AI",
-    "url": "https://economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49494690",
-    "source": "economist.com",
-    "date": "2026-08-30T00:58:04Z",
-    "timestamp": 1788051484,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Build Your Customer Service Team with AI Agents",
-    "url": "https://aimujib.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49494653",
-    "source": "aimujib.com",
-    "date": "2026-08-30T00:49:35Z",
-    "timestamp": 1788050975,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How cats.txt showed llms.txt evidence is GEO astrology",
-    "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
-    "discussion_url": "https://news.ycombinator.com/item?id=49494245",
-    "source": "markwilliamscook.substack.com",
-    "date": "2026-08-29T23:29:48Z",
-    "timestamp": 1788046188,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenContext – Persistent, project-local memory for AI coding agents via MCP",
-    "url": "https://www.opencntx.dev/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49494219",
-    "source": "opencntx.dev",
-    "date": "2026-08-29T23:24:44Z",
-    "timestamp": 1788045884,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "When AI Writes the Code Verification Is the New Implementation",
-    "url": "https://sarpex.com/2026/08-verification-is-the-new-implementation",
-    "discussion_url": "https://news.ycombinator.com/item?id=49494200",
-    "source": "sarpex.com",
-    "date": "2026-08-29T23:20:55Z",
-    "timestamp": 1788045655,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "How Big Tech Blinded Itself to the Grassroots AI Revolt",
-    "url": "https://www.wsj.com/tech/ai/how-big-tech-blinded-itself-to-the-grassroots-ai-revolt-cb6f5715",
-    "discussion_url": "https://news.ycombinator.com/item?id=49494143",
-    "source": "wsj.com",
-    "date": "2026-08-29T23:11:48Z",
-    "timestamp": 1788045108,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI should be illegal until we figure out how to deal with its consequences",
-    "url": "https://ivanca.github.io/ai/2026/08/29/ai-should-be-illegal-until-we-figure-out-how-to-deal-with-its-consequences/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49493940",
-    "source": "ivanca.github.io",
-    "date": "2026-08-29T22:40:14Z",
-    "timestamp": 1788043214,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What does it mean for data to be AI ready?",
-    "url": "https://sina.bio/posts/what-does-it-mean-for-data-to-be-ai-ready.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49493907",
-    "source": "sina.bio",
-    "date": "2026-08-29T22:35:25Z",
-    "timestamp": 1788042925,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Redesigning the Inference Chip: From Nvidia GPU's Flaws to OpenAI Jalapeño",
     "url": "https://zartbot.github.io/blog/arch/jalapeno/en.html",
     "discussion_url": "https://news.ycombinator.com/item?id=49492798",
@@ -124,24 +151,6 @@
     "date": "2026-08-29T19:52:56Z",
     "timestamp": 1788033176,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Feel the tokens/s before you buy the GPU",
-    "url": "https://llmspeed.dev/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49492103",
-    "source": "llmspeed.dev",
-    "date": "2026-08-29T18:25:43Z",
-    "timestamp": 1788027943,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
-    "url": "https://news.ycombinator.com/item?id=49466715",
-    "discussion_url": "https://news.ycombinator.com/item?id=49466715",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-27T15:46:04Z",
-    "timestamp": 1787845564,
-    "category": "Physical AI"
   },
   {
     "title": "RISC-V is now officially supported by CPython",
