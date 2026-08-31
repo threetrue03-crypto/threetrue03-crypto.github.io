@@ -1,120 +1,156 @@
 [
   {
-    "title": "\"Personally, I've given up on AI assisted coding\"",
-    "url": "https://twitter.com/Dev_Tobby/status/2094154755928949191",
-    "discussion_url": "https://news.ycombinator.com/item?id=49509778",
-    "source": "twitter.com",
-    "date": "2026-08-31T13:47:48Z",
-    "timestamp": 1788184068,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A milestone in expanding access to AI",
-    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49509312",
-    "source": "openai.com",
-    "date": "2026-08-31T13:07:48Z",
-    "timestamp": 1788181668,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI,Anthropic etc. 100 companies call for action to defend against rogue AI",
-    "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49509291",
-    "source": "techcrunch.com",
-    "date": "2026-08-31T13:05:18Z",
-    "timestamp": 1788181518,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Race to bottom in Indias voice AI market (0.15 cents/min)",
-    "url": "https://twitter.com/rajananandan/status/2092952143078490550",
-    "discussion_url": "https://news.ycombinator.com/item?id=49509222",
-    "source": "twitter.com",
-    "date": "2026-08-31T12:59:46Z",
-    "timestamp": 1788181186,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI in Education Knowledge Base",
-    "url": "https://edtechdev.github.io/aied/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49509073",
-    "source": "edtechdev.github.io",
-    "date": "2026-08-31T12:48:35Z",
-    "timestamp": 1788180515,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A new class of memory-based AI (MIRaS) published this week",
-    "url": "https://academic.oup.com/nar/article/54/16/gkag833/8769250",
-    "discussion_url": "https://news.ycombinator.com/item?id=49509068",
-    "source": "academic.oup.com",
-    "date": "2026-08-31T12:48:18Z",
-    "timestamp": 1788180498,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI and Employment: So Far, So Good",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49509066",
-    "source": "marginalrevolution.com",
-    "date": "2026-08-31T12:47:56Z",
-    "timestamp": 1788180476,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-    "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49508982",
-    "source": "macrumors.com",
-    "date": "2026-08-31T12:41:22Z",
-    "timestamp": 1788180082,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI is hurting US politics. Here’s how candidates could use it for good",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/31/ai-politics-voters",
-    "discussion_url": "https://news.ycombinator.com/item?id=49508856",
+    "title": "1,664 cases where the AI went out of control",
+    "url": "https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds",
+    "discussion_url": "https://news.ycombinator.com/item?id=49515440",
     "source": "theguardian.com",
-    "date": "2026-08-31T12:27:58Z",
-    "timestamp": 1788179278,
+    "date": "2026-08-31T22:07:52Z",
+    "timestamp": 1788214072,
     "category": "Machine Learning"
   },
   {
-    "title": "I Found the Performance–Cost–Speed Sweet Spot with LLMs",
-    "url": "https://philippdubach.com/posts/llm-performance-cost-speed-sweet-spot/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49508764",
-    "source": "philippdubach.com",
-    "date": "2026-08-31T12:18:42Z",
-    "timestamp": 1788178722,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Energy biz SSE smacked around in court by a guy and AI",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/31/energy-biz-sse-smacked-around-in-court-by-a-guy-and-ai/5293391",
-    "discussion_url": "https://news.ycombinator.com/item?id=49508650",
-    "source": "theregister.com",
-    "date": "2026-08-31T12:07:07Z",
-    "timestamp": 1788178027,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Advertisers are trying to influence AI bots with secret ads",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/10/advertisers-are-trying-to-influence-ai-bots-with-secret-ads/5285093",
-    "discussion_url": "https://news.ycombinator.com/item?id=49508630",
-    "source": "theregister.com",
-    "date": "2026-08-31T12:03:18Z",
-    "timestamp": 1788177798,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "What happens when a GPU writes memory",
-    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
-    "discussion_url": "https://news.ycombinator.com/item?id=49508179",
-    "source": "blog.doubleword.ai",
-    "date": "2026-08-31T10:54:42Z",
-    "timestamp": 1788173682,
+    "title": "PG-Strom: An extension that leverages GPU and NVMe for PostgreSQL",
+    "url": "https://en.heterodb.com/product",
+    "discussion_url": "https://news.ycombinator.com/item?id=49514996",
+    "source": "en.heterodb.com",
+    "date": "2026-08-31T21:23:09Z",
+    "timestamp": 1788211389,
     "category": "Computer Architecture"
+  },
+  {
+    "title": "The AI moat isn't GPUs, it's the advanced packaging they require",
+    "url": "https://www.fenty.dev/intelligence/the-next-ai-moat-advanced-packaging",
+    "discussion_url": "https://news.ycombinator.com/item?id=49514942",
+    "source": "fenty.dev",
+    "date": "2026-08-31T21:17:30Z",
+    "timestamp": 1788211050,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "The Movies That Make You Feel the Strangeness of AI",
+    "url": "https://twitter.com/jmugan/status/2094533961896931562",
+    "discussion_url": "https://news.ycombinator.com/item?id=49514907",
+    "source": "twitter.com",
+    "date": "2026-08-31T21:13:44Z",
+    "timestamp": 1788210824,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
+    "url": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review",
+    "discussion_url": "https://news.ycombinator.com/item?id=49514820",
+    "source": "cloud.google.com",
+    "date": "2026-08-31T21:04:25Z",
+    "timestamp": 1788210265,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I attended a conference recently and AI use by academics was absurd",
+    "url": "https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by",
+    "discussion_url": "https://news.ycombinator.com/item?id=49514773",
+    "source": "lobste.rs",
+    "date": "2026-08-31T20:59:30Z",
+    "timestamp": 1788209970,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "South Korea opened bidding for a free, unlimited AI chatbot for all citizens",
+    "url": "https://thenextweb.com/news/south-korea-free-ai-chatbot-all-citizens-domestic-models",
+    "discussion_url": "https://news.ycombinator.com/item?id=49514374",
+    "source": "thenextweb.com",
+    "date": "2026-08-31T20:15:02Z",
+    "timestamp": 1788207302,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI hallucinations are infiltrating Australia's parliament",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/01/how-misinformation-ai-hallucinations-infiltrating-australian-parliament",
+    "discussion_url": "https://news.ycombinator.com/item?id=49514289",
+    "source": "theguardian.com",
+    "date": "2026-08-31T20:07:08Z",
+    "timestamp": 1788206828,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "TimesFM-3: zero-shot foundation model for multivariate forecasting",
+    "url": "http://goog.gle/4x5WGpD",
+    "discussion_url": "https://news.ycombinator.com/item?id=49514116",
+    "source": "goog.gle",
+    "date": "2026-08-31T19:48:41Z",
+    "timestamp": 1788205721,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Canaries in the Gold Mine: Early Productivity Gains from AI",
+    "url": "https://www.nber.org/papers/w35684",
+    "discussion_url": "https://news.ycombinator.com/item?id=49514042",
+    "source": "nber.org",
+    "date": "2026-08-31T19:43:24Z",
+    "timestamp": 1788205404,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Guess the AI model from its web design",
+    "url": "https://raq.com/blog/can-you-spot-ai-web-design/quiz",
+    "discussion_url": "https://news.ycombinator.com/item?id=49514013",
+    "source": "raq.com",
+    "date": "2026-08-31T19:40:25Z",
+    "timestamp": 1788205225,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Bank of England chief warns new AI models threaten global financial stability",
+    "url": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49514012",
+    "source": "cnbc.com",
+    "date": "2026-08-31T19:40:25Z",
+    "timestamp": 1788205225,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Agents Are Fundamentally Restructuring the Software Paradigm",
+    "url": "https://arxiv.org/abs/2606.05608",
+    "discussion_url": "https://news.ycombinator.com/item?id=49513989",
+    "source": "arxiv.org",
+    "date": "2026-08-31T19:37:29Z",
+    "timestamp": 1788205049,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Is an Anti-Primary Source Machine",
+    "url": "https://www.hnn.us/article/ai-is-an-anti-primary-source-machine",
+    "discussion_url": "https://news.ycombinator.com/item?id=49513988",
+    "source": "hnn.us",
+    "date": "2026-08-31T19:37:26Z",
+    "timestamp": 1788205046,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Perceptron AI releases Isaac 0.5: 36B, open weight, embodied foundation model",
+    "url": "https://twitter.com/perceptroninc/status/2092678357775442103",
+    "discussion_url": "https://news.ycombinator.com/item?id=49513776",
+    "source": "twitter.com",
+    "date": "2026-08-31T19:18:49Z",
+    "timestamp": 1788203929,
+    "category": "Physical AI"
+  },
+  {
+    "title": "PeppyOS: A simpler alternative to ROS 2",
+    "url": "https://github.com/Peppy-bot/peppy",
+    "discussion_url": "https://news.ycombinator.com/item?id=49512511",
+    "source": "github.com",
+    "date": "2026-08-31T17:40:10Z",
+    "timestamp": 1788198010,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "discussion_url": "https://news.ycombinator.com/item?id=49510632",
+    "source": "github.com",
+    "date": "2026-08-31T15:02:41Z",
+    "timestamp": 1788188561,
+    "category": "Physical AI"
   },
   {
     "title": "All CERN accelerators now on the road to HiLumi",
@@ -123,33 +159,6 @@
     "source": "home.cern",
     "date": "2026-08-31T10:05:34Z",
     "timestamp": 1788170734,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Atlanta Uber Drivers Say Waymo Robotaxis Are Driving Down Their Pay",
-    "url": "https://www.axios.com/local/atlanta/2026/08/28/atlanta-rideshare-drivers-union-automation-jobs-pay",
-    "discussion_url": "https://news.ycombinator.com/item?id=49507755",
-    "source": "axios.com",
-    "date": "2026-08-31T09:49:58Z",
-    "timestamp": 1788169798,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Running Modern LLMs on a 2GB GPU",
-    "url": "https://medium.com/@therealcomtom/running-modern-llms-on-a-2gb-gpu-517512813bb0",
-    "discussion_url": "https://news.ycombinator.com/item?id=49507210",
-    "source": "medium.com",
-    "date": "2026-08-31T08:48:41Z",
-    "timestamp": 1788166121,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "African-hosted 4-vCPU / 8-GB / 200-GB VPS for $5.89/month",
-    "url": "https://news.ycombinator.com/item?id=49506792",
-    "discussion_url": "https://news.ycombinator.com/item?id=49506792",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-31T07:43:44Z",
-    "timestamp": 1788162224,
     "category": "Computer Architecture"
   },
   {
