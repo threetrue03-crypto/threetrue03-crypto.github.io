@@ -1,20 +1,119 @@
 [
   {
-    "title": "We tested how AI chatbots would handle foreign propaganda",
-    "url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
-    "discussion_url": "https://news.ycombinator.com/item?id=49501823",
-    "source": "npr.org",
-    "date": "2026-08-30T19:12:38Z",
-    "timestamp": 1788117158,
+    "title": "Ask HN: How do you feel about AI generated documentation?",
+    "url": "https://news.ycombinator.com/item?id=49505508",
+    "discussion_url": "https://news.ycombinator.com/item?id=49505508",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-31T04:18:44Z",
+    "timestamp": 1788149924,
     "category": "Machine Learning"
   },
   {
-    "title": "Why shaming people about AI slop isn't enough to stop Big AI",
-    "url": "https://www.anildash.com/2026/08/21/ai-slop-and-shame/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49501787",
-    "source": "anildash.com",
-    "date": "2026-08-30T19:08:04Z",
-    "timestamp": 1788116884,
+    "title": "Ask HN: What's the most thoughtful AI product you've seen?",
+    "url": "https://news.ycombinator.com/item?id=49505429",
+    "discussion_url": "https://news.ycombinator.com/item?id=49505429",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-31T04:03:33Z",
+    "timestamp": 1788149013,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+    "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+    "discussion_url": "https://news.ycombinator.com/item?id=49505351",
+    "source": "tokenstead.ai",
+    "date": "2026-08-31T03:45:57Z",
+    "timestamp": 1788147957,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
+    "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
+    "discussion_url": "https://news.ycombinator.com/item?id=49505006",
+    "source": "kotaku.com",
+    "date": "2026-08-31T02:39:48Z",
+    "timestamp": 1788143988,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Glean: Run an AI skill only over what changed since it last ran",
+    "url": "https://github.com/amalucelli/glean",
+    "discussion_url": "https://news.ycombinator.com/item?id=49505007",
+    "source": "github.com",
+    "date": "2026-08-31T02:39:48Z",
+    "timestamp": 1788143988,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Steer: Deny or rewrite an AI agent's tool calls before they run",
+    "url": "https://github.com/amalucelli/steer",
+    "discussion_url": "https://news.ycombinator.com/item?id=49505003",
+    "source": "github.com",
+    "date": "2026-08-31T02:38:33Z",
+    "timestamp": 1788143913,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Which AI Do You Think Will Have the Greatest Impact on the World?",
+    "url": "https://news.ycombinator.com/item?id=49504949",
+    "discussion_url": "https://news.ycombinator.com/item?id=49504949",
+    "source": "news.ycombinator.com",
+    "date": "2026-08-31T02:29:33Z",
+    "timestamp": 1788143373,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: I asked LLMs to choose between popular developer tools",
+    "url": "https://github.com/betocmn/preseason",
+    "discussion_url": "https://news.ycombinator.com/item?id=49504947",
+    "source": "github.com",
+    "date": "2026-08-31T02:29:25Z",
+    "timestamp": 1788143365,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "HermOS – a local-first AI agent IDE",
+    "url": "https://hermos.is-a.dev/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49504833",
+    "source": "hermos.is-a.dev",
+    "date": "2026-08-31T02:09:41Z",
+    "timestamp": 1788142181,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Accelerator Designed, Verified, and Deployed from Scratch in 2 Weeks by AI",
+    "url": "https://arxiv.org/abs/2608.26418",
+    "discussion_url": "https://news.ycombinator.com/item?id=49504351",
+    "source": "arxiv.org",
+    "date": "2026-08-31T00:37:46Z",
+    "timestamp": 1788136666,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Static Evaluation of Model Switching in LLM Agents Scores the Wrong World",
+    "url": "https://arxiv.org/abs/2608.08239",
+    "discussion_url": "https://news.ycombinator.com/item?id=49504287",
+    "source": "arxiv.org",
+    "date": "2026-08-31T00:28:52Z",
+    "timestamp": 1788136132,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Will anybody use AI as much as coders?",
+    "url": "https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders",
+    "discussion_url": "https://news.ycombinator.com/item?id=49504154",
+    "source": "economist.com",
+    "date": "2026-08-31T00:06:42Z",
+    "timestamp": 1788134802,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Israel Is Running a Synthetic Think Tank to Influence AI Search Results",
+    "url": "https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49504123",
+    "source": "404media.co",
+    "date": "2026-08-31T00:02:21Z",
+    "timestamp": 1788134541,
     "category": "Machine Learning"
   },
   {
@@ -27,15 +126,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "How on Earth does a Search Console for LLMs still not exist?",
-    "url": "https://embassia.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49501613",
-    "source": "embassia.com",
-    "date": "2026-08-30T18:49:13Z",
-    "timestamp": 1788115753,
-    "category": "Machine Learning"
-  },
-  {
     "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
     "url": "https://github.com/KodeMunkie/sm750hdmifb",
     "discussion_url": "https://news.ycombinator.com/item?id=49501611",
@@ -43,96 +133,6 @@
     "date": "2026-08-30T18:49:08Z",
     "timestamp": 1788115748,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Best resources to learn inference engineering?",
-    "url": "https://news.ycombinator.com/item?id=49501256",
-    "discussion_url": "https://news.ycombinator.com/item?id=49501256",
-    "source": "news.ycombinator.com",
-    "date": "2026-08-30T18:15:08Z",
-    "timestamp": 1788113708,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Scalable watermarking for identifying large language model outputs [pdf]",
-    "url": "https://www.nature.com/articles/s41586-024-08025-4",
-    "discussion_url": "https://news.ycombinator.com/item?id=49501202",
-    "source": "nature.com",
-    "date": "2026-08-30T18:10:02Z",
-    "timestamp": 1788113402,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The FOSS Force Interview with Richard Stallman",
-    "url": "https://fossforce.com/2026/08/the-foss-force-interview-with-richard-stallman/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49500792",
-    "source": "fossforce.com",
-    "date": "2026-08-30T17:30:14Z",
-    "timestamp": 1788111014,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Good Luck, Have Fun, Don't Die: Sam Rockwell Lifts an Absurdist AI Sci-Fi Satire",
-    "url": "https://apnews.com/article/good-luck-have-fun-dont-die-review-8c9e0815b189a2395bedf58c704cc239",
-    "discussion_url": "https://news.ycombinator.com/item?id=49500624",
-    "source": "apnews.com",
-    "date": "2026-08-30T17:16:15Z",
-    "timestamp": 1788110175,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The LLM is not Intelligence",
-    "url": "https://www.vivekv.info/posts/llm-is-not-intelligent",
-    "discussion_url": "https://news.ycombinator.com/item?id=49500275",
-    "source": "vivekv.info",
-    "date": "2026-08-30T16:45:06Z",
-    "timestamp": 1788108306,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Claude Skills Starter Kit – 198 modular skills for AI agents",
-    "url": "https://github.com/yevhens-hue/claude-skills-starter-kit",
-    "discussion_url": "https://news.ycombinator.com/item?id=49500224",
-    "source": "github.com",
-    "date": "2026-08-30T16:39:44Z",
-    "timestamp": 1788107984,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: CardGo – Reusable, end-to-end encrypted context cards for AI chats",
-    "url": "https://cardgo.ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49499893",
-    "source": "cardgo.ai",
-    "date": "2026-08-30T16:03:23Z",
-    "timestamp": 1788105803,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Collapse in Support for AI Data Centers Captured in New Poll",
-    "url": "https://www.commondreams.org/news/data-center-poll-collapse",
-    "discussion_url": "https://news.ycombinator.com/item?id=49499671",
-    "source": "commondreams.org",
-    "date": "2026-08-30T15:41:08Z",
-    "timestamp": 1788104468,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Security scanner for AI agents, MCP servers and agent skills",
-    "url": "https://github.com/snyk/agent-scan/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49499629",
-    "source": "github.com",
-    "date": "2026-08-30T15:36:40Z",
-    "timestamp": 1788104200,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "China's robots race ahead",
-    "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
-    "discussion_url": "https://news.ycombinator.com/item?id=49499298",
-    "source": "theverge.com",
-    "date": "2026-08-30T15:04:53Z",
-    "timestamp": 1788102293,
-    "category": "Physical AI"
   },
   {
     "title": "RISC-V is now officially supported by CPython",
