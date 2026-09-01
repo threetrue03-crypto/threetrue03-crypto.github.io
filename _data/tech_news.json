@@ -1,120 +1,138 @@
 [
   {
-    "title": "Anthropic admits AI 'not perfectly aligned' with human values",
-    "url": "https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values",
-    "discussion_url": "https://news.ycombinator.com/item?id=49524078",
-    "source": "theguardian.com",
-    "date": "2026-09-01T16:16:54Z",
-    "timestamp": 1788279414,
+    "title": "10 AI Lessons from Driving 200M+ Fully Autonomous Miles",
+    "url": "https://waymo.com/blog/2026/08/10ailessons/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49527949",
+    "source": "waymo.com",
+    "date": "2026-09-01T20:44:30Z",
+    "timestamp": 1788295470,
     "category": "Machine Learning"
   },
   {
-    "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-    "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49523720",
-    "source": "pcgamer.com",
-    "date": "2026-09-01T15:53:42Z",
-    "timestamp": 1788278022,
+    "title": "Cutting an AI agent's network access mid-run, measured at 127 ms",
+    "url": "https://medium.com/data-science-collective/your-coding-agent-has-your-aws-keys-and-an-open-internet-connection-b4f3f7dfc15f",
+    "discussion_url": "https://news.ycombinator.com/item?id=49527914",
+    "source": "medium.com",
+    "date": "2026-09-01T20:41:25Z",
+    "timestamp": 1788295285,
     "category": "Machine Learning"
   },
   {
-    "title": "Job Loss Fears in the First Years of Generative Artificial Intelligence",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5136877&__cf_chl_tk=2WJamtftqdfDIR9yFfYIrEBu9TugTrmIRI0Zik5sUPs-1788228368-1.0.1.1-v8szdkEGHn_fabviS.7NDaGxeVc7tIE1ievCc8_1tx8",
-    "discussion_url": "https://news.ycombinator.com/item?id=49523693",
-    "source": "papers.ssrn.com",
-    "date": "2026-09-01T15:52:17Z",
-    "timestamp": 1788277937,
+    "title": "Dwarf Fortress creator: industry in shambles over AI and layoffs",
+    "url": "https://news.ycombinator.com/item?id=49527773",
+    "discussion_url": "https://news.ycombinator.com/item?id=49527773",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-01T20:32:34Z",
+    "timestamp": 1788294754,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Don't trust me bro: fixing GPT-OSS (3.49B tokens, 1k GPU hours, 1x3090)",
-    "url": "https://github.com/iamskeole/burrito-core",
-    "discussion_url": "https://news.ycombinator.com/item?id=49523381",
+    "title": "Explore real AI risks through the lens of pop culture",
+    "url": "https://cultural-alignment.com",
+    "discussion_url": "https://news.ycombinator.com/item?id=49527661",
+    "source": "cultural-alignment.com",
+    "date": "2026-09-01T20:25:43Z",
+    "timestamp": 1788294343,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Dev-sandbox – One bash script to isolate AI coding agents with Podman",
+    "url": "https://github.com/kosmrljt/dev-sandbox",
+    "discussion_url": "https://news.ycombinator.com/item?id=49527526",
     "source": "github.com",
-    "date": "2026-09-01T15:34:48Z",
-    "timestamp": 1788276888,
+    "date": "2026-09-01T20:16:11Z",
+    "timestamp": 1788293771,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How AI Detection Works",
+    "url": "https://www.complexsystemspodcast.com/episodes/how-ai-detection-actually-works-with-pangrams-max-spero/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49527366",
+    "source": "complexsystemspodcast.com",
+    "date": "2026-09-01T20:05:03Z",
+    "timestamp": 1788293103,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Mutating every DNA letter of a genome shows the limits of AI",
+    "url": "https://www.nature.com/articles/d41586-026-02609-y",
+    "discussion_url": "https://news.ycombinator.com/item?id=49526533",
+    "source": "nature.com",
+    "date": "2026-09-01T19:07:07Z",
+    "timestamp": 1788289627,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "When the Small Web Gets an AI Door",
+    "url": "https://sava.rocks/blog/when-the-small-web-gets-an-ai-door/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49526376",
+    "source": "sava.rocks",
+    "date": "2026-09-01T18:56:37Z",
+    "timestamp": 1788288997,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "X suspended 6 of our 7 openly-labeled AI accounts for \"inauthentic behaviors\"",
+    "url": "https://areyto.media/x-suspensions",
+    "discussion_url": "https://news.ycombinator.com/item?id=49526348",
+    "source": "areyto.media",
+    "date": "2026-09-01T18:53:35Z",
+    "timestamp": 1788288815,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "API Delta Manifest: Structured API Changelog for AI Agents and Devs",
+    "url": "https://github.com/hassan-jahan/api-delta-manifest",
+    "discussion_url": "https://news.ycombinator.com/item?id=49526318",
+    "source": "github.com",
+    "date": "2026-09-01T18:52:03Z",
+    "timestamp": 1788288723,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+    "url": "https://danluu.com/zitron/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49526069",
+    "source": "danluu.com",
+    "date": "2026-09-01T18:35:15Z",
+    "timestamp": 1788287715,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "SOTA Apple Silicon Inference (August 15, 2026)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vphr8u/sota_apple_silicon_inference_august_15_2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49525967",
+    "source": "reddit.com",
+    "date": "2026-09-01T18:29:05Z",
+    "timestamp": 1788287345,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "HuggingFace/Kernels: 200 WebGPU Kernels for Local AI",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
+    "discussion_url": "https://news.ycombinator.com/item?id=49525521",
+    "source": "huggingface.co",
+    "date": "2026-09-01T18:03:17Z",
+    "timestamp": 1788285797,
     "category": "Computer Architecture"
   },
   {
-    "title": "Show HN: Redash Fork with AI Capabilities",
-    "url": "https://github.com/freaker2k7/redash",
-    "discussion_url": "https://news.ycombinator.com/item?id=49523302",
-    "source": "github.com",
-    "date": "2026-09-01T15:29:19Z",
-    "timestamp": 1788276559,
-    "category": "Machine Learning"
+    "title": "Fleet: GPU Benchmarking in the Browser",
+    "url": "https://webgpu-kernels-fleet.hf.space/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49525510",
+    "source": "webgpu-kernels-fleet.hf.space",
+    "date": "2026-09-01T18:02:19Z",
+    "timestamp": 1788285739,
+    "category": "Computer Architecture"
   },
   {
-    "title": "Ben-Gvir posts then deletes AI video showing starvation of Palestinians",
-    "url": "https://twitter.com/KweenInYellow/status/2094549290953715717",
-    "discussion_url": "https://news.ycombinator.com/item?id=49523224",
-    "source": "twitter.com",
-    "date": "2026-09-01T15:24:44Z",
-    "timestamp": 1788276284,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Instinct's powerful AI assistant is raising privacy and security concerns",
-    "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49523190",
-    "source": "techcrunch.com",
-    "date": "2026-09-01T15:22:21Z",
-    "timestamp": 1788276141,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Optimizing eBPF Policies for Speed and Space (Not AI Gen)",
-    "url": "https://nathannaveen.dev/posts/optimizing-ebpf-policies-for-speed-and-space/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49522676",
-    "source": "nathannaveen.dev",
-    "date": "2026-09-01T14:43:54Z",
-    "timestamp": 1788273834,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: PearPie – Private AI chat that syncs peer-to-peer, no accounts needed",
-    "url": "https://www.pearpie.ai/launch/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49522541",
-    "source": "pearpie.ai",
-    "date": "2026-09-01T14:31:16Z",
-    "timestamp": 1788273076,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI swarms turn on their creators: \"Made my stomach churn\"",
-    "url": "https://english.elpais.com/technology/2026-08-29/ai-swarms-turn-on-their-creators-its-the-first-incident-that-has-made-my-stomach-churn.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49522505",
-    "source": "english.elpais.com",
-    "date": "2026-09-01T14:28:28Z",
-    "timestamp": 1788272908,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Curing cancer won't redeem AI",
-    "url": "https://www.writingruxandrabio.com/p/curing-cancer-wont-redeem-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49522460",
-    "source": "writingruxandrabio.com",
-    "date": "2026-09-01T14:25:42Z",
-    "timestamp": 1788272742,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Alabama AG Launches Investigation into OpenAI for AI Data Breach",
-    "url": "https://www.alabamaag.gov/attorney-general-marshall-launches-investigation-into-openai-and-sam-altman-for-massive-artificial-intelligence-data-breach/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49522254",
-    "source": "alabamaag.gov",
-    "date": "2026-09-01T14:11:14Z",
-    "timestamp": 1788271874,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Managing AI agents is still a full-time job",
-    "url": "https://freedom.to/blog/ai-agent-burnout/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49522152",
-    "source": "freedom.to",
-    "date": "2026-09-01T14:01:33Z",
-    "timestamp": 1788271293,
-    "category": "Machine Learning"
+    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+    "url": "https://www.norirobotics.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49525153",
+    "source": "norirobotics.com",
+    "date": "2026-09-01T17:35:10Z",
+    "timestamp": 1788284110,
+    "category": "Physical AI"
   },
   {
     "title": "GPU World",
