@@ -1,38 +1,110 @@
 [
   {
-    "title": "Ask HN: Why do people get mad at AI pastes",
-    "url": "https://news.ycombinator.com/item?id=49517974",
-    "discussion_url": "https://news.ycombinator.com/item?id=49517974",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-01T04:30:59Z",
-    "timestamp": 1788237059,
+    "title": "AI Girlfriend Paradox: Actual users are more likely to call it cheating",
+    "url": "https://aigirlfriend.coach/ai-relationship-survey/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49520577",
+    "source": "aigirlfriend.coach",
+    "date": "2026-09-01T11:36:26Z",
+    "timestamp": 1788262586,
     "category": "Machine Learning"
   },
   {
-    "title": "ArXiv has almost 600 submissions today and most are AI slop",
-    "url": "https://arxiv.org/list/math/new",
-    "discussion_url": "https://news.ycombinator.com/item?id=49517928",
+    "title": "We Let AI Agents Rewrite a 92M-Message-a-Day Service in Go",
+    "url": "https://www.checklyhq.com/blog/agentic-rewrite-nodejs-to-go/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49520229",
+    "source": "checklyhq.com",
+    "date": "2026-09-01T10:50:46Z",
+    "timestamp": 1788259846,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Can we stop AI from deceiving us?",
+    "url": "https://www.theguardian.com/news/2026/sep/01/if-you-build-something-vastly-smarter-than-you-it-better-be-on-your-side-can-we-stop-ai-from-deceiving-us",
+    "discussion_url": "https://news.ycombinator.com/item?id=49520204",
+    "source": "theguardian.com",
+    "date": "2026-09-01T10:46:05Z",
+    "timestamp": 1788259565,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I Tried Every AI Browser, Then Went Back to Safari",
+    "url": "https://medium.com/@patricecunliffe/i-tried-every-ai-browser-then-went-back-to-safari-b43ccdeff7a5",
+    "discussion_url": "https://news.ycombinator.com/item?id=49520073",
+    "source": "medium.com",
+    "date": "2026-09-01T10:21:44Z",
+    "timestamp": 1788258104,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ethical AI that respects privacy and the planet",
+    "url": "https://www.infomaniak.com/en/apps/download-euria",
+    "discussion_url": "https://news.ycombinator.com/item?id=49519812",
+    "source": "infomaniak.com",
+    "date": "2026-09-01T09:30:45Z",
+    "timestamp": 1788255045,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Russian missile uses Nvidia AI chip to help target Ukraine",
+    "url": "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976",
+    "discussion_url": "https://news.ycombinator.com/item?id=49519687",
+    "source": "theregister.com",
+    "date": "2026-09-01T09:06:46Z",
+    "timestamp": 1788253606,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Stanisław Lem foretold the current LLM mania in 1964",
+    "url": "https://nibblestew.blogspot.com/2026/08/stanisaw-lem-foretold-current-llm-mania.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49519588",
+    "source": "nibblestew.blogspot.com",
+    "date": "2026-09-01T08:50:57Z",
+    "timestamp": 1788252657,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Atlassian's own AI assistant doesn't know Jira renamed \"Projects\" to \"Spaces\"",
+    "url": "https://community.atlassian.com/forums/Jira-articles/Jira-Spaces-have-landed/ba-p/3117620",
+    "discussion_url": "https://news.ycombinator.com/item?id=49519337",
+    "source": "community.atlassian.com",
+    "date": "2026-09-01T08:09:35Z",
+    "timestamp": 1788250175,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI product management: Familiar enough to start, different enough to fail",
+    "url": "https://www.leadinginproduct.com/p/ai-product-management",
+    "discussion_url": "https://news.ycombinator.com/item?id=49519135",
+    "source": "leadinginproduct.com",
+    "date": "2026-09-01T07:37:28Z",
+    "timestamp": 1788248248,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Agents Are Fundamentally Restructuring the Software Paradigm",
+    "url": "https://arxiv.org/abs/2606.05608",
+    "discussion_url": "https://news.ycombinator.com/item?id=49518810",
     "source": "arxiv.org",
-    "date": "2026-09-01T04:24:01Z",
-    "timestamp": 1788236641,
+    "date": "2026-09-01T06:54:20Z",
+    "timestamp": 1788245660,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: Eatheria – Self-hosted AppSec platform with AI false-positive filtering",
-    "url": "https://github.com/MartinCrespoC/Security-Team---Workspace-",
-    "discussion_url": "https://news.ycombinator.com/item?id=49517916",
+    "title": "Kodai – Secure your local workspace and manage secrets away from AI",
+    "url": "https://github.com/kodai-tech-official/kodai-tech",
+    "discussion_url": "https://news.ycombinator.com/item?id=49518794",
     "source": "github.com",
-    "date": "2026-09-01T04:21:15Z",
-    "timestamp": 1788236475,
+    "date": "2026-09-01T06:51:59Z",
+    "timestamp": 1788245519,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: I Built the AI command center that runs all local models in one place",
-    "url": "https://generativeide.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49517717",
-    "source": "generativeide.com",
-    "date": "2026-09-01T03:41:48Z",
-    "timestamp": 1788234108,
+    "title": "Are We at War with AI Agent \"Civilizations\"?",
+    "url": "https://calnewport.com/are-we-at-war-with-ai-agent-civilizations/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49518574",
+    "source": "calnewport.com",
+    "date": "2026-09-01T06:17:08Z",
+    "timestamp": 1788243428,
     "category": "Machine Learning"
   },
   {
@@ -45,138 +117,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Running a personal AI agent on an old Android phone instead of a server",
-    "url": "https://medium.com/@fsaint/the-best-home-for-your-agent-is-in-your-junk-drawer-3afe0b0976e8",
-    "discussion_url": "https://news.ycombinator.com/item?id=49517567",
-    "source": "medium.com",
-    "date": "2026-09-01T03:12:56Z",
-    "timestamp": 1788232376,
-    "category": "Machine Learning"
-  },
-  {
     "title": "A Deep Dive into LDS Optimizations on AMD Instinct MI450 GPUs",
     "url": "https://rocm.blogs.amd.com/software-tools-optimization/mi450-lds-optimization/README.html",
     "discussion_url": "https://news.ycombinator.com/item?id=49517554",
     "source": "rocm.blogs.amd.com",
     "date": "2026-09-01T03:09:32Z",
     "timestamp": 1788232172,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "How My Students Think About AI",
-    "url": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49517343",
-    "source": "lesswrong.com",
-    "date": "2026-09-01T02:35:58Z",
-    "timestamp": 1788230158,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Logic and the 2-Simplicial Transformer (2019)",
-    "url": "https://arxiv.org/abs/1909.00668",
-    "discussion_url": "https://news.ycombinator.com/item?id=49517300",
-    "source": "arxiv.org",
-    "date": "2026-09-01T02:29:40Z",
-    "timestamp": 1788229780,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Deslop, a skill that turns legalese and AI slop into plain English",
-    "url": "https://github.com/fayerman-source/deslop/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49517122",
-    "source": "github.com",
-    "date": "2026-09-01T02:03:52Z",
-    "timestamp": 1788228232,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The RSS Feed Got a Robot Assistant",
-    "url": "https://www.pleasehustleresponsibly.com/p/the-rss-feed-got-a-robot-assistant",
-    "discussion_url": "https://news.ycombinator.com/item?id=49517024",
-    "source": "pleasehustleresponsibly.com",
-    "date": "2026-09-01T01:51:07Z",
-    "timestamp": 1788227467,
-    "category": "Physical AI"
-  },
-  {
-    "title": "OpenAI to Cut Off AI Models for SpaceX-Owned Cursor",
-    "url": "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49516583",
-    "source": "reuters.com",
-    "date": "2026-09-01T00:43:31Z",
-    "timestamp": 1788223411,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Mu/TH/UR 6000 – An anonymous AI terminal styled as a 1979 mainframe",
-    "url": "https://mu7hur.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49516460",
-    "source": "mu7hur.com",
-    "date": "2026-09-01T00:21:29Z",
-    "timestamp": 1788222089,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI and Employment: So Far, So Good",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49516267",
-    "source": "marginalrevolution.com",
-    "date": "2026-08-31T23:54:00Z",
-    "timestamp": 1788220440,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Adaptation Fidelity of SPEC CPU2026",
-    "url": "https://arxiv.org/abs/2608.27710",
-    "discussion_url": "https://news.ycombinator.com/item?id=49516185",
-    "source": "arxiv.org",
-    "date": "2026-08-31T23:43:32Z",
-    "timestamp": 1788219812,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "HashCortX – AI workspace app, Now works on pre-2013 CPU windows devices",
-    "url": "https://github.com/Hash-7777/HashCortX",
-    "discussion_url": "https://news.ycombinator.com/item?id=49516181",
-    "source": "github.com",
-    "date": "2026-08-31T23:43:24Z",
-    "timestamp": 1788219804,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: Saccade – Live semantic browser truth for AI agents",
-    "url": "https://github.com/nanlogic/saccade",
-    "discussion_url": "https://news.ycombinator.com/item?id=49516118",
-    "source": "github.com",
-    "date": "2026-08-31T23:35:39Z",
-    "timestamp": 1788219339,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "ICE to use robot dogs from Boston Dynamics in deportation operations",
-    "url": "https://www.wcvb.com/article/ice-boston-dynamics-robot-dogs/73559827",
-    "discussion_url": "https://news.ycombinator.com/item?id=49515896",
-    "source": "wcvb.com",
-    "date": "2026-08-31T23:03:43Z",
-    "timestamp": 1788217423,
-    "category": "Physical AI"
-  },
-  {
-    "title": "PG-Strom: An extension that leverages GPU and NVMe for PostgreSQL",
-    "url": "https://en.heterodb.com/product",
-    "discussion_url": "https://news.ycombinator.com/item?id=49514996",
-    "source": "en.heterodb.com",
-    "date": "2026-08-31T21:23:09Z",
-    "timestamp": 1788211389,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "The AI moat isn't GPUs, it's the advanced packaging they require",
-    "url": "https://www.fenty.dev/intelligence/the-next-ai-moat-advanced-packaging",
-    "discussion_url": "https://news.ycombinator.com/item?id=49514942",
-    "source": "fenty.dev",
-    "date": "2026-08-31T21:17:30Z",
-    "timestamp": 1788211050,
     "category": "Computer Architecture"
   },
   {
