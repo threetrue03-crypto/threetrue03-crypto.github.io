@@ -1,110 +1,119 @@
 [
   {
-    "title": "AI Girlfriend Paradox: Actual users are more likely to call it cheating",
-    "url": "https://aigirlfriend.coach/ai-relationship-survey/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49520577",
-    "source": "aigirlfriend.coach",
-    "date": "2026-09-01T11:36:26Z",
-    "timestamp": 1788262586,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "We Let AI Agents Rewrite a 92M-Message-a-Day Service in Go",
-    "url": "https://www.checklyhq.com/blog/agentic-rewrite-nodejs-to-go/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49520229",
-    "source": "checklyhq.com",
-    "date": "2026-09-01T10:50:46Z",
-    "timestamp": 1788259846,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Can we stop AI from deceiving us?",
-    "url": "https://www.theguardian.com/news/2026/sep/01/if-you-build-something-vastly-smarter-than-you-it-better-be-on-your-side-can-we-stop-ai-from-deceiving-us",
-    "discussion_url": "https://news.ycombinator.com/item?id=49520204",
+    "title": "Anthropic admits AI 'not perfectly aligned' with human values",
+    "url": "https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values",
+    "discussion_url": "https://news.ycombinator.com/item?id=49524078",
     "source": "theguardian.com",
-    "date": "2026-09-01T10:46:05Z",
-    "timestamp": 1788259565,
+    "date": "2026-09-01T16:16:54Z",
+    "timestamp": 1788279414,
     "category": "Machine Learning"
   },
   {
-    "title": "I Tried Every AI Browser, Then Went Back to Safari",
-    "url": "https://medium.com/@patricecunliffe/i-tried-every-ai-browser-then-went-back-to-safari-b43ccdeff7a5",
-    "discussion_url": "https://news.ycombinator.com/item?id=49520073",
-    "source": "medium.com",
-    "date": "2026-09-01T10:21:44Z",
-    "timestamp": 1788258104,
+    "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+    "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49523720",
+    "source": "pcgamer.com",
+    "date": "2026-09-01T15:53:42Z",
+    "timestamp": 1788278022,
     "category": "Machine Learning"
   },
   {
-    "title": "Ethical AI that respects privacy and the planet",
-    "url": "https://www.infomaniak.com/en/apps/download-euria",
-    "discussion_url": "https://news.ycombinator.com/item?id=49519812",
-    "source": "infomaniak.com",
-    "date": "2026-09-01T09:30:45Z",
-    "timestamp": 1788255045,
+    "title": "Job Loss Fears in the First Years of Generative Artificial Intelligence",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5136877&__cf_chl_tk=2WJamtftqdfDIR9yFfYIrEBu9TugTrmIRI0Zik5sUPs-1788228368-1.0.1.1-v8szdkEGHn_fabviS.7NDaGxeVc7tIE1ievCc8_1tx8",
+    "discussion_url": "https://news.ycombinator.com/item?id=49523693",
+    "source": "papers.ssrn.com",
+    "date": "2026-09-01T15:52:17Z",
+    "timestamp": 1788277937,
     "category": "Machine Learning"
   },
   {
-    "title": "Russian missile uses Nvidia AI chip to help target Ukraine",
-    "url": "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976",
-    "discussion_url": "https://news.ycombinator.com/item?id=49519687",
-    "source": "theregister.com",
-    "date": "2026-09-01T09:06:46Z",
-    "timestamp": 1788253606,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Stanisław Lem foretold the current LLM mania in 1964",
-    "url": "https://nibblestew.blogspot.com/2026/08/stanisaw-lem-foretold-current-llm-mania.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49519588",
-    "source": "nibblestew.blogspot.com",
-    "date": "2026-09-01T08:50:57Z",
-    "timestamp": 1788252657,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Atlassian's own AI assistant doesn't know Jira renamed \"Projects\" to \"Spaces\"",
-    "url": "https://community.atlassian.com/forums/Jira-articles/Jira-Spaces-have-landed/ba-p/3117620",
-    "discussion_url": "https://news.ycombinator.com/item?id=49519337",
-    "source": "community.atlassian.com",
-    "date": "2026-09-01T08:09:35Z",
-    "timestamp": 1788250175,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI product management: Familiar enough to start, different enough to fail",
-    "url": "https://www.leadinginproduct.com/p/ai-product-management",
-    "discussion_url": "https://news.ycombinator.com/item?id=49519135",
-    "source": "leadinginproduct.com",
-    "date": "2026-09-01T07:37:28Z",
-    "timestamp": 1788248248,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Agents Are Fundamentally Restructuring the Software Paradigm",
-    "url": "https://arxiv.org/abs/2606.05608",
-    "discussion_url": "https://news.ycombinator.com/item?id=49518810",
-    "source": "arxiv.org",
-    "date": "2026-09-01T06:54:20Z",
-    "timestamp": 1788245660,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Kodai – Secure your local workspace and manage secrets away from AI",
-    "url": "https://github.com/kodai-tech-official/kodai-tech",
-    "discussion_url": "https://news.ycombinator.com/item?id=49518794",
+    "title": "Show HN: Don't trust me bro: fixing GPT-OSS (3.49B tokens, 1k GPU hours, 1x3090)",
+    "url": "https://github.com/iamskeole/burrito-core",
+    "discussion_url": "https://news.ycombinator.com/item?id=49523381",
     "source": "github.com",
-    "date": "2026-09-01T06:51:59Z",
-    "timestamp": 1788245519,
+    "date": "2026-09-01T15:34:48Z",
+    "timestamp": 1788276888,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Redash Fork with AI Capabilities",
+    "url": "https://github.com/freaker2k7/redash",
+    "discussion_url": "https://news.ycombinator.com/item?id=49523302",
+    "source": "github.com",
+    "date": "2026-09-01T15:29:19Z",
+    "timestamp": 1788276559,
     "category": "Machine Learning"
   },
   {
-    "title": "Are We at War with AI Agent \"Civilizations\"?",
-    "url": "https://calnewport.com/are-we-at-war-with-ai-agent-civilizations/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49518574",
-    "source": "calnewport.com",
-    "date": "2026-09-01T06:17:08Z",
-    "timestamp": 1788243428,
+    "title": "Ben-Gvir posts then deletes AI video showing starvation of Palestinians",
+    "url": "https://twitter.com/KweenInYellow/status/2094549290953715717",
+    "discussion_url": "https://news.ycombinator.com/item?id=49523224",
+    "source": "twitter.com",
+    "date": "2026-09-01T15:24:44Z",
+    "timestamp": 1788276284,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Instinct's powerful AI assistant is raising privacy and security concerns",
+    "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49523190",
+    "source": "techcrunch.com",
+    "date": "2026-09-01T15:22:21Z",
+    "timestamp": 1788276141,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Optimizing eBPF Policies for Speed and Space (Not AI Gen)",
+    "url": "https://nathannaveen.dev/posts/optimizing-ebpf-policies-for-speed-and-space/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49522676",
+    "source": "nathannaveen.dev",
+    "date": "2026-09-01T14:43:54Z",
+    "timestamp": 1788273834,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: PearPie – Private AI chat that syncs peer-to-peer, no accounts needed",
+    "url": "https://www.pearpie.ai/launch/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49522541",
+    "source": "pearpie.ai",
+    "date": "2026-09-01T14:31:16Z",
+    "timestamp": 1788273076,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI swarms turn on their creators: \"Made my stomach churn\"",
+    "url": "https://english.elpais.com/technology/2026-08-29/ai-swarms-turn-on-their-creators-its-the-first-incident-that-has-made-my-stomach-churn.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49522505",
+    "source": "english.elpais.com",
+    "date": "2026-09-01T14:28:28Z",
+    "timestamp": 1788272908,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Curing cancer won't redeem AI",
+    "url": "https://www.writingruxandrabio.com/p/curing-cancer-wont-redeem-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49522460",
+    "source": "writingruxandrabio.com",
+    "date": "2026-09-01T14:25:42Z",
+    "timestamp": 1788272742,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Alabama AG Launches Investigation into OpenAI for AI Data Breach",
+    "url": "https://www.alabamaag.gov/attorney-general-marshall-launches-investigation-into-openai-and-sam-altman-for-massive-artificial-intelligence-data-breach/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49522254",
+    "source": "alabamaag.gov",
+    "date": "2026-09-01T14:11:14Z",
+    "timestamp": 1788271874,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Managing AI agents is still a full-time job",
+    "url": "https://freedom.to/blog/ai-agent-burnout/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49522152",
+    "source": "freedom.to",
+    "date": "2026-09-01T14:01:33Z",
+    "timestamp": 1788271293,
     "category": "Machine Learning"
   },
   {
@@ -117,15 +126,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "A Deep Dive into LDS Optimizations on AMD Instinct MI450 GPUs",
-    "url": "https://rocm.blogs.amd.com/software-tools-optimization/mi450-lds-optimization/README.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49517554",
-    "source": "rocm.blogs.amd.com",
-    "date": "2026-09-01T03:09:32Z",
-    "timestamp": 1788232172,
-    "category": "Computer Architecture"
-  },
-  {
     "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
     "url": "https://github.com/Hebbian-Robotics/hflow",
     "discussion_url": "https://news.ycombinator.com/item?id=49510632",
@@ -133,14 +133,5 @@
     "date": "2026-08-31T15:02:41Z",
     "timestamp": 1788188561,
     "category": "Physical AI"
-  },
-  {
-    "title": "All CERN accelerators now on the road to HiLumi",
-    "url": "https://home.cern/all-cern-accelerators-now-on-the-road-to-hilumi/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49507861",
-    "source": "home.cern",
-    "date": "2026-08-31T10:05:34Z",
-    "timestamp": 1788170734,
-    "category": "Computer Architecture"
   }
 ]
