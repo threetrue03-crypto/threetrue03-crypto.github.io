@@ -1,12 +1,165 @@
 [
   {
-    "title": "1,664 cases where the AI went out of control",
-    "url": "https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds",
-    "discussion_url": "https://news.ycombinator.com/item?id=49515440",
-    "source": "theguardian.com",
-    "date": "2026-08-31T22:07:52Z",
-    "timestamp": 1788214072,
+    "title": "Ask HN: Why do people get mad at AI pastes",
+    "url": "https://news.ycombinator.com/item?id=49517974",
+    "discussion_url": "https://news.ycombinator.com/item?id=49517974",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-01T04:30:59Z",
+    "timestamp": 1788237059,
     "category": "Machine Learning"
+  },
+  {
+    "title": "ArXiv has almost 600 submissions today and most are AI slop",
+    "url": "https://arxiv.org/list/math/new",
+    "discussion_url": "https://news.ycombinator.com/item?id=49517928",
+    "source": "arxiv.org",
+    "date": "2026-09-01T04:24:01Z",
+    "timestamp": 1788236641,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Eatheria – Self-hosted AppSec platform with AI false-positive filtering",
+    "url": "https://github.com/MartinCrespoC/Security-Team---Workspace-",
+    "discussion_url": "https://news.ycombinator.com/item?id=49517916",
+    "source": "github.com",
+    "date": "2026-09-01T04:21:15Z",
+    "timestamp": 1788236475,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: I Built the AI command center that runs all local models in one place",
+    "url": "https://generativeide.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49517717",
+    "source": "generativeide.com",
+    "date": "2026-09-01T03:41:48Z",
+    "timestamp": 1788234108,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GPU World",
+    "url": "https://www.gpuworld.org/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49517584",
+    "source": "gpuworld.org",
+    "date": "2026-09-01T03:16:36Z",
+    "timestamp": 1788232596,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Running a personal AI agent on an old Android phone instead of a server",
+    "url": "https://medium.com/@fsaint/the-best-home-for-your-agent-is-in-your-junk-drawer-3afe0b0976e8",
+    "discussion_url": "https://news.ycombinator.com/item?id=49517567",
+    "source": "medium.com",
+    "date": "2026-09-01T03:12:56Z",
+    "timestamp": 1788232376,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A Deep Dive into LDS Optimizations on AMD Instinct MI450 GPUs",
+    "url": "https://rocm.blogs.amd.com/software-tools-optimization/mi450-lds-optimization/README.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49517554",
+    "source": "rocm.blogs.amd.com",
+    "date": "2026-09-01T03:09:32Z",
+    "timestamp": 1788232172,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "How My Students Think About AI",
+    "url": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49517343",
+    "source": "lesswrong.com",
+    "date": "2026-09-01T02:35:58Z",
+    "timestamp": 1788230158,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Logic and the 2-Simplicial Transformer (2019)",
+    "url": "https://arxiv.org/abs/1909.00668",
+    "discussion_url": "https://news.ycombinator.com/item?id=49517300",
+    "source": "arxiv.org",
+    "date": "2026-09-01T02:29:40Z",
+    "timestamp": 1788229780,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Deslop, a skill that turns legalese and AI slop into plain English",
+    "url": "https://github.com/fayerman-source/deslop/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49517122",
+    "source": "github.com",
+    "date": "2026-09-01T02:03:52Z",
+    "timestamp": 1788228232,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The RSS Feed Got a Robot Assistant",
+    "url": "https://www.pleasehustleresponsibly.com/p/the-rss-feed-got-a-robot-assistant",
+    "discussion_url": "https://news.ycombinator.com/item?id=49517024",
+    "source": "pleasehustleresponsibly.com",
+    "date": "2026-09-01T01:51:07Z",
+    "timestamp": 1788227467,
+    "category": "Physical AI"
+  },
+  {
+    "title": "OpenAI to Cut Off AI Models for SpaceX-Owned Cursor",
+    "url": "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49516583",
+    "source": "reuters.com",
+    "date": "2026-09-01T00:43:31Z",
+    "timestamp": 1788223411,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Mu/TH/UR 6000 – An anonymous AI terminal styled as a 1979 mainframe",
+    "url": "https://mu7hur.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49516460",
+    "source": "mu7hur.com",
+    "date": "2026-09-01T00:21:29Z",
+    "timestamp": 1788222089,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI and Employment: So Far, So Good",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49516267",
+    "source": "marginalrevolution.com",
+    "date": "2026-08-31T23:54:00Z",
+    "timestamp": 1788220440,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Adaptation Fidelity of SPEC CPU2026",
+    "url": "https://arxiv.org/abs/2608.27710",
+    "discussion_url": "https://news.ycombinator.com/item?id=49516185",
+    "source": "arxiv.org",
+    "date": "2026-08-31T23:43:32Z",
+    "timestamp": 1788219812,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "HashCortX – AI workspace app, Now works on pre-2013 CPU windows devices",
+    "url": "https://github.com/Hash-7777/HashCortX",
+    "discussion_url": "https://news.ycombinator.com/item?id=49516181",
+    "source": "github.com",
+    "date": "2026-08-31T23:43:24Z",
+    "timestamp": 1788219804,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Show HN: Saccade – Live semantic browser truth for AI agents",
+    "url": "https://github.com/nanlogic/saccade",
+    "discussion_url": "https://news.ycombinator.com/item?id=49516118",
+    "source": "github.com",
+    "date": "2026-08-31T23:35:39Z",
+    "timestamp": 1788219339,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "ICE to use robot dogs from Boston Dynamics in deportation operations",
+    "url": "https://www.wcvb.com/article/ice-boston-dynamics-robot-dogs/73559827",
+    "discussion_url": "https://news.ycombinator.com/item?id=49515896",
+    "source": "wcvb.com",
+    "date": "2026-08-31T23:03:43Z",
+    "timestamp": 1788217423,
+    "category": "Physical AI"
   },
   {
     "title": "PG-Strom: An extension that leverages GPU and NVMe for PostgreSQL",
@@ -27,123 +180,6 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "The Movies That Make You Feel the Strangeness of AI",
-    "url": "https://twitter.com/jmugan/status/2094533961896931562",
-    "discussion_url": "https://news.ycombinator.com/item?id=49514907",
-    "source": "twitter.com",
-    "date": "2026-08-31T21:13:44Z",
-    "timestamp": 1788210824,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
-    "url": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review",
-    "discussion_url": "https://news.ycombinator.com/item?id=49514820",
-    "source": "cloud.google.com",
-    "date": "2026-08-31T21:04:25Z",
-    "timestamp": 1788210265,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I attended a conference recently and AI use by academics was absurd",
-    "url": "https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by",
-    "discussion_url": "https://news.ycombinator.com/item?id=49514773",
-    "source": "lobste.rs",
-    "date": "2026-08-31T20:59:30Z",
-    "timestamp": 1788209970,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "South Korea opened bidding for a free, unlimited AI chatbot for all citizens",
-    "url": "https://thenextweb.com/news/south-korea-free-ai-chatbot-all-citizens-domestic-models",
-    "discussion_url": "https://news.ycombinator.com/item?id=49514374",
-    "source": "thenextweb.com",
-    "date": "2026-08-31T20:15:02Z",
-    "timestamp": 1788207302,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI hallucinations are infiltrating Australia's parliament",
-    "url": "https://www.theguardian.com/australia-news/2026/sep/01/how-misinformation-ai-hallucinations-infiltrating-australian-parliament",
-    "discussion_url": "https://news.ycombinator.com/item?id=49514289",
-    "source": "theguardian.com",
-    "date": "2026-08-31T20:07:08Z",
-    "timestamp": 1788206828,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "TimesFM-3: zero-shot foundation model for multivariate forecasting",
-    "url": "http://goog.gle/4x5WGpD",
-    "discussion_url": "https://news.ycombinator.com/item?id=49514116",
-    "source": "goog.gle",
-    "date": "2026-08-31T19:48:41Z",
-    "timestamp": 1788205721,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Canaries in the Gold Mine: Early Productivity Gains from AI",
-    "url": "https://www.nber.org/papers/w35684",
-    "discussion_url": "https://news.ycombinator.com/item?id=49514042",
-    "source": "nber.org",
-    "date": "2026-08-31T19:43:24Z",
-    "timestamp": 1788205404,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Guess the AI model from its web design",
-    "url": "https://raq.com/blog/can-you-spot-ai-web-design/quiz",
-    "discussion_url": "https://news.ycombinator.com/item?id=49514013",
-    "source": "raq.com",
-    "date": "2026-08-31T19:40:25Z",
-    "timestamp": 1788205225,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Bank of England chief warns new AI models threaten global financial stability",
-    "url": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49514012",
-    "source": "cnbc.com",
-    "date": "2026-08-31T19:40:25Z",
-    "timestamp": 1788205225,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Agents Are Fundamentally Restructuring the Software Paradigm",
-    "url": "https://arxiv.org/abs/2606.05608",
-    "discussion_url": "https://news.ycombinator.com/item?id=49513989",
-    "source": "arxiv.org",
-    "date": "2026-08-31T19:37:29Z",
-    "timestamp": 1788205049,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Is an Anti-Primary Source Machine",
-    "url": "https://www.hnn.us/article/ai-is-an-anti-primary-source-machine",
-    "discussion_url": "https://news.ycombinator.com/item?id=49513988",
-    "source": "hnn.us",
-    "date": "2026-08-31T19:37:26Z",
-    "timestamp": 1788205046,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Perceptron AI releases Isaac 0.5: 36B, open weight, embodied foundation model",
-    "url": "https://twitter.com/perceptroninc/status/2092678357775442103",
-    "discussion_url": "https://news.ycombinator.com/item?id=49513776",
-    "source": "twitter.com",
-    "date": "2026-08-31T19:18:49Z",
-    "timestamp": 1788203929,
-    "category": "Physical AI"
-  },
-  {
-    "title": "PeppyOS: A simpler alternative to ROS 2",
-    "url": "https://github.com/Peppy-bot/peppy",
-    "discussion_url": "https://news.ycombinator.com/item?id=49512511",
-    "source": "github.com",
-    "date": "2026-08-31T17:40:10Z",
-    "timestamp": 1788198010,
-    "category": "Physical AI"
-  },
-  {
     "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
     "url": "https://github.com/Hebbian-Robotics/hflow",
     "discussion_url": "https://news.ycombinator.com/item?id=49510632",
@@ -159,24 +195,6 @@
     "source": "home.cern",
     "date": "2026-08-31T10:05:34Z",
     "timestamp": 1788170734,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
-    "url": "https://github.com/KodeMunkie/sm750hdmifb",
-    "discussion_url": "https://news.ycombinator.com/item?id=49501611",
-    "source": "github.com",
-    "date": "2026-08-30T18:49:08Z",
-    "timestamp": 1788115748,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "RISC-V is now officially supported by CPython",
-    "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49425252",
-    "source": "blog.python.org",
-    "date": "2026-08-24T20:12:22Z",
-    "timestamp": 1787602342,
     "category": "Computer Architecture"
   }
 ]
