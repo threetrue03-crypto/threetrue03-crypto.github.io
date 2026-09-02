@@ -1,129 +1,120 @@
 [
   {
-    "title": "WebFPGA",
+    "title": "LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes",
+    "url": "https://arxiv.org/abs/2608.31016",
+    "discussion_url": "https://news.ycombinator.com/item?id=49534583",
+    "source": "arxiv.org",
+    "date": "2026-09-02T11:07:07Z",
+    "timestamp": 1788347227,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "SoulAuth – Rust identity infrastructure for humans and AI agents",
+    "url": "https://github.com/TrantorLabs/SoulAuth",
+    "discussion_url": "https://news.ycombinator.com/item?id=49534146",
+    "source": "github.com",
+    "date": "2026-09-02T10:05:12Z",
+    "timestamp": 1788343512,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Quasar 438B: Europe's Leading AI Model",
+    "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+    "discussion_url": "https://news.ycombinator.com/item?id=49534132",
+    "source": "multiversecomputing.com",
+    "date": "2026-09-02T10:02:41Z",
+    "timestamp": 1788343361,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Why Pi is my AI coding harness",
+    "url": "https://blog.kulman.sk/pi-is-now-my-ai-harness/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49534014",
+    "source": "blog.kulman.sk",
+    "date": "2026-09-02T09:47:40Z",
+    "timestamp": 1788342460,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLMs and Self-Referentiality",
+    "url": "https://scottaaronson.blog/?p=10046",
+    "discussion_url": "https://news.ycombinator.com/item?id=49533902",
+    "source": "scottaaronson.blog",
+    "date": "2026-09-02T09:33:49Z",
+    "timestamp": 1788341629,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "We Can't Let AI Writing Take over the Internet",
+    "url": "https://www.derekthompson.org/p/the-internet-is-drowning-in-ai-slop",
+    "discussion_url": "https://news.ycombinator.com/item?id=49533814",
+    "source": "derekthompson.org",
+    "date": "2026-09-02T09:21:17Z",
+    "timestamp": 1788340877,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Isn't Making Everyone a Creator",
+    "url": "https://story.vjy.me/83",
+    "discussion_url": "https://news.ycombinator.com/item?id=49533664",
+    "source": "story.vjy.me",
+    "date": "2026-09-02T08:59:36Z",
+    "timestamp": 1788339576,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Comparing eight LLMs on 38 Berlin election questions",
+    "url": "https://bensk1.github.io/berlin-wahllm/en/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49533381",
+    "source": "bensk1.github.io",
+    "date": "2026-09-02T08:21:47Z",
+    "timestamp": 1788337307,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "\"I have the code and Claude AI – why would I pay you?\" [video]",
+    "url": "https://www.youtube.com/watch?v=1L48dy4Lyjo",
+    "discussion_url": "https://news.ycombinator.com/item?id=49533308",
+    "source": "youtube.com",
+    "date": "2026-09-02T08:11:32Z",
+    "timestamp": 1788336692,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Singularity Is Not What It Seems: Whatever the AI Future Is, We're in It Now",
+    "url": "https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49533291",
+    "source": "theatlantic.com",
+    "date": "2026-09-02T08:10:02Z",
+    "timestamp": 1788336602,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: I ranked every Paris bakery's pain au chocolat using an LLM",
+    "url": "https://www.painauchoc.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49533149",
+    "source": "painauchoc.com",
+    "date": "2026-09-02T07:52:38Z",
+    "timestamp": 1788335558,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Mayor says 'large chunks' of Wellington council Deloitte report written by AI",
+    "url": "https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49533132",
+    "source": "rnz.co.nz",
+    "date": "2026-09-02T07:50:46Z",
+    "timestamp": 1788335446,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "WebFPGA (2019)",
     "url": "https://webfpga.io/",
     "discussion_url": "https://news.ycombinator.com/item?id=49531525",
     "source": "webfpga.io",
     "date": "2026-09-02T03:54:58Z",
     "timestamp": 1788321298,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "AI Made Writing Code Free. It Made Reading Code Expensive",
-    "url": "https://medium.com/c-sharp-programming/ai-made-writing-code-free-it-made-reading-code-expensive-ea14b3ec5c52",
-    "discussion_url": "https://news.ycombinator.com/item?id=49531287",
-    "source": "medium.com",
-    "date": "2026-09-02T03:13:41Z",
-    "timestamp": 1788318821,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "One in three AI scribe notes carries a verified clinical error",
-    "url": "https://arxiv.org/abs/2608.31017",
-    "discussion_url": "https://news.ycombinator.com/item?id=49531257",
-    "source": "arxiv.org",
-    "date": "2026-09-02T03:07:07Z",
-    "timestamp": 1788318427,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Markdown Gatekeeper – one current source per topic for AI agents",
-    "url": "https://github.com/nanlogic/markdown-gatekeeper",
-    "discussion_url": "https://news.ycombinator.com/item?id=49531156",
-    "source": "github.com",
-    "date": "2026-09-02T02:48:42Z",
-    "timestamp": 1788317322,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI wealth is creating a 'mansion shortage' upending San Francisco housing market",
-    "url": "https://text.npr.org/nx-s1-5930432",
-    "discussion_url": "https://news.ycombinator.com/item?id=49530999",
-    "source": "text.npr.org",
-    "date": "2026-09-02T02:22:05Z",
-    "timestamp": 1788315725,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Local AI Assistants can be user friendly too",
-    "url": "https://anjadhe.ai/blog/local-ai-assistants-can-be-user-friendly-too",
-    "discussion_url": "https://news.ycombinator.com/item?id=49530822",
-    "source": "anjadhe.ai",
-    "date": "2026-09-02T01:52:22Z",
-    "timestamp": 1788313942,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "State of Local AI Report",
-    "url": "https://www.basecompute.co/stateoflocalai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49530290",
-    "source": "basecompute.co",
-    "date": "2026-09-02T00:38:01Z",
-    "timestamp": 1788309481,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Compilers 2.0: AI as stochastic optimizer",
-    "url": "https://twitter.com/cdleary/status/2094878051238887834",
-    "discussion_url": "https://news.ycombinator.com/item?id=49530143",
-    "source": "twitter.com",
-    "date": "2026-09-02T00:16:33Z",
-    "timestamp": 1788308193,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "California lawmakers pass bill governing lawyers' use of AI",
-    "url": "https://www.reuters.com/legal/government/california-lawmakers-pass-bill-governing-lawyers-use-ai-2026-09-01/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49530024",
-    "source": "reuters.com",
-    "date": "2026-09-02T00:01:39Z",
-    "timestamp": 1788307299,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Researchers use AI to 'democratize' 3D printing of crucial metal alloy",
-    "url": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49529962",
-    "source": "news.wsu.edu",
-    "date": "2026-09-01T23:54:51Z",
-    "timestamp": 1788306891,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI and the Practical Scientist",
-    "url": "https://scholarlyfutures.substack.com/p/ai-and-the-practical-scientist",
-    "discussion_url": "https://news.ycombinator.com/item?id=49529956",
-    "source": "scholarlyfutures.substack.com",
-    "date": "2026-09-01T23:54:12Z",
-    "timestamp": 1788306852,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The efficient frontier of LLM inference",
-    "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49529898",
-    "source": "baseten.co",
-    "date": "2026-09-01T23:48:05Z",
-    "timestamp": 1788306485,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "To bot or not to bot: My personal rules of engagement with AI",
-    "url": "https://code2yugen.substack.com/p/what-i-use-ai-for-and-what-i-never",
-    "discussion_url": "https://news.ycombinator.com/item?id=49529819",
-    "source": "code2yugen.substack.com",
-    "date": "2026-09-01T23:39:37Z",
-    "timestamp": 1788305977,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Honor Robot Phone",
-    "url": "https://www.honor.com/global/events/honor-robot-phone/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49528668",
-    "source": "honor.com",
-    "date": "2026-09-01T21:43:56Z",
-    "timestamp": 1788299036,
-    "category": "Physical AI"
   },
   {
     "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
