@@ -1,132 +1,150 @@
 [
   {
-    "title": "Intellectual AI Bubble",
-    "url": "https://xendo.bearblog.dev/intellectual-ai-bubble/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49538598",
-    "source": "xendo.bearblog.dev",
-    "date": "2026-09-02T16:22:58Z",
-    "timestamp": 1788366178,
+    "title": "AI is changing religion and religions are trying to change AI",
+    "url": "https://www.economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49542472",
+    "source": "economist.com",
+    "date": "2026-09-02T20:58:45Z",
+    "timestamp": 1788382725,
     "category": "Machine Learning"
   },
   {
-    "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
-    "url": "https://spectrum.ieee.org/ai-engineer-skills",
-    "discussion_url": "https://news.ycombinator.com/item?id=49538508",
+    "title": "Mamdani Bans AI in NYC Schools",
+    "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49542443",
+    "source": "nytimes.com",
+    "date": "2026-09-02T20:57:04Z",
+    "timestamp": 1788382624,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Mamdani imposes one-year ban on AI for most NYC students",
+    "url": "https://www.reuters.com/technology/mamdani-imposes-one-year-ban-ai-most-nyc-students-2026-09-02/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49541700",
+    "source": "reuters.com",
+    "date": "2026-09-02T20:05:09Z",
+    "timestamp": 1788379509,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Domain-Specific Small Language Models",
+    "url": "https://www.manning.com/books/domain-specific-small-language-models",
+    "discussion_url": "https://news.ycombinator.com/item?id=49541565",
+    "source": "manning.com",
+    "date": "2026-09-02T19:55:47Z",
+    "timestamp": 1788378947,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Uber drivers launch European class action over AI algorithm",
+    "url": "https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm",
+    "discussion_url": "https://news.ycombinator.com/item?id=49541544",
+    "source": "theguardian.com",
+    "date": "2026-09-02T19:54:26Z",
+    "timestamp": 1788378866,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Agents and the Refactoring That Never Happens",
+    "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49541496",
+    "source": "rosenfeld.page",
+    "date": "2026-09-02T19:51:39Z",
+    "timestamp": 1788378699,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Russian Mathematicians Taught AI How to Talk to Each Other Without Using Words",
+    "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49541463",
+    "source": "wired.com",
+    "date": "2026-09-02T19:49:06Z",
+    "timestamp": 1788378546,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: StealthOS, an iOS privacy sandbox with local AI and Tor",
+    "url": "https://www.stealthos.app/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49541092",
+    "source": "stealthos.app",
+    "date": "2026-09-02T19:21:02Z",
+    "timestamp": 1788376862,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+    "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49540933",
+    "source": "techcrunch.com",
+    "date": "2026-09-02T19:09:31Z",
+    "timestamp": 1788376171,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "I tried to predict which jobs AI replaces. The useful part is where it's wrong",
+    "url": "https://careeratlas.dev/writing/ai-displacement-model",
+    "discussion_url": "https://news.ycombinator.com/item?id=49540866",
+    "source": "careeratlas.dev",
+    "date": "2026-09-02T19:04:50Z",
+    "timestamp": 1788375890,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Researchers Warn AI Could Be Changing Us in an Unexpected Way",
+    "url": "https://www.sciencealert.com/interacting-with-ai-might-make-you-act-more-robot-like-researchers-warn",
+    "discussion_url": "https://news.ycombinator.com/item?id=49540832",
+    "source": "sciencealert.com",
+    "date": "2026-09-02T19:03:09Z",
+    "timestamp": 1788375789,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Proper Scoring Rules Shape LLM Forecasting",
+    "url": "https://arxiv.org/abs/2608.28482",
+    "discussion_url": "https://news.ycombinator.com/item?id=49540787",
+    "source": "arxiv.org",
+    "date": "2026-09-02T18:59:47Z",
+    "timestamp": 1788375587,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Gpuix-Svelte: Svelte custom renderer for GPUI",
+    "url": "https://github.com/khromov/gpuix-svelte",
+    "discussion_url": "https://news.ycombinator.com/item?id=49540580",
+    "source": "github.com",
+    "date": "2026-09-02T18:43:43Z",
+    "timestamp": 1788374623,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "NASA's Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
+    "url": "https://spectrum.ieee.org/canadarm-ieee-300th-milestone",
+    "discussion_url": "https://news.ycombinator.com/item?id=49539982",
     "source": "spectrum.ieee.org",
-    "date": "2026-09-02T16:16:02Z",
-    "timestamp": 1788365762,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Doomers Are Buying Potemkin Articles",
-    "url": "https://twitter.com/brianchau57/status/2095128785955987698",
-    "discussion_url": "https://news.ycombinator.com/item?id=49538173",
-    "source": "twitter.com",
-    "date": "2026-09-02T15:54:16Z",
-    "timestamp": 1788364456,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Killed My Blog Traffic",
-    "url": "https://clintmcmahon.com/blog/ai-killed-my-blog-traffic",
-    "discussion_url": "https://news.ycombinator.com/item?id=49538145",
-    "source": "clintmcmahon.com",
-    "date": "2026-09-02T15:52:21Z",
-    "timestamp": 1788364341,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Slop is saturating the internet and things are becoming dramatic quickly",
-    "url": "https://sites.google.com/view/sources-aislop",
-    "discussion_url": "https://news.ycombinator.com/item?id=49538075",
-    "source": "sites.google.com",
-    "date": "2026-09-02T15:48:27Z",
-    "timestamp": 1788364107,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Policy",
-    "url": "https://dbushell.com/ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49537900",
-    "source": "dbushell.com",
-    "date": "2026-09-02T15:36:24Z",
-    "timestamp": 1788363384,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Why Adding More AI Agents Makes Your Team Slower",
-    "url": "https://blog.mempko.com/misconception-about-agentic-scaling/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49537759",
-    "source": "blog.mempko.com",
-    "date": "2026-09-02T15:27:08Z",
-    "timestamp": 1788362828,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Kubernetes Is No Longer Just a Container Platform, It's Your AI Infrastructure",
-    "url": "https://cloudelligent.com/blog/kubernetes-ai-infrastructure/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49537485",
-    "source": "cloudelligent.com",
-    "date": "2026-09-02T15:08:30Z",
-    "timestamp": 1788361710,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Double Blind Evals: Resolving the Dual Confidentiality Dilemma in AI Safety...",
-    "url": "https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/piloting-the-worlds-first-double-blind-ai-evaluations/double-blind-evaluations-technical-report.pdf",
-    "discussion_url": "https://news.ycombinator.com/item?id=49537339",
-    "source": "storage.googleapis.com",
-    "date": "2026-09-02T14:58:41Z",
-    "timestamp": 1788361121,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI-assisted writing, AI slop, and the line between them",
-    "url": "https://amatria.in/blog/aislop",
-    "discussion_url": "https://news.ycombinator.com/item?id=49537259",
-    "source": "amatria.in",
-    "date": "2026-09-02T14:54:20Z",
-    "timestamp": 1788360860,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Europe Doesn't Have an AI Problem. It Has a Trust Problem",
-    "url": "https://medium.com/@MirArshadTalpur/europe-doesnt-have-an-ai-problem-it-has-a-trust-problem-c0ee81ad7bef",
-    "discussion_url": "https://news.ycombinator.com/item?id=49537256",
-    "source": "medium.com",
-    "date": "2026-09-02T14:54:12Z",
-    "timestamp": 1788360852,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Dead internet theater – turning malicious AI crawlers into a poetic experiment",
-    "url": "https://deadinternet.theater",
-    "discussion_url": "https://news.ycombinator.com/item?id=49537223",
-    "source": "deadinternet.theater",
-    "date": "2026-09-02T14:52:02Z",
-    "timestamp": 1788360722,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Don’t Believe Robotics Demo Videos",
-    "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-    "discussion_url": "https://news.ycombinator.com/item?id=49536310",
-    "source": "secondthoughts.ai",
-    "date": "2026-09-02T13:56:17Z",
-    "timestamp": 1788357377,
+    "date": "2026-09-02T18:00:34Z",
+    "timestamp": 1788372034,
     "category": "Physical AI"
   },
   {
-    "title": "Why humanoid robots won't catch up to human workers any time soon",
-    "url": "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up",
-    "discussion_url": "https://news.ycombinator.com/item?id=49535506",
-    "source": "understandingai.org",
-    "date": "2026-09-02T12:53:22Z",
-    "timestamp": 1788353602,
+    "title": "PostHog – We make your product self-driving",
+    "url": "https://posthog.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49539612",
+    "source": "posthog.com",
+    "date": "2026-09-02T17:34:15Z",
+    "timestamp": 1788370455,
     "category": "Physical AI"
   },
   {
-    "title": "Mistral now trains on user input by default, except on enterprise tier",
+    "title": "Show HN: Sleeper Agents in Robot Dogs and Kinetic Prompt Injections",
+    "url": "https://eito.substack.com/p/kinetic-prompt-injections-and-sleeper",
+    "discussion_url": "https://news.ycombinator.com/item?id=49539111",
+    "source": "eito.substack.com",
+    "date": "2026-09-02T16:56:18Z",
+    "timestamp": 1788368178,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Can I opt out of my input or output data being used for training?",
     "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
     "discussion_url": "https://news.ycombinator.com/item?id=49535284",
     "source": "help.mistral.ai",
@@ -151,14 +169,5 @@
     "date": "2026-09-01T17:35:10Z",
     "timestamp": 1788284110,
     "category": "Physical AI"
-  },
-  {
-    "title": "GPU World",
-    "url": "https://www.gpuworld.org/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49517584",
-    "source": "gpuworld.org",
-    "date": "2026-09-01T03:16:36Z",
-    "timestamp": 1788232596,
-    "category": "Computer Architecture"
   }
 ]
