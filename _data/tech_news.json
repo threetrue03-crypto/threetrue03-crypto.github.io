@@ -1,120 +1,192 @@
 [
   {
-    "title": "OpenAI's new reasoning technique alarms AI safety experts",
-    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49552395",
-    "source": "techcrunch.com",
-    "date": "2026-09-03T16:11:24Z",
-    "timestamp": 1788451884,
+    "title": "To what extent is AI being used in movies and TV today?",
+    "url": "https://stephenfollows.com/p/to-what-extent-is-ai-being-used-in-movies-and-tv-today",
+    "discussion_url": "https://news.ycombinator.com/item?id=49556812",
+    "source": "stephenfollows.com",
+    "date": "2026-09-03T20:54:27Z",
+    "timestamp": 1788468867,
     "category": "Machine Learning"
   },
   {
-    "title": "Prediction: AI Will Collapse",
-    "url": "https://twitter.com/wordgrammer/status/2095263188153401712",
-    "discussion_url": "https://news.ycombinator.com/item?id=49552347",
-    "source": "twitter.com",
-    "date": "2026-09-03T16:08:44Z",
-    "timestamp": 1788451724,
+    "title": "Show HN: We built client-side AST SEO audits for a Next.js CMS to avoid LLM lag",
+    "url": "https://github.com/nextblock-cms/nextblock",
+    "discussion_url": "https://news.ycombinator.com/item?id=49555956",
+    "source": "github.com",
+    "date": "2026-09-03T19:59:19Z",
+    "timestamp": 1788465559,
     "category": "Machine Learning"
   },
   {
-    "title": "Ask HN: Can we classify AI as: subhuman, quasihuman, human, superhumam?",
-    "url": "https://news.ycombinator.com/item?id=49552230",
-    "discussion_url": "https://news.ycombinator.com/item?id=49552230",
+    "title": "Omarchy Hyprland – external monitor multi-GPU configuration",
+    "url": "https://publish.obsidian.md/gslf/%F0%9F%8C%90+WEBSITE/%F0%9F%93%9D+Journal/%F0%9F%92%BB+DEV/Omarchy+Hyprland+-+external+monitor+multi-GPU+configuration",
+    "discussion_url": "https://news.ycombinator.com/item?id=49555883",
+    "source": "publish.obsidian.md",
+    "date": "2026-09-03T19:54:57Z",
+    "timestamp": 1788465297,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Three-LLM: Three.js-based WebGPU LLM inference engine",
+    "url": "https://three-llm.ben3d.ca",
+    "discussion_url": "https://news.ycombinator.com/item?id=49555712",
+    "source": "three-llm.ben3d.ca",
+    "date": "2026-09-03T19:46:54Z",
+    "timestamp": 1788464814,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Word42 – A Wordprocessor",
+    "url": "https://github.com/office-42/word42",
+    "discussion_url": "https://news.ycombinator.com/item?id=49555711",
+    "source": "github.com",
+    "date": "2026-09-03T19:46:37Z",
+    "timestamp": 1788464797,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "AMD Versal HBM Series (FPGA's with up to 32GB HBM2e)",
+    "url": "https://www.amd.com/en/products/adaptive-socs-and-fpgas/versal/hbm-series.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49555565",
+    "source": "amd.com",
+    "date": "2026-09-03T19:37:17Z",
+    "timestamp": 1788464237,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Before New York City, Norway Had Banned AI in Schools",
+    "url": "https://www.euronews.com/next/2026/09/03/before-new-york-city-norway-had-already-banned-ai-in-schools",
+    "discussion_url": "https://news.ycombinator.com/item?id=49555437",
+    "source": "euronews.com",
+    "date": "2026-09-03T19:30:31Z",
+    "timestamp": 1788463831,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: Why is nobody funding Wikipedia with AI based chat with articles",
+    "url": "https://news.ycombinator.com/item?id=49555417",
+    "discussion_url": "https://news.ycombinator.com/item?id=49555417",
     "source": "news.ycombinator.com",
-    "date": "2026-09-03T16:01:53Z",
-    "timestamp": 1788451313,
+    "date": "2026-09-03T19:29:28Z",
+    "timestamp": 1788463768,
     "category": "Machine Learning"
   },
   {
-    "title": "Show HN: A Context Registry for AI coding agents",
-    "url": "https://context.apimatic.io/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49552209",
-    "source": "context.apimatic.io",
-    "date": "2026-09-03T16:00:26Z",
-    "timestamp": 1788451226,
+    "title": "Wall Street banks push Big Law to cut fees because of AI",
+    "url": "https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9",
+    "discussion_url": "https://news.ycombinator.com/item?id=49555275",
+    "source": "ft.com",
+    "date": "2026-09-03T19:20:07Z",
+    "timestamp": 1788463207,
     "category": "Machine Learning"
   },
   {
-    "title": "Brutally Honest Predictions on the Future of AI",
-    "url": "https://www.honest-broker.com/p/10-brutally-honest-predictions-on",
-    "discussion_url": "https://news.ycombinator.com/item?id=49551895",
-    "source": "honest-broker.com",
-    "date": "2026-09-03T15:43:05Z",
-    "timestamp": 1788450185,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Human-in-the-Loop AI Deployment with IPE",
-    "url": "https://substack.com/profile/395874868-john-cachat/note/c-328878142",
-    "discussion_url": "https://news.ycombinator.com/item?id=49551405",
-    "source": "substack.com",
-    "date": "2026-09-03T15:17:59Z",
-    "timestamp": 1788448679,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "WeatherNext 3: Our most advanced global weather AI model",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49551191",
-    "source": "blog.google",
-    "date": "2026-09-03T15:10:16Z",
-    "timestamp": 1788448216,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Flock's AI Search Tool for Cops",
-    "url": "https://www.wired.com/story/flock-ai-search-user-interface/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49551104",
-    "source": "wired.com",
-    "date": "2026-09-03T15:07:07Z",
-    "timestamp": 1788448027,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "NBA suspends Clippers owner Ballmer for 1 year in Kawhi Leonard salary cap probe",
-    "url": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49551052",
-    "source": "cnbc.com",
-    "date": "2026-09-03T15:05:16Z",
-    "timestamp": 1788447916,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Open AI X post on Astra",
-    "url": "https://twitter.com/OpenAI/status/2095527557924082061",
-    "discussion_url": "https://news.ycombinator.com/item?id=49551018",
-    "source": "twitter.com",
-    "date": "2026-09-03T15:03:40Z",
-    "timestamp": 1788447820,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Top AI Agent Skills for Building Live Streaming Apps",
-    "url": "https://www.red5.net/blog/ai-agent-skills-live-streaming-app-development/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49550961",
-    "source": "red5.net",
-    "date": "2026-09-03T15:02:08Z",
-    "timestamp": 1788447728,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Agents Welcome",
-    "url": "https://www.hey.com/agents/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49550677",
-    "source": "hey.com",
-    "date": "2026-09-03T14:50:07Z",
-    "timestamp": 1788447007,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Robotaxis Aren't Going Where They Are Needed Most",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-03/the-improbable-case-for-the-rural-robotaxi",
-    "discussion_url": "https://news.ycombinator.com/item?id=49549593",
-    "source": "bloomberg.com",
-    "date": "2026-09-03T13:20:33Z",
-    "timestamp": 1788441633,
+    "title": "Perceptron Ships 36B Robot Weights Under Apache-2.0",
+    "url": "https://topicqueue.substack.com/p/perceptron-ships-36b-robot-weights",
+    "discussion_url": "https://news.ycombinator.com/item?id=49555241",
+    "source": "topicqueue.substack.com",
+    "date": "2026-09-03T19:17:39Z",
+    "timestamp": 1788463059,
     "category": "Physical AI"
+  },
+  {
+    "title": "Zuckerberg said national AI regulator was flawed idea in secret call with Trump",
+    "url": "https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843",
+    "discussion_url": "https://news.ycombinator.com/item?id=49555199",
+    "source": "politico.com",
+    "date": "2026-09-03T19:14:58Z",
+    "timestamp": 1788462898,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Robot startups are trying everything they can think of to get more data",
+    "url": "https://www.understandingai.org/p/robot-startups-are-trying-everything",
+    "discussion_url": "https://news.ycombinator.com/item?id=49555009",
+    "source": "understandingai.org",
+    "date": "2026-09-03T19:02:32Z",
+    "timestamp": 1788462152,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Redwood: A Frontier AI Accelerator Designed from Scratch in 2 Weeks by AI",
+    "url": "https://arxiv.org/abs/2608.26418",
+    "discussion_url": "https://news.ycombinator.com/item?id=49554818",
+    "source": "arxiv.org",
+    "date": "2026-09-03T18:50:45Z",
+    "timestamp": 1788461445,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "GoPro acquired, getting into 'defense, government, robotics and aerospace'",
+    "url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
+    "discussion_url": "https://news.ycombinator.com/item?id=49554469",
+    "source": "theverge.com",
+    "date": "2026-09-03T18:29:35Z",
+    "timestamp": 1788460175,
+    "category": "Physical AI"
+  },
+  {
+    "title": "OpenAI's next big AI model has 'entered the AGI era'",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "discussion_url": "https://news.ycombinator.com/item?id=49554445",
+    "source": "theverge.com",
+    "date": "2026-09-03T18:28:32Z",
+    "timestamp": 1788460112,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Skyportal, an open source AI infra engineer with an approval gate",
+    "url": "https://github.com/SkyportalAi/skyportalai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49554198",
+    "source": "github.com",
+    "date": "2026-09-03T18:13:26Z",
+    "timestamp": 1788459206,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OpenAI says it has overtaken Anthropic with its latest AI model",
+    "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/1054f4f0-cac7-479c-a4a7-f95b3906ca4b",
+    "discussion_url": "https://news.ycombinator.com/item?id=49554060",
+    "source": "giftarticle.ft.com",
+    "date": "2026-09-03T18:02:40Z",
+    "timestamp": 1788458560,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Climbers rescued from Mount Shasta after relying on AI chatbot to plan trip",
+    "url": "https://www.sfchronicle.com/outdoors/article/shasta-climbers-rescued-chatgpt-22414629.php",
+    "discussion_url": "https://news.ycombinator.com/item?id=49553919",
+    "source": "sfchronicle.com",
+    "date": "2026-09-03T17:51:42Z",
+    "timestamp": 1788457902,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI-Powered Data Warehouses: Architectural Lessons for Every AI Product",
+    "url": "https://twitter.com/JoshARosen/status/2095488762532745712",
+    "discussion_url": "https://news.ycombinator.com/item?id=49553916",
+    "source": "twitter.com",
+    "date": "2026-09-03T17:51:18Z",
+    "timestamp": 1788457878,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nvidia crypto mining GPUs hacked to restore locked-away VRAM",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-crypto-mining-gpus-hacked-to-restore-locked-away-vram-in-order-to-feed-ai-boom-software-mod-unlocks-64gb-of-vram-on-usd250-cmp-170hx",
+    "discussion_url": "https://news.ycombinator.com/item?id=49553784",
+    "source": "tomshardware.com",
+    "date": "2026-09-03T17:42:26Z",
+    "timestamp": 1788457346,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Pause AI Development Now",
+    "url": "https://twitter.com/BernieSanders/status/2095542398084415952",
+    "discussion_url": "https://news.ycombinator.com/item?id=49553675",
+    "source": "twitter.com",
+    "date": "2026-09-03T17:34:48Z",
+    "timestamp": 1788456888,
+    "category": "Machine Learning"
   },
   {
     "title": "Show HN: The cheapest GPU cloud – H100s at $2.04/HR, H200s at $3/HR",
@@ -142,23 +214,5 @@
     "date": "2026-09-02T12:30:39Z",
     "timestamp": 1788352239,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "WebFPGA (2019)",
-    "url": "https://webfpga.io/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49531525",
-    "source": "webfpga.io",
-    "date": "2026-09-02T03:54:58Z",
-    "timestamp": 1788321298,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-    "url": "https://www.norirobotics.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49525153",
-    "source": "norirobotics.com",
-    "date": "2026-09-01T17:35:10Z",
-    "timestamp": 1788284110,
-    "category": "Physical AI"
   }
 ]
