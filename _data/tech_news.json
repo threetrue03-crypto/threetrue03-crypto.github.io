@@ -1,146 +1,155 @@
 [
   {
-    "title": "AI is changing religion and religions are trying to change AI",
-    "url": "https://www.economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49542472",
-    "source": "economist.com",
-    "date": "2026-09-02T20:58:45Z",
-    "timestamp": 1788382725,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Mamdani Bans AI in NYC Schools",
-    "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49542443",
-    "source": "nytimes.com",
-    "date": "2026-09-02T20:57:04Z",
-    "timestamp": 1788382624,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Mamdani imposes one-year ban on AI for most NYC students",
-    "url": "https://www.reuters.com/technology/mamdani-imposes-one-year-ban-ai-most-nyc-students-2026-09-02/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49541700",
-    "source": "reuters.com",
-    "date": "2026-09-02T20:05:09Z",
-    "timestamp": 1788379509,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Domain-Specific Small Language Models",
-    "url": "https://www.manning.com/books/domain-specific-small-language-models",
-    "discussion_url": "https://news.ycombinator.com/item?id=49541565",
-    "source": "manning.com",
-    "date": "2026-09-02T19:55:47Z",
-    "timestamp": 1788378947,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Uber drivers launch European class action over AI algorithm",
-    "url": "https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm",
-    "discussion_url": "https://news.ycombinator.com/item?id=49541544",
-    "source": "theguardian.com",
-    "date": "2026-09-02T19:54:26Z",
-    "timestamp": 1788378866,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Agents and the Refactoring That Never Happens",
-    "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49541496",
-    "source": "rosenfeld.page",
-    "date": "2026-09-02T19:51:39Z",
-    "timestamp": 1788378699,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Russian Mathematicians Taught AI How to Talk to Each Other Without Using Words",
-    "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49541463",
-    "source": "wired.com",
-    "date": "2026-09-02T19:49:06Z",
-    "timestamp": 1788378546,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: StealthOS, an iOS privacy sandbox with local AI and Tor",
-    "url": "https://www.stealthos.app/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49541092",
-    "source": "stealthos.app",
-    "date": "2026-09-02T19:21:02Z",
-    "timestamp": 1788376862,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-    "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49540933",
-    "source": "techcrunch.com",
-    "date": "2026-09-02T19:09:31Z",
-    "timestamp": 1788376171,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I tried to predict which jobs AI replaces. The useful part is where it's wrong",
-    "url": "https://careeratlas.dev/writing/ai-displacement-model",
-    "discussion_url": "https://news.ycombinator.com/item?id=49540866",
-    "source": "careeratlas.dev",
-    "date": "2026-09-02T19:04:50Z",
-    "timestamp": 1788375890,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Researchers Warn AI Could Be Changing Us in an Unexpected Way",
-    "url": "https://www.sciencealert.com/interacting-with-ai-might-make-you-act-more-robot-like-researchers-warn",
-    "discussion_url": "https://news.ycombinator.com/item?id=49540832",
-    "source": "sciencealert.com",
-    "date": "2026-09-02T19:03:09Z",
-    "timestamp": 1788375789,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Proper Scoring Rules Shape LLM Forecasting",
-    "url": "https://arxiv.org/abs/2608.28482",
-    "discussion_url": "https://news.ycombinator.com/item?id=49540787",
-    "source": "arxiv.org",
-    "date": "2026-09-02T18:59:47Z",
-    "timestamp": 1788375587,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Gpuix-Svelte: Svelte custom renderer for GPUI",
-    "url": "https://github.com/khromov/gpuix-svelte",
-    "discussion_url": "https://news.ycombinator.com/item?id=49540580",
-    "source": "github.com",
-    "date": "2026-09-02T18:43:43Z",
-    "timestamp": 1788374623,
+    "title": "Update on RISC-V Standards and Adoption at Hot Chips 2026",
+    "url": "https://www.servethehome.com/update-on-risc-v-standards-and-adoption-at-hot-chips-2026/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49545786",
+    "source": "servethehome.com",
+    "date": "2026-09-03T04:01:03Z",
+    "timestamp": 1788408063,
     "category": "Computer Architecture"
   },
   {
-    "title": "NASA's Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
-    "url": "https://spectrum.ieee.org/canadarm-ieee-300th-milestone",
-    "discussion_url": "https://news.ycombinator.com/item?id=49539982",
-    "source": "spectrum.ieee.org",
-    "date": "2026-09-02T18:00:34Z",
-    "timestamp": 1788372034,
+    "title": "Frontier Act – Federal oversight of the development of frontier AI",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9925/text",
+    "discussion_url": "https://news.ycombinator.com/item?id=49545592",
+    "source": "congress.gov",
+    "date": "2026-09-03T03:24:42Z",
+    "timestamp": 1788405882,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Indicate: Transliterate Indic Languages with PyTorch and LLMs",
+    "url": "https://github.com/in-rolls/indicate",
+    "discussion_url": "https://news.ycombinator.com/item?id=49545582",
+    "source": "github.com",
+    "date": "2026-09-03T03:22:09Z",
+    "timestamp": 1788405729,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: The cheapest GPU cloud – H100s at $2.04/HR, H200s at $3/HR",
+    "url": "https://compute.cheap/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49545411",
+    "source": "compute.cheap",
+    "date": "2026-09-03T02:50:47Z",
+    "timestamp": 1788403847,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Language Models Can Control Their Own Attention",
+    "url": "https://arxiv.org/abs/2609.02737",
+    "discussion_url": "https://news.ycombinator.com/item?id=49545239",
+    "source": "arxiv.org",
+    "date": "2026-09-03T02:24:39Z",
+    "timestamp": 1788402279,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Does anyone know if something happened to stallman.org?",
+    "url": "https://news.ycombinator.com/item?id=49545206",
+    "discussion_url": "https://news.ycombinator.com/item?id=49545206",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-03T02:19:08Z",
+    "timestamp": 1788401948,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "MemHub – Persistent shared memory for AI coding agents",
+    "url": "https://memhub.simplex.lat",
+    "discussion_url": "https://news.ycombinator.com/item?id=49544996",
+    "source": "memhub.simplex.lat",
+    "date": "2026-09-03T01:43:31Z",
+    "timestamp": 1788399811,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "NBA suspends Clippers owner Ballmer for 1 year in Kawhi Leonard salary cap probe",
+    "url": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49544801",
+    "source": "cnbc.com",
+    "date": "2026-09-03T01:16:18Z",
+    "timestamp": 1788398178,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
+    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+    "discussion_url": "https://news.ycombinator.com/item?id=49544762",
+    "source": "kedglobal.com",
+    "date": "2026-09-03T01:11:22Z",
+    "timestamp": 1788397882,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "US gov sides with OpenAI on issue of training LLMs on copyrighted material",
+    "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49544650",
+    "source": "techcrunch.com",
+    "date": "2026-09-03T00:54:01Z",
+    "timestamp": 1788396841,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Hot reload vLLM and sglang configs",
+    "url": "https://github.com/numinous-technology/trimtab",
+    "discussion_url": "https://news.ycombinator.com/item?id=49544591",
+    "source": "github.com",
+    "date": "2026-09-03T00:46:04Z",
+    "timestamp": 1788396364,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Redactle LLM Leaderboard",
+    "url": "https://redactle.net/llm-leaderboard",
+    "discussion_url": "https://news.ycombinator.com/item?id=49544338",
+    "source": "redactle.net",
+    "date": "2026-09-03T00:11:55Z",
+    "timestamp": 1788394315,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Steve Ballmer banned by NBA over improper payment to basketball star",
+    "url": "https://www.ft.com/content/6b74303c-0190-4e86-8a7b-feaf3dd29658",
+    "discussion_url": "https://news.ycombinator.com/item?id=49544206",
+    "source": "ft.com",
+    "date": "2026-09-02T23:53:25Z",
+    "timestamp": 1788393205,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Workplace surveillance is on the rise, spurred by AI",
+    "url": "https://knowablemagazine.org/content/article/society/2026/surveillance-at-work-is-increasing",
+    "discussion_url": "https://news.ycombinator.com/item?id=49544093",
+    "source": "knowablemagazine.org",
+    "date": "2026-09-02T23:39:26Z",
+    "timestamp": 1788392366,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "FDA Authorizes First-of-Its-Kind Robotic Blood Draw Device",
+    "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-its-kind-robotic-blood-draw-device",
+    "discussion_url": "https://news.ycombinator.com/item?id=49543789",
+    "source": "fda.gov",
+    "date": "2026-09-02T23:03:54Z",
+    "timestamp": 1788390234,
     "category": "Physical AI"
   },
   {
-    "title": "PostHog – We make your product self-driving",
-    "url": "https://posthog.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49539612",
-    "source": "posthog.com",
-    "date": "2026-09-02T17:34:15Z",
-    "timestamp": 1788370455,
+    "title": "Reasons robotics is hard",
+    "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+    "discussion_url": "https://news.ycombinator.com/item?id=49543191",
+    "source": "secondthoughts.ai",
+    "date": "2026-09-02T22:02:30Z",
+    "timestamp": 1788386550,
     "category": "Physical AI"
   },
   {
-    "title": "Show HN: Sleeper Agents in Robot Dogs and Kinetic Prompt Injections",
-    "url": "https://eito.substack.com/p/kinetic-prompt-injections-and-sleeper",
-    "discussion_url": "https://news.ycombinator.com/item?id=49539111",
-    "source": "eito.substack.com",
-    "date": "2026-09-02T16:56:18Z",
-    "timestamp": 1788368178,
+    "title": "Humanoid robots clean a house in San Francisco for $30 an hour [video]",
+    "url": "https://www.youtube.com/watch?v=-ioV0-rMycE",
+    "discussion_url": "https://news.ycombinator.com/item?id=49542482",
+    "source": "youtube.com",
+    "date": "2026-09-02T20:59:30Z",
+    "timestamp": 1788382770,
     "category": "Physical AI"
   },
   {
