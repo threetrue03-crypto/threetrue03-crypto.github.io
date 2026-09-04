@@ -1,156 +1,147 @@
 [
   {
-    "title": "Readers can't identify watermarked AI text",
-    "url": "https://www.seangoedecke.com/readers-cant-identify-watermarked-ai-text/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49562981",
-    "source": "seangoedecke.com",
-    "date": "2026-09-04T11:06:12Z",
-    "timestamp": 1788519972,
+    "title": "Understanding China's Frontier AI Landscape",
+    "url": "https://www.emergingtrajectories.com/lh/frontier-ai-in-china/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49566521",
+    "source": "emergingtrajectories.com",
+    "date": "2026-09-04T16:04:18Z",
+    "timestamp": 1788537858,
     "category": "Machine Learning"
   },
   {
-    "title": "Chinese businesses giving away AI tokens with coffee, credit cards, dumplings",
-    "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49562914",
-    "source": "restofworld.org",
-    "date": "2026-09-04T10:58:24Z",
-    "timestamp": 1788519504,
+    "title": "Language Models Can Control Their Own Attention",
+    "url": "https://academy.dair.ai/papers/language-models-can-control-their-own-attention-2609.02737",
+    "discussion_url": "https://news.ycombinator.com/item?id=49566444",
+    "source": "academy.dair.ai",
+    "date": "2026-09-04T15:57:50Z",
+    "timestamp": 1788537470,
     "category": "Machine Learning"
   },
   {
-    "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
-    "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49562744",
-    "source": "reuters.com",
-    "date": "2026-09-04T10:30:57Z",
-    "timestamp": 1788517857,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Job Loss Fears in the First Years of Generative Artificial Intelligence",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5136877",
-    "discussion_url": "https://news.ycombinator.com/item?id=49562127",
-    "source": "papers.ssrn.com",
-    "date": "2026-09-04T08:46:13Z",
-    "timestamp": 1788511573,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Amazon and Meta AI bots account for most website visits",
-    "url": "https://pressgazette.co.uk/platforms/amazon-and-meta-ai-bots-account-for-most-website-visits/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49562082",
-    "source": "pressgazette.co.uk",
-    "date": "2026-09-04T08:38:13Z",
-    "timestamp": 1788511093,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Aurict – An open-source Terminal AI",
-    "url": "https://github.com/aurict/aurict",
-    "discussion_url": "https://news.ycombinator.com/item?id=49561903",
+    "title": "Mst3k-anything - Paste a video URL. Get back a robot-heckled version",
+    "url": "https://github.com/jgbrwn/mst3k-anything",
+    "discussion_url": "https://news.ycombinator.com/item?id=49566186",
     "source": "github.com",
-    "date": "2026-09-04T08:08:14Z",
-    "timestamp": 1788509294,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Nvidia links gaming PCs into a local AI cluster",
-    "url": "https://forgeeks.net/nvidia-rtx-pair-local-ai-cluster/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49561584",
-    "source": "forgeeks.net",
-    "date": "2026-09-04T07:26:18Z",
-    "timestamp": 1788506778,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Native Rust/C++ LLM inference engine",
-    "url": "https://github.com/truespar/paddock",
-    "discussion_url": "https://news.ycombinator.com/item?id=49561513",
-    "source": "github.com",
-    "date": "2026-09-04T07:16:59Z",
-    "timestamp": 1788506219,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI commits $1B to critical-infrastructure AI initiative",
-    "url": "https://axios.com/2026/09/03/openai-critical-infrastructure-cyber-ai-models",
-    "discussion_url": "https://news.ycombinator.com/item?id=49561372",
-    "source": "axios.com",
-    "date": "2026-09-04T06:54:52Z",
-    "timestamp": 1788504892,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "An audio end-of-turn gate before LLM invocation in a local voice-agent pipeline",
-    "url": "https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49561360",
-    "source": "reddit.com",
-    "date": "2026-09-04T06:53:44Z",
-    "timestamp": 1788504824,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Who is accountable for Frontier AI Companies agent's criminal actions?",
-    "url": "https://news.ycombinator.com/item?id=49561197",
-    "discussion_url": "https://news.ycombinator.com/item?id=49561197",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-04T06:29:24Z",
-    "timestamp": 1788503364,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion (5000 Tk/S)",
-    "url": "https://s-sahoo.com/uno/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49561124",
-    "source": "s-sahoo.com",
-    "date": "2026-09-04T06:16:48Z",
-    "timestamp": 1788502608,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Word42, a wordprocessor inspired by MS Word and Abiword",
-    "url": "https://word42.org/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49560595",
-    "source": "word42.org",
-    "date": "2026-09-04T04:39:24Z",
-    "timestamp": 1788496764,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Tesla opens \"Help us grow out fleet\" after opening robotaxi to the public",
-    "url": "https://www.tesla.com/robotaxi/interest",
-    "discussion_url": "https://news.ycombinator.com/item?id=49559775",
-    "source": "tesla.com",
-    "date": "2026-09-04T02:24:29Z",
-    "timestamp": 1788488669,
+    "date": "2026-09-04T15:38:15Z",
+    "timestamp": 1788536295,
     "category": "Physical AI"
   },
   {
-    "title": "Ask HN: Who is using FPGA for ML inference?",
-    "url": "https://news.ycombinator.com/item?id=49557875",
-    "discussion_url": "https://news.ycombinator.com/item?id=49557875",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-03T22:14:35Z",
-    "timestamp": 1788473675,
+    "title": "Lords call for AI 'kill switch' powers in UK",
+    "url": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o",
+    "discussion_url": "https://news.ycombinator.com/item?id=49566126",
+    "source": "bbc.co.uk",
+    "date": "2026-09-04T15:33:01Z",
+    "timestamp": 1788535981,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AMD unveils Threadripper Halo Station, an AI workstation with 96 cores, 2 MI350P",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
+    "discussion_url": "https://news.ycombinator.com/item?id=49566116",
+    "source": "tomshardware.com",
+    "date": "2026-09-04T15:32:02Z",
+    "timestamp": 1788535922,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Asymmetric Disarmament of AI Security",
+    "url": "https://eddiemissri.substack.com/p/the-asymmetric-disarmament-of-ai",
+    "discussion_url": "https://news.ycombinator.com/item?id=49565218",
+    "source": "eddiemissri.substack.com",
+    "date": "2026-09-04T14:30:45Z",
+    "timestamp": 1788532245,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OpenAI Astra and Recurrent Depth / Looped Transformers [Seb Raschka] [video]",
+    "url": "https://www.youtube.com/watch?v=KT4n-z_4QJU",
+    "discussion_url": "https://news.ycombinator.com/item?id=49565057",
+    "source": "youtube.com",
+    "date": "2026-09-04T14:19:28Z",
+    "timestamp": 1788531568,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: Sentrint, Ship AI features without losing sleep",
+    "url": "https://sentrint.com/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49564974",
+    "source": "sentrint.com",
+    "date": "2026-09-04T14:15:19Z",
+    "timestamp": 1788531319,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A no_std memory engine that stops an LLM agent citing its own output",
+    "url": "https://github.com/vitaliyfedotovpro-art/astrum-hsam-embedded",
+    "discussion_url": "https://news.ycombinator.com/item?id=49564954",
+    "source": "github.com",
+    "date": "2026-09-04T14:13:51Z",
+    "timestamp": 1788531231,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OpenWhispr – Open-source, privacy-first voice-to-text with local AI",
+    "url": "https://digitalescapetools.com/tools/tool.html?id=openwhispr",
+    "discussion_url": "https://news.ycombinator.com/item?id=49564271",
+    "source": "digitalescapetools.com",
+    "date": "2026-09-04T13:22:56Z",
+    "timestamp": 1788528176,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI engineer breaks part of RSA encryption protocol by hand",
+    "url": "https://www.scientificamerican.com/article/whats-the-tech-behind-the-record-breaking-rsa-260-crack/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49564186",
+    "source": "scientificamerican.com",
+    "date": "2026-09-04T13:15:04Z",
+    "timestamp": 1788527704,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Will the AI Boom Price the Rest of the Economy Out of Capital?",
+    "url": "https://publicemails.com/blog/display/659255/Will-the-AI-Boom-Price-the-Rest-of-the-Economy-Out-of-Capital",
+    "discussion_url": "https://news.ycombinator.com/item?id=49564095",
+    "source": "publicemails.com",
+    "date": "2026-09-04T13:07:26Z",
+    "timestamp": 1788527246,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Colorlight 5A-75B: A dive into a popular low-cost ECP5 (FPGA) development board",
+    "url": "https://blog.yosyshq.com/p/colorlight-part-1/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49564064",
+    "source": "blog.yosyshq.com",
+    "date": "2026-09-04T13:05:31Z",
+    "timestamp": 1788527131,
     "category": "Computer Architecture"
   },
   {
-    "title": "Three-LLM: Three.js-based WebGPU LLM inference engine",
-    "url": "https://three-llm.ben3d.ca",
-    "discussion_url": "https://news.ycombinator.com/item?id=49555712",
-    "source": "three-llm.ben3d.ca",
-    "date": "2026-09-03T19:46:54Z",
-    "timestamp": 1788464814,
-    "category": "Computer Architecture"
+    "title": "Tesla Cybercabs Hit Austin Streets in Expansion of Robotaxi Service",
+    "url": "https://www.wsj.com/business/autos/tesla-cybercabs-hit-austin-streets-in-expansion-of-robotaxi-service-e9845a55",
+    "discussion_url": "https://news.ycombinator.com/item?id=49564029",
+    "source": "wsj.com",
+    "date": "2026-09-04T13:02:52Z",
+    "timestamp": 1788526972,
+    "category": "Physical AI"
   },
   {
-    "title": "Show HN: The cheapest GPU cloud – H100s at $2.04/HR, H200s at $3/HR",
-    "url": "https://compute.cheap/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49545411",
-    "source": "compute.cheap",
-    "date": "2026-09-03T02:50:47Z",
-    "timestamp": 1788403847,
-    "category": "Computer Architecture"
+    "title": "Beam Bots – Resilient Robotics with Elixir",
+    "url": "https://beambots.dev",
+    "discussion_url": "https://news.ycombinator.com/item?id=49564023",
+    "source": "beambots.dev",
+    "date": "2026-09-04T13:02:32Z",
+    "timestamp": 1788526952,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Show HN: OpenHelper AI – The Free and Open Source AI Chatbot",
+    "url": "https://techambient.github.io/HybridAI/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49563913",
+    "source": "techambient.github.io",
+    "date": "2026-09-04T12:54:35Z",
+    "timestamp": 1788526475,
+    "category": "Machine Learning"
   },
   {
     "title": "Reasons robotics is hard",
