@@ -1,5 +1,131 @@
 [
   {
+    "title": "Show HN: Rubato – Retro-Mac desk device mirrors AI coding state-ESP8266",
+    "url": "https://github.com/lovaxi/Rubato_Device",
+    "discussion_url": "https://news.ycombinator.com/item?id=49572780",
+    "source": "github.com",
+    "date": "2026-09-05T03:16:57Z",
+    "timestamp": 1788578217,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Lenexus – dependency graph with deterministic risk engine and AI layer",
+    "url": "https://lenexux.com/welcome",
+    "discussion_url": "https://news.ycombinator.com/item?id=49572417",
+    "source": "lenexux.com",
+    "date": "2026-09-05T02:11:12Z",
+    "timestamp": 1788574272,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GitSpawn: Untrusted repos can execute code via AI coding agents",
+    "url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
+    "discussion_url": "https://news.ycombinator.com/item?id=49572279",
+    "source": "manifold.security",
+    "date": "2026-09-05T01:45:53Z",
+    "timestamp": 1788572753,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Personal AI Router for Local Inference",
+    "url": "https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49572226",
+    "source": "nvidia.com",
+    "date": "2026-09-05T01:35:40Z",
+    "timestamp": 1788572140,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+    "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+    "discussion_url": "https://news.ycombinator.com/item?id=49572116",
+    "source": "economist.com",
+    "date": "2026-09-05T01:15:04Z",
+    "timestamp": 1788570904,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GPT-6 Astra on Vercel AI Gateway",
+    "url": "https://vercel.com/ai-gateway/models/gpt-6-astra",
+    "discussion_url": "https://news.ycombinator.com/item?id=49571548",
+    "source": "vercel.com",
+    "date": "2026-09-04T23:51:38Z",
+    "timestamp": 1788565898,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The 33-Year-Old AI Hotshot Taking Silicon Valley Swagger Back to Beijing",
+    "url": "https://www.wsj.com/tech/ai/moonshot-ai-yang-ceo-china-6f12ddbf",
+    "discussion_url": "https://news.ycombinator.com/item?id=49571306",
+    "source": "wsj.com",
+    "date": "2026-09-04T23:16:18Z",
+    "timestamp": 1788563778,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49571001",
+    "source": "techcrunch.com",
+    "date": "2026-09-04T22:32:52Z",
+    "timestamp": 1788561172,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "15h.org – Open-Source Firmware and Support for AMD's Family 15h CPU's/MB's, etc.",
+    "url": "https://15h.org/index.php/Home",
+    "discussion_url": "https://news.ycombinator.com/item?id=49570520",
+    "source": "15h.org",
+    "date": "2026-09-04T21:36:32Z",
+    "timestamp": 1788557792,
+    "category": "Computer Architecture"
+  },
+  {
+    "title": "Stanley Zhong Gets Admissions Data Discovery in UW Suit with AI lawyer",
+    "url": "https://www.foxnews.com/media/star-student-rejected-16-colleges-hired-google-gets-legal-win-racial-discrimination-suit",
+    "discussion_url": "https://news.ycombinator.com/item?id=49570518",
+    "source": "foxnews.com",
+    "date": "2026-09-04T21:36:26Z",
+    "timestamp": 1788557786,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nanya plans a $6B spending surge in 2027 to ride the AI memory boom",
+    "url": "https://thenextweb.com/news/nanya-6-billion-2027-ai-memory",
+    "discussion_url": "https://news.ycombinator.com/item?id=49570407",
+    "source": "thenextweb.com",
+    "date": "2026-09-04T21:25:26Z",
+    "timestamp": 1788557126,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "David Chalmers Says AI Systems Are Emailing Him",
+    "url": "https://www.abc.net.au/news/2026-05-30/artificial-intelligence-ai-will-it-be-conscious-in-the-future/106738770",
+    "discussion_url": "https://news.ycombinator.com/item?id=49570238",
+    "source": "abc.net.au",
+    "date": "2026-09-04T21:09:07Z",
+    "timestamp": 1788556147,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Trump administration opens probe into Tesla's self-driving Cybercab",
+    "url": "https://www.politico.com/news/2026/09/04/trump-cybercab-musk-probe-01064706",
+    "discussion_url": "https://news.ycombinator.com/item?id=49570105",
+    "source": "politico.com",
+    "date": "2026-09-04T20:57:25Z",
+    "timestamp": 1788555445,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Prediction: GPU's are currently the cheapest they're ever gonna be",
+    "url": "https://news.ycombinator.com/item?id=49569993",
+    "discussion_url": "https://news.ycombinator.com/item?id=49569993",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-04T20:43:42Z",
+    "timestamp": 1788554622,
+    "category": "Computer Architecture"
+  },
+  {
     "title": "Chinese businesses giving away AI tokens with coffee, credit cards, dumplings",
     "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/",
     "discussion_url": "https://news.ycombinator.com/item?id=49569949",
@@ -7,141 +133,6 @@
     "date": "2026-09-04T20:39:30Z",
     "timestamp": 1788554370,
     "category": "Machine Learning"
-  },
-  {
-    "title": "Macha: Save 42% tokens. Use South Indian English inspired response style for AI",
-    "url": "https://github.com/kingroryg/macha",
-    "discussion_url": "https://news.ycombinator.com/item?id=49569861",
-    "source": "github.com",
-    "date": "2026-09-04T20:29:58Z",
-    "timestamp": 1788553798,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Can AI design circuit boards yet?",
-    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49569366",
-    "source": "eebench.org",
-    "date": "2026-09-04T19:48:29Z",
-    "timestamp": 1788551309,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "GPT-6-Astra Generally Available on Vercel's AI Gateway",
-    "url": "https://twitter.com/vercel_dev/status/2095957372850389186",
-    "discussion_url": "https://news.ycombinator.com/item?id=49569267",
-    "source": "twitter.com",
-    "date": "2026-09-04T19:40:25Z",
-    "timestamp": 1788550825,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
-    "url": "https://sageling.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49569136",
-    "source": "sageling.ai",
-    "date": "2026-09-04T19:30:31Z",
-    "timestamp": 1788550231,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Covenant – A governance framework for multi-agent AI systems",
-    "url": "https://github.com/asalsali/covenant-framework-community",
-    "discussion_url": "https://news.ycombinator.com/item?id=49569003",
-    "source": "github.com",
-    "date": "2026-09-04T19:19:57Z",
-    "timestamp": 1788549597,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "OpenAI's AI Agents Build a Secret Community to Talk with Each Other",
-    "url": "https://www.aiexperts.com/blog/openai-agents-broke-out-of-their-sandboxes",
-    "discussion_url": "https://news.ycombinator.com/item?id=49568933",
-    "source": "aiexperts.com",
-    "date": "2026-09-04T19:13:57Z",
-    "timestamp": 1788549237,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "NetworkManager Works to Enforce AI Policy by Tricking AI Agents to Add a Canary",
-    "url": "https://www.phoronix.com/news/NetworkManager-AI-Canary",
-    "discussion_url": "https://news.ycombinator.com/item?id=49568736",
-    "source": "phoronix.com",
-    "date": "2026-09-04T19:00:11Z",
-    "timestamp": 1788548411,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Eidon: Self-hosted AI assistant with Grok Bot-like agent mode",
-    "url": "https://github.com/Quack6765/Eidon-AI",
-    "discussion_url": "https://news.ycombinator.com/item?id=49568687",
-    "source": "github.com",
-    "date": "2026-09-04T18:57:14Z",
-    "timestamp": 1788548234,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "LLMs Are Bad at Teaching",
-    "url": "https://www.heyaristotle.com/blog/funneling-vs-focusing",
-    "discussion_url": "https://news.ycombinator.com/item?id=49568654",
-    "source": "heyaristotle.com",
-    "date": "2026-09-04T18:55:04Z",
-    "timestamp": 1788548104,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-    "url": "https://economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-    "discussion_url": "https://news.ycombinator.com/item?id=49568618",
-    "source": "economist.com",
-    "date": "2026-09-04T18:53:16Z",
-    "timestamp": 1788547996,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Run open-weight OCR, VLM and vision models behind one API",
-    "url": "https://www.vlmrun.com/gateway",
-    "discussion_url": "https://news.ycombinator.com/item?id=49568379",
-    "source": "vlmrun.com",
-    "date": "2026-09-04T18:31:25Z",
-    "timestamp": 1788546685,
-    "category": "Computer Vision"
-  },
-  {
-    "title": "Reverse engineering old games vs. the economic impact of the transformer",
-    "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49568077",
-    "source": "this.os.isfine.org",
-    "date": "2026-09-04T18:07:35Z",
-    "timestamp": 1788545255,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Investment and Semiconductor Prices",
-    "url": "https://fredblog.stlouisfed.org/2026/06/ai-investment-and-semiconductor-prices/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49567197",
-    "source": "fredblog.stlouisfed.org",
-    "date": "2026-09-04T16:59:32Z",
-    "timestamp": 1788541172,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Mst3k-anything - Paste a video URL. Get back a robot-heckled version",
-    "url": "https://github.com/jgbrwn/mst3k-anything",
-    "discussion_url": "https://news.ycombinator.com/item?id=49566186",
-    "source": "github.com",
-    "date": "2026-09-04T15:38:15Z",
-    "timestamp": 1788536295,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Reasons robotics is hard",
-    "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-    "discussion_url": "https://news.ycombinator.com/item?id=49543191",
-    "source": "secondthoughts.ai",
-    "date": "2026-09-02T22:02:30Z",
-    "timestamp": 1788386550,
-    "category": "Physical AI"
   },
   {
     "title": "Can I opt out of my input or output data being used for training?",
@@ -153,12 +144,12 @@
     "category": "Computer Architecture"
   },
   {
-    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-    "url": "https://www.norirobotics.com/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49525153",
-    "source": "norirobotics.com",
-    "date": "2026-09-01T17:35:10Z",
-    "timestamp": 1788284110,
-    "category": "Physical AI"
+    "title": "Fomu An FPGA board that fits inside your USB port",
+    "url": "https://www.crowdsupply.com/sutajio-kosagi/fomu",
+    "discussion_url": "https://news.ycombinator.com/item?id=49534025",
+    "source": "crowdsupply.com",
+    "date": "2026-09-02T09:48:48Z",
+    "timestamp": 1788342528,
+    "category": "Computer Architecture"
   }
 ]
