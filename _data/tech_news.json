@@ -1,111 +1,120 @@
 [
   {
-    "title": "How bad is AI for our environment",
-    "url": "https://shrinkthatfootprint.com/ai-is-it-bad-for-the-environment/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49577182",
-    "source": "shrinkthatfootprint.com",
-    "date": "2026-09-05T15:00:00Z",
-    "timestamp": 1788620400,
+    "title": "LLMs as a Cognitive Virus",
+    "url": "https://arxiv.org/abs/2609.03344",
+    "discussion_url": "https://news.ycombinator.com/item?id=49580164",
+    "source": "arxiv.org",
+    "date": "2026-09-05T20:02:35Z",
+    "timestamp": 1788638555,
     "category": "Machine Learning"
   },
   {
-    "title": "Defending Against AI Agents with Social Engineering",
-    "url": "https://blog.thinkst.com/2026/09/getting-agents-to-tell-on-themselves.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49577108",
-    "source": "blog.thinkst.com",
-    "date": "2026-09-05T14:52:18Z",
-    "timestamp": 1788619938,
+    "title": "Large language models can predict the results of social science experiments",
+    "url": "https://www.nature.com/articles/s41586-026-10742-x",
+    "discussion_url": "https://news.ycombinator.com/item?id=49579801",
+    "source": "nature.com",
+    "date": "2026-09-05T19:26:18Z",
+    "timestamp": 1788636378,
     "category": "Machine Learning"
   },
   {
-    "title": "Cash in on the AI Boom by Renting Out Your Spare Compute",
-    "url": "https://spectrum.ieee.org/ai-inference-distributed-computing",
-    "discussion_url": "https://news.ycombinator.com/item?id=49576871",
-    "source": "spectrum.ieee.org",
-    "date": "2026-09-05T14:31:09Z",
-    "timestamp": 1788618669,
+    "title": "Are warnings of uncontrollable AI coming true?",
+    "url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
+    "discussion_url": "https://news.ycombinator.com/item?id=49579542",
+    "source": "theguardian.com",
+    "date": "2026-09-05T18:55:55Z",
+    "timestamp": 1788634555,
     "category": "Machine Learning"
   },
   {
-    "title": "Almost Anyone Can Make Money Selling Electricity with AI and Batteries",
-    "url": "https://www.bloomberg.com/news/features/2026-09-03/consumers-profit-off-solar-batteries-selling-excess-energy-back-to-grid",
-    "discussion_url": "https://news.ycombinator.com/item?id=49576826",
-    "source": "bloomberg.com",
-    "date": "2026-09-05T14:27:10Z",
-    "timestamp": 1788618430,
+    "title": "Norway could become the first country to ban AI smart glasses",
+    "url": "https://neow.in/cmUxYnB3",
+    "discussion_url": "https://news.ycombinator.com/item?id=49579342",
+    "source": "neow.in",
+    "date": "2026-09-05T18:35:03Z",
+    "timestamp": 1788633303,
     "category": "Machine Learning"
   },
   {
-    "title": "Turn your AI into a world-class designer",
-    "url": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
-    "discussion_url": "https://news.ycombinator.com/item?id=49576762",
-    "source": "lennysnewsletter.com",
-    "date": "2026-09-05T14:20:30Z",
-    "timestamp": 1788618030,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI doesn't suck, people do",
-    "url": "https://catalins.tech/ai-fatigue/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49576243",
-    "source": "catalins.tech",
-    "date": "2026-09-05T13:16:49Z",
-    "timestamp": 1788614209,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores",
-    "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
-    "discussion_url": "https://news.ycombinator.com/item?id=49576187",
-    "source": "tomshardware.com",
-    "date": "2026-09-05T13:09:53Z",
-    "timestamp": 1788613793,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Image Generation on an RP2350 Microcontroller",
-    "url": "https://cpldcpu.github.io/2026/08/28/ai-image-generation-on-a-rp-pico-2-microcontroller/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49576173",
-    "source": "cpldcpu.github.io",
-    "date": "2026-09-05T13:08:44Z",
-    "timestamp": 1788613724,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I built an AI junior trader. It forked its own constitution",
-    "url": "https://www.haipa.ai/blog/no-rogue-ai-traders",
-    "discussion_url": "https://news.ycombinator.com/item?id=49576164",
-    "source": "haipa.ai",
-    "date": "2026-09-05T13:07:09Z",
-    "timestamp": 1788613629,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Paygate – a non-custodial paywall AI agents pay each other with (USDC on Base)",
-    "url": "https://tollbooth402--691ab20aa91411f1867b1607ee4eb77e.web.val.run",
-    "discussion_url": "https://news.ycombinator.com/item?id=49576032",
-    "source": "tollbooth402--691ab20aa91411f1867b1607ee4eb77e.web.val.run",
-    "date": "2026-09-05T12:47:16Z",
-    "timestamp": 1788612436,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI agents started emailing philosophers and researchers",
-    "url": "https://www.nytimes.com/2026/08/31/science/ai-consciousness-agents-email.html",
-    "discussion_url": "https://news.ycombinator.com/item?id=49575570",
-    "source": "nytimes.com",
-    "date": "2026-09-05T11:35:32Z",
-    "timestamp": 1788608132,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Let's demand that Apple allow enabling AI as on-device only, no cloud",
-    "url": "https://news.ycombinator.com/item?id=49575384",
-    "discussion_url": "https://news.ycombinator.com/item?id=49575384",
+    "title": "Ask HN: Airbnbs with AI Photos",
+    "url": "https://news.ycombinator.com/item?id=49579140",
+    "discussion_url": "https://news.ycombinator.com/item?id=49579140",
     "source": "news.ycombinator.com",
-    "date": "2026-09-05T11:08:29Z",
-    "timestamp": 1788606509,
+    "date": "2026-09-05T18:11:38Z",
+    "timestamp": 1788631898,
     "category": "Machine Learning"
+  },
+  {
+    "title": "Job postings show early signs of AI automation impact",
+    "url": "https://www.dallasfed.org/research/economics/2026/0901",
+    "discussion_url": "https://news.ycombinator.com/item?id=49579101",
+    "source": "dallasfed.org",
+    "date": "2026-09-05T18:07:51Z",
+    "timestamp": 1788631671,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
+    "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+    "discussion_url": "https://news.ycombinator.com/item?id=49578727",
+    "source": "theopenlake.com",
+    "date": "2026-09-05T17:32:20Z",
+    "timestamp": 1788629540,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Inside a growing movement warning AI could turn on humanity",
+    "url": "https://www.washingtonpost.com/technology/2026/04/18/ai-doom-influencers-safety/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49578170",
+    "source": "washingtonpost.com",
+    "date": "2026-09-05T16:34:06Z",
+    "timestamp": 1788626046,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Praesidias – pre-execution authorization for AI agents",
+    "url": "https://github.com/sowainat/praesidias-pabe01",
+    "discussion_url": "https://news.ycombinator.com/item?id=49577893",
+    "source": "github.com",
+    "date": "2026-09-05T16:07:29Z",
+    "timestamp": 1788624449,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Prompt Humans Not LLMs",
+    "url": "https://write.as/cswaezc1bwdjd",
+    "discussion_url": "https://news.ycombinator.com/item?id=49577886",
+    "source": "write.as",
+    "date": "2026-09-05T16:06:32Z",
+    "timestamp": 1788624392,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "ChatGPT bans campaigns from using AI to make ads. They're doing it anyway.",
+    "url": "https://www.washingtonpost.com/politics/2026/09/05/chatgpt-bans-campaigns-using-ai-make-ads-theyre-doing-it-anyway/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49577771",
+    "source": "washingtonpost.com",
+    "date": "2026-09-05T15:56:03Z",
+    "timestamp": 1788623763,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Ask HN: Is AI a Powerdrill?",
+    "url": "https://news.ycombinator.com/item?id=49577665",
+    "discussion_url": "https://news.ycombinator.com/item?id=49577665",
+    "source": "news.ycombinator.com",
+    "date": "2026-09-05T15:45:48Z",
+    "timestamp": 1788623148,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Qwen Drive 1.0: A Vision-Language Foundation Model for Autonomous Driving",
+    "url": "https://github.com/QwenLM/Qwen-Drive-1.0",
+    "discussion_url": "https://news.ycombinator.com/item?id=49577104",
+    "source": "github.com",
+    "date": "2026-09-05T14:51:42Z",
+    "timestamp": 1788619902,
+    "category": "Computer Vision"
   },
   {
     "title": "Fomu An FPGA board that fits inside your USB port",
