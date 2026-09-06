@@ -1,38 +1,110 @@
 [
   {
-    "title": "Nvidia is the central bank of AI",
-    "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-    "discussion_url": "https://news.ycombinator.com/item?id=49585047",
-    "source": "economist.com",
-    "date": "2026-09-06T10:20:13Z",
-    "timestamp": 1788690013,
+    "title": "Nebula's Policy on AI",
+    "url": "https://blog.nebula.tv/artificially-intelligent/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49587318",
+    "source": "blog.nebula.tv",
+    "date": "2026-09-06T15:16:40Z",
+    "timestamp": 1788707800,
     "category": "Machine Learning"
   },
   {
-    "title": "Podcast: We Spoke to an Amazon Worker Destroying Books for AI",
-    "url": "https://www.404media.co/email/ed687963-910c-488c-95d5-b06f911b214e/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49584993",
-    "source": "404media.co",
-    "date": "2026-09-06T10:11:56Z",
-    "timestamp": 1788689516,
+    "title": "I Feel about AI",
+    "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49587128",
+    "source": "beza1e1.tuxen.de",
+    "date": "2026-09-06T15:00:19Z",
+    "timestamp": 1788706819,
     "category": "Machine Learning"
   },
   {
-    "title": "Trump administration officials wrestling with the spiritual consequences of AI",
-    "url": "https://www.wsj.com/tech/ai/vance-called-ai-satanic-he-struck-a-chord-among-christian-republicans-dcc34048",
-    "discussion_url": "https://news.ycombinator.com/item?id=49584692",
-    "source": "wsj.com",
-    "date": "2026-09-06T09:25:41Z",
-    "timestamp": 1788686741,
+    "title": "AI made it worth building games for our game nights",
+    "url": "https://mmazzarolo.com/blog/2026-09-05-ai-has-completely-changed-our-game-nights/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49587110",
+    "source": "mmazzarolo.com",
+    "date": "2026-09-06T14:58:38Z",
+    "timestamp": 1788706718,
     "category": "Machine Learning"
   },
   {
-    "title": "The Joke That Perfectly Explains AI",
-    "url": "https://www.youtube.com/watch?v=q833b48ePYE",
-    "discussion_url": "https://news.ycombinator.com/item?id=49584597",
-    "source": "youtube.com",
-    "date": "2026-09-06T09:05:34Z",
-    "timestamp": 1788685534,
+    "title": "Mirror of your own self – on AI sycophancy and getting what we asked for",
+    "url": "https://substack.com/app-link/post",
+    "discussion_url": "https://news.ycombinator.com/item?id=49587029",
+    "source": "substack.com",
+    "date": "2026-09-06T14:50:26Z",
+    "timestamp": 1788706226,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "New York City pausing some AI tools in schools",
+    "url": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece",
+    "discussion_url": "https://news.ycombinator.com/item?id=49586708",
+    "source": "thehindu.com",
+    "date": "2026-09-06T14:10:20Z",
+    "timestamp": 1788703820,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Terence Tao on \"Solving Maths Problems Prematurely with AI Methods",
+    "url": "https://mathstodon.xyz/@tao/117207856734787448",
+    "discussion_url": "https://news.ycombinator.com/item?id=49586690",
+    "source": "mathstodon.xyz",
+    "date": "2026-09-06T14:07:23Z",
+    "timestamp": 1788703643,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLM representations have implicit symbolic structure",
+    "url": "https://twitter.com/RTomMcCoy/status/2094870131939684488",
+    "discussion_url": "https://news.ycombinator.com/item?id=49586590",
+    "source": "twitter.com",
+    "date": "2026-09-06T13:54:25Z",
+    "timestamp": 1788702865,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "2011 Fall Lecture on AI by Marvin Minsky",
+    "url": "https://twitter.com/onryxxx/status/2095625018264760687",
+    "discussion_url": "https://news.ycombinator.com/item?id=49586587",
+    "source": "twitter.com",
+    "date": "2026-09-06T13:54:05Z",
+    "timestamp": 1788702845,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "How Language Models Work",
+    "url": "https://aplaceofmind.com/teaching/materials/how-language-models-work/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49586561",
+    "source": "aplaceofmind.com",
+    "date": "2026-09-06T13:51:21Z",
+    "timestamp": 1788702681,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "LLMs Are the New Wikipedia",
+    "url": "https://data4sci.substack.com/p/llms-are-the-new-wikipedia",
+    "discussion_url": "https://news.ycombinator.com/item?id=49586256",
+    "source": "data4sci.substack.com",
+    "date": "2026-09-06T13:13:46Z",
+    "timestamp": 1788700426,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI coding agents forget the codebase between sessions",
+    "url": "https://github.com/thecolourfoundation/rune",
+    "discussion_url": "https://news.ycombinator.com/item?id=49586035",
+    "source": "github.com",
+    "date": "2026-09-06T12:45:13Z",
+    "timestamp": 1788698713,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Slop",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870742",
+    "discussion_url": "https://news.ycombinator.com/item?id=49586011",
+    "source": "papers.ssrn.com",
+    "date": "2026-09-06T12:42:17Z",
+    "timestamp": 1788698537,
     "category": "Machine Learning"
   },
   {
@@ -52,105 +124,6 @@
     "date": "2026-09-06T08:30:48Z",
     "timestamp": 1788683448,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Show HN: I built a small arena where AI write robot and then fight each other",
-    "url": "https://github.com/nigrosimone/llms-robot-arena",
-    "discussion_url": "https://news.ycombinator.com/item?id=49583994",
-    "source": "github.com",
-    "date": "2026-09-06T07:01:28Z",
-    "timestamp": 1788678088,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Revealing a Hidden Class of Task-in-Prompt Adversarial Attacks on LLMs",
-    "url": "https://aclanthology.org/2025.acl-long.334/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49583720",
-    "source": "aclanthology.org",
-    "date": "2026-09-06T05:53:36Z",
-    "timestamp": 1788674016,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "interpretation to AI agents",
-    "url": "https://ag3497120.github.io/call-me-vera/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49583685",
-    "source": "ag3497120.github.io",
-    "date": "2026-09-06T05:47:22Z",
-    "timestamp": 1788673642,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Robot writes in languages it has never seen before",
-    "url": "https://www.wired.com/story/robot-writing/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49583684",
-    "source": "wired.com",
-    "date": "2026-09-06T05:47:05Z",
-    "timestamp": 1788673625,
-    "category": "Physical AI"
-  },
-  {
-    "title": "Revise is the Figma of machine learning",
-    "url": "https://www.revise.live/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49583533",
-    "source": "revise.live",
-    "date": "2026-09-06T05:15:59Z",
-    "timestamp": 1788671759,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Teaching robots mortal kombat moves [video]",
-    "url": "https://www.youtube.com/watch?v=1Oo8h655VMM",
-    "discussion_url": "https://news.ycombinator.com/item?id=49583305",
-    "source": "youtube.com",
-    "date": "2026-09-06T04:25:35Z",
-    "timestamp": 1788668735,
-    "category": "Physical AI"
-  },
-  {
-    "title": "The state of AI in 2026: On the road to ROI",
-    "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai?cid=mgp_opr-eml-nsl-chr-mgp-glb--&hlkid=94f62d3efc7b49e69d74a2c0c5c3e5d4&hctky=16697440&hdpid=8873fe71-6a1d-47db-bce5-68d20c035812",
-    "discussion_url": "https://news.ycombinator.com/item?id=49583301",
-    "source": "mckinsey.com",
-    "date": "2026-09-06T04:24:18Z",
-    "timestamp": 1788668658,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "LLM-as-a-Verifier",
-    "url": "https://github.com/llm-as-a-verifier/llm-as-a-verifier",
-    "discussion_url": "https://news.ycombinator.com/item?id=49583167",
-    "source": "github.com",
-    "date": "2026-09-06T03:52:57Z",
-    "timestamp": 1788666777,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "I was offered money to scare you of AI [video]",
-    "url": "https://www.youtube.com/watch?v=lPdmYMHrWKg",
-    "discussion_url": "https://news.ycombinator.com/item?id=49583020",
-    "source": "youtube.com",
-    "date": "2026-09-06T03:21:19Z",
-    "timestamp": 1788664879,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI Stock Research Assistant · Streamlit",
-    "url": "https://ai-stock-research-kiaan.streamlit.app",
-    "discussion_url": "https://news.ycombinator.com/item?id=49582936",
-    "source": "ai-stock-research-kiaan.streamlit.app",
-    "date": "2026-09-06T03:07:06Z",
-    "timestamp": 1788664026,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Routed: Local, zero-token hybrid router for AI agent skills (<20ms)",
-    "url": "https://github.com/bshea-1/Routed",
-    "discussion_url": "https://news.ycombinator.com/item?id=49582923",
-    "source": "github.com",
-    "date": "2026-09-06T03:04:52Z",
-    "timestamp": 1788663892,
-    "category": "Machine Learning"
   },
   {
     "title": "GPT-6 Astra on robot arms",
