@@ -1,120 +1,129 @@
 [
   {
-    "title": "LLMs as a Cognitive Virus",
-    "url": "https://arxiv.org/abs/2609.03344",
-    "discussion_url": "https://news.ycombinator.com/item?id=49580164",
-    "source": "arxiv.org",
-    "date": "2026-09-05T20:02:35Z",
-    "timestamp": 1788638555,
+    "title": "LLM-as-a-Verifier",
+    "url": "https://github.com/llm-as-a-verifier/llm-as-a-verifier",
+    "discussion_url": "https://news.ycombinator.com/item?id=49583167",
+    "source": "github.com",
+    "date": "2026-09-06T03:52:57Z",
+    "timestamp": 1788666777,
     "category": "Machine Learning"
   },
   {
-    "title": "Large language models can predict the results of social science experiments",
-    "url": "https://www.nature.com/articles/s41586-026-10742-x",
-    "discussion_url": "https://news.ycombinator.com/item?id=49579801",
-    "source": "nature.com",
-    "date": "2026-09-05T19:26:18Z",
-    "timestamp": 1788636378,
+    "title": "I was offered money to scare you of AI [video]",
+    "url": "https://www.youtube.com/watch?v=lPdmYMHrWKg",
+    "discussion_url": "https://news.ycombinator.com/item?id=49583020",
+    "source": "youtube.com",
+    "date": "2026-09-06T03:21:19Z",
+    "timestamp": 1788664879,
     "category": "Machine Learning"
   },
   {
-    "title": "Are warnings of uncontrollable AI coming true?",
-    "url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
-    "discussion_url": "https://news.ycombinator.com/item?id=49579542",
+    "title": "AI Stock Research Assistant · Streamlit",
+    "url": "https://ai-stock-research-kiaan.streamlit.app",
+    "discussion_url": "https://news.ycombinator.com/item?id=49582936",
+    "source": "ai-stock-research-kiaan.streamlit.app",
+    "date": "2026-09-06T03:07:06Z",
+    "timestamp": 1788664026,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Routed: Local, zero-token hybrid router for AI agent skills (<20ms)",
+    "url": "https://github.com/bshea-1/Routed",
+    "discussion_url": "https://news.ycombinator.com/item?id=49582923",
+    "source": "github.com",
+    "date": "2026-09-06T03:04:52Z",
+    "timestamp": 1788663892,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Nvidia Personal AI Router (Pair)",
+    "url": "https://github.com/NVIDIA/Personal-AI-Router",
+    "discussion_url": "https://news.ycombinator.com/item?id=49582867",
+    "source": "github.com",
+    "date": "2026-09-06T02:54:01Z",
+    "timestamp": 1788663241,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "GPT-6 Astra on robot arms",
+    "url": "https://openai.robocurve.org/gpt-6-astra/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49582582",
+    "source": "openai.robocurve.org",
+    "date": "2026-09-06T01:52:45Z",
+    "timestamp": 1788659565,
+    "category": "Physical AI"
+  },
+  {
+    "title": "Truckers – AI data centers as business booms",
+    "url": "https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49581720",
+    "source": "cnbc.com",
+    "date": "2026-09-05T23:22:46Z",
+    "timestamp": 1788650566,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI and the collapse of the intelligence-based hierarchy of merit",
+    "url": "https://mattbruenig.com/2026/08/31/more-thoughts-on-ai/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49581657",
+    "source": "mattbruenig.com",
+    "date": "2026-09-05T23:14:52Z",
+    "timestamp": 1788650092,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Is AI ruining my brain?",
+    "url": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
+    "discussion_url": "https://news.ycombinator.com/item?id=49581294",
+    "source": "thoughtbot.com",
+    "date": "2026-09-05T22:25:04Z",
+    "timestamp": 1788647104,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Good AI Slop",
+    "url": "https://blog.bilus.dev/posts/good-ai-slop/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49581258",
+    "source": "blog.bilus.dev",
+    "date": "2026-09-05T22:18:21Z",
+    "timestamp": 1788646701,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+    "url": "https://github.com/okf-memory/okf-agent-memory",
+    "discussion_url": "https://news.ycombinator.com/item?id=49581240",
+    "source": "github.com",
+    "date": "2026-09-05T22:15:52Z",
+    "timestamp": 1788646552,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "The Roadmap of Mathematics for Machine Learning",
+    "url": "https://thepalindrome.org/p/the-roadmap-of-mathematics-for-machine-learning",
+    "discussion_url": "https://news.ycombinator.com/item?id=49581220",
+    "source": "thepalindrome.org",
+    "date": "2026-09-05T22:13:09Z",
+    "timestamp": 1788646389,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI push is putting banks at mercy of tech firms, warns Moody's",
+    "url": "https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector",
+    "discussion_url": "https://news.ycombinator.com/item?id=49581153",
     "source": "theguardian.com",
-    "date": "2026-09-05T18:55:55Z",
-    "timestamp": 1788634555,
+    "date": "2026-09-05T22:03:35Z",
+    "timestamp": 1788645815,
     "category": "Machine Learning"
   },
   {
-    "title": "Norway could become the first country to ban AI smart glasses",
-    "url": "https://neow.in/cmUxYnB3",
-    "discussion_url": "https://news.ycombinator.com/item?id=49579342",
-    "source": "neow.in",
-    "date": "2026-09-05T18:35:03Z",
-    "timestamp": 1788633303,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: Airbnbs with AI Photos",
-    "url": "https://news.ycombinator.com/item?id=49579140",
-    "discussion_url": "https://news.ycombinator.com/item?id=49579140",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-05T18:11:38Z",
-    "timestamp": 1788631898,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Job postings show early signs of AI automation impact",
-    "url": "https://www.dallasfed.org/research/economics/2026/0901",
-    "discussion_url": "https://news.ycombinator.com/item?id=49579101",
-    "source": "dallasfed.org",
-    "date": "2026-09-05T18:07:51Z",
-    "timestamp": 1788631671,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
-    "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
-    "discussion_url": "https://news.ycombinator.com/item?id=49578727",
-    "source": "theopenlake.com",
-    "date": "2026-09-05T17:32:20Z",
-    "timestamp": 1788629540,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Inside a growing movement warning AI could turn on humanity",
-    "url": "https://www.washingtonpost.com/technology/2026/04/18/ai-doom-influencers-safety/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49578170",
-    "source": "washingtonpost.com",
-    "date": "2026-09-05T16:34:06Z",
-    "timestamp": 1788626046,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Praesidias – pre-execution authorization for AI agents",
-    "url": "https://github.com/sowainat/praesidias-pabe01",
-    "discussion_url": "https://news.ycombinator.com/item?id=49577893",
-    "source": "github.com",
-    "date": "2026-09-05T16:07:29Z",
-    "timestamp": 1788624449,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Prompt Humans Not LLMs",
-    "url": "https://write.as/cswaezc1bwdjd",
-    "discussion_url": "https://news.ycombinator.com/item?id=49577886",
-    "source": "write.as",
-    "date": "2026-09-05T16:06:32Z",
-    "timestamp": 1788624392,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "ChatGPT bans campaigns from using AI to make ads. They're doing it anyway.",
-    "url": "https://www.washingtonpost.com/politics/2026/09/05/chatgpt-bans-campaigns-using-ai-make-ads-theyre-doing-it-anyway/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49577771",
-    "source": "washingtonpost.com",
-    "date": "2026-09-05T15:56:03Z",
-    "timestamp": 1788623763,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: Is AI a Powerdrill?",
-    "url": "https://news.ycombinator.com/item?id=49577665",
-    "discussion_url": "https://news.ycombinator.com/item?id=49577665",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-05T15:45:48Z",
-    "timestamp": 1788623148,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Qwen Drive 1.0: A Vision-Language Foundation Model for Autonomous Driving",
-    "url": "https://github.com/QwenLM/Qwen-Drive-1.0",
-    "discussion_url": "https://news.ycombinator.com/item?id=49577104",
-    "source": "github.com",
-    "date": "2026-09-05T14:51:42Z",
-    "timestamp": 1788619902,
-    "category": "Computer Vision"
+    "title": "Soviet dreams of the future / Madrobots Blog – Sudonull",
+    "url": "https://sudonull.com/post/27649-Soviet-dreams-of-the-future-Madrobots-Blog/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49580424",
+    "source": "sudonull.com",
+    "date": "2026-09-05T20:38:45Z",
+    "timestamp": 1788640725,
+    "category": "Physical AI"
   },
   {
     "title": "Fomu An FPGA board that fits inside your USB port",
