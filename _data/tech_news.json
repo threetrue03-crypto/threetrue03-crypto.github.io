@@ -1,5 +1,113 @@
 [
   {
+    "title": "He's Letting AI Agents Invest His Money. They Even Have Names",
+    "url": "https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f",
+    "discussion_url": "https://news.ycombinator.com/item?id=49593883",
+    "source": "wsj.com",
+    "date": "2026-09-07T04:24:02Z",
+    "timestamp": 1788755042,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "'RAMageddon' hits consumer electronics as AI drains chip supply",
+    "url": "https://www.ft.com/content/ea9a9dcc-b1df-49b0-b80c-f320161b9efa",
+    "discussion_url": "https://news.ycombinator.com/item?id=49593778",
+    "source": "ft.com",
+    "date": "2026-09-07T04:07:19Z",
+    "timestamp": 1788754039,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "US Republicans revolt against Flock AI surveillance as backlash intensifies",
+    "url": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0",
+    "discussion_url": "https://news.ycombinator.com/item?id=49593776",
+    "source": "ft.com",
+    "date": "2026-09-07T04:07:07Z",
+    "timestamp": 1788754027,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo",
+    "url": "https://github.com/redhat-et/ripwire",
+    "discussion_url": "https://news.ycombinator.com/item?id=49593050",
+    "source": "github.com",
+    "date": "2026-09-07T02:11:40Z",
+    "timestamp": 1788747100,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "A Rogue AI Swarm Could Hide Inside an AI Company [video]",
+    "url": "https://www.youtube.com/watch?v=xRKOpMeEQgQ",
+    "discussion_url": "https://news.ycombinator.com/item?id=49593003",
+    "source": "youtube.com",
+    "date": "2026-09-07T02:04:14Z",
+    "timestamp": 1788746654,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Everyone is right about AI",
+    "url": "https://formasimplex.com/blog/2026-09-06-Everyone-is-right-about-AI.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49592854",
+    "source": "formasimplex.com",
+    "date": "2026-09-07T01:42:31Z",
+    "timestamp": 1788745351,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49592655",
+    "source": "techcrunch.com",
+    "date": "2026-09-07T01:09:19Z",
+    "timestamp": 1788743359,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Speech2Speech – browser-based STT and TTS for interacting with local LLMs",
+    "url": "https://github.com/rhulha/Speech2Speech",
+    "discussion_url": "https://news.ycombinator.com/item?id=49592597",
+    "source": "github.com",
+    "date": "2026-09-07T01:01:56Z",
+    "timestamp": 1788742916,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
+    "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
+    "discussion_url": "https://news.ycombinator.com/item?id=49592508",
+    "source": "rocm.blogs.amd.com",
+    "date": "2026-09-07T00:46:01Z",
+    "timestamp": 1788741961,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "AI Is Already Making Us Less Human",
+    "url": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/",
+    "discussion_url": "https://news.ycombinator.com/item?id=49592456",
+    "source": "theatlantic.com",
+    "date": "2026-09-07T00:38:24Z",
+    "timestamp": 1788741504,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Prediction of maternal and infant outcomes with a Mother-Child AI agent",
+    "url": "https://doi.org/10.1038/s41591-026-04694-y",
+    "discussion_url": "https://news.ycombinator.com/item?id=49592275",
+    "source": "doi.org",
+    "date": "2026-09-07T00:07:08Z",
+    "timestamp": 1788739628,
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Pivot to AI safety, I beg you",
+    "url": "https://ceselder.substack.com/p/pivot-to-ai-safety-i-beg-you",
+    "discussion_url": "https://news.ycombinator.com/item?id=49592035",
+    "source": "ceselder.substack.com",
+    "date": "2026-09-06T23:37:04Z",
+    "timestamp": 1788737824,
+    "category": "Machine Learning"
+  },
+  {
     "title": "Show HN: HexBOTs – a cellular automaton with robotic lawnmowers",
     "url": "https://hexbot-genesis.netlify.app/",
     "discussion_url": "https://news.ycombinator.com/item?id=49590247",
@@ -7,42 +115,6 @@
     "date": "2026-09-06T19:56:41Z",
     "timestamp": 1788724601,
     "category": "Physical AI"
-  },
-  {
-    "title": "Ask HN: What's the best place to learn about skills and AI for coding in general",
-    "url": "https://news.ycombinator.com/item?id=49590168",
-    "discussion_url": "https://news.ycombinator.com/item?id=49590168",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-06T19:48:50Z",
-    "timestamp": 1788724130,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "A directory of AI agents, MCP servers and agent skills, cross-linked",
-    "url": "https://aiagentslisting.com",
-    "discussion_url": "https://news.ycombinator.com/item?id=49589758",
-    "source": "aiagentslisting.com",
-    "date": "2026-09-06T19:10:13Z",
-    "timestamp": 1788721813,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Cory Doctorow on the Big AI Lie [video]",
-    "url": "https://www.youtube.com/watch?v=nTqCVJFr7XM",
-    "discussion_url": "https://news.ycombinator.com/item?id=49589754",
-    "source": "youtube.com",
-    "date": "2026-09-06T19:10:01Z",
-    "timestamp": 1788721801,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Security vulnerabilities of AI data centers flagged at intelligence hearing",
-    "url": "https://insidecybersecurity.com/daily-news/security-vulnerabilities-ai-data-centers-flagged-house-intelligence-hearing",
-    "discussion_url": "https://news.ycombinator.com/item?id=49589674",
-    "source": "insidecybersecurity.com",
-    "date": "2026-09-06T19:00:52Z",
-    "timestamp": 1788721252,
-    "category": "Machine Learning"
   },
   {
     "title": "NetBSD Documentation: UVM, the New Virtual Memory System",
@@ -61,96 +133,6 @@
     "date": "2026-09-06T18:24:25Z",
     "timestamp": 1788719065,
     "category": "Computer Architecture"
-  },
-  {
-    "title": "Transformers Are Efficient Compilers, Provably",
-    "url": "https://arxiv.org/abs/2410.14706",
-    "discussion_url": "https://news.ycombinator.com/item?id=49589327",
-    "source": "arxiv.org",
-    "date": "2026-09-06T18:23:27Z",
-    "timestamp": 1788719007,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "ByteX: A Unified AI Search Engine at ByteDance",
-    "url": "https://arxiv.org/abs/2608.30607",
-    "discussion_url": "https://news.ycombinator.com/item?id=49589276",
-    "source": "arxiv.org",
-    "date": "2026-09-06T18:19:06Z",
-    "timestamp": 1788718746,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "MotionSites AI – Official Premium AI Website Prompts",
-    "url": "https://motionsites.ai/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49588631",
-    "source": "motionsites.ai",
-    "date": "2026-09-06T17:15:37Z",
-    "timestamp": 1788714937,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: How safe are our password managers in face of LLM cyber attacks?",
-    "url": "https://news.ycombinator.com/item?id=49588597",
-    "discussion_url": "https://news.ycombinator.com/item?id=49588597",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-06T17:12:18Z",
-    "timestamp": 1788714738,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Where Will RISC-V Be in 20 Years? Poll Results",
-    "url": "https://thechipletter.substack.com/p/where-will-risc-v-be-in-20-years",
-    "discussion_url": "https://news.ycombinator.com/item?id=49588434",
-    "source": "thechipletter.substack.com",
-    "date": "2026-09-06T16:58:31Z",
-    "timestamp": 1788713911,
-    "category": "Computer Architecture"
-  },
-  {
-    "title": "Washington Post says Piker used AI generated audio but admits it has no proof",
-    "url": "https://twitter.com/washingtonpost/status/2096304873557877132",
-    "discussion_url": "https://news.ycombinator.com/item?id=49588382",
-    "source": "twitter.com",
-    "date": "2026-09-06T16:54:19Z",
-    "timestamp": 1788713659,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Ask HN: (Why) Was the LLM breakthrough useful for images, audio, etc.?",
-    "url": "https://news.ycombinator.com/item?id=49588265",
-    "discussion_url": "https://news.ycombinator.com/item?id=49588265",
-    "source": "news.ycombinator.com",
-    "date": "2026-09-06T16:42:35Z",
-    "timestamp": 1788712955,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "Show HN: Robot-duck soccer in the browser, powered by MuJoCo and learned walking",
-    "url": "https://fpvsim.com/sim-duck",
-    "discussion_url": "https://news.ycombinator.com/item?id=49588190",
-    "source": "fpvsim.com",
-    "date": "2026-09-06T16:35:42Z",
-    "timestamp": 1788712542,
-    "category": "Physical AI"
-  },
-  {
-    "title": "AI Is Making Us Less Human",
-    "url": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49588106",
-    "source": "theatlantic.com",
-    "date": "2026-09-06T16:29:35Z",
-    "timestamp": 1788712175,
-    "category": "Machine Learning"
-  },
-  {
-    "title": "AI agents aren't safe from prompt injection, and spreadsheets prove it",
-    "url": "https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/",
-    "discussion_url": "https://news.ycombinator.com/item?id=49587979",
-    "source": "shiftmag.dev",
-    "date": "2026-09-06T16:17:36Z",
-    "timestamp": 1788711456,
-    "category": "Machine Learning"
   },
   {
     "title": "GPT-6 Astra on robot arms",
